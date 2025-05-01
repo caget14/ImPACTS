@@ -1,0 +1,52 @@
+{
+  "hospitals": [
+    {
+      "id": "090001",
+      "name": "GEORGE WASHINGTON UNIV HOSPITAL",
+      "address": "900 23RD ST NW",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zipcode": "20037"
+    },
+    {
+      "id": "090003",
+      "name": "HOWARD UNIVERSITY HOSPITAL CORP",
+      "address": "2041 GEORGIA AVE NW",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zipcode": "20060"
+    },
+    {
+      "id": "090004",
+      "name": "MEDSTAR GEORGETOWN UNIVERSITY HOSPITAL",
+      "address": "3800 RESERVOIR RD",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zipcode": "20007"
+    },
+    {
+      "id": "090005",
+      "name": "SIBLEY MEMORIAL HOSPITAL",
+      "address": "5255 LOUGHBORO RD NW",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zipcode": "20016"
+    },
+    {
+      "id": "090008",
+      "name": "UNITED MEDICAL CENTER",
+      "address": "1310 SOUTHERN AVENUE  SE",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zipcode": "20032"
+    },
+    {
+      "id": "090011",
+      "name": "MEDSTAR WASHINGTON HOSPITAL CENTER",
+      "address": "110 IRVING STREET NW",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "zipcode": "20010"
+    }
+  ]
+}

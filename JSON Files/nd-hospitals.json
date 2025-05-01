@@ -1,0 +1,356 @@
+{
+  "hospitals": [
+    {
+      "id": "350002",
+      "name": "CHI ST ALEXIUS HEALTH",
+      "address": "900 E BROADWAY",
+      "city": "BISMARCK",
+      "state": "ND",
+      "zipcode": "58501"
+    },
+    {
+      "id": "350006",
+      "name": "TRINITY HOSPITALS",
+      "address": "407 3RD ST SE",
+      "city": "MINOT",
+      "state": "ND",
+      "zipcode": "58701"
+    },
+    {
+      "id": "350011",
+      "name": "SANFORD",
+      "address": "801 BROADWAY NORTH",
+      "city": "FARGO",
+      "state": "ND",
+      "zipcode": "58122"
+    },
+    {
+      "id": "350015",
+      "name": "SANFORD MEDICAL CENTER BISMARCK",
+      "address": "300 N 7TH ST",
+      "city": "BISMARCK",
+      "state": "ND",
+      "zipcode": "58506"
+    },
+    {
+      "id": "350019",
+      "name": "ALTRU HOSPITAL",
+      "address": "1200 S COLUMBIA RD",
+      "city": "GRAND FORKS",
+      "state": "ND",
+      "zipcode": "58201"
+    },
+    {
+      "id": "350063",
+      "name": "P H S INDIAN HOSP AT BELCOURT-QUENTIN N BURDICK",
+      "address": "PO BOX 160",
+      "city": "BELCOURT",
+      "state": "ND",
+      "zipcode": "58316"
+    },
+    {
+      "id": "350070",
+      "name": "ESSENTIA HEALTH FARGO",
+      "address": "3000 32ND AVE SOUTH",
+      "city": "FARGO",
+      "state": "ND",
+      "zipcode": "58104"
+    },
+    {
+      "id": "351300",
+      "name": "TIOGA MEDICAL CENTER",
+      "address": "810 N WELO ST",
+      "city": "TIOGA",
+      "state": "ND",
+      "zipcode": "58852"
+    },
+    {
+      "id": "351301",
+      "name": "MOUNTRAIL COUNTY MEDICAL CENTER INC",
+      "address": "615 6TH ST SE",
+      "city": "STANLEY",
+      "state": "ND",
+      "zipcode": "58784"
+    },
+    {
+      "id": "351302",
+      "name": "MCKENZIE COUNTY HEALTHCARE SYSTEMS INC",
+      "address": "709 4TH AVE NE",
+      "city": "WATFORD CITY",
+      "state": "ND",
+      "zipcode": "58854"
+    },
+    {
+      "id": "351303",
+      "name": "GARRISON MEMORIAL HOSPITAL",
+      "address": "407 3RD AVE SE",
+      "city": "GARRISON",
+      "state": "ND",
+      "zipcode": "58540"
+    },
+    {
+      "id": "351304",
+      "name": "CHI ST ALEXIUS HEALTH TURTLE LAKE",
+      "address": "220 5TH AVE W",
+      "city": "TURTLE LAKE",
+      "state": "ND",
+      "zipcode": "58575"
+    },
+    {
+      "id": "351305",
+      "name": "KENMARE COMMUNITY HOSPITAL",
+      "address": "PO BOX 697",
+      "city": "KENMARE",
+      "state": "ND",
+      "zipcode": "58746"
+    },
+    {
+      "id": "351306",
+      "name": "COOPERSTOWN MEDICAL CENTER",
+      "address": "1200 ROBERTS AVE NE",
+      "city": "COOPERSTOWN",
+      "state": "ND",
+      "zipcode": "58425"
+    },
+    {
+      "id": "351307",
+      "name": "ST ANDREWS HEALTH CENTER - CAH",
+      "address": "316 OHMER STREET",
+      "city": "BOTTINEAU",
+      "state": "ND",
+      "zipcode": "58318"
+    },
+    {
+      "id": "351308",
+      "name": "NELSON COUNTY HEALTH SYSTEM",
+      "address": "200 N MAIN ST",
+      "city": "MCVILLE",
+      "state": "ND",
+      "zipcode": "58254"
+    },
+    {
+      "id": "351309",
+      "name": "SANFORD MEDICAL CENTER MAYVILLE",
+      "address": "42 6TH AVENUE SE",
+      "city": "MAYVILLE",
+      "state": "ND",
+      "zipcode": "58257"
+    },
+    {
+      "id": "351310",
+      "name": "SAKAKAWEA MEDICAL CENTER - CAH",
+      "address": "510 8TH AVENUE NE",
+      "city": "HAZEN",
+      "state": "ND",
+      "zipcode": "58545"
+    },
+    {
+      "id": "351311",
+      "name": "CHI LISBON HEALTH",
+      "address": "905 MAIN ST",
+      "city": "LISBON",
+      "state": "ND",
+      "zipcode": "58054"
+    },
+    {
+      "id": "351312",
+      "name": "NORTHWOOD DEACONESS HEALTH CENTER",
+      "address": "PO BOX 190",
+      "city": "NORTHWOOD",
+      "state": "ND",
+      "zipcode": "58267"
+    },
+    {
+      "id": "351313",
+      "name": "SOUTHWEST HEALTHCARE SERVICES",
+      "address": "802 2ND ST NW",
+      "city": "BOWMAN",
+      "state": "ND",
+      "zipcode": "58623"
+    },
+    {
+      "id": "351314",
+      "name": "JACOBSON MEMORIAL HOSPITAL CARE CENTER",
+      "address": "601 EAST ST N",
+      "city": "ELGIN",
+      "state": "ND",
+      "zipcode": "58533"
+    },
+    {
+      "id": "351315",
+      "name": "CHI OAKES HOSPITAL",
+      "address": "1200 N 7TH ST",
+      "city": "OAKES",
+      "state": "ND",
+      "zipcode": "58474"
+    },
+    {
+      "id": "351316",
+      "name": "PRESENTATION MEDICAL CENTER",
+      "address": "213 SECOND AVE NE",
+      "city": "ROLLA",
+      "state": "ND",
+      "zipcode": "58367"
+    },
+    {
+      "id": "351318",
+      "name": "CARRINGTON HEALTH CENTER",
+      "address": "PO BOX 461",
+      "city": "CARRINGTON",
+      "state": "ND",
+      "zipcode": "58421"
+    },
+    {
+      "id": "351319",
+      "name": "PEMBINA COUNTY MEMORIAL HOSPITAL",
+      "address": "BOX 380",
+      "city": "CAVALIER",
+      "state": "ND",
+      "zipcode": "58220"
+    },
+    {
+      "id": "351320",
+      "name": "UNITY MEDICAL CENTER",
+      "address": "164 W 13TH STREET",
+      "city": "GRAFTON",
+      "state": "ND",
+      "zipcode": "58237"
+    },
+    {
+      "id": "351321",
+      "name": "SOUTH CENTRAL HEALTH",
+      "address": "1007 4TH AVE S",
+      "city": "WISHEK",
+      "state": "ND",
+      "zipcode": "58495"
+    },
+    {
+      "id": "351322",
+      "name": "ASHLEY MEDICAL CENTER",
+      "address": "612 CENTER AVENUE N",
+      "city": "ASHLEY",
+      "state": "ND",
+      "zipcode": "58413"
+    },
+    {
+      "id": "351323",
+      "name": "CAVALIER COUNTY MEMORIAL HOSPITAL ASSOCIATION",
+      "address": "909 2ND ST",
+      "city": "LANGDON",
+      "state": "ND",
+      "zipcode": "58249"
+    },
+    {
+      "id": "351324",
+      "name": "CHI MERCY HEALTH",
+      "address": "570 CHAUTAUQUA BLVD",
+      "city": "VALLEY CITY",
+      "state": "ND",
+      "zipcode": "58072"
+    },
+    {
+      "id": "351325",
+      "name": "ST LUKE'S HOSPITAL",
+      "address": "702 1ST ST SW",
+      "city": "CROSBY",
+      "state": "ND",
+      "zipcode": "58730"
+    },
+    {
+      "id": "351326",
+      "name": "FIRST CARE HEALTH CENTER",
+      "address": "115 VIVIAN ST",
+      "city": "PARK RIVER",
+      "state": "ND",
+      "zipcode": "58270"
+    },
+    {
+      "id": "351327",
+      "name": "SMP HEALTH ST ALOISIUS",
+      "address": "325 E BREWSTER ST",
+      "city": "HARVEY",
+      "state": "ND",
+      "zipcode": "58341"
+    },
+    {
+      "id": "351328",
+      "name": "LINTON HOSPITAL - CAH",
+      "address": "111 ELM AVE W",
+      "city": "LINTON",
+      "state": "ND",
+      "zipcode": "58552"
+    },
+    {
+      "id": "351329",
+      "name": "SANFORD MEDICAL CENTER HILLSBORO",
+      "address": "12 THIRD STREET SE",
+      "city": "HILLSBORO",
+      "state": "ND",
+      "zipcode": "58045"
+    },
+    {
+      "id": "351330",
+      "name": "WEST RIVER REGIONAL MEDICAL CENTER",
+      "address": "1000 HIGHWAY 12",
+      "city": "HETTINGER",
+      "state": "ND",
+      "zipcode": "58639"
+    },
+    {
+      "id": "351331",
+      "name": "TOWNER COUNTY MEDICAL CENTER",
+      "address": "7448 HWY 281 N",
+      "city": "CANDO",
+      "state": "ND",
+      "zipcode": "58324"
+    },
+    {
+      "id": "351332",
+      "name": "HEART OF AMERICA MEDICAL CENTER",
+      "address": "800 S MAIN AVE",
+      "city": "RUGBY",
+      "state": "ND",
+      "zipcode": "58368"
+    },
+    {
+      "id": "351333",
+      "name": "CHI ST ALEXIUS HEALTH DEVILS LAKE",
+      "address": "1031 7TH ST NE",
+      "city": "DEVILS LAKE",
+      "state": "ND",
+      "zipcode": "58301"
+    },
+    {
+      "id": "351334",
+      "name": "CHI ST ALEXIUS HEALTH WILLISTON",
+      "address": "1301 15TH AVE W",
+      "city": "WILLISTON",
+      "state": "ND",
+      "zipcode": "58801"
+    },
+    {
+      "id": "351335",
+      "name": "JAMESTOWN REGIONAL MEDICAL CENTER",
+      "address": "2422 20TH ST SW",
+      "city": "JAMESTOWN",
+      "state": "ND",
+      "zipcode": "58401"
+    },
+    {
+      "id": "351336",
+      "name": "CHI ST ALEXIUS HEALTH DICKINSON",
+      "address": "2500 FAIRWAY STREET",
+      "city": "DICKINSON",
+      "state": "ND",
+      "zipcode": "58601"
+    },
+    {
+      "id": "351364",
+      "name": "STANDING ROCK SERVICE UNIT",
+      "address": "10 NORTH RIVER ROAD",
+      "city": "FORT YATES",
+      "state": "ND",
+      "zipcode": "58538"
+    }
+  ]
+}

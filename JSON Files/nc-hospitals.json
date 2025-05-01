@@ -1,0 +1,812 @@
+{
+  "hospitals": [
+    {
+      "id": "340001",
+      "name": "ATRIUM HEALTH CABARRUS",
+      "address": "920 CHURCH ST N",
+      "city": "CONCORD",
+      "state": "NC",
+      "zipcode": "28025"
+    },
+    {
+      "id": "340002",
+      "name": "MEMORIAL MISSION HOSPITAL AND ASHEVILLE SURGERY CE",
+      "address": "509 BILTMORE AVE",
+      "city": "ASHEVILLE",
+      "state": "NC",
+      "zipcode": "28801"
+    },
+    {
+      "id": "340003",
+      "name": "NORTHERN REGIONAL HOSPITAL",
+      "address": "830 ROCKFORD ST",
+      "city": "MOUNT AIRY",
+      "state": "NC",
+      "zipcode": "27030"
+    },
+    {
+      "id": "340004",
+      "name": "HIGH POINT REGIONAL HOSPITAL",
+      "address": "601 N ELM ST",
+      "city": "HIGH POINT",
+      "state": "NC",
+      "zipcode": "27261"
+    },
+    {
+      "id": "340008",
+      "name": "SCOTLAND MEMORIAL HOSPITAL",
+      "address": "500 LAUCHWOOD DR",
+      "city": "LAURINBURG",
+      "state": "NC",
+      "zipcode": "28352"
+    },
+    {
+      "id": "340010",
+      "name": "UNC HEALTH WAYNE",
+      "address": "2700 WAYNE MEMORIAL DR",
+      "city": "GOLDSBORO",
+      "state": "NC",
+      "zipcode": "27534"
+    },
+    {
+      "id": "340013",
+      "name": "RUTHERFORD REGIONAL MEDICAL CENTER",
+      "address": "288 SOUTH RIDGECREST AVE",
+      "city": "RUTHERFORDTON",
+      "state": "NC",
+      "zipcode": "28139"
+    },
+    {
+      "id": "340014",
+      "name": "NOVANT HEALTH FORSYTH MEDICAL CENTER",
+      "address": "3333 SILAS CREEK PARKWAY",
+      "city": "WINSTON-SALEM",
+      "state": "NC",
+      "zipcode": "27103"
+    },
+    {
+      "id": "340015",
+      "name": "NOVANT HEALTH ROWAN MEDICAL CENTER",
+      "address": "612 MOCKSVILLE AVE",
+      "city": "SALISBURY",
+      "state": "NC",
+      "zipcode": "28144"
+    },
+    {
+      "id": "340016",
+      "name": "HARRIS REGIONAL HOSPITAL",
+      "address": "68 HOSPITAL RD",
+      "city": "SYLVA",
+      "state": "NC",
+      "zipcode": "28779"
+    },
+    {
+      "id": "340017",
+      "name": "MARGARET R PARDEE MEMORIAL HOSPITAL",
+      "address": "800 N JUSTICE ST",
+      "city": "HENDERSONVILLE",
+      "state": "NC",
+      "zipcode": "28791"
+    },
+    {
+      "id": "340020",
+      "name": "CENTRAL CAROLINA HOSPITAL",
+      "address": "1135 CARTHAGE ST",
+      "city": "SANFORD",
+      "state": "NC",
+      "zipcode": "27330"
+    },
+    {
+      "id": "340021",
+      "name": "ATRIUM HEALTH CLEVELAND",
+      "address": "201 E GROVER ST",
+      "city": "SHELBY",
+      "state": "NC",
+      "zipcode": "28150"
+    },
+    {
+      "id": "340023",
+      "name": "ADVENTHEALTH HENDERSONVILLE",
+      "address": "100 HOSPITAL DRIVE",
+      "city": "HENDERSONVILLE",
+      "state": "NC",
+      "zipcode": "28792"
+    },
+    {
+      "id": "340024",
+      "name": "SAMPSON REGIONAL MEDICAL CENTER",
+      "address": "607 BEAMAN ST",
+      "city": "CLINTON",
+      "state": "NC",
+      "zipcode": "28328"
+    },
+    {
+      "id": "340027",
+      "name": "UNC LENOIR HEALTH CARE",
+      "address": "100 AIRPORT RD",
+      "city": "KINSTON",
+      "state": "NC",
+      "zipcode": "28501"
+    },
+    {
+      "id": "340028",
+      "name": "CAPE FEAR VALLEY MEDICAL CENTER",
+      "address": "1638 OWEN DRIVE P O BOX 2000",
+      "city": "FAYETTEVILLE",
+      "state": "NC",
+      "zipcode": "28302"
+    },
+    {
+      "id": "340030",
+      "name": "DUKE UNIVERSITY HOSPITAL",
+      "address": "2301  ERWIN RD",
+      "city": "DURHAM",
+      "state": "NC",
+      "zipcode": "27705"
+    },
+    {
+      "id": "340032",
+      "name": "CAROMONT REGIONAL MEDICAL CENTER",
+      "address": "2525 COURT DR",
+      "city": "GASTONIA",
+      "state": "NC",
+      "zipcode": "28052"
+    },
+    {
+      "id": "340039",
+      "name": "IREDELL MEMORIAL HOSPITAL INC",
+      "address": "557 BROOKDALE DR",
+      "city": "STATESVILLE",
+      "state": "NC",
+      "zipcode": "28677"
+    },
+    {
+      "id": "340040",
+      "name": "ECU HEALTH MEDICAL CENTER",
+      "address": "2100 STANTONSBURG RD",
+      "city": "GREENVILLE",
+      "state": "NC",
+      "zipcode": "27834"
+    },
+    {
+      "id": "340041",
+      "name": "CALDWELL MEMORIAL HOSPITAL",
+      "address": "321 MULBERRY ST SW",
+      "city": "LENOIR",
+      "state": "NC",
+      "zipcode": "28645"
+    },
+    {
+      "id": "340042",
+      "name": "ONSLOW MEMORIAL HOSPITAL",
+      "address": "317 WESTERN BOULEVARD",
+      "city": "JACKSONVILLE",
+      "state": "NC",
+      "zipcode": "28540"
+    },
+    {
+      "id": "340047",
+      "name": "NORTH CAROLINA BAPTIST HOSPITAL",
+      "address": "MEDICAL CENTER BOULEVARD",
+      "city": "WINSTON-SALEM",
+      "state": "NC",
+      "zipcode": "27157"
+    },
+    {
+      "id": "340049",
+      "name": "NORTH CAROLINA SPECIALTY HOSPITAL",
+      "address": "3916 BEN FRANKLIN BOULEVARD",
+      "city": "DURHAM",
+      "state": "NC",
+      "zipcode": "27704"
+    },
+    {
+      "id": "340050",
+      "name": "SOUTHEASTERN REGIONAL MEDICAL CENTER",
+      "address": "300 W 27 ST  PO BOX 1408",
+      "city": "LUMBERTON",
+      "state": "NC",
+      "zipcode": "28359"
+    },
+    {
+      "id": "340051",
+      "name": "WATAUGA MEDICAL CENTER",
+      "address": "336 DEERFIELD ROAD",
+      "city": "BOONE",
+      "state": "NC",
+      "zipcode": "28607"
+    },
+    {
+      "id": "340053",
+      "name": "NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER",
+      "address": "200 HAWTHORNE LANE BOX 33549",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zipcode": "28233"
+    },
+    {
+      "id": "340060",
+      "name": "UNC ROCKINGHAM",
+      "address": "117 E KINGS HIGHWAY",
+      "city": "EDEN",
+      "state": "NC",
+      "zipcode": "27288"
+    },
+    {
+      "id": "340061",
+      "name": "UNC HOSPITALS",
+      "address": "101 MANNING DRIVE",
+      "city": "CHAPEL HILL",
+      "state": "NC",
+      "zipcode": "27514"
+    },
+    {
+      "id": "340064",
+      "name": "WILKES REGIONAL MEDICAL CENTER",
+      "address": "1370 WEST D ST",
+      "city": "NORTH WILKESBORO",
+      "state": "NC",
+      "zipcode": "28659"
+    },
+    {
+      "id": "340068",
+      "name": "COLUMBUS REGIONAL HEALTHCARE SYSTEM",
+      "address": "500 JEFFERSON ST",
+      "city": "WHITEVILLE",
+      "state": "NC",
+      "zipcode": "28472"
+    },
+    {
+      "id": "340069",
+      "name": "WAKEMED",
+      "address": "3000 NEW BERN AVE",
+      "city": "RALEIGH",
+      "state": "NC",
+      "zipcode": "27610"
+    },
+    {
+      "id": "340070",
+      "name": "ALAMANCE REGIONAL MEDICAL CENTER",
+      "address": "1240 HUFFMAN MILL RD",
+      "city": "BURLINGTON",
+      "state": "NC",
+      "zipcode": "27216"
+    },
+    {
+      "id": "340071",
+      "name": "BETSY JOHNSON REGIONAL  HOSPITAL",
+      "address": "800 TILGHMAN DR",
+      "city": "DUNN",
+      "state": "NC",
+      "zipcode": "28334"
+    },
+    {
+      "id": "340073",
+      "name": "DUKE HEALTH RALEIGH HOSPITAL",
+      "address": "3400 WAKE FOREST RD",
+      "city": "RALEIGH",
+      "state": "NC",
+      "zipcode": "27609"
+    },
+    {
+      "id": "340075",
+      "name": "CAROLINAS HEALTHCARE SYSTEM-BLUE RIDGE",
+      "address": "2201 S STERLING ST",
+      "city": "MORGANTON",
+      "state": "NC",
+      "zipcode": "28655"
+    },
+    {
+      "id": "340084",
+      "name": "ATRIUM HEALTH ANSON",
+      "address": "2301 US HIGHWAY 74 WEST",
+      "city": "WADESBORO",
+      "state": "NC",
+      "zipcode": "28170"
+    },
+    {
+      "id": "340085",
+      "name": "NOVANT HEALTH THOMASVILLE MEDICAL CENTER",
+      "address": "207 OLD LEXINGTON RD BOX 789",
+      "city": "THOMASVILLE",
+      "state": "NC",
+      "zipcode": "27360"
+    },
+    {
+      "id": "340087",
+      "name": "MISSION HOSPITAL MCDOWELL",
+      "address": "430 RANKIN DRIVE P O BOX 730",
+      "city": "MARION",
+      "state": "NC",
+      "zipcode": "28752"
+    },
+    {
+      "id": "340090",
+      "name": "JOHNSTON HEALTH",
+      "address": "509 BRIGHT LEAF BLVD",
+      "city": "SMITHFIELD",
+      "state": "NC",
+      "zipcode": "27577"
+    },
+    {
+      "id": "340091",
+      "name": "CONE HEALTH",
+      "address": "1200 N ELM ST",
+      "city": "GREENSBORO",
+      "state": "NC",
+      "zipcode": "27401"
+    },
+    {
+      "id": "340096",
+      "name": "LEXINGTON MEMORIAL HOSPITAL INC",
+      "address": "250 HOSPITAL DRIVE PO BOX 1817",
+      "city": "LEXINGTON",
+      "state": "NC",
+      "zipcode": "27293"
+    },
+    {
+      "id": "340097",
+      "name": "HUGH CHATHAM MEMORIAL HOSPITAL",
+      "address": "180 PARKWOOD DR",
+      "city": "ELKIN",
+      "state": "NC",
+      "zipcode": "28621"
+    },
+    {
+      "id": "340098",
+      "name": "ATRIUM HEALTH PINEVILLE",
+      "address": "10628 PARK RD",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zipcode": "28210"
+    },
+    {
+      "id": "340099",
+      "name": "VIDANT ROANOKE CHOWAN HOSPITAL",
+      "address": "500 S ACADEMY ST",
+      "city": "AHOSKIE",
+      "state": "NC",
+      "zipcode": "27910"
+    },
+    {
+      "id": "340107",
+      "name": "VIDANT EDGECOMBE HOSPITAL",
+      "address": "111 HOSPITAL DR",
+      "city": "TARBORO",
+      "state": "NC",
+      "zipcode": "27886"
+    },
+    {
+      "id": "340109",
+      "name": "SENTARA ALBEMARLE MEDICAL CENTER",
+      "address": "1144 N ROAD ST",
+      "city": "ELIZABETH CITY",
+      "state": "NC",
+      "zipcode": "27909"
+    },
+    {
+      "id": "340113",
+      "name": "CAROLINAS MEDICAL CENTER/BEHAV HEALTH",
+      "address": "1000 BLYTHE BLVD",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zipcode": "28203"
+    },
+    {
+      "id": "340114",
+      "name": "REX HOSPITAL",
+      "address": "4420 LAKE BOONE TRAIL",
+      "city": "RALEIGH",
+      "state": "NC",
+      "zipcode": "27607"
+    },
+    {
+      "id": "340115",
+      "name": "FIRSTHEALTH MOORE REGIONAL HOSPITAL",
+      "address": "155 MEMORIAL DRIVE",
+      "city": "PINEHURST",
+      "state": "NC",
+      "zipcode": "28374"
+    },
+    {
+      "id": "340116",
+      "name": "FRYE REGIONAL MEDICAL CENTER",
+      "address": "420 N CENTER ST",
+      "city": "HICKORY",
+      "state": "NC",
+      "zipcode": "28601"
+    },
+    {
+      "id": "340119",
+      "name": "ATRIUM HEALTH STANLY",
+      "address": "301 YADKIN ST",
+      "city": "ALBEMARLE",
+      "state": "NC",
+      "zipcode": "28001"
+    },
+    {
+      "id": "340120",
+      "name": "VIDANT DUPLIN  HOSPITAL",
+      "address": "401 N MAIN ST",
+      "city": "KENANSVILLE",
+      "state": "NC",
+      "zipcode": "28349"
+    },
+    {
+      "id": "340123",
+      "name": "RANDOLPH HOSPITAL",
+      "address": "364 WHITE OAK STREET",
+      "city": "ASHEBORO",
+      "state": "NC",
+      "zipcode": "27204"
+    },
+    {
+      "id": "340126",
+      "name": "WILSON MEDICAL CENTER",
+      "address": "1705 S TARBORO ST",
+      "city": "WILSON",
+      "state": "NC",
+      "zipcode": "27893"
+    },
+    {
+      "id": "340127",
+      "name": "GRANVILLE HEALTH SYSTEMS",
+      "address": "1010 COLLEGE ST",
+      "city": "OXFORD",
+      "state": "NC",
+      "zipcode": "27565"
+    },
+    {
+      "id": "340129",
+      "name": "LAKE NORMAN REGIONAL MEDICAL CENTER",
+      "address": "171 FAIRVIEW ROAD",
+      "city": "MOORESVILLE",
+      "state": "NC",
+      "zipcode": "28117"
+    },
+    {
+      "id": "340130",
+      "name": "ATRIUM HEALTH UNION",
+      "address": "600 HOSPITAL DR",
+      "city": "MONROE",
+      "state": "NC",
+      "zipcode": "28112"
+    },
+    {
+      "id": "340131",
+      "name": "CAROLINA EAST MEDICAL CENTER",
+      "address": "2000 NEUSE BLVD",
+      "city": "NEW BERN",
+      "state": "NC",
+      "zipcode": "28560"
+    },
+    {
+      "id": "340132",
+      "name": "MARIA PARHAM MEDICAL CENTER",
+      "address": "PO BOX 59",
+      "city": "HENDERSON",
+      "state": "NC",
+      "zipcode": "27536"
+    },
+    {
+      "id": "340141",
+      "name": "NOVANT HEALTH NEW HANOVER REGIONAL MEDICAL CENTER",
+      "address": "2131 S 17TH ST BOX 9000",
+      "city": "WILMINGTON",
+      "state": "NC",
+      "zipcode": "28402"
+    },
+    {
+      "id": "340142",
+      "name": "CARTERET GENERAL HOSPITAL",
+      "address": "3500 ARENDELL ST",
+      "city": "MOREHEAD CITY",
+      "state": "NC",
+      "zipcode": "28557"
+    },
+    {
+      "id": "340143",
+      "name": "CATAWBA VALLEY MEDICAL CENTER",
+      "address": "810 FAIRGROVE CHURCH RD",
+      "city": "HICKORY",
+      "state": "NC",
+      "zipcode": "28602"
+    },
+    {
+      "id": "340145",
+      "name": "ATRIUM HEALTH LINCOLN",
+      "address": "433 MCALISTER RD",
+      "city": "LINCOLNTON",
+      "state": "NC",
+      "zipcode": "28092"
+    },
+    {
+      "id": "340147",
+      "name": "UNC HEALTH NASH",
+      "address": "2460 CURTIS ELLIS DRIVE",
+      "city": "ROCKY MOUNT",
+      "state": "NC",
+      "zipcode": "27804"
+    },
+    {
+      "id": "340148",
+      "name": "NOVANT HEALTH MEDICAL PARK HOSPITAL",
+      "address": "1950 S HAWTHORNE RD",
+      "city": "WINSTON-SALEM",
+      "state": "NC",
+      "zipcode": "27103"
+    },
+    {
+      "id": "340151",
+      "name": "ECU HEALTH NORTH HOSPITAL",
+      "address": "250 SMITH CHURCH ROAD",
+      "city": "ROANOKE RAPIDS",
+      "state": "NC",
+      "zipcode": "27870"
+    },
+    {
+      "id": "340155",
+      "name": "DUKE REGIONAL HOSPITAL",
+      "address": "3643 N ROXBORO STREET",
+      "city": "DURHAM",
+      "state": "NC",
+      "zipcode": "27704"
+    },
+    {
+      "id": "340156",
+      "name": "CHEROKEE INDIAN HOSPITAL AUTHORITY",
+      "address": "CALLER BOX C268",
+      "city": "CHEROKEE",
+      "state": "NC",
+      "zipcode": "28719"
+    },
+    {
+      "id": "340158",
+      "name": "NOVANT HEALTH BRUNSWICK MEDICAL CENTER",
+      "address": "1 MEDICAL CENTER DR  PO BOX 139",
+      "city": "SUPPLY",
+      "state": "NC",
+      "zipcode": "28462"
+    },
+    {
+      "id": "340159",
+      "name": "PERSON MEMORIAL HOSPITAL",
+      "address": "615 RIDGE RD",
+      "city": "ROXBORO",
+      "state": "NC",
+      "zipcode": "27573"
+    },
+    {
+      "id": "340166",
+      "name": "ATRIUM HEALTH UNIVERSITY CITY",
+      "address": "8800 NORTH TYRON STREET",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zipcode": "28262"
+    },
+    {
+      "id": "340171",
+      "name": "NOVANT HEALTH MATTHEWS MEDICAL CENTER",
+      "address": "1500 MATTHEWS TWNSHP PRKWY BOX 3310",
+      "city": "MATTHEWS",
+      "state": "NC",
+      "zipcode": "28106"
+    },
+    {
+      "id": "340173",
+      "name": "WAKEMED",
+      "address": "1900 KILDARE FARM ROAD",
+      "city": "CARY",
+      "state": "NC",
+      "zipcode": "27518"
+    },
+    {
+      "id": "340183",
+      "name": "NOVANT HEALTH HUNTERSVILLE MEDICAL CENTER",
+      "address": "10030 GILEAD ROAD",
+      "city": "HUNTERSVILLE",
+      "state": "NC",
+      "zipcode": "28078"
+    },
+    {
+      "id": "340184",
+      "name": "HAYWOOD REGIONAL MEDICAL CENTER",
+      "address": "262 LEROY GEORGE DRIVE",
+      "city": "CLYDE",
+      "state": "NC",
+      "zipcode": "28721"
+    },
+    {
+      "id": "340187",
+      "name": "DAVIE MEDICAL CENTER",
+      "address": "329 NC HWY 801 N",
+      "city": "BERMUDA RUN",
+      "state": "NC",
+      "zipcode": "27006"
+    },
+    {
+      "id": "340188",
+      "name": "CAPE FEAR VALLEY HOKE HOSPITAL",
+      "address": "210 MEDICAL PAVILION DRIVE",
+      "city": "RAEFORD",
+      "state": "NC",
+      "zipcode": "28376"
+    },
+    {
+      "id": "340190",
+      "name": "NOVANT HEALTH MINT HILL MEDICAL CENTER",
+      "address": "8201 HEALTHCARE LOOP",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zipcode": "28215"
+    },
+    {
+      "id": "340195",
+      "name": "NOVANT HEALTH BALLANTYNE MEDICAL CENTER",
+      "address": "10905 PROVIDENCE ROAD W",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "zipcode": "28277"
+    },
+    {
+      "id": "341303",
+      "name": "FIRSTHEALTH MONTGOMERY MEMORIAL HOSP",
+      "address": "520 ALLEN STREET",
+      "city": "TROY",
+      "state": "NC",
+      "zipcode": "27371"
+    },
+    {
+      "id": "341304",
+      "name": "ECU HEALTH BERTIE HOSPITAL",
+      "address": "1403 S KING ST",
+      "city": "WINDSOR",
+      "state": "NC",
+      "zipcode": "27983"
+    },
+    {
+      "id": "341305",
+      "name": "SWAIN COUNTY HOSPITAL",
+      "address": "45 PLATEAU STREET",
+      "city": "BRYSON CITY",
+      "state": "NC",
+      "zipcode": "28713"
+    },
+    {
+      "id": "341307",
+      "name": "PENDER MEMORIAL HOSPITAL",
+      "address": "507 E FREMONT ST",
+      "city": "BURGAW",
+      "state": "NC",
+      "zipcode": "28425"
+    },
+    {
+      "id": "341311",
+      "name": "CHATHAM HOSPITAL INC",
+      "address": "475 PROGRESS BLVD",
+      "city": "SILER CITY",
+      "state": "NC",
+      "zipcode": "27344"
+    },
+    {
+      "id": "341314",
+      "name": "WASHINGTON COUNTY HOSP INC",
+      "address": "958 US HWY 64 EAST",
+      "city": "PLYMOUTH",
+      "state": "NC",
+      "zipcode": "27962"
+    },
+    {
+      "id": "341315",
+      "name": "CAPE FEAR VALLEY-BLADEN COUNTY HOSPITAL",
+      "address": "501 SOUTH POPLAR STREET",
+      "city": "ELIZABETHTOWN",
+      "state": "NC",
+      "zipcode": "28337"
+    },
+    {
+      "id": "341316",
+      "name": "HIGHLANDS CASHIERS HOSPITAL",
+      "address": "190 HOSPITAL DRIVE",
+      "city": "HIGHLANDS",
+      "state": "NC",
+      "zipcode": "28741"
+    },
+    {
+      "id": "341317",
+      "name": "LIFEBRITE COMMUNITY HOSPITAL OF STOKES",
+      "address": "1570 NC 8 & 89 HWY NORTH",
+      "city": "DANBURY",
+      "state": "NC",
+      "zipcode": "27016"
+    },
+    {
+      "id": "341318",
+      "name": "VIDANT CHOWAN HOSPITAL",
+      "address": "211 VIRGINIA RD",
+      "city": "EDENTON",
+      "state": "NC",
+      "zipcode": "27932"
+    },
+    {
+      "id": "341319",
+      "name": "TRANSYLVANIA REGIONAL HOSPITAL, INC",
+      "address": "90 HOSPITAL DRIVE PO BOX 1116",
+      "city": "BREVARD",
+      "state": "NC",
+      "zipcode": "28712"
+    },
+    {
+      "id": "341320",
+      "name": "ALLEGHANY  MEMORIAL HOSPITAL",
+      "address": "233 DOCTORS STREET",
+      "city": "SPARTA",
+      "state": "NC",
+      "zipcode": "28675"
+    },
+    {
+      "id": "341322",
+      "name": "ST LUKES HOSPITAL",
+      "address": "101 HOSPITAL DRIVE",
+      "city": "COLUMBUS",
+      "state": "NC",
+      "zipcode": "28722"
+    },
+    {
+      "id": "341323",
+      "name": "CHARLES A CANNON JR MEMORIAL HOSPITAL",
+      "address": "434 HOSPITAL DRIVE",
+      "city": "LINVILLE",
+      "state": "NC",
+      "zipcode": "28646"
+    },
+    {
+      "id": "341324",
+      "name": "THE OUTER BANKS HOSPITAL, INC",
+      "address": "4800 SOUTH CROATAN HIGHWAY",
+      "city": "NAGS HEAD",
+      "state": "NC",
+      "zipcode": "27959"
+    },
+    {
+      "id": "341325",
+      "name": "ASHE MEMORIAL HOSPITAL",
+      "address": "200 HOSPITAL AVE",
+      "city": "JEFFERSON",
+      "state": "NC",
+      "zipcode": "28640"
+    },
+    {
+      "id": "341326",
+      "name": "ANGEL MEDICAL CENTER",
+      "address": "124 CENTER COURT PO BOX 1209",
+      "city": "FRANKLIN",
+      "state": "NC",
+      "zipcode": "28734"
+    },
+    {
+      "id": "341327",
+      "name": "J ARTHUR DOSHER MEMORIAL HOSPITAL",
+      "address": "924 HOWE ST",
+      "city": "SOUTHPORT",
+      "state": "NC",
+      "zipcode": "28461"
+    },
+    {
+      "id": "341328",
+      "name": "ERLANGER MURPHY MEDICAL CENTER",
+      "address": "3990 EAST US HIGHWAY 64 ALT",
+      "city": "MURPHY",
+      "state": "NC",
+      "zipcode": "28906"
+    },
+    {
+      "id": "341329",
+      "name": "BLUE RIDGE REGIONAL HOSPITAL",
+      "address": "125 HOSPITAL DRIVE",
+      "city": "SPRUCE PINE",
+      "state": "NC",
+      "zipcode": "28777"
+    }
+  ]
+}

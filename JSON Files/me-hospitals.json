@@ -1,0 +1,268 @@
+{
+  "hospitals": [
+    {
+      "id": "200001",
+      "name": "ST JOSEPH HOSPITAL",
+      "address": "360 BROADWAY",
+      "city": "BANGOR",
+      "state": "ME",
+      "zipcode": "04401"
+    },
+    {
+      "id": "200008",
+      "name": "NORTHERN LIGHT HEALTH",
+      "address": "144 STATE STREET",
+      "city": "PORTLAND",
+      "state": "ME",
+      "zipcode": "04101"
+    },
+    {
+      "id": "200009",
+      "name": "MAINE MEDICAL CENTER",
+      "address": "22 BRAMHALL ST",
+      "city": "PORTLAND",
+      "state": "ME",
+      "zipcode": "04102"
+    },
+    {
+      "id": "200018",
+      "name": "NORTHERN LIGHT A R GOULD HOSPITAL",
+      "address": "PO BOX 151",
+      "city": "PRESQUE ISLE",
+      "state": "ME",
+      "zipcode": "04769"
+    },
+    {
+      "id": "200019",
+      "name": "SOUTHERN MAINE HEALTH CARE",
+      "address": "1 MEDICAL CENTER DRIVE",
+      "city": "BIDDEFORD",
+      "state": "ME",
+      "zipcode": "04005"
+    },
+    {
+      "id": "200020",
+      "name": "YORK HOSPITAL",
+      "address": "15 HOSPITAL DRIVE",
+      "city": "YORK",
+      "state": "ME",
+      "zipcode": "03909"
+    },
+    {
+      "id": "200021",
+      "name": "MID COAST HOSPITAL",
+      "address": "123 MEDICAL CENTER DRIVE",
+      "city": "BRUNSWICK",
+      "state": "ME",
+      "zipcode": "04011"
+    },
+    {
+      "id": "200024",
+      "name": "CENTRAL MAINE MEDICAL CENTER",
+      "address": "300 MAIN STREET",
+      "city": "LEWISTON",
+      "state": "ME",
+      "zipcode": "04240"
+    },
+    {
+      "id": "200031",
+      "name": "CARY MEDICAL CENTER",
+      "address": "163 VAN BUREN RD, SUITE 1",
+      "city": "CARIBOU",
+      "state": "ME",
+      "zipcode": "04736"
+    },
+    {
+      "id": "200033",
+      "name": "NORTHERN LIGHT EASTERN MAINE MEDICAL CENTER",
+      "address": "489 STATE STREET",
+      "city": "BANGOR",
+      "state": "ME",
+      "zipcode": "04401"
+    },
+    {
+      "id": "200034",
+      "name": "ST MARY'S REGIONAL MEDICAL CENTER",
+      "address": "93 CAMPUS AVENUE - PO BOX 291",
+      "city": "LEWISTON",
+      "state": "ME",
+      "zipcode": "04243"
+    },
+    {
+      "id": "200037",
+      "name": "FRANKLIN MEMORIAL HOSPITAL",
+      "address": "111 FRANKLIN HEALTH COMMONS",
+      "city": "FARMINGTON",
+      "state": "ME",
+      "zipcode": "04938"
+    },
+    {
+      "id": "200039",
+      "name": "MAINEGENERAL MEDICAL CENTER",
+      "address": "35 MEDICAL CENTER PARKWAY",
+      "city": "AUGUSTA",
+      "state": "ME",
+      "zipcode": "04330"
+    },
+    {
+      "id": "200041",
+      "name": "NORTHERN LIGHT INLAND HOSPITAL",
+      "address": "200 KENNEDY MEMORIAL DRIVE",
+      "city": "WATERVILLE",
+      "state": "ME",
+      "zipcode": "04901"
+    },
+    {
+      "id": "200050",
+      "name": "NORTHERN LIGHT MAINE COAST HOSPITAL",
+      "address": "50 UNION STREET",
+      "city": "ELLSWORTH",
+      "state": "ME",
+      "zipcode": "04605"
+    },
+    {
+      "id": "200052",
+      "name": "NORTHERN MAINE MEDICAL CENTER",
+      "address": "194 E MAIN STREET",
+      "city": "FORT KENT",
+      "state": "ME",
+      "zipcode": "04743"
+    },
+    {
+      "id": "200063",
+      "name": "PENOBSCOT BAY MEDICAL CENTER",
+      "address": "6 GLEN COVE DRIVE",
+      "city": "ROCKPORT",
+      "state": "ME",
+      "zipcode": "04856"
+    },
+    {
+      "id": "201300",
+      "name": "NORTHERN LIGHT BLUE HILL MEMORIAL HOSPITAL",
+      "address": "57 WATER STREET",
+      "city": "BLUE HILL",
+      "state": "ME",
+      "zipcode": "04614"
+    },
+    {
+      "id": "201301",
+      "name": "CHARLES A DEAN MEMORIAL HOSPITAL",
+      "address": "PO BOX 1129",
+      "city": "GREENVILLE",
+      "state": "ME",
+      "zipcode": "04441"
+    },
+    {
+      "id": "201302",
+      "name": "LINCOLN HEALTH",
+      "address": "35 MILES STREET",
+      "city": "DAMARISCOTTA",
+      "state": "ME",
+      "zipcode": "04543"
+    },
+    {
+      "id": "201303",
+      "name": "PENOBSCOT VALLEY HOSPITAL",
+      "address": "7 TRANSALPINE ROAD, PO BOX 368",
+      "city": "LINCOLN",
+      "state": "ME",
+      "zipcode": "04457"
+    },
+    {
+      "id": "201304",
+      "name": "MOUNT DESERT ISLAND HOSPITAL",
+      "address": "10 WAYMAN LANE, PO BOX 8",
+      "city": "BAR HARBOR",
+      "state": "ME",
+      "zipcode": "04609"
+    },
+    {
+      "id": "201305",
+      "name": "CALAIS COMMUNITY HOSPITAL",
+      "address": "24 HOSPITAL LANE",
+      "city": "CALAIS",
+      "state": "ME",
+      "zipcode": "04619"
+    },
+    {
+      "id": "201306",
+      "name": "RUMFORD  HOSPITAL",
+      "address": "420 FRANKLIN STREET",
+      "city": "RUMFORD",
+      "state": "ME",
+      "zipcode": "04276"
+    },
+    {
+      "id": "201307",
+      "name": "MILLINOCKET REGIONAL HOSPITAL",
+      "address": "200 SOMERSET STREET",
+      "city": "MILLINOCKET",
+      "state": "ME",
+      "zipcode": "04462"
+    },
+    {
+      "id": "201308",
+      "name": "HOULTON REGIONAL HOSPITAL",
+      "address": "20 HARTFORD STREET",
+      "city": "HOULTON",
+      "state": "ME",
+      "zipcode": "04730"
+    },
+    {
+      "id": "201309",
+      "name": "NORTHERN LIGHT MAYO HOSPITAL",
+      "address": "897 WEST MAIN STREET",
+      "city": "DOVER FOXCROFT",
+      "state": "ME",
+      "zipcode": "04426"
+    },
+    {
+      "id": "201310",
+      "name": "BRIDGTON HOSPITAL",
+      "address": "10 HOSPITAL DRIVE",
+      "city": "BRIDGTON",
+      "state": "ME",
+      "zipcode": "04009"
+    },
+    {
+      "id": "201311",
+      "name": "DOWN EAST COMMUNITY HOSPITAL",
+      "address": "11 HOSPITAL DRIVE",
+      "city": "MACHIAS",
+      "state": "ME",
+      "zipcode": "04654"
+    },
+    {
+      "id": "201312",
+      "name": "WALDO COUNTY GENERAL HOSPITAL",
+      "address": "118 NORTHPORT AVE",
+      "city": "BELFAST",
+      "state": "ME",
+      "zipcode": "04915"
+    },
+    {
+      "id": "201313",
+      "name": "NORTHERN LIGHT SEBASTICOOK VALLEY HOSPITAL",
+      "address": "447 NORTH MAIN STREET",
+      "city": "PITTSFIELD",
+      "state": "ME",
+      "zipcode": "04967"
+    },
+    {
+      "id": "201314",
+      "name": "REDINGTON FAIRVIEW GENERAL HOSPITAL",
+      "address": "46 FAIRVIEW AVE   PO BOX 468",
+      "city": "SKOWHEGAN",
+      "state": "ME",
+      "zipcode": "04976"
+    },
+    {
+      "id": "201315",
+      "name": "MAINEHEALTH STEPHENS HOSPITAL",
+      "address": "181 MAIN STREET",
+      "city": "NORWAY",
+      "state": "ME",
+      "zipcode": "04268"
+    }
+  ]
+}

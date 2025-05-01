@@ -1,0 +1,708 @@
+{
+  "hospitals": [
+    {
+      "id": "280003",
+      "name": "BRYAN MEDICAL CENTER",
+      "address": "1600 SOUTH 48TH ST",
+      "city": "LINCOLN",
+      "state": "NE",
+      "zipcode": "68506"
+    },
+    {
+      "id": "280009",
+      "name": "CHI HEALTH GOOD SAMARITAN",
+      "address": "P O BOX 1990, 10 EAST 31ST ST",
+      "city": "KEARNEY",
+      "state": "NE",
+      "zipcode": "68847"
+    },
+    {
+      "id": "280013",
+      "name": "THE NEBRASKA MEDICAL CENTER",
+      "address": "987400 NEBRASKA MEDICAL CENTER",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68198"
+    },
+    {
+      "id": "280020",
+      "name": "CHI HEALTH ST ELIZABETH",
+      "address": "555 SOUTH 70TH ST",
+      "city": "LINCOLN",
+      "state": "NE",
+      "zipcode": "68510"
+    },
+    {
+      "id": "280023",
+      "name": "CHI HEALTH ST FRANCIS",
+      "address": "2620 WEST FAIDLEY AVE",
+      "city": "GRAND ISLAND",
+      "state": "NE",
+      "zipcode": "68803"
+    },
+    {
+      "id": "280032",
+      "name": "MARY LANNING HEALTHCARE",
+      "address": "715 N ST JOSEPH AVE",
+      "city": "HASTINGS",
+      "state": "NE",
+      "zipcode": "68901"
+    },
+    {
+      "id": "280040",
+      "name": "METHODIST HOSPITAL",
+      "address": "8303 DODGE ST",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68114"
+    },
+    {
+      "id": "280059",
+      "name": "TWELVE CLANS UNITY HOSPITAL",
+      "address": "225 S BLUFF STREET",
+      "city": "WINNEBAGO",
+      "state": "NE",
+      "zipcode": "68071"
+    },
+    {
+      "id": "280060",
+      "name": "CHI HEALTH CREIGHTON UNIVERSITY MEDICAL CENTER - B",
+      "address": "7500 MERCY RD",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68124"
+    },
+    {
+      "id": "280061",
+      "name": "REGIONAL WEST MEDICAL CENTER",
+      "address": "4021 AVE B",
+      "city": "SCOTTSBLUFF",
+      "state": "NE",
+      "zipcode": "69361"
+    },
+    {
+      "id": "280065",
+      "name": "GREAT PLAINS HEALTH",
+      "address": "601 WEST LEOTA ST",
+      "city": "NORTH PLATTE",
+      "state": "NE",
+      "zipcode": "69101"
+    },
+    {
+      "id": "280077",
+      "name": "METHODIST FREMONT HEALTH",
+      "address": "450 EAST 23RD ST",
+      "city": "FREMONT",
+      "state": "NE",
+      "zipcode": "68025"
+    },
+    {
+      "id": "280081",
+      "name": "CHI HEALTH IMMANUEL",
+      "address": "6901 NORTH 72ND ST",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68122"
+    },
+    {
+      "id": "280105",
+      "name": "CHI HEALTH MIDLANDS",
+      "address": "11111 SOUTH 84TH ST",
+      "city": "PAPILLION",
+      "state": "NE",
+      "zipcode": "68046"
+    },
+    {
+      "id": "280111",
+      "name": "COLUMBUS COMMUNITY HOSPITAL, INC",
+      "address": "4600 38TH ST",
+      "city": "COLUMBUS",
+      "state": "NE",
+      "zipcode": "68601"
+    },
+    {
+      "id": "280125",
+      "name": "FAITH REGIONAL HEALTH SERVICES",
+      "address": "2700 WEST NORFOLK AVE",
+      "city": "NORFOLK",
+      "state": "NE",
+      "zipcode": "68701"
+    },
+    {
+      "id": "280127",
+      "name": "LINCOLN SURGICAL HOSPITAL",
+      "address": "1710 SOUTH 70TH STREET",
+      "city": "LINCOLN",
+      "state": "NE",
+      "zipcode": "68506"
+    },
+    {
+      "id": "280128",
+      "name": "CHI HEALTH NEBRASKA HEART",
+      "address": "7500 SOUTH 91ST ST",
+      "city": "LINCOLN",
+      "state": "NE",
+      "zipcode": "68526"
+    },
+    {
+      "id": "280129",
+      "name": "ORTHONEBRASKA HOSPITAL",
+      "address": "2808 SOUTH 143RD PLAZA",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68144"
+    },
+    {
+      "id": "280130",
+      "name": "CHI HEALTH LAKESIDE",
+      "address": "16901 LAKESIDE HILLS CT",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68130"
+    },
+    {
+      "id": "280131",
+      "name": "MIDWEST SURGICAL HOSPITAL LLC",
+      "address": "7915 FARNAM DRIVE",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68114"
+    },
+    {
+      "id": "280132",
+      "name": "BELLEVUE MEDICAL CENTER, LLC",
+      "address": "2500 BELLEVUE MEDICAL CENTER DR",
+      "city": "BELLEVUE",
+      "state": "NE",
+      "zipcode": "68123"
+    },
+    {
+      "id": "280133",
+      "name": "NEBRASKA SPINE HOSPITAL, LLC",
+      "address": "6901 NORTH 72ND ST, STE 20300",
+      "city": "OMAHA",
+      "state": "NE",
+      "zipcode": "68122"
+    },
+    {
+      "id": "280134",
+      "name": "KEARNEY REGIONAL MEDICAL CENTER",
+      "address": "804 22ND AVENUE",
+      "city": "KEARNEY",
+      "state": "NE",
+      "zipcode": "68845"
+    },
+    {
+      "id": "280139",
+      "name": "GRAND ISLAND REGIONAL MEDICAL CENTER",
+      "address": "3533 PRAIRIEVIEW STREET",
+      "city": "GRAND ISLAND",
+      "state": "NE",
+      "zipcode": "68803"
+    },
+    {
+      "id": "281300",
+      "name": "HARLAN COUNTY HEALTH SYSTEM",
+      "address": "717 BROWN ST",
+      "city": "ALMA",
+      "state": "NE",
+      "zipcode": "68920"
+    },
+    {
+      "id": "281301",
+      "name": "FILLMORE COUNTY HOSPITAL",
+      "address": "P O BOX 193, 1900 F STREET",
+      "city": "GENEVA",
+      "state": "NE",
+      "zipcode": "68361"
+    },
+    {
+      "id": "281302",
+      "name": "PAWNEE COUNTY MEMORIAL HOSPITAL",
+      "address": "P O BOX 433, 600 I ST",
+      "city": "PAWNEE CITY",
+      "state": "NE",
+      "zipcode": "68420"
+    },
+    {
+      "id": "281303",
+      "name": "NIOBRARA VALLEY HOSPITAL",
+      "address": "P O BOX 118, 401 SOUTH 5TH STREET",
+      "city": "LYNCH",
+      "state": "NE",
+      "zipcode": "68746"
+    },
+    {
+      "id": "281304",
+      "name": "THAYER COUNTY HEALTH SERVICES",
+      "address": "120 PARK AVE",
+      "city": "HEBRON",
+      "state": "NE",
+      "zipcode": "68370"
+    },
+    {
+      "id": "281305",
+      "name": "KIMBALL HEALTH SERVICES",
+      "address": "255 W 4TH ST",
+      "city": "KIMBALL",
+      "state": "NE",
+      "zipcode": "69145"
+    },
+    {
+      "id": "281306",
+      "name": "KEARNEY COUNTY HEALTH SERVICES",
+      "address": "727 EAST 1ST ST",
+      "city": "MINDEN",
+      "state": "NE",
+      "zipcode": "68959"
+    },
+    {
+      "id": "281307",
+      "name": "SAUNDERS MEDICAL CENTER",
+      "address": "1760 COUNTY RD J",
+      "city": "WAHOO",
+      "state": "NE",
+      "zipcode": "68066"
+    },
+    {
+      "id": "281308",
+      "name": "HENDERSON COMMUNITY HOSPITAL",
+      "address": "1621 FRONT STREET",
+      "city": "HENDERSON",
+      "state": "NE",
+      "zipcode": "68371"
+    },
+    {
+      "id": "281309",
+      "name": "SYRACUSE AREA HEALTH",
+      "address": "2731 HEALTHCARE DR",
+      "city": "SYRACUSE",
+      "state": "NE",
+      "zipcode": "68446"
+    },
+    {
+      "id": "281310",
+      "name": "GARDEN COUNTY HEALTH SERVICES",
+      "address": "1100 WEST 2ND ST",
+      "city": "OSHKOSH",
+      "state": "NE",
+      "zipcode": "69154"
+    },
+    {
+      "id": "281311",
+      "name": "FRANKLIN COUNTY MEMORIAL HOSPITAL",
+      "address": "1406 Q ST",
+      "city": "FRANKLIN",
+      "state": "NE",
+      "zipcode": "68939"
+    },
+    {
+      "id": "281312",
+      "name": "GENOA COMMUNITY HOSPITAL",
+      "address": "P O BOX 310, 706 EWING AVE",
+      "city": "GENOA",
+      "state": "NE",
+      "zipcode": "68640"
+    },
+    {
+      "id": "281313",
+      "name": "GOTHENBURG HEALTH",
+      "address": "PO BOX 469 910 20TH ST",
+      "city": "GOTHENBURG",
+      "state": "NE",
+      "zipcode": "69138"
+    },
+    {
+      "id": "281314",
+      "name": "ANNIE JEFFREY MEMORIAL COUNTY HEALTH CENTER",
+      "address": "P O BOX 428, 531 BEEBE ST",
+      "city": "OSCEOLA",
+      "state": "NE",
+      "zipcode": "68651"
+    },
+    {
+      "id": "281315",
+      "name": "BRODSTONE HEALTHCARE",
+      "address": "P O BOX 187, 520 EAST 10TH ST",
+      "city": "SUPERIOR",
+      "state": "NE",
+      "zipcode": "68978"
+    },
+    {
+      "id": "281316",
+      "name": "WEBSTER COUNTY COMMUNITY HOSPITAL",
+      "address": "P O BOX 465, 621 N FRANKLIN ST",
+      "city": "RED CLOUD",
+      "state": "NE",
+      "zipcode": "68970"
+    },
+    {
+      "id": "281318",
+      "name": "MORRILL COUNTY COMMUNITY HOSPITAL",
+      "address": "1313 S STREET",
+      "city": "BRIDGEPORT",
+      "state": "NE",
+      "zipcode": "69336"
+    },
+    {
+      "id": "281319",
+      "name": "JEFFERSON COMMUNITY HEALTH & LIFE",
+      "address": "P O BOX 277, 2200 H ST",
+      "city": "FAIRBURY",
+      "state": "NE",
+      "zipcode": "68352"
+    },
+    {
+      "id": "281320",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "1423 SEVENTH ST",
+      "city": "AURORA",
+      "state": "NE",
+      "zipcode": "68818"
+    },
+    {
+      "id": "281322",
+      "name": "FRANCISCAN HEALTHCARE",
+      "address": "430 NORTH MONITOR ST",
+      "city": "WEST POINT",
+      "state": "NE",
+      "zipcode": "68788"
+    },
+    {
+      "id": "281323",
+      "name": "CHI HEALTH SCHUYLER",
+      "address": "104 WEST 17TH ST",
+      "city": "SCHUYLER",
+      "state": "NE",
+      "zipcode": "68661"
+    },
+    {
+      "id": "281324",
+      "name": "NEMAHA COUNTY HOSPITAL",
+      "address": "2022 13TH STREET",
+      "city": "AUBURN",
+      "state": "NE",
+      "zipcode": "68305"
+    },
+    {
+      "id": "281325",
+      "name": "BROWN COUNTY HOSPITAL",
+      "address": "945 EAST ZERO ST",
+      "city": "AINSWORTH",
+      "state": "NE",
+      "zipcode": "69210"
+    },
+    {
+      "id": "281326",
+      "name": "ANTELOPE MEMORIAL HOSPITAL",
+      "address": "P O BOX 229, 102 WEST 9TH ST",
+      "city": "NELIGH",
+      "state": "NE",
+      "zipcode": "68756"
+    },
+    {
+      "id": "281327",
+      "name": "COZAD COMMUNITY HOSPITAL",
+      "address": "P O BOX 108, 300 EAST 12TH ST",
+      "city": "COZAD",
+      "state": "NE",
+      "zipcode": "69130"
+    },
+    {
+      "id": "281328",
+      "name": "MERRICK MEDICAL CENTER",
+      "address": "PO BOX 417, 2802 28TH ST",
+      "city": "CENTRAL CITY",
+      "state": "NE",
+      "zipcode": "68826"
+    },
+    {
+      "id": "281329",
+      "name": "AVERA ST ANTHONY'S HOSPITAL",
+      "address": "300 NORTH 2ND ST",
+      "city": "O' NEILL",
+      "state": "NE",
+      "zipcode": "68763"
+    },
+    {
+      "id": "281330",
+      "name": "FRIEND COMMUNITY HEALTHCARE SYSTEM",
+      "address": "905 SECOND STREET",
+      "city": "FRIEND",
+      "state": "NE",
+      "zipcode": "68359"
+    },
+    {
+      "id": "281331",
+      "name": "AVERA CREIGHTON HOSPITAL",
+      "address": "P O BOX 186, 1503 MAIN ST",
+      "city": "CREIGHTON",
+      "state": "NE",
+      "zipcode": "68729"
+    },
+    {
+      "id": "281332",
+      "name": "BUTLER COUNTY HEALTH",
+      "address": "372 SOUTH 9TH STREET",
+      "city": "DAVID CITY",
+      "state": "NE",
+      "zipcode": "68632"
+    },
+    {
+      "id": "281333",
+      "name": "ROCK COUNTY HOSPITAL",
+      "address": "102 EAST SOUTH STREET",
+      "city": "BASSETT",
+      "state": "NE",
+      "zipcode": "68714"
+    },
+    {
+      "id": "281334",
+      "name": "BOONE COUNTY HEALTH CENTER",
+      "address": "P O BOX 151, 723 WEST FAIRVIEW ST",
+      "city": "ALBION",
+      "state": "NE",
+      "zipcode": "68620"
+    },
+    {
+      "id": "281335",
+      "name": "CALLAWAY DISTRICT HOSPITAL",
+      "address": "P O BOX 100, 211 E KIMBALL",
+      "city": "CALLAWAY",
+      "state": "NE",
+      "zipcode": "68825"
+    },
+    {
+      "id": "281336",
+      "name": "YORK GENERAL HOSPITAL",
+      "address": "2222 N LINCOLN AVE",
+      "city": "YORK",
+      "state": "NE",
+      "zipcode": "68467"
+    },
+    {
+      "id": "281338",
+      "name": "HOWARD COUNTY MEDICAL CENTER",
+      "address": "P O BOX 406, 1113 SHERMAN ST",
+      "city": "ST PAUL",
+      "state": "NE",
+      "zipcode": "68873"
+    },
+    {
+      "id": "281339",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "300 NORTH COLUMBIA AVE",
+      "city": "SEWARD",
+      "state": "NE",
+      "zipcode": "68434"
+    },
+    {
+      "id": "281340",
+      "name": "DUNDY COUNTY HOSPITAL",
+      "address": "P O BOX 626, 1313 NORTH CHEYENNE ST",
+      "city": "BENKELMAN",
+      "state": "NE",
+      "zipcode": "69021"
+    },
+    {
+      "id": "281341",
+      "name": "CHADRON COMMUNITY HOSPITAL AND HEALTH SERVICES",
+      "address": "825 CENTENNIAL DRIVE",
+      "city": "CHADRON",
+      "state": "NE",
+      "zipcode": "69337"
+    },
+    {
+      "id": "281342",
+      "name": "CHI HEALTH ST MARY'S",
+      "address": "1301 GRUNDMAN BLVD",
+      "city": "NEBRASKA CITY",
+      "state": "NE",
+      "zipcode": "68410"
+    },
+    {
+      "id": "281343",
+      "name": "WEST HOLT MEMORIAL HOSPITAL",
+      "address": "406 W NEELY ST",
+      "city": "ATKINSON",
+      "state": "NE",
+      "zipcode": "68713"
+    },
+    {
+      "id": "281344",
+      "name": "CHERRY COUNTY HOSPITAL",
+      "address": "510 NORTH GREEN ST",
+      "city": "VALENTINE",
+      "state": "NE",
+      "zipcode": "69201"
+    },
+    {
+      "id": "281345",
+      "name": "PROVIDENCE MEDICAL CENTER",
+      "address": "1200 PROVIDENCE RD",
+      "city": "WAYNE",
+      "state": "NE",
+      "zipcode": "68787"
+    },
+    {
+      "id": "281346",
+      "name": "CHI HEALTH PLAINVIEW",
+      "address": "P O BOX 489, 704 NORTH THIRD ST",
+      "city": "PLAINVIEW",
+      "state": "NE",
+      "zipcode": "68769"
+    },
+    {
+      "id": "281347",
+      "name": "OSMOND GENERAL HOSPITAL",
+      "address": "402 NORTH MAPLE ST",
+      "city": "OSMOND",
+      "state": "NE",
+      "zipcode": "68765"
+    },
+    {
+      "id": "281348",
+      "name": "TRI VALLEY HEALTH SYSTEM",
+      "address": "1305 WEST HIGHWAY 6/34",
+      "city": "CAMBRIDGE",
+      "state": "NE",
+      "zipcode": "69022"
+    },
+    {
+      "id": "281349",
+      "name": "PENDER COMMUNITY HOSPITAL",
+      "address": "100 HOSPITAL DRIVE, PO BOX 100",
+      "city": "PENDER",
+      "state": "NE",
+      "zipcode": "68047"
+    },
+    {
+      "id": "281350",
+      "name": "JOHNSON COUNTY HOSPITAL",
+      "address": "202 HIGH ST",
+      "city": "TECUMSEH",
+      "state": "NE",
+      "zipcode": "68450"
+    },
+    {
+      "id": "281351",
+      "name": "CHASE COUNTY COMMUNITY HOSPITAL",
+      "address": "P O BOX 819, 600 W 12TH ST",
+      "city": "IMPERIAL",
+      "state": "NE",
+      "zipcode": "69033"
+    },
+    {
+      "id": "281352",
+      "name": "COMMUNITY MEDICAL CENTER, INC",
+      "address": "P O BOX 399, 3307 BILL SCHOCK BOULEVARD",
+      "city": "FALLS CITY",
+      "state": "NE",
+      "zipcode": "68355"
+    },
+    {
+      "id": "281353",
+      "name": "VALLEY COUNTY HEALTH SYSTEM",
+      "address": "2707 L STREET",
+      "city": "ORD",
+      "state": "NE",
+      "zipcode": "68862"
+    },
+    {
+      "id": "281354",
+      "name": "CRETE AREA MEDICAL CENTER",
+      "address": "P O BOX 220, 2910 BETTEN DR",
+      "city": "CRETE",
+      "state": "NE",
+      "zipcode": "68333"
+    },
+    {
+      "id": "281355",
+      "name": "OGALLALA COMMUNITY HOSPITAL",
+      "address": "2601 NORTH SPRUCE ST",
+      "city": "OGALLALA",
+      "state": "NE",
+      "zipcode": "69153"
+    },
+    {
+      "id": "281356",
+      "name": "PERKINS COUNTY HEALTH SERVICES",
+      "address": "900 LINCOLN AVENUE",
+      "city": "GRANT",
+      "state": "NE",
+      "zipcode": "69140"
+    },
+    {
+      "id": "281357",
+      "name": "SIDNEY REGIONAL MEDICAL CENTER",
+      "address": "1000 POLE CREEK CROSSING",
+      "city": "SIDNEY",
+      "state": "NE",
+      "zipcode": "69162"
+    },
+    {
+      "id": "281358",
+      "name": "GORDON MEMORIAL HOSPITAL DISTRICT",
+      "address": "300 EAST 8TH ST",
+      "city": "GORDON",
+      "state": "NE",
+      "zipcode": "69343"
+    },
+    {
+      "id": "281359",
+      "name": "MEMORIAL COMMUNITY HOSPITAL & HEALTH SYSTEM",
+      "address": "810 NORTH 22ND ST",
+      "city": "BLAIR",
+      "state": "NE",
+      "zipcode": "68008"
+    },
+    {
+      "id": "281360",
+      "name": "BOX BUTTE GENERAL HOSPITAL",
+      "address": "P O BOX 810, 2101 BOX BUTTE AVE",
+      "city": "ALLIANCE",
+      "state": "NE",
+      "zipcode": "69301"
+    },
+    {
+      "id": "281361",
+      "name": "LEXINGTON REGIONAL HEALTH CENTER",
+      "address": "P O BOX 980, 1201 NORTH ERIE ST",
+      "city": "LEXINGTON",
+      "state": "NE",
+      "zipcode": "68850"
+    },
+    {
+      "id": "281362",
+      "name": "PHELPS MEMORIAL HEALTH CENTER",
+      "address": "1215 TIBBALS ST",
+      "city": "HOLDREGE",
+      "state": "NE",
+      "zipcode": "68949"
+    },
+    {
+      "id": "281363",
+      "name": "COMMUNITY HOSPITAL",
+      "address": "P O BOX 1328, 1301 EAST H ST",
+      "city": "MCCOOK",
+      "state": "NE",
+      "zipcode": "69001"
+    },
+    {
+      "id": "281364",
+      "name": "BEATRICE COMMUNITY HOSPITAL & HEALTH CENTER, INC",
+      "address": "P O BOX 278, 4800 HOSPITAL PARKWAY",
+      "city": "BEATRICE",
+      "state": "NE",
+      "zipcode": "68310"
+    },
+    {
+      "id": "281365",
+      "name": "JENNIE M MELHAM MEMORIAL MEDICAL CENTER",
+      "address": "145 MEMORIAL DRIVE",
+      "city": "BROKEN BOW",
+      "state": "NE",
+      "zipcode": "68822"
+    }
+  ]
+}

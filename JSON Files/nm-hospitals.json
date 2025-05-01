@@ -1,0 +1,332 @@
+{
+  "hospitals": [
+    {
+      "id": "320001",
+      "name": "UNM HOSPITAL",
+      "address": "2211 LOMAS BOULEVARD NE",
+      "city": "ALBUQUERQUE",
+      "state": "NM",
+      "zipcode": "87106"
+    },
+    {
+      "id": "320002",
+      "name": "CHRISTUS ST VINCENT REGIONAL MEDICAL CENTER",
+      "address": "455 ST MICHAEL'S DRIVE",
+      "city": "SANTA FE",
+      "state": "NM",
+      "zipcode": "87505"
+    },
+    {
+      "id": "320004",
+      "name": "GERALD CHAMPION REGIONAL MEDICAL CENTER",
+      "address": "2669 SCENIC DRIVE",
+      "city": "ALAMOGORDO",
+      "state": "NM",
+      "zipcode": "88310"
+    },
+    {
+      "id": "320005",
+      "name": "SAN JUAN REGIONAL MEDICAL CENTER INC",
+      "address": "801 WEST MAPLE STREET",
+      "city": "FARMINGTON",
+      "state": "NM",
+      "zipcode": "87401"
+    },
+    {
+      "id": "320006",
+      "name": "EASTERN NEW MEXICO MEDICAL CENTER",
+      "address": "405 W COUNTRY CLUB ROAD",
+      "city": "ROSWELL",
+      "state": "NM",
+      "zipcode": "88201"
+    },
+    {
+      "id": "320009",
+      "name": "LOVELACE MEDICAL CENTER",
+      "address": "601 DR MARTIN LUTHER KING JR AVE NE",
+      "city": "ALBUQUERQUE",
+      "state": "NM",
+      "zipcode": "87102"
+    },
+    {
+      "id": "320011",
+      "name": "PRESBYTERIAN ESPANOLA HOSPITAL",
+      "address": "1010 SPRUCE STREET",
+      "city": "ESPANOLA",
+      "state": "NM",
+      "zipcode": "87532"
+    },
+    {
+      "id": "320017",
+      "name": "LOVELACE WOMEN'S HOSPITAL",
+      "address": "4701 MONTGOMERY BOULEVARD NE",
+      "city": "ALBUQUERQUE",
+      "state": "NM",
+      "zipcode": "87109"
+    },
+    {
+      "id": "320018",
+      "name": "MEMORIAL MEDICAL CENTER",
+      "address": "2450 SOUTH TELSHOR BLVD",
+      "city": "LAS CRUCES",
+      "state": "NM",
+      "zipcode": "88011"
+    },
+    {
+      "id": "320021",
+      "name": "PRESBYTERIAN HOSPITAL",
+      "address": "1100 CENTRAL AVENUE SE",
+      "city": "ALBUQUERQUE",
+      "state": "NM",
+      "zipcode": "87106"
+    },
+    {
+      "id": "320022",
+      "name": "PLAINS REGIONAL MEDICAL CENTER",
+      "address": "2100 N MARTIN LUTHER KING, JR, BLVD",
+      "city": "CLOVIS",
+      "state": "NM",
+      "zipcode": "88101"
+    },
+    {
+      "id": "320030",
+      "name": "ARTESIA GENERAL HOSPITAL",
+      "address": "702 N 13TH STREET",
+      "city": "ARTESIA",
+      "state": "NM",
+      "zipcode": "88210"
+    },
+    {
+      "id": "320033",
+      "name": "LOS ALAMOS MEDICAL CENTER",
+      "address": "3917 WEST ROAD",
+      "city": "LOS ALAMOS",
+      "state": "NM",
+      "zipcode": "87544"
+    },
+    {
+      "id": "320057",
+      "name": "SANTA FE PHS INDIAN HOSPITAL",
+      "address": "1700 CERRILLOS ROAD",
+      "city": "SANTA FE",
+      "state": "NM",
+      "zipcode": "87501"
+    },
+    {
+      "id": "320059",
+      "name": "NORTHERN NAVAJO MEDICAL CENTER",
+      "address": "US HWY 491 NORTH",
+      "city": "SHIPROCK",
+      "state": "NM",
+      "zipcode": "87420"
+    },
+    {
+      "id": "320060",
+      "name": "ZUNI COMPREHENSIVE COMMUNITY HEALTH CENTER",
+      "address": "ROUTE 301 NORTH B STREET",
+      "city": "ZUNI",
+      "state": "NM",
+      "zipcode": "87327"
+    },
+    {
+      "id": "320061",
+      "name": "GALLUP INDIAN MEDICAL CENTER",
+      "address": "516 E NIZHONI BLVD",
+      "city": "GALLUP",
+      "state": "NM",
+      "zipcode": "87301"
+    },
+    {
+      "id": "320062",
+      "name": "CROWNPOINT HEALTHCARE FACILITY",
+      "address": "JUNCTION OF HWY 371",
+      "city": "CROWNPOINT",
+      "state": "NM",
+      "zipcode": "87313"
+    },
+    {
+      "id": "320063",
+      "name": "CARLSBAD MEDICAL CENTER",
+      "address": "2430 WEST PIERCE STREET",
+      "city": "CARLSBAD",
+      "state": "NM",
+      "zipcode": "88220"
+    },
+    {
+      "id": "320065",
+      "name": "COVENANT HEALTH HOBBS HOSPITAL",
+      "address": "4900 N LOVINGTON HIGHWAY",
+      "city": "HOBBS",
+      "state": "NM",
+      "zipcode": "88240"
+    },
+    {
+      "id": "320074",
+      "name": "LOVELACE WESTSIDE HOSPITAL",
+      "address": "10501 GOLF COURSE ROAD NW",
+      "city": "ALBUQUERQUE",
+      "state": "NM",
+      "zipcode": "87114"
+    },
+    {
+      "id": "320084",
+      "name": "ROOSEVELT GENERAL HOSPITAL",
+      "address": "42121 US HIGHWAY 70",
+      "city": "PORTALES",
+      "state": "NM",
+      "zipcode": "88130"
+    },
+    {
+      "id": "320085",
+      "name": "MOUNTAIN VIEW REGIONAL MEDICAL CENTER",
+      "address": "4311 EAST LOHMAN AVENUE",
+      "city": "LAS CRUCES",
+      "state": "NM",
+      "zipcode": "88011"
+    },
+    {
+      "id": "320086",
+      "name": "LOVELACE REGIONAL HOSPITAL - ROSWELL",
+      "address": "117 EAST 19TH STREET",
+      "city": "ROSWELL",
+      "state": "NM",
+      "zipcode": "88201"
+    },
+    {
+      "id": "320089",
+      "name": "UNM SANDOVAL REGIONAL MEDICAL CENTER",
+      "address": "3001 BROADMOOR BLVD NE",
+      "city": "RIO RANCHO",
+      "state": "NM",
+      "zipcode": "87144"
+    },
+    {
+      "id": "320090",
+      "name": "PRESBYTERIAN SANTA FE MEDICAL CENTER",
+      "address": "4801 BECKNER ROAD",
+      "city": "SANTA FE",
+      "state": "NM",
+      "zipcode": "87507"
+    },
+    {
+      "id": "320091",
+      "name": "THREE CROSSES REGIONAL HOSPITAL LLC",
+      "address": "2560 SAMARITAN DRIVE",
+      "city": "LAS CRUCES",
+      "state": "NM",
+      "zipcode": "88001"
+    },
+    {
+      "id": "320779",
+      "name": "GUADALUPE COUNTY HOSPITAL",
+      "address": "117 CAMINO DE VIDA, SUITE 100",
+      "city": "SANTA ROSA",
+      "state": "NM",
+      "zipcode": "88435"
+    },
+    {
+      "id": "321300",
+      "name": "SIERRA VISTA HOSPITAL",
+      "address": "800 EAST 9TH AVENUE",
+      "city": "T OR C",
+      "state": "NM",
+      "zipcode": "87901"
+    },
+    {
+      "id": "321301",
+      "name": "SOCORRO GENERAL HOSPITAL",
+      "address": "1202 HIGHWAY 60 WEST",
+      "city": "SOCORRO",
+      "state": "NM",
+      "zipcode": "87801"
+    },
+    {
+      "id": "321302",
+      "name": "DR DAN C TRIGG MEMORIAL HOSPITAL",
+      "address": "301 EAST MIEL DE LUNA AVENUE",
+      "city": "TUCUMCARI",
+      "state": "NM",
+      "zipcode": "88401"
+    },
+    {
+      "id": "321304",
+      "name": "UNION COUNTY GENERAL HOSPITAL",
+      "address": "300 WILSON STREET",
+      "city": "CLAYTON",
+      "state": "NM",
+      "zipcode": "88415"
+    },
+    {
+      "id": "321305",
+      "name": "NOR-LEA HOSPITAL DISTRICT",
+      "address": "1600 NORTH MAIN AVE",
+      "city": "LOVINGTON",
+      "state": "NM",
+      "zipcode": "88260"
+    },
+    {
+      "id": "321306",
+      "name": "LINCOLN COUNTY MEDICAL CENTER",
+      "address": "211 SUDDERTH DRIVE",
+      "city": "RUIDOSO",
+      "state": "NM",
+      "zipcode": "88345"
+    },
+    {
+      "id": "321307",
+      "name": "MINERS' COLFAX MEDICAL CENTER",
+      "address": "203 HOSPITAL DRIVE",
+      "city": "RATON",
+      "state": "NM",
+      "zipcode": "87740"
+    },
+    {
+      "id": "321308",
+      "name": "CIBOLA GENERAL HOSPITAL",
+      "address": "1016 E ROOSEVELT AVENUE",
+      "city": "GRANTS",
+      "state": "NM",
+      "zipcode": "87020"
+    },
+    {
+      "id": "321309",
+      "name": "MIMBRES MEMORIAL HOSPITAL",
+      "address": "900 W ASH STREET",
+      "city": "DEMING",
+      "state": "NM",
+      "zipcode": "88030"
+    },
+    {
+      "id": "321310",
+      "name": "HOLY CROSS HOSPITAL A DIV OF TAOS HEALTH SYSTEMS",
+      "address": "1397 WEIMER ROAD",
+      "city": "TAOS",
+      "state": "NM",
+      "zipcode": "87571"
+    },
+    {
+      "id": "321311",
+      "name": "GILA REGIONAL MEDICAL CENTER",
+      "address": "1313 E 32ND ST",
+      "city": "SILVER CITY",
+      "state": "NM",
+      "zipcode": "88061"
+    },
+    {
+      "id": "321312",
+      "name": "ALTA VISTA REGIONAL HOSPITAL",
+      "address": "104 LEGION DRIVE",
+      "city": "LAS VEGAS",
+      "state": "NM",
+      "zipcode": "87701"
+    },
+    {
+      "id": "321313",
+      "name": "REHOBOTH MCKINLEY CHRISTIAN HEALTH CARE SERVICES",
+      "address": "1901 RED ROCK DRIVE",
+      "city": "GALLUP",
+      "state": "NM",
+      "zipcode": "87301"
+    }
+  ]
+}

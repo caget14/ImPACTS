@@ -1,0 +1,612 @@
+{
+  "hospitals": [
+    {
+      "id": "040001",
+      "name": "SILOAM SPRINGS REGIONAL HOSPITAL",
+      "address": "603 NORTH PROGRESS AVENUE",
+      "city": "SILOAM SPRINGS",
+      "state": "AR",
+      "zipcode": "72761"
+    },
+    {
+      "id": "040002",
+      "name": "JOHNSON REGIONAL MEDICAL CENTER",
+      "address": "1100 EAST POPLAR STREET",
+      "city": "CLARKSVILLE",
+      "state": "AR",
+      "zipcode": "72830"
+    },
+    {
+      "id": "040004",
+      "name": "WASHINGTON REGIONAL MEDICAL CENTER",
+      "address": "3215 N NORTH HILLS BOULEVARD",
+      "city": "FAYETTEVILLE",
+      "state": "AR",
+      "zipcode": "72703"
+    },
+    {
+      "id": "040007",
+      "name": "CHI ST VINCENT INFIRMARY",
+      "address": "TWO ST VINCENT CIRCLE",
+      "city": "LITTLE ROCK",
+      "state": "AR",
+      "zipcode": "72205"
+    },
+    {
+      "id": "040010",
+      "name": "MERCY HOSPITAL NORTHWEST ARKANSAS",
+      "address": "2710 SOUTH RIFE MEDICAL LANE",
+      "city": "ROGERS",
+      "state": "AR",
+      "zipcode": "72758"
+    },
+    {
+      "id": "040011",
+      "name": "CHAMBERS MEMORIAL HOSPITAL",
+      "address": "719 DETROIT STREET",
+      "city": "DANVILLE",
+      "state": "AR",
+      "zipcode": "72833"
+    },
+    {
+      "id": "040014",
+      "name": "UNITY HEALTH WHITE COUNTY MEDICAL CENTER",
+      "address": "3214 EAST RACE AVENUE",
+      "city": "SEARCY",
+      "state": "AR",
+      "zipcode": "72143"
+    },
+    {
+      "id": "040015",
+      "name": "MENA REGIONAL HEALTH SYSTEM",
+      "address": "311 NORTH MORROW STREET",
+      "city": "MENA",
+      "state": "AR",
+      "zipcode": "71953"
+    },
+    {
+      "id": "040016",
+      "name": "UAMS MEDICAL CENTER",
+      "address": "4301 WEST MARKHAM STREET MAIL SLOT 612",
+      "city": "LITTLE ROCK",
+      "state": "AR",
+      "zipcode": "72205"
+    },
+    {
+      "id": "040017",
+      "name": "NORTH ARKANSAS REGIONAL MEDICAL CENTER",
+      "address": "620 NORTH MAIN STREET",
+      "city": "HARRISON",
+      "state": "AR",
+      "zipcode": "72601"
+    },
+    {
+      "id": "040018",
+      "name": "BAPTIST HEALTH - VAN BUREN",
+      "address": "211 CRAWFORD MEMORIAL DRIVE",
+      "city": "VAN BUREN",
+      "state": "AR",
+      "zipcode": "72956"
+    },
+    {
+      "id": "040019",
+      "name": "FORREST CITY MEDICAL CENTER",
+      "address": "1601 NEWCASTLE ROAD",
+      "city": "FORREST CITY",
+      "state": "AR",
+      "zipcode": "72335"
+    },
+    {
+      "id": "040020",
+      "name": "ST BERNARDS MEDICAL CENTER",
+      "address": "225 E WASHIINGTON AVENUE",
+      "city": "JONESBORO",
+      "state": "AR",
+      "zipcode": "72401"
+    },
+    {
+      "id": "040022",
+      "name": "NORTHWEST MEDICAL CENTER",
+      "address": "609 WEST MAPLE AVENUE",
+      "city": "SPRINGDALE",
+      "state": "AR",
+      "zipcode": "72764"
+    },
+    {
+      "id": "040026",
+      "name": "CHI ST. VINCENT HOSPITAL HOT SPRINGS",
+      "address": "300 WERNER STREET",
+      "city": "HOT SPRINGS",
+      "state": "AR",
+      "zipcode": "71903"
+    },
+    {
+      "id": "040027",
+      "name": "BAXTER HEALTH",
+      "address": "624 HOSPITAL DRIVE",
+      "city": "MOUNTAIN HOME",
+      "state": "AR",
+      "zipcode": "72653"
+    },
+    {
+      "id": "040029",
+      "name": "CONWAY REGIONAL MEDICAL CENTER, INC",
+      "address": "2302 COLLEGE AVENUE",
+      "city": "CONWAY",
+      "state": "AR",
+      "zipcode": "72034"
+    },
+    {
+      "id": "040036",
+      "name": "BAPTIST HEALTH MEDICAL CENTER NORTH LITTLE ROCK",
+      "address": "3333 SPRINGHILL DRIVE",
+      "city": "NORTH LITTLE ROCK",
+      "state": "AR",
+      "zipcode": "72117"
+    },
+    {
+      "id": "040039",
+      "name": "ARKANSAS METHODIST MEDICAL CENTER",
+      "address": "900 WEST KINGSHIGHWAY",
+      "city": "PARAGOULD",
+      "state": "AR",
+      "zipcode": "72450"
+    },
+    {
+      "id": "040041",
+      "name": "ST MARYS REGIONAL MEDICAL CENTER",
+      "address": "1808 WEST MAIN STREET",
+      "city": "RUSSELLVILLE",
+      "state": "AR",
+      "zipcode": "72801"
+    },
+    {
+      "id": "040050",
+      "name": "OUACHITA COUNTY MEDICAL CENTER",
+      "address": "638 CALIFORNIA AVENUE",
+      "city": "CAMDEN",
+      "state": "AR",
+      "zipcode": "71701"
+    },
+    {
+      "id": "040051",
+      "name": "BAPTIST HEALTH MEDICAL CENTER-DREW COUNTY",
+      "address": "778 SCOGIN DRIVE",
+      "city": "MONTICELLO",
+      "state": "AR",
+      "zipcode": "71655"
+    },
+    {
+      "id": "040055",
+      "name": "BAPTIST HEALTH - FORT SMITH",
+      "address": "1001 TOWSON AVENUE",
+      "city": "FORT SMITH",
+      "state": "AR",
+      "zipcode": "72901"
+    },
+    {
+      "id": "040062",
+      "name": "MERCY HOSPITAL FORT SMITH",
+      "address": "7301 ROGERS AVE",
+      "city": "FORT SMITH",
+      "state": "AR",
+      "zipcode": "72903"
+    },
+    {
+      "id": "040067",
+      "name": "MAGNOLIA REGIONAL MEDICAL CENTER",
+      "address": "101 HOSPITAL DRIVE",
+      "city": "MAGNOLIA",
+      "state": "AR",
+      "zipcode": "71753"
+    },
+    {
+      "id": "040069",
+      "name": "GREAT RIVER MEDICAL CENTER",
+      "address": "1520 N DIVISION STREET",
+      "city": "BLYTHEVILLE",
+      "state": "AR",
+      "zipcode": "72315"
+    },
+    {
+      "id": "040071",
+      "name": "JEFFERSON REGIONAL MEDICAL CENTER",
+      "address": "1600 WEST 40TH AVENUE",
+      "city": "PINE BLUFF",
+      "state": "AR",
+      "zipcode": "71603"
+    },
+    {
+      "id": "040072",
+      "name": "BAPTIST HEALTH MEDICAL CENTER-STUTTGART",
+      "address": "1703 NORTH BUERKLE ST",
+      "city": "STUTTGART",
+      "state": "AR",
+      "zipcode": "72160"
+    },
+    {
+      "id": "040076",
+      "name": "BAPTIST HEALTH MEDICAL CENTER-HOT SPRINGS COUNTY",
+      "address": "1001 SCHNEIDER DRIVE",
+      "city": "MALVERN",
+      "state": "AR",
+      "zipcode": "72104"
+    },
+    {
+      "id": "040078",
+      "name": "NATIONAL PARK MEDICAL CENTER",
+      "address": "1910 MALVERN AVENUE",
+      "city": "HOT SPRINGS",
+      "state": "AR",
+      "zipcode": "71901"
+    },
+    {
+      "id": "040084",
+      "name": "SALINE MEMORIAL HOSPITAL",
+      "address": "#1 MEDICAL PARK DRIVE",
+      "city": "BENTON",
+      "state": "AR",
+      "zipcode": "72015"
+    },
+    {
+      "id": "040088",
+      "name": "SOUTH ARKANSAS REGIONAL HOSPITAL LLC",
+      "address": "700 WEST GROVE STREET",
+      "city": "EL DORADO",
+      "state": "AR",
+      "zipcode": "71730"
+    },
+    {
+      "id": "040114",
+      "name": "BAPTIST HEALTH MEDICAL CENTER-LITTLE ROCK",
+      "address": "9601 BAPTIST HEALTH DRIVE",
+      "city": "LITTLE ROCK",
+      "state": "AR",
+      "zipcode": "72205"
+    },
+    {
+      "id": "040118",
+      "name": "NEA BAPTIST MEMORIAL HOSPITAL",
+      "address": "4800 EAST JOHNSON AVENUE",
+      "city": "JONESBORO",
+      "state": "AR",
+      "zipcode": "72405"
+    },
+    {
+      "id": "040119",
+      "name": "WHITE RIVER MEDICAL CENTER",
+      "address": "1710 HARRISON STREET",
+      "city": "BATESVILLE",
+      "state": "AR",
+      "zipcode": "72503"
+    },
+    {
+      "id": "040132",
+      "name": "LEVI HOSPITAL",
+      "address": "300 PROSPECT AVE",
+      "city": "HOT SPRINGS",
+      "state": "AR",
+      "zipcode": "71901"
+    },
+    {
+      "id": "040134",
+      "name": "ARKANSAS HEART HOSPITAL, LLC",
+      "address": "1701 S SHACKLEFORD ROAD",
+      "city": "LITTLE ROCK",
+      "state": "AR",
+      "zipcode": "72211"
+    },
+    {
+      "id": "040137",
+      "name": "ST VINCENT MEDICAL CENTER/NORTH",
+      "address": "2215 WILDWOOD AVENUE",
+      "city": "SHERWOOD",
+      "state": "AR",
+      "zipcode": "72120"
+    },
+    {
+      "id": "040147",
+      "name": "ARKANSAS SURGICAL HOSPITAL",
+      "address": "5201 NORTH SHORE DRIVE",
+      "city": "NO LITTLE ROCK",
+      "state": "AR",
+      "zipcode": "72118"
+    },
+    {
+      "id": "040153",
+      "name": "WADLEY REGIONAL MEDICAL CENTER AT HOPE",
+      "address": "2001 SOUTH MAIN",
+      "city": "HOPE",
+      "state": "AR",
+      "zipcode": "71801"
+    },
+    {
+      "id": "040154",
+      "name": "BAPTIST HEALTH MEDICAL CENTER- CONWAY",
+      "address": "1555 EXCHANGE AVENUE",
+      "city": "CONWAY",
+      "state": "AR",
+      "zipcode": "72032"
+    },
+    {
+      "id": "040156",
+      "name": "BAPTIST MEMORIAL HOSPITAL-CRITTENDEN, INC",
+      "address": "2100 NORTH SEVENTH STREET",
+      "city": "WEST MEMPHIS",
+      "state": "AR",
+      "zipcode": "72301"
+    },
+    {
+      "id": "040161",
+      "name": "ARKANSAS HEART HOSPITAL-ENCORE",
+      "address": "1901 ENCORE WAY",
+      "city": "BRYANT",
+      "state": "AR",
+      "zipcode": "72022"
+    },
+    {
+      "id": "040164",
+      "name": "UNITY HEALTH - JACKSONVILLE",
+      "address": "1400 BRADEN STREET",
+      "city": "JACKSONVILLE",
+      "state": "AR",
+      "zipcode": "72076"
+    },
+    {
+      "id": "040779",
+      "name": "ST BERNARDS FIVE RIVERS MEDICAL CENTER",
+      "address": "2801 MEDICAL CENTER DRIVE",
+      "city": "POCAHONTAS",
+      "state": "AR",
+      "zipcode": "72455"
+    },
+    {
+      "id": "040780",
+      "name": "EUREKA SPRINGS HOSPITAL COMMISSION",
+      "address": "24 NORRIS STREET",
+      "city": "EUREKA SPRINGS",
+      "state": "AR",
+      "zipcode": "72632"
+    },
+    {
+      "id": "040781",
+      "name": "HELENA REGIONAL MEDICAL CENTER",
+      "address": "1801 MARTIN LUTHER KING JR DRIVE",
+      "city": "HELENA",
+      "state": "AR",
+      "zipcode": "72342"
+    },
+    {
+      "id": "041300",
+      "name": "MERCY HOSPITAL PARIS",
+      "address": "500 EAST ACADEMY",
+      "city": "PARIS",
+      "state": "AR",
+      "zipcode": "72855"
+    },
+    {
+      "id": "041302",
+      "name": "DARDANELLE REGIONAL MEDICAL CENTER",
+      "address": "200 NORTH THIRD STREET",
+      "city": "DARDANELLE",
+      "state": "AR",
+      "zipcode": "72834"
+    },
+    {
+      "id": "041303",
+      "name": "MERCY HOSPITAL OZARK",
+      "address": "801 WEST RIVER STREET",
+      "city": "OZARK",
+      "state": "AR",
+      "zipcode": "72949"
+    },
+    {
+      "id": "041305",
+      "name": "MERCY HOSPITAL WALDRON",
+      "address": "1341 WEST SIXTH STREET",
+      "city": "WALDRON",
+      "state": "AR",
+      "zipcode": "72958"
+    },
+    {
+      "id": "041306",
+      "name": "IZARD REGIONAL HOSPITAL LLC",
+      "address": "61 GRASSE STREET",
+      "city": "CALICO ROCK",
+      "state": "AR",
+      "zipcode": "72519"
+    },
+    {
+      "id": "041307",
+      "name": "CROSSRIDGE COMMUNITY HOSPITAL",
+      "address": "310 SOUTH FALLS BOULEVARD",
+      "city": "WYNNE",
+      "state": "AR",
+      "zipcode": "72396"
+    },
+    {
+      "id": "041308",
+      "name": "MCGEHEE HOSPITAL",
+      "address": "900 SOUTH THIRD STREET",
+      "city": "MCGEHEE",
+      "state": "AR",
+      "zipcode": "71654"
+    },
+    {
+      "id": "041309",
+      "name": "LAWRENCE MEMORIAL HOSPITAL",
+      "address": "1309 WEST MAIN STREET",
+      "city": "WALNUT RIDGE",
+      "state": "AR",
+      "zipcode": "72476"
+    },
+    {
+      "id": "041310",
+      "name": "STONE COUNTY MEDICAL CENTER",
+      "address": "2106 EAST MAIN STREET",
+      "city": "MOUNTAIN VIEW",
+      "state": "AR",
+      "zipcode": "72560"
+    },
+    {
+      "id": "041311",
+      "name": "HOWARD MEMORIAL HOSPITAL",
+      "address": "130 MEDICAL CIRCLE",
+      "city": "NASHVILLE",
+      "state": "AR",
+      "zipcode": "71852"
+    },
+    {
+      "id": "041312",
+      "name": "BAPTIST HEALTH MEDICAL CENTER HEBER SPINGS",
+      "address": "1800 BYPASS ROAD",
+      "city": "HEBER SPRINGS",
+      "state": "AR",
+      "zipcode": "72543"
+    },
+    {
+      "id": "041313",
+      "name": "OZARK HEALTH",
+      "address": "2500 HIGHWAY 65 SOUTH",
+      "city": "CLINTON",
+      "state": "AR",
+      "zipcode": "72031"
+    },
+    {
+      "id": "041314",
+      "name": "DEWITT HOSPITAL & NURSING HOME, INC",
+      "address": "1641 WHITEHEAD DRIVE",
+      "city": "DE WITT",
+      "state": "AR",
+      "zipcode": "72042"
+    },
+    {
+      "id": "041316",
+      "name": "SOUTH MISSISSISSPI COUNTY REGIONAL MEDICAL CENTER",
+      "address": "611 WEST LEE AVENUE",
+      "city": "OSCEOLA",
+      "state": "AR",
+      "zipcode": "72370"
+    },
+    {
+      "id": "041317",
+      "name": "DALLAS COUNTY MEDICAL CENTER",
+      "address": "201 CLIFTON STREET",
+      "city": "FORDYCE",
+      "state": "AR",
+      "zipcode": "71742"
+    },
+    {
+      "id": "041318",
+      "name": "MERCY HOSPITAL BOONEVILLE",
+      "address": "880 WEST MAIN",
+      "city": "BOONEVILLE",
+      "state": "AR",
+      "zipcode": "72927"
+    },
+    {
+      "id": "041320",
+      "name": "LITTLE RIVER MEMORIAL HOSPITAL",
+      "address": "451 WEST LOCKE STREET",
+      "city": "ASHDOWN",
+      "state": "AR",
+      "zipcode": "71822"
+    },
+    {
+      "id": "041321",
+      "name": "BAPTIST HEALTH MEDICAL CENTER-ARKADELPHIA",
+      "address": "3050 TWIN RIVERS DRIVE",
+      "city": "ARKADELPHIA",
+      "state": "AR",
+      "zipcode": "71923"
+    },
+    {
+      "id": "041322",
+      "name": "FULTON COUNTY HOSPITAL",
+      "address": "679 NORTH MAIN STREET",
+      "city": "SALEM",
+      "state": "AR",
+      "zipcode": "72576"
+    },
+    {
+      "id": "041323",
+      "name": "ASHLEY COUNTY MEDICAL CENTER",
+      "address": "1015 UNITY ROAD",
+      "city": "CROSSETT",
+      "state": "AR",
+      "zipcode": "71635"
+    },
+    {
+      "id": "041324",
+      "name": "CHI ST VINCENT MORRILTON",
+      "address": "#4 HOSPITAL DRIVE",
+      "city": "MORRILTON",
+      "state": "AR",
+      "zipcode": "72110"
+    },
+    {
+      "id": "041326",
+      "name": "DELTA MEMORIAL HOSPITAL",
+      "address": "811 HIGHWAY 65 SOUTH",
+      "city": "DUMAS",
+      "state": "AR",
+      "zipcode": "71639"
+    },
+    {
+      "id": "041327",
+      "name": "BRADLEY COUNTY MEDICAL CENTER",
+      "address": "404 SOUTH BRADLEY STREET",
+      "city": "WARREN",
+      "state": "AR",
+      "zipcode": "71671"
+    },
+    {
+      "id": "041328",
+      "name": "CHICOT MEMORIAL MEDICAL CENTER",
+      "address": "2729 SOUTH HIGHWAY 65 & 82",
+      "city": "LAKE VILLAGE",
+      "state": "AR",
+      "zipcode": "71653"
+    },
+    {
+      "id": "041329",
+      "name": "MERCY HOSPITAL BERRYVILLE",
+      "address": "214 CARTER STREET",
+      "city": "BERRYVILLE",
+      "state": "AR",
+      "zipcode": "72616"
+    },
+    {
+      "id": "041330",
+      "name": "PIGGOTT COMMUNITY HOSPITAL",
+      "address": "1206 GORDON DUCKWORTH DRIVE",
+      "city": "PIGGOTT",
+      "state": "AR",
+      "zipcode": "72454"
+    },
+    {
+      "id": "041331",
+      "name": "OZARKS COMMUNITY HOSPITAL OF GRAVETTE",
+      "address": "1101 JACKSON STREET SW",
+      "city": "GRAVETTE",
+      "state": "AR",
+      "zipcode": "72736"
+    },
+    {
+      "id": "041332",
+      "name": "UNITY HEALTH - NEWPORT",
+      "address": "1205 MCLAIN STREET",
+      "city": "NEWPORT",
+      "state": "AR",
+      "zipcode": "72112"
+    },
+    {
+      "id": "041333",
+      "name": "SEVIER COUNTY MEDICAL CENTER",
+      "address": "960 HWY 71 N",
+      "city": "DE QUEEN",
+      "state": "AR",
+      "zipcode": "71832"
+    }
+  ]
+}

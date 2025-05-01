@@ -1,0 +1,692 @@
+{
+  "hospitals": [
+    {
+      "id": "500002",
+      "name": "PROVIDENCE ST MARY MEDICAL CENTER",
+      "address": "401 W POPLAR ST",
+      "city": "WALLA WALLA",
+      "state": "WA",
+      "zipcode": "99362"
+    },
+    {
+      "id": "500003",
+      "name": "SKAGIT VALLEY HOSPITAL",
+      "address": "1415 E KINCAID STREET",
+      "city": "MOUNT VERNON",
+      "state": "WA",
+      "zipcode": "98274"
+    },
+    {
+      "id": "500005",
+      "name": "VIRGINIA MASON MEDICAL CENTER",
+      "address": "925 SENECA ST",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98101"
+    },
+    {
+      "id": "500007",
+      "name": "ISLAND HOSPITAL",
+      "address": "1211  24TH STREET",
+      "city": "ANACORTES",
+      "state": "WA",
+      "zipcode": "98221"
+    },
+    {
+      "id": "500008",
+      "name": "UNIVERSITY OF WASHINGTON MEDICAL CTR",
+      "address": "1959 NE PACIFIC ST  BOX 356151",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98195"
+    },
+    {
+      "id": "500011",
+      "name": "ST ANNE HOSPITAL",
+      "address": "16251 SYLVESTER ROAD SW",
+      "city": "BURIEN",
+      "state": "WA",
+      "zipcode": "98166"
+    },
+    {
+      "id": "500014",
+      "name": "PROVIDENCE REGIONAL MEDICAL CENTER EVERETT",
+      "address": "1321 COLBY AVENUE",
+      "city": "EVERETT",
+      "state": "WA",
+      "zipcode": "98201"
+    },
+    {
+      "id": "500015",
+      "name": "MULTICARE AUBURN MEDICAL CENTER",
+      "address": "202 NORTH DIVISION STREET PLAZA ONE",
+      "city": "AUBURN",
+      "state": "WA",
+      "zipcode": "98001"
+    },
+    {
+      "id": "500016",
+      "name": "CONFLUENCE HEALTH HOSPITAL",
+      "address": "1201 S MILLER STREET",
+      "city": "WENATCHEE",
+      "state": "WA",
+      "zipcode": "98807"
+    },
+    {
+      "id": "500019",
+      "name": "PROVIDENCE CENTRALIA HOSPITAL",
+      "address": "914 S SCHEUBER ROAD",
+      "city": "CENTRALIA",
+      "state": "WA",
+      "zipcode": "98531"
+    },
+    {
+      "id": "500021",
+      "name": "ST CLARE HOSPITAL",
+      "address": "11315 BRIDGEPORT WAY S W",
+      "city": "LAKEWOOD",
+      "state": "WA",
+      "zipcode": "98499"
+    },
+    {
+      "id": "500024",
+      "name": "PROVIDENCE ST PETER HOSPITAL",
+      "address": "413 LILLY ROAD NE",
+      "city": "OLYMPIA",
+      "state": "WA",
+      "zipcode": "98506"
+    },
+    {
+      "id": "500025",
+      "name": "SWEDISH MEDICAL CENTER / CHERRY HILL",
+      "address": "500 17TH AVENUE",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98122"
+    },
+    {
+      "id": "500026",
+      "name": "SWEDISH EDMONDS HOSPITAL",
+      "address": "21601 76TH AVENUE WEST",
+      "city": "EDMONDS",
+      "state": "WA",
+      "zipcode": "98026"
+    },
+    {
+      "id": "500027",
+      "name": "SWEDISH MEDICAL CENTER",
+      "address": "747 BROADWAY",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98122"
+    },
+    {
+      "id": "500030",
+      "name": "PEACEHEALTH ST JOSEPH MEDICAL CENTER",
+      "address": "2901 SQUALICUM PARKWAY",
+      "city": "BELLINGHAM",
+      "state": "WA",
+      "zipcode": "98225"
+    },
+    {
+      "id": "500031",
+      "name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+      "address": "915 ANDERSON DRIVE",
+      "city": "ABERDEEN",
+      "state": "WA",
+      "zipcode": "98520"
+    },
+    {
+      "id": "500033",
+      "name": "SAMARITAN HOSPITAL",
+      "address": "801 EAST WHEELER ROAD",
+      "city": "MOSES LAKE",
+      "state": "WA",
+      "zipcode": "98837"
+    },
+    {
+      "id": "500036",
+      "name": "YAKIMA VALLEY MEMORIAL",
+      "address": "2811 TIETON DRIVE",
+      "city": "YAKIMA",
+      "state": "WA",
+      "zipcode": "98902"
+    },
+    {
+      "id": "500037",
+      "name": "ASTRIA TOPPENISH HOSPITAL",
+      "address": "502 W FOURTH AVE",
+      "city": "TOPPENISH",
+      "state": "WA",
+      "zipcode": "98948"
+    },
+    {
+      "id": "500039",
+      "name": "ST MICHAEL MEDICAL CENTER",
+      "address": "2520 CHERRY AVENUE",
+      "city": "BREMERTON",
+      "state": "WA",
+      "zipcode": "98310"
+    },
+    {
+      "id": "500041",
+      "name": "PEACEHEALTH ST JOHN MEDICAL CENTER",
+      "address": "1615 DELAWARE STREET",
+      "city": "LONGVIEW",
+      "state": "WA",
+      "zipcode": "98632"
+    },
+    {
+      "id": "500044",
+      "name": "MULTICARE DEACONESS HOSPITAL",
+      "address": "W 800 FIFTH AVENUE",
+      "city": "SPOKANE",
+      "state": "WA",
+      "zipcode": "99210"
+    },
+    {
+      "id": "500050",
+      "name": "PEACEHEALTH SOUTHWEST MEDICAL CENTE",
+      "address": "400 NE MOTHER JOSEPH PLACE",
+      "city": "VANCOUVER",
+      "state": "WA",
+      "zipcode": "98668"
+    },
+    {
+      "id": "500051",
+      "name": "OVERLAKE HOSPITAL MEDICAL CENTER",
+      "address": "1035-116TH AVE NE",
+      "city": "BELLEVUE",
+      "state": "WA",
+      "zipcode": "98004"
+    },
+    {
+      "id": "500052",
+      "name": "KAISER PERMANENTE CENTRAL HOSPITAL",
+      "address": "201 - 16TH AVENUE EAST",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98112"
+    },
+    {
+      "id": "500053",
+      "name": "TRIOS",
+      "address": "900 SOUTH AUBURN STREET",
+      "city": "KENNEWICK",
+      "state": "WA",
+      "zipcode": "99336"
+    },
+    {
+      "id": "500054",
+      "name": "PROV SACRED HRT MED CTR & CHILDS HOSP.",
+      "address": "101 WEST 8TH AVENUE",
+      "city": "SPOKANE",
+      "state": "WA",
+      "zipcode": "99204"
+    },
+    {
+      "id": "500058",
+      "name": "KADLEC REGIONAL MEDICAL CENTER",
+      "address": "888 SWIFT BLVD",
+      "city": "RICHLAND",
+      "state": "WA",
+      "zipcode": "99352"
+    },
+    {
+      "id": "500060",
+      "name": "CASCADE VALLEY HOSPITAL",
+      "address": "330 S STILLAGUAMISH AVE",
+      "city": "ARLINGTON",
+      "state": "WA",
+      "zipcode": "98223"
+    },
+    {
+      "id": "500064",
+      "name": "HARBORVIEW MEDICAL CENTER",
+      "address": "325 9TH AVENUE",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98104"
+    },
+    {
+      "id": "500072",
+      "name": "OLYMPIC MEDICAL CENTER",
+      "address": "939 CAROLINE ST",
+      "city": "PORT ANGELES",
+      "state": "WA",
+      "zipcode": "98362"
+    },
+    {
+      "id": "500077",
+      "name": "PROVIDENCE HOLY FAMILY HOSPITAL",
+      "address": "5633 NORTH LIDGERWOOD",
+      "city": "SPOKANE",
+      "state": "WA",
+      "zipcode": "99208"
+    },
+    {
+      "id": "500079",
+      "name": "MULTICARE GOOD SAMARITAN HOSPITAL",
+      "address": "401 15TH AVENUE SE",
+      "city": "PUYALLUP",
+      "state": "WA",
+      "zipcode": "98372"
+    },
+    {
+      "id": "500084",
+      "name": "EVERGREENHEALTH MONROE",
+      "address": "14701 179TH AVE SE",
+      "city": "MONROE",
+      "state": "WA",
+      "zipcode": "98272"
+    },
+    {
+      "id": "500088",
+      "name": "VALLEY MEDICAL CENTER",
+      "address": "400 S 43RD ST",
+      "city": "RENTON",
+      "state": "WA",
+      "zipcode": "98055"
+    },
+    {
+      "id": "500108",
+      "name": "ST JOSEPH MEDICAL CENTER",
+      "address": "1717 SOUTH J STREET",
+      "city": "TACOMA",
+      "state": "WA",
+      "zipcode": "98405"
+    },
+    {
+      "id": "500119",
+      "name": "MULTICARE VALLEY HOSPITAL",
+      "address": "12606 EAST MISSION AVENUE",
+      "city": "SPOKANE",
+      "state": "WA",
+      "zipcode": "99216"
+    },
+    {
+      "id": "500124",
+      "name": "EVERGREENHEALTH MEDICAL CENTER",
+      "address": "12040 NE 128TH STREET",
+      "city": "KIRKLAND",
+      "state": "WA",
+      "zipcode": "98034"
+    },
+    {
+      "id": "500129",
+      "name": "TACOMA GENERAL ALLENMORE HOSPITAL",
+      "address": "315 S MLK JR WAY",
+      "city": "TACOMA",
+      "state": "WA",
+      "zipcode": "98405"
+    },
+    {
+      "id": "500138",
+      "name": "FRED HUTCHINSON CANCER CENTER",
+      "address": "825 EASTLAKE AVENUE EAST",
+      "city": "SEATTLE",
+      "state": "WA",
+      "zipcode": "98109"
+    },
+    {
+      "id": "500139",
+      "name": "MULTICARE CAPITAL MEDICAL CENTER",
+      "address": "3900 CAPITAL MALL DR SW",
+      "city": "OLYMPIA",
+      "state": "WA",
+      "zipcode": "98502"
+    },
+    {
+      "id": "500141",
+      "name": "ST FRANCIS COMMUNITY HOSPITAL",
+      "address": "34515 9TH AVENUE S",
+      "city": "FEDERAL WAY",
+      "state": "WA",
+      "zipcode": "98003"
+    },
+    {
+      "id": "500150",
+      "name": "LEGACY SALMON CREEK MEDICAL CENTER",
+      "address": "2211 NE 139TH STREET",
+      "city": "VANCOUVER",
+      "state": "WA",
+      "zipcode": "98686"
+    },
+    {
+      "id": "500151",
+      "name": "ST ANTHONY HOSPITAL",
+      "address": "11567 CANTERWOOD BOULEVARD NW",
+      "city": "GIG HARBOR",
+      "state": "WA",
+      "zipcode": "98332"
+    },
+    {
+      "id": "500152",
+      "name": "SWEDISH ISSAQUAH",
+      "address": "751 NE BLAKELY DR",
+      "city": "ISSAQUAH",
+      "state": "WA",
+      "zipcode": "98029"
+    },
+    {
+      "id": "500154",
+      "name": "MULTICARE COVINGTON MEDICAL CENTER",
+      "address": "17700 SE 272ND ST",
+      "city": "COVINGTON",
+      "state": "WA",
+      "zipcode": "98042"
+    },
+    {
+      "id": "501301",
+      "name": "GARFIELD COUNTY MEMORIAL HOSPITAL",
+      "address": "66 NORTH SIXTH STREET",
+      "city": "POMEROY",
+      "state": "WA",
+      "zipcode": "99347"
+    },
+    {
+      "id": "501302",
+      "name": "DAYTON GENERAL HOSPITAL",
+      "address": "1012 SOUTH 3RD STREET",
+      "city": "DAYTON",
+      "state": "WA",
+      "zipcode": "99328"
+    },
+    {
+      "id": "501303",
+      "name": "WILLAPA HARBOR HOSPITAL",
+      "address": "800 ALDER STREET",
+      "city": "SOUTH BEND",
+      "state": "WA",
+      "zipcode": "98586"
+    },
+    {
+      "id": "501304",
+      "name": "SUMMIT PACIFIC MEDICAL CENTER",
+      "address": "600 EAST MAIN STREET",
+      "city": "ELMA",
+      "state": "WA",
+      "zipcode": "98541"
+    },
+    {
+      "id": "501305",
+      "name": "LINCOLN HOSPITAL",
+      "address": "10 NICHOLS STREET",
+      "city": "DAVENPORT",
+      "state": "WA",
+      "zipcode": "99122"
+    },
+    {
+      "id": "501307",
+      "name": "ODESSA MEMORIAL HEALTHCARE CENTER",
+      "address": "502 E AMENDE DRIVE",
+      "city": "ODESSA",
+      "state": "WA",
+      "zipcode": "99159"
+    },
+    {
+      "id": "501308",
+      "name": "COULEE MEDICAL CENTER",
+      "address": "411 FORTUYN ROAD",
+      "city": "GRAND COULEE",
+      "state": "WA",
+      "zipcode": "99133"
+    },
+    {
+      "id": "501309",
+      "name": "PROVIDENCE ST JOSEPH HOSPITAL",
+      "address": "500 EAST WEBSTER",
+      "city": "CHEWELAH",
+      "state": "WA",
+      "zipcode": "99109"
+    },
+    {
+      "id": "501310",
+      "name": "NEWPORT COMMUNITY HOSPITAL",
+      "address": "714 WEST PINE STREET",
+      "city": "NEWPORT",
+      "state": "WA",
+      "zipcode": "99156"
+    },
+    {
+      "id": "501311",
+      "name": "EAST ADAMS RURAL HOSPITAL",
+      "address": "903 SOUTH ADAMS",
+      "city": "RITZVILLE",
+      "state": "WA",
+      "zipcode": "99169"
+    },
+    {
+      "id": "501312",
+      "name": "PROSSER MEMORIAL HOSPITAL",
+      "address": "723 MEMORIAL STREET",
+      "city": "PROSSER",
+      "state": "WA",
+      "zipcode": "99350"
+    },
+    {
+      "id": "501313",
+      "name": "CASCADE MEDICAL CENTER",
+      "address": "817 COMMERCIAL STREET",
+      "city": "LEAVENWORTH",
+      "state": "WA",
+      "zipcode": "98826"
+    },
+    {
+      "id": "501314",
+      "name": "OCEAN BEACH HOSPITAL",
+      "address": "174 FIRST AVENUE NORTH",
+      "city": "ILWACO",
+      "state": "WA",
+      "zipcode": "98624"
+    },
+    {
+      "id": "501315",
+      "name": "SKYLINE HOSPITAL",
+      "address": "211 SKYLINE DRIVE",
+      "city": "WHITE SALMON",
+      "state": "WA",
+      "zipcode": "98672"
+    },
+    {
+      "id": "501316",
+      "name": "KLICKITAT VALLEY HOSPITAL",
+      "address": "310 SOUTH ROOSEVELT ST",
+      "city": "GOLDENDALE",
+      "state": "WA",
+      "zipcode": "98620"
+    },
+    {
+      "id": "501317",
+      "name": "COLUMBIA BASIN HOSPITAL",
+      "address": "200 NAT WASHINGTON WAY",
+      "city": "EPHRATA",
+      "state": "WA",
+      "zipcode": "98823"
+    },
+    {
+      "id": "501318",
+      "name": "OTHELLO COMMUNITY HOSPITAL",
+      "address": "315 NORTH 14TH AVENUE",
+      "city": "OTHELLO",
+      "state": "WA",
+      "zipcode": "99344"
+    },
+    {
+      "id": "501319",
+      "name": "ARBOR HEALTH MORTON HOSPITAL",
+      "address": "521 ADAMS STREET",
+      "city": "MORTON",
+      "state": "WA",
+      "zipcode": "98356"
+    },
+    {
+      "id": "501320",
+      "name": "QUINCY VALLEY HOSPITAL",
+      "address": "908 10TH AVENUE SOUTHWEST",
+      "city": "QUINCY",
+      "state": "WA",
+      "zipcode": "98848"
+    },
+    {
+      "id": "501321",
+      "name": "NORTH VALLEY HOSPITAL",
+      "address": "203 SOUTH WESTERN",
+      "city": "TONASKET",
+      "state": "WA",
+      "zipcode": "98855"
+    },
+    {
+      "id": "501322",
+      "name": "FERRY COUNTY MEMORIAL HOSPITAL",
+      "address": "36 KLONDIKE ROAD",
+      "city": "REPUBLIC",
+      "state": "WA",
+      "zipcode": "99166"
+    },
+    {
+      "id": "501323",
+      "name": "JEFFERSON HEALTHCARE",
+      "address": "834 SHERIDAN STREET",
+      "city": "PORT TOWNSEND",
+      "state": "WA",
+      "zipcode": "98368"
+    },
+    {
+      "id": "501324",
+      "name": "THREE RIVERS HOSPITAL",
+      "address": "507 HOSPITAL WAY",
+      "city": "BREWSTER",
+      "state": "WA",
+      "zipcode": "98812"
+    },
+    {
+      "id": "501325",
+      "name": "FORKS COMMUNITY HOSPITAL",
+      "address": "530 BOGACHIEL WAY",
+      "city": "FORKS",
+      "state": "WA",
+      "zipcode": "98331"
+    },
+    {
+      "id": "501326",
+      "name": "PROVIDENCE MOUNT CARMEL HOSPITAL",
+      "address": "982 EAST COLUMBIA",
+      "city": "COLVILLE",
+      "state": "WA",
+      "zipcode": "99114"
+    },
+    {
+      "id": "501327",
+      "name": "WHITMAN HOSPITAL AND MEDICAL CENTER",
+      "address": "1200 WEST FAIRVIEW",
+      "city": "COLFAX",
+      "state": "WA",
+      "zipcode": "99111"
+    },
+    {
+      "id": "501328",
+      "name": "MID VALLEY HOSPITAL",
+      "address": "810 JASMINE STREET",
+      "city": "OMAK",
+      "state": "WA",
+      "zipcode": "98841"
+    },
+    {
+      "id": "501329",
+      "name": "PEACEHEALTH UNITED GENERAL MEDICAL CENTER",
+      "address": "2000 HOSPITAL DRIVE",
+      "city": "SEDRO WOOLLEY",
+      "state": "WA",
+      "zipcode": "98284"
+    },
+    {
+      "id": "501330",
+      "name": "ASTRIA SUNNYSIDE HOSPITAL",
+      "address": "1016 TACOMA AVENUE",
+      "city": "SUNNYSIDE",
+      "state": "WA",
+      "zipcode": "98944"
+    },
+    {
+      "id": "501331",
+      "name": "PULLMAN REGIONAL HOSPITAL",
+      "address": "835 S BISHOP BLVD",
+      "city": "PULLMAN",
+      "state": "WA",
+      "zipcode": "99163"
+    },
+    {
+      "id": "501332",
+      "name": "TRI-STATE MEMORIAL HOSPITAL",
+      "address": "1221 HIGHLAND AVENUE",
+      "city": "CLARKSTON",
+      "state": "WA",
+      "zipcode": "99403"
+    },
+    {
+      "id": "501333",
+      "name": "KITTITAS VALLEY COMMUNITY HOSPITAL",
+      "address": "603 SOUTH CHESTNUT",
+      "city": "ELLENSBURG",
+      "state": "WA",
+      "zipcode": "98926"
+    },
+    {
+      "id": "501334",
+      "name": "LAKE CHELAN COMMUNITY HOSPITAL",
+      "address": "110 S APPLE BLOSSOM DR",
+      "city": "CHELAN",
+      "state": "WA",
+      "zipcode": "98816"
+    },
+    {
+      "id": "501335",
+      "name": "ST ELIZABETH HOSPITAL",
+      "address": "1450 BATTERSBY AVENUE",
+      "city": "ENUMCLAW",
+      "state": "WA",
+      "zipcode": "98022"
+    },
+    {
+      "id": "501336",
+      "name": "MASON GENERAL HOSPITAL & FAMILY OF CLINICS",
+      "address": "901 MT VIEW DRIVE",
+      "city": "SHELTON",
+      "state": "WA",
+      "zipcode": "98584"
+    },
+    {
+      "id": "501337",
+      "name": "LOURDES MEDICAL CENTER",
+      "address": "520 N FOURTH AVENUE",
+      "city": "PASCO",
+      "state": "WA",
+      "zipcode": "99301"
+    },
+    {
+      "id": "501338",
+      "name": "SNOQUALMIE VALLEY HOSPITAL",
+      "address": "9801 FRONTIER AVE SE",
+      "city": "SNOQUALMIE",
+      "state": "WA",
+      "zipcode": "98065"
+    },
+    {
+      "id": "501339",
+      "name": "WHIDBEYHEALTH MEDICAL CENTER",
+      "address": "101 NORTH MAIN STREET",
+      "city": "COUPEVILLE",
+      "state": "WA",
+      "zipcode": "98239"
+    },
+    {
+      "id": "501340",
+      "name": "PEACEHEALTH PEACE ISLAND MEDICAL CENTER",
+      "address": "1117 SPRING STREET",
+      "city": "FRIDAY HARBOR",
+      "state": "WA",
+      "zipcode": "98250"
+    }
+  ]
+}

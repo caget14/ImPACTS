@@ -1,0 +1,356 @@
+{
+  "hospitals": [
+    {
+      "id": "210001",
+      "name": "MERITUS MEDICAL CENTER",
+      "address": "11116 MEDICAL CAMPUS ROAD",
+      "city": "HAGERSTOWN",
+      "state": "MD",
+      "zipcode": "21742"
+    },
+    {
+      "id": "210002",
+      "name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
+      "address": "22 SOUTH  GREENE STREET",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21201"
+    },
+    {
+      "id": "210003",
+      "name": "UNIVERSITY OF MD CAPITAL REGION MEDICAL CENTER",
+      "address": "901 NORTH HARRY S TRUMAN DRIVE",
+      "city": "UPPER MARLBORO",
+      "state": "MD",
+      "zipcode": "20774"
+    },
+    {
+      "id": "210004",
+      "name": "HOLY CROSS HOSPITAL",
+      "address": "1500 FOREST GLEN ROAD",
+      "city": "SILVER SPRING",
+      "state": "MD",
+      "zipcode": "20910"
+    },
+    {
+      "id": "210005",
+      "name": "FREDERICK HEALTH HOSPITAL",
+      "address": "400 WEST SEVENTH ST",
+      "city": "FREDERICK",
+      "state": "MD",
+      "zipcode": "21701"
+    },
+    {
+      "id": "210006",
+      "name": "UNIVERSITY OF MD HARFORD MEMORIAL HOSPITAL",
+      "address": "501 SOUTH  UNION AVENUE",
+      "city": "HAVRE DE GRACE",
+      "state": "MD",
+      "zipcode": "21078"
+    },
+    {
+      "id": "210008",
+      "name": "MERCY MEDICAL CENTER INC",
+      "address": "301 SAINT PAUL PLACE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21202"
+    },
+    {
+      "id": "210009",
+      "name": "JOHNS HOPKINS HOSPITAL, THE",
+      "address": "600 NORTH  WOLFE STREET",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21287"
+    },
+    {
+      "id": "210011",
+      "name": "SAINT AGNES HOSPITAL",
+      "address": "900 CATON AVENUE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21229"
+    },
+    {
+      "id": "210012",
+      "name": "SINAI HOSPITAL OF BALTIMORE",
+      "address": "2401 WEST BELVEDERE AVENUE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21215"
+    },
+    {
+      "id": "210015",
+      "name": "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
+      "address": "9000 FRANKLIN SQUARE DRIVE",
+      "city": "ROSEDALE",
+      "state": "MD",
+      "zipcode": "21237"
+    },
+    {
+      "id": "210016",
+      "name": "ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER",
+      "address": "11890 HEALING WAY",
+      "city": "SILVER SPRING",
+      "state": "MD",
+      "zipcode": "20904"
+    },
+    {
+      "id": "210017",
+      "name": "GARRETT REGIONAL MEDICAL CENTER",
+      "address": "251 NORTH  FOURTH STREET",
+      "city": "OAKLAND",
+      "state": "MD",
+      "zipcode": "21550"
+    },
+    {
+      "id": "210018",
+      "name": "MEDSTAR MONTGOMERY MEDICAL CENTER",
+      "address": "18101 PRINCE PHILIP DRIVE",
+      "city": "OLNEY",
+      "state": "MD",
+      "zipcode": "20832"
+    },
+    {
+      "id": "210019",
+      "name": "TIDALHEALTH PENINSULA REGIONAL, INC",
+      "address": "100 EAST CARROLL AVENUE",
+      "city": "SALISBURY",
+      "state": "MD",
+      "zipcode": "21801"
+    },
+    {
+      "id": "210022",
+      "name": "SUBURBAN HOSPITAL",
+      "address": "8600 OLD GEORGETOWN ROAD",
+      "city": "BETHESDA",
+      "state": "MD",
+      "zipcode": "20814"
+    },
+    {
+      "id": "210023",
+      "name": "LUMINIS HEALTH ANNE ARUNDEL MEDICAL CENTER, INC",
+      "address": "2001 MEDICAL PARKWAY",
+      "city": "ANNAPOLIS",
+      "state": "MD",
+      "zipcode": "21401"
+    },
+    {
+      "id": "210024",
+      "name": "MEDSTAR UNION MEMORIAL HOSPITAL",
+      "address": "201 EAST UNIVERSITY PARKWAY",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21218"
+    },
+    {
+      "id": "210027",
+      "name": "U P M C WESTERN MARYLAND",
+      "address": "12500 WILLOWBROOK ROAD",
+      "city": "CUMBERLAND",
+      "state": "MD",
+      "zipcode": "21502"
+    },
+    {
+      "id": "210028",
+      "name": "MEDSTAR SAINT MARY'S HOSPITAL",
+      "address": "25500 POINT LOOKOUT ROAD",
+      "city": "LEONARDTOWN",
+      "state": "MD",
+      "zipcode": "20650"
+    },
+    {
+      "id": "210029",
+      "name": "JOHNS HOPKINS BAYVIEW MEDICAL CENTER",
+      "address": "4940 EASTERN AVENUE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21224"
+    },
+    {
+      "id": "210030",
+      "name": "UMD SHORE MEDICAL CTR AT CHESTERTOWN",
+      "address": "100 BROWN STREET",
+      "city": "CHESTERTOWN",
+      "state": "MD",
+      "zipcode": "21620"
+    },
+    {
+      "id": "210032",
+      "name": "UNION HOSPITAL OF CECIL COUNTY",
+      "address": "106 BOW STREET",
+      "city": "ELKTON",
+      "state": "MD",
+      "zipcode": "21921"
+    },
+    {
+      "id": "210033",
+      "name": "CARROLL HOSPITAL CENTER",
+      "address": "200 MEMORIAL AVENUE",
+      "city": "WESTMINSTER",
+      "state": "MD",
+      "zipcode": "21157"
+    },
+    {
+      "id": "210034",
+      "name": "MEDSTAR HARBOR HOSPITAL",
+      "address": "3001 SOUTH  HANOVER STREET",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21225"
+    },
+    {
+      "id": "210035",
+      "name": "UNIVERSITY OF MD CHARLES REGIONAL  MEDICAL CENTER",
+      "address": "5 GARRETT AVENUE",
+      "city": "LA PLATA",
+      "state": "MD",
+      "zipcode": "20646"
+    },
+    {
+      "id": "210037",
+      "name": "UNIVERSITY OF MD SHORE MEDICAL CENTER AT EASTON",
+      "address": "219 SOUTH  WASHINGTON STREET",
+      "city": "EASTON",
+      "state": "MD",
+      "zipcode": "21601"
+    },
+    {
+      "id": "210038",
+      "name": "UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS",
+      "address": "827 LINDEN AVENUE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21201"
+    },
+    {
+      "id": "210039",
+      "name": "CALVERTHEALTH MEDICAL CENTER",
+      "address": "100 HOSPITAL ROAD",
+      "city": "PRINCE FREDERICK",
+      "state": "MD",
+      "zipcode": "20678"
+    },
+    {
+      "id": "210040",
+      "name": "NORTHWEST HOSPITAL CENTER",
+      "address": "5401 OLD COURT ROAD",
+      "city": "RANDALLSTOWN",
+      "state": "MD",
+      "zipcode": "21133"
+    },
+    {
+      "id": "210043",
+      "name": "UMD BALTIMORE WASHINGTON  MEDICAL CENTER",
+      "address": "301 HOSPITAL DRIVE",
+      "city": "GLEN BURNIE",
+      "state": "MD",
+      "zipcode": "21061"
+    },
+    {
+      "id": "210044",
+      "name": "GREATER BALTIMORE MEDICAL CENTER",
+      "address": "6701 NORTH  CHARLES STREET",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21204"
+    },
+    {
+      "id": "210048",
+      "name": "JOHNS HOPKINS HOWARD COUNTY MEDICAL CENTER",
+      "address": "5755 CEDAR LANE",
+      "city": "COLUMBIA",
+      "state": "MD",
+      "zipcode": "21044"
+    },
+    {
+      "id": "210049",
+      "name": "UNIVERSITY OF MD UPPER CHESAPEAKE MEDICAL CENTER",
+      "address": "500 UPPER CHESAPEAKE DRIVE",
+      "city": "BEL AIR",
+      "state": "MD",
+      "zipcode": "21014"
+    },
+    {
+      "id": "210051",
+      "name": "LUMINIS HEALTH DOCTORS COMMUNITY MEDICAL CTR, INC",
+      "address": "8118 GOOD LUCK ROAD",
+      "city": "LANHAM",
+      "state": "MD",
+      "zipcode": "20706"
+    },
+    {
+      "id": "210056",
+      "name": "MEDSTAR GOOD SAMARITAN HOSPITAL",
+      "address": "5601 LOCH RAVEN BOULEVARD",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21239"
+    },
+    {
+      "id": "210057",
+      "name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
+      "address": "9901 MEDICAL CENTER DRIVE",
+      "city": "ROCKVILLE",
+      "state": "MD",
+      "zipcode": "20850"
+    },
+    {
+      "id": "210058",
+      "name": "UMD REHABILITATION &  ORTHOPAEDIC INSTITUTE",
+      "address": "2200 KERNAN DRIVE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21207"
+    },
+    {
+      "id": "210060",
+      "name": "ADVENTIST HEALTHCARE FORT WASHINGTON MEDICAL CTR",
+      "address": "11711 LIVINGSTON ROAD",
+      "city": "FORT WASHINGTON",
+      "state": "MD",
+      "zipcode": "20744"
+    },
+    {
+      "id": "210061",
+      "name": "ATLANTIC GENERAL HOSPITAL",
+      "address": "9733 HEALTHWAY DRIVE",
+      "city": "BERLIN",
+      "state": "MD",
+      "zipcode": "21811"
+    },
+    {
+      "id": "210062",
+      "name": "MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER",
+      "address": "7503 SURRATTS ROAD",
+      "city": "CLINTON",
+      "state": "MD",
+      "zipcode": "20735"
+    },
+    {
+      "id": "210063",
+      "name": "UNIVERSITY OF MD ST JOSEPH MEDICAL CENTER",
+      "address": "7601 OSLER DRIVE",
+      "city": "TOWSON",
+      "state": "MD",
+      "zipcode": "21204"
+    },
+    {
+      "id": "210064",
+      "name": "LEVINDALE HEBREW GERIATRIC CENTER AND HOSPITAL",
+      "address": "2434 WEST BELVEDERE AVENUE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "zipcode": "21209"
+    },
+    {
+      "id": "210065",
+      "name": "HOLY CROSS GERMANTOWN HOSPITAL",
+      "address": "19801 OBSERVATION DRIVE",
+      "city": "GERMANTOWN",
+      "state": "MD",
+      "zipcode": "20876"
+    }
+  ]
+}

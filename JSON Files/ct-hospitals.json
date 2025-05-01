@@ -1,0 +1,212 @@
+{
+  "hospitals": [
+    {
+      "id": "070002",
+      "name": "SAINT FRANCIS HOSPITAL & MEDICAL CENTER",
+      "address": "114 WOODLAND STREET & 500 BLUE HILLS AVENUE",
+      "city": "HARTFORD",
+      "state": "CT",
+      "zipcode": "06105"
+    },
+    {
+      "id": "070003",
+      "name": "DAY KIMBALL HOSPITAL",
+      "address": "320 POMFRET STREET",
+      "city": "PUTNAM",
+      "state": "CT",
+      "zipcode": "06260"
+    },
+    {
+      "id": "070004",
+      "name": "SHARON HOSPITAL",
+      "address": "50 HOSPITAL HILL ROAD",
+      "city": "SHARON",
+      "state": "CT",
+      "zipcode": "06069"
+    },
+    {
+      "id": "070005",
+      "name": "WATERBURY HOSPITAL",
+      "address": "64 ROBBINS ST",
+      "city": "WATERBURY",
+      "state": "CT",
+      "zipcode": "06721"
+    },
+    {
+      "id": "070006",
+      "name": "STAMFORD HOSPITAL",
+      "address": "ONE HOSPITAL PLAZA",
+      "city": "STAMFORD",
+      "state": "CT",
+      "zipcode": "06904"
+    },
+    {
+      "id": "070007",
+      "name": "LAWRENCE & MEMORIAL HOSPITAL",
+      "address": "365 MONTAUK AVE",
+      "city": "NEW LONDON",
+      "state": "CT",
+      "zipcode": "06320"
+    },
+    {
+      "id": "070008",
+      "name": "JOHNSON MEMORIAL HOSPITAL",
+      "address": "201 CHESTNUT HILL ROAD",
+      "city": "STAFFORD SPRINGS",
+      "state": "CT",
+      "zipcode": "06076"
+    },
+    {
+      "id": "070010",
+      "name": "BRIDGEPORT HOSPITAL",
+      "address": "267 GRANT STREET",
+      "city": "BRIDGEPORT",
+      "state": "CT",
+      "zipcode": "06610"
+    },
+    {
+      "id": "070011",
+      "name": "CHARLOTTE HUNGERFORD HOSPITAL",
+      "address": "540 LITCHFIELD ST",
+      "city": "TORRINGTON",
+      "state": "CT",
+      "zipcode": "06790"
+    },
+    {
+      "id": "070012",
+      "name": "ROCKVILLE GENERAL HOSPITAL",
+      "address": "31 UNION ST",
+      "city": "ROCKVILLE",
+      "state": "CT",
+      "zipcode": "06066"
+    },
+    {
+      "id": "070016",
+      "name": "SAINT MARY'S HOSPITAL",
+      "address": "56 FRANKLIN STREET",
+      "city": "WATERBURY",
+      "state": "CT",
+      "zipcode": "06706"
+    },
+    {
+      "id": "070017",
+      "name": "MIDSTATE MEDICAL CENTER",
+      "address": "435 LEWIS AVENUE",
+      "city": "MERIDEN",
+      "state": "CT",
+      "zipcode": "06450"
+    },
+    {
+      "id": "070018",
+      "name": "GREENWICH HOSPITAL ASSOCIATION -",
+      "address": "5 PERRYRIDGE RD",
+      "city": "GREENWICH",
+      "state": "CT",
+      "zipcode": "06830"
+    },
+    {
+      "id": "070020",
+      "name": "MIDDLESEX HOSPITAL",
+      "address": "28 CRESCENT ST",
+      "city": "MIDDLETOWN",
+      "state": "CT",
+      "zipcode": "06457"
+    },
+    {
+      "id": "070021",
+      "name": "WINDHAM COMM MEM HOSP & HATCH HOSP",
+      "address": "112 MANSFIELD AVENUE",
+      "city": "WILLIMANTIC",
+      "state": "CT",
+      "zipcode": "06226"
+    },
+    {
+      "id": "070022",
+      "name": "YALE-NEW HAVEN HOSPITAL",
+      "address": "20 YORK ST",
+      "city": "NEW HAVEN",
+      "state": "CT",
+      "zipcode": "06504"
+    },
+    {
+      "id": "070024",
+      "name": "WILLIAM W BACKUS HOSPITAL",
+      "address": "326 WASHINGTON ST",
+      "city": "NORWICH",
+      "state": "CT",
+      "zipcode": "06360"
+    },
+    {
+      "id": "070025",
+      "name": "HARTFORD HOSPITAL",
+      "address": "80 SEYMOUR STREET",
+      "city": "HARTFORD",
+      "state": "CT",
+      "zipcode": "06102"
+    },
+    {
+      "id": "070027",
+      "name": "MANCHESTER MEMORIAL HOSPITAL",
+      "address": "71 HAYNES ST",
+      "city": "MANCHESTER",
+      "state": "CT",
+      "zipcode": "06040"
+    },
+    {
+      "id": "070028",
+      "name": "ST VINCENT'S MEDICAL CENTER",
+      "address": "2800 MAIN ST",
+      "city": "BRIDGEPORT",
+      "state": "CT",
+      "zipcode": "06606"
+    },
+    {
+      "id": "070029",
+      "name": "BRISTOL HOSPITAL",
+      "address": "41 BREWSTER RD",
+      "city": "BRISTOL",
+      "state": "CT",
+      "zipcode": "06010"
+    },
+    {
+      "id": "070031",
+      "name": "GRIFFIN HOSPITAL",
+      "address": "130 DIVISION ST",
+      "city": "DERBY",
+      "state": "CT",
+      "zipcode": "06418"
+    },
+    {
+      "id": "070033",
+      "name": "DANBURY HOSPITAL",
+      "address": "24 HOSPITAL AVE",
+      "city": "DANBURY",
+      "state": "CT",
+      "zipcode": "06810"
+    },
+    {
+      "id": "070034",
+      "name": "NORWALK HOSPITAL",
+      "address": "24 STEVENS STREET",
+      "city": "NORWALK",
+      "state": "CT",
+      "zipcode": "06856"
+    },
+    {
+      "id": "070035",
+      "name": "HOSPITAL OF CENTRAL CONNECTICUT, THE",
+      "address": "100 GRAND STREET",
+      "city": "NEW BRITAIN",
+      "state": "CT",
+      "zipcode": "06050"
+    },
+    {
+      "id": "070036",
+      "name": "JOHN DEMPSEY HOSPITAL",
+      "address": "263 FARMINGTON AVE",
+      "city": "FARMINGTON",
+      "state": "CT",
+      "zipcode": "06032"
+    }
+  ]
+}

@@ -1,0 +1,1028 @@
+{
+  "hospitals": [
+    {
+      "id": "230002",
+      "name": "TRINITY HEALTH LIVONIA HOSPITAL",
+      "address": "36475 FIVE MILE ROAD",
+      "city": "LIVONIA",
+      "state": "MI",
+      "zipcode": "48154"
+    },
+    {
+      "id": "230003",
+      "name": "COREWELL HEALTH ZEELAND HOSPITAL",
+      "address": "8333 FELCH ST",
+      "city": "ZEELAND",
+      "state": "MI",
+      "zipcode": "49464"
+    },
+    {
+      "id": "230005",
+      "name": "PROMEDICA CHARLES AND VIRGINIA HICKMAN HOSPITAL",
+      "address": "5640 N ADRIAN HIGHWAY",
+      "city": "ADRIAN",
+      "state": "MI",
+      "zipcode": "49221"
+    },
+    {
+      "id": "230013",
+      "name": "PONTIAC GENERAL HOSPITAL",
+      "address": "461 W HURON ST",
+      "city": "PONTIAC",
+      "state": "MI",
+      "zipcode": "48341"
+    },
+    {
+      "id": "230015",
+      "name": "THREE RIVERS HEALTH",
+      "address": "701 S HEALTH PARKWAY",
+      "city": "THREE RIVERS",
+      "state": "MI",
+      "zipcode": "49093"
+    },
+    {
+      "id": "230017",
+      "name": "BRONSON METHODIST HOSPITAL",
+      "address": "601 JOHN STREET",
+      "city": "KALAMAZOO",
+      "state": "MI",
+      "zipcode": "49007"
+    },
+    {
+      "id": "230019",
+      "name": "ASCENSION PROVIDENCE HOSPITAL",
+      "address": "16001 W NINE MILE RD",
+      "city": "SOUTHFIELD",
+      "state": "MI",
+      "zipcode": "48075"
+    },
+    {
+      "id": "230020",
+      "name": "COREWELL HEALTH DEARBORN HOSPITAL",
+      "address": "18101 OAKWOOD BLVD",
+      "city": "DEARBORN",
+      "state": "MI",
+      "zipcode": "48124"
+    },
+    {
+      "id": "230021",
+      "name": "COREWELL HEALTH LAKELAND HOSPITALS ST JOSEPH HOSPI",
+      "address": "1234 NAPIER AVENUE",
+      "city": "ST JOSEPH",
+      "state": "MI",
+      "zipcode": "49085"
+    },
+    {
+      "id": "230022",
+      "name": "PROMEDICA COLDWATER REGIONAL HOSPITAL",
+      "address": "274 E CHICAGO ST",
+      "city": "COLDWATER",
+      "state": "MI",
+      "zipcode": "49036"
+    },
+    {
+      "id": "230024",
+      "name": "SINAI-GRACE HOSPITAL",
+      "address": "6071 W OUTER DRIVE",
+      "city": "DETROIT",
+      "state": "MI",
+      "zipcode": "48235"
+    },
+    {
+      "id": "230029",
+      "name": "TRINITY HEALTH OAKLAND HOSPITAL",
+      "address": "44405 WOODWARD AVE",
+      "city": "PONTIAC",
+      "state": "MI",
+      "zipcode": "48341"
+    },
+    {
+      "id": "230030",
+      "name": "MYMICHIGAN MEDICAL CENTER ALMA",
+      "address": "300 E WARWICK DR",
+      "city": "ALMA",
+      "state": "MI",
+      "zipcode": "48801"
+    },
+    {
+      "id": "230031",
+      "name": "LAKE HURON MEDICAL CENTER",
+      "address": "2601 ELECTRIC AVENUE",
+      "city": "PORT HURON",
+      "state": "MI",
+      "zipcode": "48060"
+    },
+    {
+      "id": "230035",
+      "name": "COREWELL HEALTH UNITED HOSPITAL",
+      "address": "615 S BOWER STREET",
+      "city": "GREENVILLE",
+      "state": "MI",
+      "zipcode": "48838"
+    },
+    {
+      "id": "230036",
+      "name": "MYMICHIGAN MEDICAL CENTER ALPENA",
+      "address": "1501 W CHISHOLM ST",
+      "city": "ALPENA",
+      "state": "MI",
+      "zipcode": "49707"
+    },
+    {
+      "id": "230037",
+      "name": "HILLSDALE HOSPITAL",
+      "address": "168 S HOWELL STREET",
+      "city": "HILLSDALE",
+      "state": "MI",
+      "zipcode": "49242"
+    },
+    {
+      "id": "230038",
+      "name": "COREWELL HEALTH GRAND RAPIDS HOSPITALS BUTTERWORTH",
+      "address": "100 MICHIGAN ST NE",
+      "city": "GRAND RAPIDS",
+      "state": "MI",
+      "zipcode": "49503"
+    },
+    {
+      "id": "230041",
+      "name": "MCLAREN BAY REGION",
+      "address": "1900 COLUMBUS AVE",
+      "city": "BAY CITY",
+      "state": "MI",
+      "zipcode": "48708"
+    },
+    {
+      "id": "230046",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH",
+      "address": "1500 E MEDICAL CENTER DRIVE, SPC 5474",
+      "city": "ANN ARBOR",
+      "state": "MI",
+      "zipcode": "48109"
+    },
+    {
+      "id": "230047",
+      "name": "HENRY FORD HEALTH MACOMB HOSPITAL",
+      "address": "15855 NINETEEN MILE RD",
+      "city": "CLINTON TOWNSHIP",
+      "state": "MI",
+      "zipcode": "48038"
+    },
+    {
+      "id": "230053",
+      "name": "HENRY FORD HEALTH HOSPITAL",
+      "address": "2799 W GRAND BLVD",
+      "city": "DETROIT",
+      "state": "MI",
+      "zipcode": "48202"
+    },
+    {
+      "id": "230054",
+      "name": "UP HEALTH SYSTEM - MARQUETTE",
+      "address": "850 W BARAGA AVE",
+      "city": "MARQUETTE",
+      "state": "MI",
+      "zipcode": "49855"
+    },
+    {
+      "id": "230055",
+      "name": "MARSHFIELD MEDICAL CENTER",
+      "address": "1721 S STEPHENSON AVE",
+      "city": "IRON MOUNTAIN",
+      "state": "MI",
+      "zipcode": "49801"
+    },
+    {
+      "id": "230058",
+      "name": "MUNSON HEALTHCARE GRAYLING HOSPITAL",
+      "address": "1100 E MICHIGAN AVE",
+      "city": "GRAYLING",
+      "state": "MI",
+      "zipcode": "49738"
+    },
+    {
+      "id": "230059",
+      "name": "TRINITY HEALTH GRAND RAPIDS HOSPITAL",
+      "address": "200 JEFFERSON AVENUE SE",
+      "city": "GRAND RAPIDS",
+      "state": "MI",
+      "zipcode": "49503"
+    },
+    {
+      "id": "230066",
+      "name": "TRINITY HEALTH MUSKEGON HOSPITAL",
+      "address": "1500 E SHERMAN BLVD",
+      "city": "MUSKEGON",
+      "state": "MI",
+      "zipcode": "49441"
+    },
+    {
+      "id": "230069",
+      "name": "TRINITY HEALTH LIVINGSTON HOSPITAL",
+      "address": "620 BYRON RD",
+      "city": "HOWELL",
+      "state": "MI",
+      "zipcode": "48843"
+    },
+    {
+      "id": "230070",
+      "name": "COVENANT MEDICAL CENTER",
+      "address": "1447 N HARRISON",
+      "city": "SAGINAW",
+      "state": "MI",
+      "zipcode": "48602"
+    },
+    {
+      "id": "230071",
+      "name": "STRAITH HOSPITAL FOR SPECIAL SURGERY",
+      "address": "23901 LAHSER",
+      "city": "SOUTHFIELD",
+      "state": "MI",
+      "zipcode": "48033"
+    },
+    {
+      "id": "230072",
+      "name": "HOLLAND COMMUNITY HOSPITAL",
+      "address": "602 MICHIGAN AVE",
+      "city": "HOLLAND",
+      "state": "MI",
+      "zipcode": "49423"
+    },
+    {
+      "id": "230075",
+      "name": "BRONSON BATTLE CREEK HOSPITAL",
+      "address": "300 NORTH AVENUE",
+      "city": "BATTLE CREEK",
+      "state": "MI",
+      "zipcode": "49017"
+    },
+    {
+      "id": "230077",
+      "name": "ASCENSION ST MARY'S HOSPITAL",
+      "address": "800 S WASHINGTON AVENUE",
+      "city": "SAGINAW",
+      "state": "MI",
+      "zipcode": "48601"
+    },
+    {
+      "id": "230078",
+      "name": "COREWELL HEALTH WATERVLIET HOSPITAL",
+      "address": "400 MEDICAL PARK DR",
+      "city": "WATERVLIET",
+      "state": "MI",
+      "zipcode": "49098"
+    },
+    {
+      "id": "230080",
+      "name": "MCLAREN CENTRAL MICHIGAN",
+      "address": "1221 SOUTH DRIVE",
+      "city": "MOUNT PLEASANT",
+      "state": "MI",
+      "zipcode": "48858"
+    },
+    {
+      "id": "230081",
+      "name": "MUNSON HEALTHCARE CADILLAC HOSPITAL",
+      "address": "400 HOBART ST",
+      "city": "CADILLAC",
+      "state": "MI",
+      "zipcode": "49601"
+    },
+    {
+      "id": "230085",
+      "name": "BRONSON SOUTH HAVEN HOSPITAL",
+      "address": "955 S BAILEY AVE",
+      "city": "SOUTH HAVEN",
+      "state": "MI",
+      "zipcode": "49090"
+    },
+    {
+      "id": "230089",
+      "name": "COREWELL HEALTH BEAUMONT GROSSE POINTE HOSPITAL",
+      "address": "468 CADIEUX RD",
+      "city": "GROSSE POINTE",
+      "state": "MI",
+      "zipcode": "48230"
+    },
+    {
+      "id": "230092",
+      "name": "HENRY FORD HEALTH JACKSON HOSPITAL",
+      "address": "205 N EAST AVE",
+      "city": "JACKSON",
+      "state": "MI",
+      "zipcode": "49201"
+    },
+    {
+      "id": "230093",
+      "name": "COREWELL HEALTH BIG RAPIDS HOSPITAL",
+      "address": "605 OAK STREET",
+      "city": "BIG RAPIDS",
+      "state": "MI",
+      "zipcode": "49307"
+    },
+    {
+      "id": "230095",
+      "name": "MYMICHIGAN MEDICAL CENTER WEST BRANCH",
+      "address": "2463 SOUTH M-30",
+      "city": "WEST BRANCH",
+      "state": "MI",
+      "zipcode": "48661"
+    },
+    {
+      "id": "230097",
+      "name": "MUNSON MEDICAL CENTER",
+      "address": "1105 SIXTH STREET",
+      "city": "TRAVERSE CITY",
+      "state": "MI",
+      "zipcode": "49684"
+    },
+    {
+      "id": "230099",
+      "name": "PROMEDICA MONROE REGIONAL HOSPITAL",
+      "address": "718 N MACOMB ST",
+      "city": "MONROE",
+      "state": "MI",
+      "zipcode": "48162"
+    },
+    {
+      "id": "230100",
+      "name": "ASCENSION ST JOSEPH HOSPITAL",
+      "address": "200 HEMLOCK",
+      "city": "TAWAS CITY",
+      "state": "MI",
+      "zipcode": "48764"
+    },
+    {
+      "id": "230104",
+      "name": "HARPER UNIVERSITY HOSPITAL",
+      "address": "3990 JOHN R STREET",
+      "city": "DETROIT",
+      "state": "MI",
+      "zipcode": "48201"
+    },
+    {
+      "id": "230105",
+      "name": "MCLAREN NORTHERN MICHIGAN",
+      "address": "416 CONNABLE AVE",
+      "city": "PETOSKEY",
+      "state": "MI",
+      "zipcode": "49770"
+    },
+    {
+      "id": "230108",
+      "name": "UP HEALTH SYSTEM PORTAGE",
+      "address": "500 CAMPUS DRIVE",
+      "city": "HANCOCK",
+      "state": "MI",
+      "zipcode": "49930"
+    },
+    {
+      "id": "230110",
+      "name": "COREWELL HEALTH LUDINGTON HOSPITAL",
+      "address": "ONE N ATKINSON DRIVE",
+      "city": "LUDINGTON",
+      "state": "MI",
+      "zipcode": "49431"
+    },
+    {
+      "id": "230117",
+      "name": "ASCENSION BORGESS HOSPITAL",
+      "address": "1521 GULL ROAD",
+      "city": "KALAMAZOO",
+      "state": "MI",
+      "zipcode": "49048"
+    },
+    {
+      "id": "230121",
+      "name": "MEMORIAL HEALTHCARE",
+      "address": "826 WEST KING STREET",
+      "city": "OWOSSO",
+      "state": "MI",
+      "zipcode": "48867"
+    },
+    {
+      "id": "230130",
+      "name": "COREWELL HEALTH WILLIAM BEAUMONT UNIVERSITY HOSPIT",
+      "address": "3601 W THIRTEEN MILE RD",
+      "city": "ROYAL OAK",
+      "state": "MI",
+      "zipcode": "48073"
+    },
+    {
+      "id": "230132",
+      "name": "HURLEY MEDICAL CENTER",
+      "address": "ONE HURLEY PLAZA",
+      "city": "FLINT",
+      "state": "MI",
+      "zipcode": "48503"
+    },
+    {
+      "id": "230133",
+      "name": "MUNSON HEALTHCARE OTSEGO MEMORIAL HOSPITAL",
+      "address": "825 N CENTER AVE",
+      "city": "GAYLORD",
+      "state": "MI",
+      "zipcode": "49735"
+    },
+    {
+      "id": "230141",
+      "name": "MCLAREN FLINT",
+      "address": "401 S BALLENGER HIGHWAY",
+      "city": "FLINT",
+      "state": "MI",
+      "zipcode": "48532"
+    },
+    {
+      "id": "230142",
+      "name": "COREWELL HEALTH WAYNE HOSPITAL",
+      "address": "33155 ANNAPOLIS AVE",
+      "city": "WAYNE",
+      "state": "MI",
+      "zipcode": "48184"
+    },
+    {
+      "id": "230144",
+      "name": "FOREST HEALTH MEDICAL CENTER",
+      "address": "135 S PROSPECT ST",
+      "city": "YPSILANTI",
+      "state": "MI",
+      "zipcode": "48198"
+    },
+    {
+      "id": "230146",
+      "name": "HENRY FORD HEALTH WYANDOTTE HOSPITAL",
+      "address": "2333 BIDDLE AVE",
+      "city": "WYANDOTTE",
+      "state": "MI",
+      "zipcode": "48192"
+    },
+    {
+      "id": "230151",
+      "name": "COREWELL HEALTH FARMINGTON HILLS HOSPITAL",
+      "address": "28050 GRAND RIVER AVENUE",
+      "city": "FARMINGTON HILLS",
+      "state": "MI",
+      "zipcode": "48336"
+    },
+    {
+      "id": "230156",
+      "name": "TRINITY HEALTH ANN ARBOR HOSPITAL",
+      "address": "5301 E HURON RIVER DR",
+      "city": "ANN ARBOR",
+      "state": "MI",
+      "zipcode": "48106"
+    },
+    {
+      "id": "230165",
+      "name": "ASCENSION ST JOHN HOSPITAL",
+      "address": "22101 MOROSS RD",
+      "city": "DETROIT",
+      "state": "MI",
+      "zipcode": "48236"
+    },
+    {
+      "id": "230167",
+      "name": "MCLAREN GREATER LANSING",
+      "address": "2900 COLLINS RD",
+      "city": "LANSING",
+      "state": "MI",
+      "zipcode": "48910"
+    },
+    {
+      "id": "230174",
+      "name": "TRINITY HEALTH GRAND HAVEN HOSPITAL",
+      "address": "1309 SHELDON RD",
+      "city": "GRAND HAVEN",
+      "state": "MI",
+      "zipcode": "49417"
+    },
+    {
+      "id": "230176",
+      "name": "COREWELL HEALTH TRENTON HOSPITAL",
+      "address": "5450 FORT STREET",
+      "city": "TRENTON",
+      "state": "MI",
+      "zipcode": "48183"
+    },
+    {
+      "id": "230180",
+      "name": "MYMICHIGAN MEDICAL CENTER CLARE",
+      "address": "703 N MCEWAN ST",
+      "city": "CLARE",
+      "state": "MI",
+      "zipcode": "48617"
+    },
+    {
+      "id": "230193",
+      "name": "MCLAREN LAPEER REGION",
+      "address": "1375 N MAIN ST",
+      "city": "LAPEER",
+      "state": "MI",
+      "zipcode": "48446"
+    },
+    {
+      "id": "230195",
+      "name": "ASCENSION MACOMB OAKLAND HOSP-WARREN CAMPUS",
+      "address": "11800 EAST TWELVE MILE ROAD",
+      "city": "WARREN",
+      "state": "MI",
+      "zipcode": "48093"
+    },
+    {
+      "id": "230197",
+      "name": "ASCENSION GENESYS HOSPITAL",
+      "address": "ONE GENESYS PARKWAY",
+      "city": "GRAND BLANC",
+      "state": "MI",
+      "zipcode": "48439"
+    },
+    {
+      "id": "230207",
+      "name": "MCLAREN OAKLAND",
+      "address": "50 N PERRY ST",
+      "city": "PONTIAC",
+      "state": "MI",
+      "zipcode": "48342"
+    },
+    {
+      "id": "230208",
+      "name": "SPARROW CARSON HOSPITAL",
+      "address": "406 EAST ELM ST",
+      "city": "CARSON CITY",
+      "state": "MI",
+      "zipcode": "48811"
+    },
+    {
+      "id": "230216",
+      "name": "MCLAREN PORT HURON",
+      "address": "1221 PINE GROVE AVE",
+      "city": "PORT HURON",
+      "state": "MI",
+      "zipcode": "48060"
+    },
+    {
+      "id": "230217",
+      "name": "OAKLAWN HOSPITAL",
+      "address": "200 N MADISON",
+      "city": "MARSHALL",
+      "state": "MI",
+      "zipcode": "49068"
+    },
+    {
+      "id": "230222",
+      "name": "MYMICHIGAN MEDICAL CENTER MIDLAND",
+      "address": "4000 WELLNESS DRIVE",
+      "city": "MIDLAND",
+      "state": "MI",
+      "zipcode": "48670"
+    },
+    {
+      "id": "230227",
+      "name": "MCLAREN MACOMB",
+      "address": "1000 HARRINGTON ST",
+      "city": "MOUNT CLEMENS",
+      "state": "MI",
+      "zipcode": "48043"
+    },
+    {
+      "id": "230230",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH-SPARROW LANSING",
+      "address": "1215 E MICHIGAN AVENUE",
+      "city": "LANSING",
+      "state": "MI",
+      "zipcode": "48912"
+    },
+    {
+      "id": "230236",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH - WEST",
+      "address": "5900 BYRON CENTER AVENUE, SW",
+      "city": "WYOMING",
+      "state": "MI",
+      "zipcode": "49519"
+    },
+    {
+      "id": "230239",
+      "name": "MYMICHIGAN MEDICAL CENTER-SAULT",
+      "address": "500 OSBORN BLVD",
+      "city": "SAULT SAINTE MARIE",
+      "state": "MI",
+      "zipcode": "49783"
+    },
+    {
+      "id": "230241",
+      "name": "ASCENSION RIVER DISTRICT HOSPITAL",
+      "address": "4100 RIVER RD",
+      "city": "EAST CHINA",
+      "state": "MI",
+      "zipcode": "48054"
+    },
+    {
+      "id": "230244",
+      "name": "GARDEN CITY HOSPITAL",
+      "address": "6245 INKSTER RD",
+      "city": "GARDEN CITY",
+      "state": "MI",
+      "zipcode": "48135"
+    },
+    {
+      "id": "230254",
+      "name": "ASCENSION PROVIDENCE ROCHESTER HOSPITAL",
+      "address": "1101 W UNIVERSITY DRIVE",
+      "city": "ROCHESTER",
+      "state": "MI",
+      "zipcode": "48307"
+    },
+    {
+      "id": "230259",
+      "name": "CHELSEA HOSPITAL",
+      "address": "775 S MAIN ST",
+      "city": "CHELSEA",
+      "state": "MI",
+      "zipcode": "48118"
+    },
+    {
+      "id": "230264",
+      "name": "INSIGHT SURGICAL HOSPITAL",
+      "address": "21230 DEQUINDRE ROAD",
+      "city": "WARREN",
+      "state": "MI",
+      "zipcode": "48091"
+    },
+    {
+      "id": "230269",
+      "name": "BEAUMONT HOSPITAL, TROY",
+      "address": "44201 DEQUINDRE ROAD",
+      "city": "TROY",
+      "state": "MI",
+      "zipcode": "48085"
+    },
+    {
+      "id": "230270",
+      "name": "COREWELL HEALTH TAYLOR HOSPITAL",
+      "address": "10000 TELEGRAPH ROAD",
+      "city": "TAYLOR",
+      "state": "MI",
+      "zipcode": "48180"
+    },
+    {
+      "id": "230273",
+      "name": "DETROIT RECEIVING HOSPITAL & UNIV HEALTH CENTER",
+      "address": "4201 ST ANTOINE ST - 2C",
+      "city": "DETROIT",
+      "state": "MI",
+      "zipcode": "48201"
+    },
+    {
+      "id": "230275",
+      "name": "HEALTHSOURCE SAGINAW",
+      "address": "3340 HOSPITAL ROAD",
+      "city": "SAGINAW",
+      "state": "MI",
+      "zipcode": "48603"
+    },
+    {
+      "id": "230277",
+      "name": "HURON VALLEY-SINAI HOSPITAL",
+      "address": "ONE WILLIAM CARLS DRIVE",
+      "city": "COMMERCE TOWNSHIP",
+      "state": "MI",
+      "zipcode": "48382"
+    },
+    {
+      "id": "230279",
+      "name": "ASCENSION BRIGHTON CENTER FOR RECOVERY",
+      "address": "12851 GRAND RIVER RD",
+      "city": "BRIGHTON",
+      "state": "MI",
+      "zipcode": "48116"
+    },
+    {
+      "id": "230297",
+      "name": "KARMANOS CANCER CENTER",
+      "address": "4100 JOHN R",
+      "city": "DETROIT",
+      "state": "MI",
+      "zipcode": "48201"
+    },
+    {
+      "id": "230301",
+      "name": "SURGEONS CHOICE MEDICAL CENTER",
+      "address": "22401 FOSTER WINTER DRIVE",
+      "city": "SOUTHFIELD",
+      "state": "MI",
+      "zipcode": "48075"
+    },
+    {
+      "id": "230302",
+      "name": "HENRY FORD HEALTH WEST BLOOMFIELD HOSPITAL",
+      "address": "6777 WEST MAPLE ROAD",
+      "city": "WEST BLOOMFIELD",
+      "state": "MI",
+      "zipcode": "48322"
+    },
+    {
+      "id": "230303",
+      "name": "MUNSON HEALTHCARE MANISTEE HOSPITAL",
+      "address": "1465 E PARKDALE AVE",
+      "city": "MANISTEE",
+      "state": "MI",
+      "zipcode": "49660"
+    },
+    {
+      "id": "230779",
+      "name": "STURGIS HOSPITAL",
+      "address": "916 MYRTLE AVE",
+      "city": "STURGIS",
+      "state": "MI",
+      "zipcode": "49091"
+    },
+    {
+      "id": "231300",
+      "name": "PAUL OLIVER MEMORIAL HOSPITAL",
+      "address": "224 PARK AVENUE",
+      "city": "FRANKFORT",
+      "state": "MI",
+      "zipcode": "49635"
+    },
+    {
+      "id": "231301",
+      "name": "KALKASKA MEMORIAL HEALTH CENTER",
+      "address": "419 S CORAL",
+      "city": "KALKASKA",
+      "state": "MI",
+      "zipcode": "49646"
+    },
+    {
+      "id": "231303",
+      "name": "SCHOOLCRAFT MEMORIAL HOSPITAL",
+      "address": "7870W US HIGHWAY 2",
+      "city": "MANISTIQUE",
+      "state": "MI",
+      "zipcode": "49854"
+    },
+    {
+      "id": "231304",
+      "name": "HELEN NEWBERRY JOY HOSPITAL",
+      "address": "502 W HARRIE ST",
+      "city": "NEWBERRY",
+      "state": "MI",
+      "zipcode": "49868"
+    },
+    {
+      "id": "231305",
+      "name": "ASCENSION STANDISH HOSPITAL",
+      "address": "805 W CEDAR ST",
+      "city": "STANDISH",
+      "state": "MI",
+      "zipcode": "48658"
+    },
+    {
+      "id": "231306",
+      "name": "MACKINAC STRAITS HOSPITAL AND HEALTH CENTER",
+      "address": "1140 N STATE STREET",
+      "city": "SAINT IGNACE",
+      "state": "MI",
+      "zipcode": "49781"
+    },
+    {
+      "id": "231307",
+      "name": "BARAGA COUNTY MEMORIAL HOSPITAL",
+      "address": "18341 US HIGHWAY 41",
+      "city": "L' ANSE",
+      "state": "MI",
+      "zipcode": "49946"
+    },
+    {
+      "id": "231308",
+      "name": "MUNISING MEMORIAL HOSPITAL",
+      "address": "1500 SAND POINT RD",
+      "city": "MUNISING",
+      "state": "MI",
+      "zipcode": "49862"
+    },
+    {
+      "id": "231309",
+      "name": "ASPIRUS ONTONAGON HOSPITAL, INC",
+      "address": "601 S SEVENTH ST",
+      "city": "ONTONAGON",
+      "state": "MI",
+      "zipcode": "49953"
+    },
+    {
+      "id": "231310",
+      "name": "SCHEURER HOSPITAL",
+      "address": "170 N CASEVILLE RD",
+      "city": "PIGEON",
+      "state": "MI",
+      "zipcode": "48755"
+    },
+    {
+      "id": "231311",
+      "name": "DECKERVILLE COMMUNITY HOSPITAL",
+      "address": "3559 PINE ST",
+      "city": "DECKERVILLE",
+      "state": "MI",
+      "zipcode": "48427"
+    },
+    {
+      "id": "231312",
+      "name": "SHERIDAN COMMUNITY HOSPITAL",
+      "address": "301 N MAIN ST",
+      "city": "SHERIDAN",
+      "state": "MI",
+      "zipcode": "48884"
+    },
+    {
+      "id": "231313",
+      "name": "HARBOR BEACH COMMUNITY HOSPITAL",
+      "address": "210 S FIRST ST",
+      "city": "HARBOR BEACH",
+      "state": "MI",
+      "zipcode": "48441"
+    },
+    {
+      "id": "231314",
+      "name": "MCKENZIE HEALTH SYSTEM",
+      "address": "120 N DELAWARE STREET",
+      "city": "SANDUSKY",
+      "state": "MI",
+      "zipcode": "48471"
+    },
+    {
+      "id": "231315",
+      "name": "ASCENSION BORGESS LEE HOSPITAL",
+      "address": "420 W HIGH ST",
+      "city": "DOWAGIAC",
+      "state": "MI",
+      "zipcode": "49047"
+    },
+    {
+      "id": "231316",
+      "name": "HILLS & DALES GENERAL HOSPITAL",
+      "address": "4675 HILL STREET",
+      "city": "CASS CITY",
+      "state": "MI",
+      "zipcode": "48726"
+    },
+    {
+      "id": "231318",
+      "name": "ASPIRUS IRON RIVER HOSPITAL & CLINICS, INC",
+      "address": "1400 W ICE LAKE ROAD",
+      "city": "IRON RIVER",
+      "state": "MI",
+      "zipcode": "49935"
+    },
+    {
+      "id": "231319",
+      "name": "ASPIRUS KEWEENAW HOSPITAL",
+      "address": "205 OSCEOLA",
+      "city": "LAURIUM",
+      "state": "MI",
+      "zipcode": "49913"
+    },
+    {
+      "id": "231320",
+      "name": "TRINITY HEALTH SHELBY HOSPITAL",
+      "address": "72 SOUTH STATE STREET",
+      "city": "SHELBY",
+      "state": "MI",
+      "zipcode": "49455"
+    },
+    {
+      "id": "231321",
+      "name": "BELL HOSPITAL",
+      "address": "901 LAKESHORE DRIVE",
+      "city": "ISHPEMING",
+      "state": "MI",
+      "zipcode": "49849"
+    },
+    {
+      "id": "231322",
+      "name": "MUNSON HEALTHCARE CHARLEVOIX HOSPITAL",
+      "address": "14700 LAKESHORE DRIVE",
+      "city": "CHARLEVOIX",
+      "state": "MI",
+      "zipcode": "49720"
+    },
+    {
+      "id": "231323",
+      "name": "COREWELL HEALTH REED CITY HOSPITAL",
+      "address": "300 N PATTERSON, PO BOX 75",
+      "city": "REED CITY",
+      "state": "MI",
+      "zipcode": "49677"
+    },
+    {
+      "id": "231324",
+      "name": "EATON RAPIDS MEDICAL CENTER",
+      "address": "1500 S MAIN STREET",
+      "city": "EATON RAPIDS",
+      "state": "MI",
+      "zipcode": "48827"
+    },
+    {
+      "id": "231325",
+      "name": "MYMICHIGAN MEDICAL CENTER GLADWIN",
+      "address": "515 QUARTER STREET",
+      "city": "GLADWIN",
+      "state": "MI",
+      "zipcode": "48624"
+    },
+    {
+      "id": "231326",
+      "name": "SPARROW CLINTON HOSPITAL",
+      "address": "805 S OAKLAND",
+      "city": "SAINT JOHNS",
+      "state": "MI",
+      "zipcode": "48879"
+    },
+    {
+      "id": "231327",
+      "name": "UNIVERSITY OF MICHIGAN HEALTH - SPARROW EATON",
+      "address": "321 E HARRIS STREET",
+      "city": "CHARLOTTE",
+      "state": "MI",
+      "zipcode": "48813"
+    },
+    {
+      "id": "231328",
+      "name": "ASCENSION BORGESS ALLEGAN HOSPITAL",
+      "address": "555 LINN STREET",
+      "city": "ALLEGAN",
+      "state": "MI",
+      "zipcode": "49010"
+    },
+    {
+      "id": "231329",
+      "name": "MCLAREN CARO REGION",
+      "address": "401 N HOOPER ST",
+      "city": "CARO",
+      "state": "MI",
+      "zipcode": "48723"
+    },
+    {
+      "id": "231330",
+      "name": "MARLETTE REGIONAL HOSPITAL",
+      "address": "2770 MAIN STREET",
+      "city": "MARLETTE",
+      "state": "MI",
+      "zipcode": "48453"
+    },
+    {
+      "id": "231331",
+      "name": "SPARROW IONIA HOSPITAL",
+      "address": "3565 S STATE ROAD",
+      "city": "IONIA",
+      "state": "MI",
+      "zipcode": "48846"
+    },
+    {
+      "id": "231332",
+      "name": "BRONSON LAKEVIEW HOSPITAL",
+      "address": "408 HAZEN STREET",
+      "city": "PAW PAW",
+      "state": "MI",
+      "zipcode": "49079"
+    },
+    {
+      "id": "231333",
+      "name": "ASPIRUS IRONWOOD HOSPITAL",
+      "address": "N10561 GRAND VIEW LANE",
+      "city": "IRONWOOD",
+      "state": "MI",
+      "zipcode": "49938"
+    },
+    {
+      "id": "231337",
+      "name": "OSF SAINT FRANCIS HOSPITAL",
+      "address": "3401 LUDINGTON ST",
+      "city": "ESCANABA",
+      "state": "MI",
+      "zipcode": "49829"
+    },
+    {
+      "id": "231338",
+      "name": "COREWELL HEALTH GERBER HOSPITAL",
+      "address": "212 S SULLIVAN ST",
+      "city": "FREMONT",
+      "state": "MI",
+      "zipcode": "49412"
+    },
+    {
+      "id": "231339",
+      "name": "COREWELL HEALTH PENNOCK HOSPITAL",
+      "address": "1009 W GREEN ST",
+      "city": "HASTINGS",
+      "state": "MI",
+      "zipcode": "49058"
+    },
+    {
+      "id": "231340",
+      "name": "MCLAREN THUMB REGION",
+      "address": "1100 S VAN DYKE RD",
+      "city": "BAD AXE",
+      "state": "MI",
+      "zipcode": "48413"
+    }
+  ]
+}

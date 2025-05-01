@@ -1,0 +1,908 @@
+{
+  "hospitals": [
+    {
+      "id": "160001",
+      "name": "UNITYPOINT HEALTH - MARSHALLTOWN",
+      "address": "55 UNITYPOINT WAY",
+      "city": "MARSHALLTOWN",
+      "state": "IA",
+      "zipcode": "50158"
+    },
+    {
+      "id": "160005",
+      "name": "ST ANTHONY REGIONAL HOSPITAL & NURSING HOME",
+      "address": "311 SOUTH CLARK STREET",
+      "city": "CARROLL",
+      "state": "IA",
+      "zipcode": "51401"
+    },
+    {
+      "id": "160013",
+      "name": "TRINITY MUSCATINE",
+      "address": "1518 MULBERRY AVENUE",
+      "city": "MUSCATINE",
+      "state": "IA",
+      "zipcode": "52761"
+    },
+    {
+      "id": "160016",
+      "name": "TRINITY REGIONAL MEDICAL CENTER",
+      "address": "802 KENYON RD",
+      "city": "FORT DODGE",
+      "state": "IA",
+      "zipcode": "50501"
+    },
+    {
+      "id": "160028",
+      "name": "CHI HEALTH MERCY COUNCIL BLUFFS",
+      "address": "800 MERCY DRIVE",
+      "city": "COUNCIL BLUFFS",
+      "state": "IA",
+      "zipcode": "51503"
+    },
+    {
+      "id": "160029",
+      "name": "UNIVERSITY OF IOWA HEALTH CARE MEDICAL CENTER DOWN",
+      "address": "500 E MARKET STREET",
+      "city": "IOWA CITY",
+      "state": "IA",
+      "zipcode": "52245"
+    },
+    {
+      "id": "160030",
+      "name": "MARY GREELEY MEDICAL CENTER",
+      "address": "1111 DUFF AVENUE",
+      "city": "AMES",
+      "state": "IA",
+      "zipcode": "50010"
+    },
+    {
+      "id": "160032",
+      "name": "MERCYONE NEWTON MEDICAL CENTER",
+      "address": "204 N 4TH AVE E",
+      "city": "NEWTON",
+      "state": "IA",
+      "zipcode": "50208"
+    },
+    {
+      "id": "160033",
+      "name": "GENESIS MEDICAL CENTER-DAVENPORT",
+      "address": "1227 EAST RUSHOLME STREET",
+      "city": "DAVENPORT",
+      "state": "IA",
+      "zipcode": "52803"
+    },
+    {
+      "id": "160040",
+      "name": "MERCYONE CEDAR FALLS MEDICAL CENTER",
+      "address": "515 COLLEGE STREET",
+      "city": "CEDAR FALLS",
+      "state": "IA",
+      "zipcode": "50613"
+    },
+    {
+      "id": "160045",
+      "name": "ST LUKES HOSPITAL",
+      "address": "1026 A AVE NE",
+      "city": "CEDAR RAPIDS",
+      "state": "IA",
+      "zipcode": "52402"
+    },
+    {
+      "id": "160047",
+      "name": "METHODIST JENNIE EDMUNDSON",
+      "address": "933 EAST PIERCE STREET",
+      "city": "COUNCIL BLUFFS",
+      "state": "IA",
+      "zipcode": "51503"
+    },
+    {
+      "id": "160057",
+      "name": "SOUTHEAST IOWA REGIONAL MEDICAL CENTER",
+      "address": "1221 SOUTH GEAR AVENUE",
+      "city": "WEST BURLINGTON",
+      "state": "IA",
+      "zipcode": "52655"
+    },
+    {
+      "id": "160058",
+      "name": "UNIVERSITY OF IOWA HEALTH CARE MEDICAL CENTER",
+      "address": "200 HAWKINS DRIVE",
+      "city": "IOWA CITY",
+      "state": "IA",
+      "zipcode": "52242"
+    },
+    {
+      "id": "160064",
+      "name": "MERCYONE NORTH IOWA MEDICAL CENTER",
+      "address": "1000 FOURTH STREET SW",
+      "city": "MASON CITY",
+      "state": "IA",
+      "zipcode": "50401"
+    },
+    {
+      "id": "160067",
+      "name": "MERCYONE WATERLOO MEDICAL CENTER",
+      "address": "3421 WEST NINTH STREET",
+      "city": "WATERLOO",
+      "state": "IA",
+      "zipcode": "50702"
+    },
+    {
+      "id": "160069",
+      "name": "MERCYONE DUBUQUE MEDICAL CENTER",
+      "address": "250 MERCY DRIVE",
+      "city": "DUBUQUE",
+      "state": "IA",
+      "zipcode": "52001"
+    },
+    {
+      "id": "160079",
+      "name": "MERCY MEDICAL CENTER - CEDAR RAPIDS",
+      "address": "701 10TH STREET SE",
+      "city": "CEDAR RAPIDS",
+      "state": "IA",
+      "zipcode": "52403"
+    },
+    {
+      "id": "160080",
+      "name": "MERCYONE CLINTON MEDICAL CENTER",
+      "address": "1410 NORTH 4TH STREET",
+      "city": "CLINTON",
+      "state": "IA",
+      "zipcode": "52732"
+    },
+    {
+      "id": "160082",
+      "name": "UNITYPOINT HEALTH - DES MOINES IOWA METHODIST MEDI",
+      "address": "1200 PLEASANT STREET",
+      "city": "DES MOINES",
+      "state": "IA",
+      "zipcode": "50309"
+    },
+    {
+      "id": "160083",
+      "name": "MERCYONE DES MOINES MEDICAL CENTER",
+      "address": "1111 6TH AVE",
+      "city": "DES MOINES",
+      "state": "IA",
+      "zipcode": "50314"
+    },
+    {
+      "id": "160089",
+      "name": "OTTUMWA REGIONAL HEALTH CENTER",
+      "address": "1001 E PENNSYLVANIA",
+      "city": "OTTUMWA",
+      "state": "IA",
+      "zipcode": "52501"
+    },
+    {
+      "id": "160101",
+      "name": "BROADLAWNS MEDICAL CENTER",
+      "address": "1801 HICKMAN ROAD",
+      "city": "DES MOINES",
+      "state": "IA",
+      "zipcode": "50314"
+    },
+    {
+      "id": "160104",
+      "name": "TRINITY BETTENDORF",
+      "address": "4500 UTICA RIDGE ROAD",
+      "city": "BETTENDORF",
+      "state": "IA",
+      "zipcode": "52722"
+    },
+    {
+      "id": "160110",
+      "name": "ALLEN HOSPITAL",
+      "address": "1825 LOGAN AVENUE",
+      "city": "WATERLOO",
+      "state": "IA",
+      "zipcode": "50703"
+    },
+    {
+      "id": "160112",
+      "name": "SPENCER MUNICIPAL HOSPITAL",
+      "address": "1200 1ST AVENUE EAST",
+      "city": "SPENCER",
+      "state": "IA",
+      "zipcode": "51301"
+    },
+    {
+      "id": "160117",
+      "name": "FINLEY HOSPITAL",
+      "address": "350 NORTH GRANDVIEW AVENUE",
+      "city": "DUBUQUE",
+      "state": "IA",
+      "zipcode": "52001"
+    },
+    {
+      "id": "160124",
+      "name": "LAKES REGIONAL HEALTHCARE",
+      "address": "2301 HIGHWAY 71",
+      "city": "SPIRIT LAKE",
+      "state": "IA",
+      "zipcode": "51360"
+    },
+    {
+      "id": "160146",
+      "name": "ST LUKES REGIONAL MEDICAL CENTER",
+      "address": "2720 STONE PARK BOULEVARD",
+      "city": "SIOUX CITY",
+      "state": "IA",
+      "zipcode": "51104"
+    },
+    {
+      "id": "160147",
+      "name": "GRINNELL REGIONAL MEDICAL CENTER",
+      "address": "210 FOURTH AVENUE",
+      "city": "GRINNELL",
+      "state": "IA",
+      "zipcode": "50112"
+    },
+    {
+      "id": "160153",
+      "name": "MERCYONE SIOUXLAND MEDICAL CENTER",
+      "address": "801 5TH ST",
+      "city": "SIOUX CITY",
+      "state": "IA",
+      "zipcode": "51101"
+    },
+    {
+      "id": "161300",
+      "name": "MERCYONE PRIMGHAR MEDICAL CENTER",
+      "address": "255 N WELCH AVENUE",
+      "city": "PRIMGHAR",
+      "state": "IA",
+      "zipcode": "51245"
+    },
+    {
+      "id": "161301",
+      "name": "IOWA SPECIALTY HOSPITAL - BELMOND",
+      "address": "403 FIRST STREET SE",
+      "city": "BELMOND",
+      "state": "IA",
+      "zipcode": "50421"
+    },
+    {
+      "id": "161302",
+      "name": "IOWA SPECIALTY HOSPITAL - CLARION",
+      "address": "1316 SOUTH MAIN STREET",
+      "city": "CLARION",
+      "state": "IA",
+      "zipcode": "50525"
+    },
+    {
+      "id": "161303",
+      "name": "GRUNDY COUNTY MEMORIAL HOSPITAL",
+      "address": "201 EAST J AVENUE",
+      "city": "GRUNDY CENTER",
+      "state": "IA",
+      "zipcode": "50638"
+    },
+    {
+      "id": "161304",
+      "name": "CHI HEALTH - MERCY CORNING",
+      "address": "603 ROSARY DRIVE",
+      "city": "CORNING",
+      "state": "IA",
+      "zipcode": "50841"
+    },
+    {
+      "id": "161305",
+      "name": "POCAHONTAS COMMUNITY HOSPITAL",
+      "address": "606 N W 7TH STREET",
+      "city": "POCAHONTAS",
+      "state": "IA",
+      "zipcode": "50574"
+    },
+    {
+      "id": "161306",
+      "name": "JONES REGIONAL MEDICAL CENTER",
+      "address": "1795 HIGHWAY 64 EAST",
+      "city": "ANAMOSA",
+      "state": "IA",
+      "zipcode": "52205"
+    },
+    {
+      "id": "161307",
+      "name": "HANCOCK COUNTY HEALTH SYSTEM",
+      "address": "532 1ST ST NW",
+      "city": "BRITT",
+      "state": "IA",
+      "zipcode": "50423"
+    },
+    {
+      "id": "161308",
+      "name": "FRANKLIN GENERAL HOSPITAL",
+      "address": "1720 CENTRAL AVENUE EAST",
+      "city": "HAMPTON",
+      "state": "IA",
+      "zipcode": "50441"
+    },
+    {
+      "id": "161309",
+      "name": "CHI HEALTH MISSOURI VALLEY",
+      "address": "631 N 8TH ST",
+      "city": "MISSOURI VALLEY",
+      "state": "IA",
+      "zipcode": "51555"
+    },
+    {
+      "id": "161310",
+      "name": "ADAIR COUNTY MEMORIAL HOSPITAL",
+      "address": "609 SE KENT",
+      "city": "GREENFIELD",
+      "state": "IA",
+      "zipcode": "50849"
+    },
+    {
+      "id": "161311",
+      "name": "HAWARDEN REGIONAL HEALTHCARE",
+      "address": "1111 11TH STREET",
+      "city": "HAWARDEN",
+      "state": "IA",
+      "zipcode": "51023"
+    },
+    {
+      "id": "161312",
+      "name": "GUTTENBERG MUNICIPAL HOSPITAL",
+      "address": "200 MAIN STREET",
+      "city": "GUTTENBERG",
+      "state": "IA",
+      "zipcode": "52052"
+    },
+    {
+      "id": "161313",
+      "name": "GENESIS MEDICAL CENTER-DEWITT",
+      "address": "1118 11TH STREET",
+      "city": "DEWITT",
+      "state": "IA",
+      "zipcode": "52742"
+    },
+    {
+      "id": "161314",
+      "name": "GUTHRIE COUNTY HOSPITAL",
+      "address": "710 NORTH 12TH STREET",
+      "city": "GUTHRIE CENTER",
+      "state": "IA",
+      "zipcode": "50115"
+    },
+    {
+      "id": "161315",
+      "name": "KEOKUK COUNTY HEALTH CENTER",
+      "address": "23019 HIGHWAY 149",
+      "city": "SIGOURNEY",
+      "state": "IA",
+      "zipcode": "52591"
+    },
+    {
+      "id": "161316",
+      "name": "GUNDERSEN PALMER LUTHERAN HOSPITAL AND CLINICS",
+      "address": "112 JEFFERSON STREET",
+      "city": "WEST UNION",
+      "state": "IA",
+      "zipcode": "52175"
+    },
+    {
+      "id": "161317",
+      "name": "COMPASS MEMORIAL HEALTHCARE",
+      "address": "300 W MAY ST",
+      "city": "MARENGO",
+      "state": "IA",
+      "zipcode": "52301"
+    },
+    {
+      "id": "161318",
+      "name": "VETERANS MEMORIAL HOSPITAL",
+      "address": "40 1ST STREET SE",
+      "city": "WAUKON",
+      "state": "IA",
+      "zipcode": "52172"
+    },
+    {
+      "id": "161319",
+      "name": "MERCYONE ELKADER MEDICAL CENTER",
+      "address": "901 DAVIDSON STREET NW",
+      "city": "ELKADER",
+      "state": "IA",
+      "zipcode": "52043"
+    },
+    {
+      "id": "161320",
+      "name": "COMMUNITY MEMORIAL HOSPITAL MEDICAL CENTER",
+      "address": "909 WEST FIRST STREET",
+      "city": "SUMNER",
+      "state": "IA",
+      "zipcode": "50674"
+    },
+    {
+      "id": "161321",
+      "name": "AVERA MERRILL PIONEER HOSPITAL",
+      "address": "1100 S 10TH AVE",
+      "city": "ROCK RAPIDS",
+      "state": "IA",
+      "zipcode": "51246"
+    },
+    {
+      "id": "161322",
+      "name": "DALLAS COUNTY HOSPITAL",
+      "address": "610 TENTH STREET",
+      "city": "PERRY",
+      "state": "IA",
+      "zipcode": "50220"
+    },
+    {
+      "id": "161323",
+      "name": "MITCHELL COUNTY REGIONAL HEALTH",
+      "address": "616 NORTH EIGHTH STREET",
+      "city": "OSAGE",
+      "state": "IA",
+      "zipcode": "50461"
+    },
+    {
+      "id": "161324",
+      "name": "GEORGE C GRAPE COMMUNITY HOSPITAL",
+      "address": "2959 US HIGHWAY 275",
+      "city": "HAMBURG",
+      "state": "IA",
+      "zipcode": "51640"
+    },
+    {
+      "id": "161325",
+      "name": "GREENE COUNTY MEDICAL CENTER",
+      "address": "1000 WEST LINCOLN WAY",
+      "city": "JEFFERSON",
+      "state": "IA",
+      "zipcode": "50129"
+    },
+    {
+      "id": "161326",
+      "name": "MADISON COUNTY HEALTH CARE SYSTEM",
+      "address": "300 WEST HUTCHINGS STREET",
+      "city": "WINTERSET",
+      "state": "IA",
+      "zipcode": "50273"
+    },
+    {
+      "id": "161327",
+      "name": "DAVIS COUNTY HOSPITAL",
+      "address": "509 NORTH MADISON STREET",
+      "city": "BLOOMFIELD",
+      "state": "IA",
+      "zipcode": "52537"
+    },
+    {
+      "id": "161328",
+      "name": "REGIONAL HEALTH SERVICES OF HOWARD COUNTY",
+      "address": "235 8TH AVENUE WEST",
+      "city": "CRESCO",
+      "state": "IA",
+      "zipcode": "52136"
+    },
+    {
+      "id": "161329",
+      "name": "JACKSON COUNTY REGIONAL HEALTH CENTER",
+      "address": "700 W GROVE ST",
+      "city": "MAQUOKETA",
+      "state": "IA",
+      "zipcode": "52060"
+    },
+    {
+      "id": "161330",
+      "name": "AUDUBON COUNTY MEMORIAL HOSPITAL",
+      "address": "515 PACIFIC AVENUE",
+      "city": "AUDUBON",
+      "state": "IA",
+      "zipcode": "50025"
+    },
+    {
+      "id": "161331",
+      "name": "MERCYONE NEW HAMPTON MEDICAL CENTER",
+      "address": "308 NORTH MAPLE AVENUE",
+      "city": "NEW HAMPTON",
+      "state": "IA",
+      "zipcode": "50659"
+    },
+    {
+      "id": "161332",
+      "name": "MANNING REGIONAL HEALTHCARE CENTER",
+      "address": "1550 SIXTH STREET",
+      "city": "MANNING",
+      "state": "IA",
+      "zipcode": "51455"
+    },
+    {
+      "id": "161333",
+      "name": "STORY COUNTY HOSPITAL",
+      "address": "640 SOUTH 19TH STREET",
+      "city": "NEVADA",
+      "state": "IA",
+      "zipcode": "50201"
+    },
+    {
+      "id": "161334",
+      "name": "HUMBOLDT COUNTY MEMORIAL HOSPITAL",
+      "address": "1000 NORTH 15TH STREET",
+      "city": "HUMBOLDT",
+      "state": "IA",
+      "zipcode": "50548"
+    },
+    {
+      "id": "161335",
+      "name": "BUCHANAN COUNTY HEALTH CENTER",
+      "address": "1600 FIRST ST EAST",
+      "city": "INDEPENDENCE",
+      "state": "IA",
+      "zipcode": "50644"
+    },
+    {
+      "id": "161336",
+      "name": "HEGG MEMORIAL HEALTH CENTER",
+      "address": "1202 21ST AVENUE",
+      "city": "ROCK VALLEY",
+      "state": "IA",
+      "zipcode": "51247"
+    },
+    {
+      "id": "161337",
+      "name": "VAN BUREN COUNTY HOSPITAL",
+      "address": "304 FRANKLIN STREET",
+      "city": "KEOSAUQUA",
+      "state": "IA",
+      "zipcode": "52565"
+    },
+    {
+      "id": "161338",
+      "name": "MERCYONE OELWEIN MEDICAL CENTER",
+      "address": "201 EIGHTH AVENUE SE",
+      "city": "OELWEIN",
+      "state": "IA",
+      "zipcode": "50662"
+    },
+    {
+      "id": "161339",
+      "name": "WAVERLY HEALTH CENTER",
+      "address": "312  9TH STREET SW",
+      "city": "WAVERLY",
+      "state": "IA",
+      "zipcode": "50677"
+    },
+    {
+      "id": "161340",
+      "name": "DECATUR COUNTY HOSPITAL",
+      "address": "1405 NW CHURCH STREET",
+      "city": "LEON",
+      "state": "IA",
+      "zipcode": "50144"
+    },
+    {
+      "id": "161341",
+      "name": "LUCAS COUNTY HEALTH CENTER",
+      "address": "1200 NORTH 7TH STREET",
+      "city": "CHARITON",
+      "state": "IA",
+      "zipcode": "50049"
+    },
+    {
+      "id": "161342",
+      "name": "MONROE COUNTY HOSPITAL",
+      "address": "6580 165TH STREET",
+      "city": "ALBIA",
+      "state": "IA",
+      "zipcode": "52531"
+    },
+    {
+      "id": "161343",
+      "name": "REGIONAL MEDICAL CENTER",
+      "address": "709 W MAIN STREET",
+      "city": "MANCHESTER",
+      "state": "IA",
+      "zipcode": "52057"
+    },
+    {
+      "id": "161344",
+      "name": "WASHINGTON COUNTY HOSPITAL AND CLINICS",
+      "address": "400 EAST POLK STREET",
+      "city": "WASHINGTON",
+      "state": "IA",
+      "zipcode": "52353"
+    },
+    {
+      "id": "161345",
+      "name": "OSCEOLA COMMUNITY HOSPITAL",
+      "address": "600 9TH AVENUE NORTH",
+      "city": "SIBLEY",
+      "state": "IA",
+      "zipcode": "51249"
+    },
+    {
+      "id": "161346",
+      "name": "SIOUX CENTER HEALTH",
+      "address": "1101 9TH STREET SE",
+      "city": "SIOUX CENTER",
+      "state": "IA",
+      "zipcode": "51250"
+    },
+    {
+      "id": "161347",
+      "name": "FLOYD COUNTY MEDICAL CENTER",
+      "address": "800 11TH ST",
+      "city": "CHARLES CITY",
+      "state": "IA",
+      "zipcode": "50616"
+    },
+    {
+      "id": "161348",
+      "name": "CLARKE COUNTY HOSPITAL",
+      "address": "800 S FILLMORE ST",
+      "city": "OSCEOLA",
+      "state": "IA",
+      "zipcode": "50213"
+    },
+    {
+      "id": "161349",
+      "name": "VIRGINIA GAY HOSPITAL",
+      "address": "502 NORTH 9TH AVENUE",
+      "city": "VINTON",
+      "state": "IA",
+      "zipcode": "52349"
+    },
+    {
+      "id": "161350",
+      "name": "STEWART MEMORIAL COMMUNITY HOSPITAL",
+      "address": "1301 WEST MAIN STREET",
+      "city": "LAKE CITY",
+      "state": "IA",
+      "zipcode": "51449"
+    },
+    {
+      "id": "161351",
+      "name": "AVERA HOLY FAMILY HOSPITAL",
+      "address": "826 NORTH 8TH STREET",
+      "city": "ESTHERVILLE",
+      "state": "IA",
+      "zipcode": "51334"
+    },
+    {
+      "id": "161352",
+      "name": "CLARINDA REGIONAL HEALTH CENTER",
+      "address": "220 ESSIE DAVISON DRIVE",
+      "city": "CLARINDA",
+      "state": "IA",
+      "zipcode": "51632"
+    },
+    {
+      "id": "161353",
+      "name": "KOSSUTH REGIONAL HEALTH CENTER",
+      "address": "1515 SOUTH PHILLIPS STREET",
+      "city": "ALGONA",
+      "state": "IA",
+      "zipcode": "50511"
+    },
+    {
+      "id": "161354",
+      "name": "HORN MEMORIAL HOSPITAL",
+      "address": "701 E 2ND ST",
+      "city": "IDA GROVE",
+      "state": "IA",
+      "zipcode": "51445"
+    },
+    {
+      "id": "161355",
+      "name": "KNOXVILLE HOSPITAL & CLINICS",
+      "address": "1002 SOUTH LINCOLN STREET",
+      "city": "KNOXVILLE",
+      "state": "IA",
+      "zipcode": "50138"
+    },
+    {
+      "id": "161356",
+      "name": "HENRY COUNTY HEALTH CENTER",
+      "address": "407 S WHITE ST",
+      "city": "MOUNT PLEASANT",
+      "state": "IA",
+      "zipcode": "52641"
+    },
+    {
+      "id": "161357",
+      "name": "PALO ALTO COUNTY HOSPITAL",
+      "address": "3201 1ST STREET",
+      "city": "EMMETSBURG",
+      "state": "IA",
+      "zipcode": "50536"
+    },
+    {
+      "id": "161358",
+      "name": "WAYNE COUNTY HOSPITAL",
+      "address": "417 SOUTH EAST STREET",
+      "city": "CORYDON",
+      "state": "IA",
+      "zipcode": "50060"
+    },
+    {
+      "id": "161359",
+      "name": "BURGESS HEALTH CENTER",
+      "address": "1600 DIAMOND STREET",
+      "city": "ONAWA",
+      "state": "IA",
+      "zipcode": "51040"
+    },
+    {
+      "id": "161360",
+      "name": "ORANGE CITY AREA HEALTH SYSTEM",
+      "address": "1000 LINCOLN CIRCLE SE",
+      "city": "ORANGE CITY",
+      "state": "IA",
+      "zipcode": "51041"
+    },
+    {
+      "id": "161361",
+      "name": "VAN DIEST MEDICAL CENTER",
+      "address": "2350 HOSPITAL DRIVE",
+      "city": "WEBSTER CITY",
+      "state": "IA",
+      "zipcode": "50595"
+    },
+    {
+      "id": "161362",
+      "name": "CHEROKEE REGIONAL MEDICAL CENTER",
+      "address": "300 SIOUX VALLEY DRIVE",
+      "city": "CHEROKEE",
+      "state": "IA",
+      "zipcode": "51012"
+    },
+    {
+      "id": "161363",
+      "name": "MONTGOMERY COUNTY MEMORIAL HOSPITAL",
+      "address": "2301 EASTERN AVENUE",
+      "city": "RED OAK",
+      "state": "IA",
+      "zipcode": "51566"
+    },
+    {
+      "id": "161364",
+      "name": "JEFFERSON COUNTY HEALTH CENTER",
+      "address": "2000 S MAIN",
+      "city": "FAIRFIELD",
+      "state": "IA",
+      "zipcode": "52556"
+    },
+    {
+      "id": "161365",
+      "name": "GREATER REGIONAL MEDICAL CENTER",
+      "address": "1700 WEST TOWNLINE STREET",
+      "city": "CRESTON",
+      "state": "IA",
+      "zipcode": "50801"
+    },
+    {
+      "id": "161366",
+      "name": "SHENANDOAH MEDICAL CENTER",
+      "address": "300 PERSHING AVENUE",
+      "city": "SHENANDOAH",
+      "state": "IA",
+      "zipcode": "51601"
+    },
+    {
+      "id": "161367",
+      "name": "PELLA REGIONAL HEALTH CENTER",
+      "address": "404 JEFFERSON STREET",
+      "city": "PELLA",
+      "state": "IA",
+      "zipcode": "50219"
+    },
+    {
+      "id": "161368",
+      "name": "FLOYD VALLEY HEALTHCARE",
+      "address": "714 LINCOLN ST NE",
+      "city": "LE MARS",
+      "state": "IA",
+      "zipcode": "51031"
+    },
+    {
+      "id": "161369",
+      "name": "CRAWFORD COUNTY MEMORIAL HOSPITAL",
+      "address": "100 MEDICAL PARKWAY",
+      "city": "DENISON",
+      "state": "IA",
+      "zipcode": "51442"
+    },
+    {
+      "id": "161370",
+      "name": "LORING HOSPITAL",
+      "address": "211 HIGHLAND AVENUE PO BOX 217",
+      "city": "SAC CITY",
+      "state": "IA",
+      "zipcode": "50583"
+    },
+    {
+      "id": "161371",
+      "name": "WINNMED",
+      "address": "901 MONTGOMERY STREET",
+      "city": "DECORAH",
+      "state": "IA",
+      "zipcode": "52101"
+    },
+    {
+      "id": "161372",
+      "name": "BOONE COUNTY HOSPITAL",
+      "address": "1015 UNION STREET",
+      "city": "BOONE",
+      "state": "IA",
+      "zipcode": "50036"
+    },
+    {
+      "id": "161373",
+      "name": "RINGGOLD COUNTY HOSPITAL",
+      "address": "504 NORTH CLEVELAND STREET",
+      "city": "MOUNT AYR",
+      "state": "IA",
+      "zipcode": "50854"
+    },
+    {
+      "id": "161374",
+      "name": "MYRTUE MEDICAL CENTER",
+      "address": "1213 GARFIELD AVENUE",
+      "city": "HARLAN",
+      "state": "IA",
+      "zipcode": "51537"
+    },
+    {
+      "id": "161375",
+      "name": "BUENA VISTA REGIONAL MEDICAL CENTER",
+      "address": "1525 WEST 5TH STREET",
+      "city": "STORM LAKE",
+      "state": "IA",
+      "zipcode": "50588"
+    },
+    {
+      "id": "161376",
+      "name": "CASS COUNTY MEMORIAL HOSPITAL",
+      "address": "1501 EAST TENTH STREET",
+      "city": "ATLANTIC",
+      "state": "IA",
+      "zipcode": "50022"
+    },
+    {
+      "id": "161377",
+      "name": "MERCYONE CENTERVILLE MEDICAL CENTER",
+      "address": "ONE ST JOSEPH'S DRIVE",
+      "city": "CENTERVILLE",
+      "state": "IA",
+      "zipcode": "52544"
+    },
+    {
+      "id": "161378",
+      "name": "MERCYONE DYERSVILLE MEDICAL CENTER",
+      "address": "1111 3RD STREET SW",
+      "city": "DYERSVILLE",
+      "state": "IA",
+      "zipcode": "52040"
+    },
+    {
+      "id": "161379",
+      "name": "MAHASKA  HEALTH PARTNERSHIP",
+      "address": "1229 C AVENUE EAST",
+      "city": "OSKALOOSA",
+      "state": "IA",
+      "zipcode": "52577"
+    },
+    {
+      "id": "161380",
+      "name": "HANSEN FAMILY HOSPITAL",
+      "address": "920 SOUTH OAK STREET",
+      "city": "IOWA FALLS",
+      "state": "IA",
+      "zipcode": "50126"
+    },
+    {
+      "id": "161381",
+      "name": "SANFORD SHELDON MEDICAL CENTER",
+      "address": "118 NORTH 7TH AVENUE",
+      "city": "SHELDON",
+      "state": "IA",
+      "zipcode": "51201"
+    }
+  ]
+}

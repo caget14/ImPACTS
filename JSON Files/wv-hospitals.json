@@ -1,0 +1,372 @@
+{
+  "hospitals": [
+    {
+      "id": "510001",
+      "name": "WEST VIRGINIA UNIVERSITY HOSPITALS, INC",
+      "address": "1 MEDICAL CENTER DRIVE",
+      "city": "MORGANTOWN",
+      "state": "WV",
+      "zipcode": "26506"
+    },
+    {
+      "id": "510002",
+      "name": "CAMC GREENBRIER VALLEY MEDICAL CENTER, INC",
+      "address": "1320 MAPLEWOOD AVENUE",
+      "city": "RONCEVERTE",
+      "state": "WV",
+      "zipcode": "24970"
+    },
+    {
+      "id": "510006",
+      "name": "UNITED HOSPITAL CENTER, INC",
+      "address": "327 MEDICAL PARK DRIVE",
+      "city": "BRIDGEPORT",
+      "state": "WV",
+      "zipcode": "26330"
+    },
+    {
+      "id": "510007",
+      "name": "ST MARY'S MEDICAL CENTER",
+      "address": "2900 1ST AVENUE",
+      "city": "HUNTINGTON",
+      "state": "WV",
+      "zipcode": "25702"
+    },
+    {
+      "id": "510008",
+      "name": "BERKELEY MEDICAL CENTER",
+      "address": "2500 HOSPITAL DRIVE",
+      "city": "MARTINSBURG",
+      "state": "WV",
+      "zipcode": "25401"
+    },
+    {
+      "id": "510012",
+      "name": "RIVERS HEALTH",
+      "address": "2520 VALLEY DRIVE",
+      "city": "POINT PLEASANT",
+      "state": "WV",
+      "zipcode": "25550"
+    },
+    {
+      "id": "510013",
+      "name": "REYNOLDS MEMORIAL HOSPITAL",
+      "address": "800 WHEELING AVE",
+      "city": "GLEN DALE",
+      "state": "WV",
+      "zipcode": "26038"
+    },
+    {
+      "id": "510022",
+      "name": "CHARLESTON AREA MEDICAL CENTER",
+      "address": "501 MORRIS STREET",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "zipcode": "25301"
+    },
+    {
+      "id": "510023",
+      "name": "WEIRTON MEDICAL CENTER, INC",
+      "address": "601 COLLIERS WAY",
+      "city": "WEIRTON",
+      "state": "WV",
+      "zipcode": "26062"
+    },
+    {
+      "id": "510024",
+      "name": "MON HEALTH MEDICAL CENTER",
+      "address": "1200 JD ANDERSON DRIVE",
+      "city": "MORGANTOWN",
+      "state": "WV",
+      "zipcode": "26505"
+    },
+    {
+      "id": "510029",
+      "name": "THOMAS MEMORIAL HOSPITAL",
+      "address": "4605 MACCORKLE AVENUE SW",
+      "city": "SOUTH CHARLESTON",
+      "state": "WV",
+      "zipcode": "25309"
+    },
+    {
+      "id": "510030",
+      "name": "DAVIS MEDICAL CENTER",
+      "address": "812 GORMAN AVENUE",
+      "city": "ELKINS",
+      "state": "WV",
+      "zipcode": "26241"
+    },
+    {
+      "id": "510031",
+      "name": "SAINT FRANCIS HOSPITAL",
+      "address": "333 LAIDLEY ST",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "zipcode": "25301"
+    },
+    {
+      "id": "510038",
+      "name": "STONEWALL JACKSON MEMORIAL HOSPITAL",
+      "address": "230 HOSPITAL PLAZA",
+      "city": "WESTON",
+      "state": "WV",
+      "zipcode": "26452"
+    },
+    {
+      "id": "510046",
+      "name": "PRINCETON COMMUNITY HOSPITAL",
+      "address": "122 12TH STREET",
+      "city": "PRINCETON",
+      "state": "WV",
+      "zipcode": "24740"
+    },
+    {
+      "id": "510048",
+      "name": "LOGAN REGIONAL MEDICAL CENTER",
+      "address": "20 HOSPITAL DRIVE",
+      "city": "LOGAN",
+      "state": "WV",
+      "zipcode": "25601"
+    },
+    {
+      "id": "510050",
+      "name": "WHEELING HOSPITAL, INC",
+      "address": "1 MEDICAL PARK",
+      "city": "WHEELING",
+      "state": "WV",
+      "zipcode": "26003"
+    },
+    {
+      "id": "510055",
+      "name": "CABELL HUNTINGTON HOSPITAL, INC",
+      "address": "1340 HAL GREER BOULEVARD",
+      "city": "HUNTINGTON",
+      "state": "WV",
+      "zipcode": "25701"
+    },
+    {
+      "id": "510058",
+      "name": "CAMDEN CLARK MEDICAL CENTER",
+      "address": "800 GARFIELD AVE",
+      "city": "PARKERSBURG",
+      "state": "WV",
+      "zipcode": "26101"
+    },
+    {
+      "id": "510062",
+      "name": "BECKLEY ARH HOSPITAL",
+      "address": "306 STANAFORD ROAD",
+      "city": "BECKLEY",
+      "state": "WV",
+      "zipcode": "25801"
+    },
+    {
+      "id": "510070",
+      "name": "RALEIGH GENERAL HOSPITAL",
+      "address": "1710 HARPER ROAD",
+      "city": "BECKLEY",
+      "state": "WV",
+      "zipcode": "25801"
+    },
+    {
+      "id": "510072",
+      "name": "WETZEL COUNTY HOSPITAL",
+      "address": "#3 EAST BENJAMIN DRIVE",
+      "city": "NEW MARTINSVILLE",
+      "state": "WV",
+      "zipcode": "26155"
+    },
+    {
+      "id": "510086",
+      "name": "WELCH COMMUNITY HOSPITAL",
+      "address": "454 MCDOWELL STREET",
+      "city": "WELCH",
+      "state": "WV",
+      "zipcode": "24801"
+    },
+    {
+      "id": "510091",
+      "name": "CAMC CHARLESTON SURGICAL HOSPITAL",
+      "address": "1306 KANAWHA BOULEVARD EAST",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "zipcode": "25301"
+    },
+    {
+      "id": "510093",
+      "name": "MON HEALTH MARION",
+      "address": "140 MIDDLETOWN LOOP",
+      "city": "WHITEHALL",
+      "state": "WV",
+      "zipcode": "26554"
+    },
+    {
+      "id": "511300",
+      "name": "BROADDUS HOSPITAL ASSOCIATION, INC",
+      "address": "1 HEALTHCARE DRIVE MANSFIELD HILL",
+      "city": "PHILIPPI",
+      "state": "WV",
+      "zipcode": "26416"
+    },
+    {
+      "id": "511301",
+      "name": "WEBSTER MEMORIAL HOSPITAL",
+      "address": "125 DIANA DRIVE",
+      "city": "WEBSTER SPRINGS",
+      "state": "WV",
+      "zipcode": "26288"
+    },
+    {
+      "id": "511303",
+      "name": "MINNIE HAMILTON HEALTH SYSTEM",
+      "address": "186 HOSPITAL DRIVE",
+      "city": "GRANTSVILLE",
+      "state": "WV",
+      "zipcode": "26147"
+    },
+    {
+      "id": "511304",
+      "name": "SISTERSVILLE GENERAL HOSPITAL",
+      "address": "314 SOUTH WELLS STREET",
+      "city": "SISTERSVILLE",
+      "state": "WV",
+      "zipcode": "26175"
+    },
+    {
+      "id": "511306",
+      "name": "ROANE GENERAL HOSPITAL",
+      "address": "200 HOSPITAL DRIVE",
+      "city": "SPENCER",
+      "state": "WV",
+      "zipcode": "25276"
+    },
+    {
+      "id": "511307",
+      "name": "GRAFTON CITY HOSPITAL, INC",
+      "address": "1 HOSPITAL PLAZA",
+      "city": "GRAFTON",
+      "state": "WV",
+      "zipcode": "26354"
+    },
+    {
+      "id": "511308",
+      "name": "BRAXTON COUNTY MEMORIAL HOSPITAL, INC",
+      "address": "100 HOYLMAN DRIVE",
+      "city": "GASSAWAY",
+      "state": "WV",
+      "zipcode": "26624"
+    },
+    {
+      "id": "511309",
+      "name": "VALLEY HEALTH WAR MEMORIAL HOSPITAL",
+      "address": "1 HEALTHY WAY",
+      "city": "BERKELEY SPRINGS",
+      "state": "WV",
+      "zipcode": "25411"
+    },
+    {
+      "id": "511310",
+      "name": "SUMMERS COUNTY ARH HOSPITAL",
+      "address": "115 SUMMERS HOSPITAL ROAD",
+      "city": "HINTON",
+      "state": "WV",
+      "zipcode": "25951"
+    },
+    {
+      "id": "511311",
+      "name": "HAMPSHIRE MEMORIAL HOSPITAL",
+      "address": "363 SUNRISE BOULEVARD",
+      "city": "ROMNEY",
+      "state": "WV",
+      "zipcode": "26757"
+    },
+    {
+      "id": "511312",
+      "name": "PRESTON MEMORIAL HOSPITAL",
+      "address": "150 MEMORIAL DRIVE",
+      "city": "KINGWOOD",
+      "state": "WV",
+      "zipcode": "26537"
+    },
+    {
+      "id": "511313",
+      "name": "BOONE MEMORIAL HOSPITAL, INC",
+      "address": "701 MADISON AVENUE",
+      "city": "MADISON",
+      "state": "WV",
+      "zipcode": "25130"
+    },
+    {
+      "id": "511314",
+      "name": "POCAHONTAS MEMORIAL HOSPITAL",
+      "address": "150 DUNCAN ROAD",
+      "city": "BUCKEYE",
+      "state": "WV",
+      "zipcode": "24924"
+    },
+    {
+      "id": "511315",
+      "name": "POTOMAC VALLEY HOSPITAL OF WV, INC",
+      "address": "100 PIN OAK LANE",
+      "city": "KEYSER",
+      "state": "WV",
+      "zipcode": "26726"
+    },
+    {
+      "id": "511316",
+      "name": "GRANT MEMORIAL HOSPITAL",
+      "address": "117 HOSPITAL DRIVE",
+      "city": "PETERSBURG",
+      "state": "WV",
+      "zipcode": "26847"
+    },
+    {
+      "id": "511317",
+      "name": "CAMC PLATEAU MEDICAL CENTER, INC",
+      "address": "430 MAIN STREET, WEST",
+      "city": "OAK HILL",
+      "state": "WV",
+      "zipcode": "25901"
+    },
+    {
+      "id": "511318",
+      "name": "MONTGOMERY GENERAL HOSPITAL",
+      "address": "401 SIXTH AVENUE",
+      "city": "MONTGOMERY",
+      "state": "WV",
+      "zipcode": "25136"
+    },
+    {
+      "id": "511319",
+      "name": "JEFFERSON MEDICAL CENTER",
+      "address": "300 SOUTH PRESTON STREET",
+      "city": "RANSON",
+      "state": "WV",
+      "zipcode": "25438"
+    },
+    {
+      "id": "511320",
+      "name": "JACKSON GENERAL HOSPITAL",
+      "address": "122 PINNELL ST",
+      "city": "RIPLEY",
+      "state": "WV",
+      "zipcode": "25271"
+    },
+    {
+      "id": "511321",
+      "name": "ST JOSEPH'S HOSPITAL OF BUCKHANNON, INC",
+      "address": "1 AMALIA DRIVE",
+      "city": "BUCKHANNON",
+      "state": "WV",
+      "zipcode": "26201"
+    },
+    {
+      "id": "511322",
+      "name": "SUMMERSVILLE REGIONAL MEDICAL CENTER",
+      "address": "400 FAIRVIEW HEIGHTS ROAD",
+      "city": "SUMMERSVILLE",
+      "state": "WV",
+      "zipcode": "26651"
+    }
+  ]
+}

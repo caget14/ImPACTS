@@ -1,0 +1,676 @@
+{
+  "hospitals": [
+    {
+      "id": "060001",
+      "name": "BANNER NORTH COLORADO MEDICAL CENTER",
+      "address": "1801 16TH ST",
+      "city": "GREELEY",
+      "state": "CO",
+      "zipcode": "80631"
+    },
+    {
+      "id": "060003",
+      "name": "LONGMONT UNITED HOSPITAL",
+      "address": "1950 MOUNTAIN VIEW AVE",
+      "city": "LONGMONT",
+      "state": "CO",
+      "zipcode": "80501"
+    },
+    {
+      "id": "060004",
+      "name": "INTERMOUNTAIN HEALTH PLATTE VALLEY HOSPITAL",
+      "address": "1600 PRAIRIE CENTER PKWY",
+      "city": "BRIGHTON",
+      "state": "CO",
+      "zipcode": "80601"
+    },
+    {
+      "id": "060006",
+      "name": "MONTROSE REGIONAL HEALTH",
+      "address": "800 S 3RD ST",
+      "city": "MONTROSE",
+      "state": "CO",
+      "zipcode": "81401"
+    },
+    {
+      "id": "060008",
+      "name": "SAN LUIS VALLEY HEALTH",
+      "address": "106 BLANCA AVE",
+      "city": "ALAMOSA",
+      "state": "CO",
+      "zipcode": "81101"
+    },
+    {
+      "id": "060009",
+      "name": "LUTHERAN MEDICAL CENTER",
+      "address": "8300 W 38TH AVE",
+      "city": "WHEAT RIDGE",
+      "state": "CO",
+      "zipcode": "80033"
+    },
+    {
+      "id": "060010",
+      "name": "POUDRE VALLEY HOSPITAL",
+      "address": "1024 S LEMAY AVE",
+      "city": "FORT COLLINS",
+      "state": "CO",
+      "zipcode": "80524"
+    },
+    {
+      "id": "060011",
+      "name": "DENVER HEALTH MEDICAL CENTER",
+      "address": "777 BANNOCK ST",
+      "city": "DENVER",
+      "state": "CO",
+      "zipcode": "80204"
+    },
+    {
+      "id": "060012",
+      "name": "ST MARY-CORWIN HOSPITAL",
+      "address": "1008 MINNEQUA AVE",
+      "city": "PUEBLO",
+      "state": "CO",
+      "zipcode": "81004"
+    },
+    {
+      "id": "060013",
+      "name": "MERCY HOSPITAL",
+      "address": "1010 THREE SPRINGS BLVD",
+      "city": "DURANGO",
+      "state": "CO",
+      "zipcode": "81301"
+    },
+    {
+      "id": "060014",
+      "name": "PRESBYTERIAN/ST LUKE'S MEDICAL CENTER",
+      "address": "1719 E 19TH AVE",
+      "city": "DENVER",
+      "state": "CO",
+      "zipcode": "80218"
+    },
+    {
+      "id": "060015",
+      "name": "ST ANTHONY HOSPITAL",
+      "address": "11600 W 2ND PL",
+      "city": "LAKEWOOD",
+      "state": "CO",
+      "zipcode": "80228"
+    },
+    {
+      "id": "060020",
+      "name": "PARKVIEW MEDICAL CENTER, INC",
+      "address": "400 W 16TH ST",
+      "city": "PUEBLO",
+      "state": "CO",
+      "zipcode": "81003"
+    },
+    {
+      "id": "060022",
+      "name": "UNIVERSITY COLO HEALTH MEMORIAL HOSPITAL CENTRAL",
+      "address": "1400 E BOULDER ST",
+      "city": "COLORADO SPRINGS",
+      "state": "CO",
+      "zipcode": "80909"
+    },
+    {
+      "id": "060023",
+      "name": "INTERMOUNTAIN HEALTH ST. MARY'S REGIONAL HOSPITAL",
+      "address": "2635 N 7TH ST",
+      "city": "GRAND JUNCTION",
+      "state": "CO",
+      "zipcode": "81501"
+    },
+    {
+      "id": "060024",
+      "name": "UNIVERSITY OF COLORADO HOSPITAL AUTHORITY",
+      "address": "12605 E 16TH AVE",
+      "city": "AURORA",
+      "state": "CO",
+      "zipcode": "80045"
+    },
+    {
+      "id": "060027",
+      "name": "FOOTHILLS HOSPITAL",
+      "address": "4747 ARAPAHOE AVE",
+      "city": "BOULDER",
+      "state": "CO",
+      "zipcode": "80303"
+    },
+    {
+      "id": "060028",
+      "name": "INTERMOUNTAIN HEALTH SAINT JOSEPH HOSPITAL",
+      "address": "1375 E 19TH AVE",
+      "city": "DENVER",
+      "state": "CO",
+      "zipcode": "80218"
+    },
+    {
+      "id": "060030",
+      "name": "BANNER MCKEE MEDICAL CENTER",
+      "address": "2000 BOISE AVE",
+      "city": "LOVELAND",
+      "state": "CO",
+      "zipcode": "80538"
+    },
+    {
+      "id": "060031",
+      "name": "PENROSE HOSPITAL",
+      "address": "2222 N NEVADA AVE",
+      "city": "COLORADO SPRINGS",
+      "state": "CO",
+      "zipcode": "80907"
+    },
+    {
+      "id": "060032",
+      "name": "HCA HEALTHONE ROSE",
+      "address": "4567 E 9TH AVE",
+      "city": "DENVER",
+      "state": "CO",
+      "zipcode": "80220"
+    },
+    {
+      "id": "060034",
+      "name": "SWEDISH MEDICAL CENTER",
+      "address": "501 E HAMPDEN AVE",
+      "city": "ENGLEWOOD",
+      "state": "CO",
+      "zipcode": "80113"
+    },
+    {
+      "id": "060044",
+      "name": "ST ELIZABETH HOSPITAL",
+      "address": "1000 LINCOLN ST",
+      "city": "FORT MORGAN",
+      "state": "CO",
+      "zipcode": "80701"
+    },
+    {
+      "id": "060049",
+      "name": "UCHEALTH YAMPA VALLEY MEDICAL CENTER",
+      "address": "1024 CENTRAL PARK DR",
+      "city": "STEAMBOAT SPRINGS",
+      "state": "CO",
+      "zipcode": "80487"
+    },
+    {
+      "id": "060054",
+      "name": "COMMUNITY HOSPITAL",
+      "address": "2351 'G' RD",
+      "city": "GRAND JUNCTION",
+      "state": "CO",
+      "zipcode": "81505"
+    },
+    {
+      "id": "060064",
+      "name": "ADVENTHEALTH PORTER",
+      "address": "2525 S DOWNING ST",
+      "city": "DENVER",
+      "state": "CO",
+      "zipcode": "80210"
+    },
+    {
+      "id": "060065",
+      "name": "HCA HEALTHONE MOUNTAIN RIDGE",
+      "address": "9191 GRANT ST",
+      "city": "THORNTON",
+      "state": "CO",
+      "zipcode": "80229"
+    },
+    {
+      "id": "060071",
+      "name": "DELTA COUNTY MEMORIAL HOSPITAL",
+      "address": "1501 E 3RD ST",
+      "city": "DELTA",
+      "state": "CO",
+      "zipcode": "81416"
+    },
+    {
+      "id": "060075",
+      "name": "VALLEY VIEW HOSPITAL ASSOCIATION",
+      "address": "1906 BLAKE AVE",
+      "city": "GLENWOOD SPRINGS",
+      "state": "CO",
+      "zipcode": "81601"
+    },
+    {
+      "id": "060076",
+      "name": "STERLING REGIONAL MEDCENTER",
+      "address": "615 FAIRHURST ST",
+      "city": "STERLING",
+      "state": "CO",
+      "zipcode": "80751"
+    },
+    {
+      "id": "060096",
+      "name": "VAIL HEALTH HOSPITAL",
+      "address": "181 W MEADOW DR",
+      "city": "VAIL",
+      "state": "CO",
+      "zipcode": "81657"
+    },
+    {
+      "id": "060100",
+      "name": "HCA HEALTHONE AURORA",
+      "address": "1501 S POTOMAC ST",
+      "city": "AURORA",
+      "state": "CO",
+      "zipcode": "80012"
+    },
+    {
+      "id": "060103",
+      "name": "ADVENTHEALTH AVISTA",
+      "address": "100 HEALTH PARK DR",
+      "city": "LOUISVILLE",
+      "state": "CO",
+      "zipcode": "80027"
+    },
+    {
+      "id": "060104",
+      "name": "ST ANTHONY NORTH HOSPITAL",
+      "address": "14300 ORCHARD PKWY",
+      "city": "WESTMINSTER",
+      "state": "CO",
+      "zipcode": "80023"
+    },
+    {
+      "id": "060107",
+      "name": "NATIONAL JEWISH HEALTH",
+      "address": "1400 JACKSON ST",
+      "city": "DENVER",
+      "state": "CO",
+      "zipcode": "80206"
+    },
+    {
+      "id": "060112",
+      "name": "SKY RIDGE MEDICAL CENTER",
+      "address": "10101 RIDGEGATE PKWY",
+      "city": "LONE TREE",
+      "state": "CO",
+      "zipcode": "80124"
+    },
+    {
+      "id": "060113",
+      "name": "ADVENTHEALTH LITTLETON",
+      "address": "7700 S BROADWAY",
+      "city": "LITTLETON",
+      "state": "CO",
+      "zipcode": "80122"
+    },
+    {
+      "id": "060114",
+      "name": "ADVENTHEALTH PARKER",
+      "address": "9395 CROWN CREST BLVD",
+      "city": "PARKER",
+      "state": "CO",
+      "zipcode": "80138"
+    },
+    {
+      "id": "060115",
+      "name": "COLORADO MENTAL HEALTH INSTITUTE AT PUEBLO",
+      "address": "1600 W 24TH ST",
+      "city": "PUEBLO",
+      "state": "CO",
+      "zipcode": "81003"
+    },
+    {
+      "id": "060116",
+      "name": "INTERMOUNTAIN HEALTH GOOD SAMARITAN HOSPITAL",
+      "address": "200 EXEMPLA CIR",
+      "city": "LAFAYETTE",
+      "state": "CO",
+      "zipcode": "80026"
+    },
+    {
+      "id": "060117",
+      "name": "ANIMAS SURGICAL HOSPITAL, LLC",
+      "address": "575 RIVERGATE LN, UNIT 100",
+      "city": "DURANGO",
+      "state": "CO",
+      "zipcode": "81301"
+    },
+    {
+      "id": "060118",
+      "name": "ST ANTHONY SUMMIT HOSPITAL",
+      "address": "340 PEAK ONE DR",
+      "city": "FRISCO",
+      "state": "CO",
+      "zipcode": "80443"
+    },
+    {
+      "id": "060119",
+      "name": "MEDICAL CENTER OF THE ROCKIES",
+      "address": "2500 ROCKY MOUNTAIN AVE",
+      "city": "LOVELAND",
+      "state": "CO",
+      "zipcode": "80538"
+    },
+    {
+      "id": "060124",
+      "name": "ORTHOCOLORADO HOSP AT ST ANTHONY MED CAMPUS",
+      "address": "11650 W 2ND PL",
+      "city": "LAKEWOOD",
+      "state": "CO",
+      "zipcode": "80228"
+    },
+    {
+      "id": "060125",
+      "name": "ADVENTHEALTH CASTLE ROCK",
+      "address": "2350 MEADOWS BLVD",
+      "city": "CASTLE ROCK",
+      "state": "CO",
+      "zipcode": "80109"
+    },
+    {
+      "id": "060126",
+      "name": "BANNER FORT COLLINS MEDICAL CENTER",
+      "address": "4700 LADY MOON DR",
+      "city": "FORT COLLINS",
+      "state": "CO",
+      "zipcode": "80528"
+    },
+    {
+      "id": "060128",
+      "name": "LONGS PEAK HOSPITAL",
+      "address": "1750 E KEN PRATT BLVD",
+      "city": "LONGMONT",
+      "state": "CO",
+      "zipcode": "80504"
+    },
+    {
+      "id": "060129",
+      "name": "UCHEALTH BROOMFIELD HOSPITAL",
+      "address": "11820 DESTINATION DR",
+      "city": "BROOMFIELD",
+      "state": "CO",
+      "zipcode": "80021"
+    },
+    {
+      "id": "060130",
+      "name": "UCHEALTH GRANDVIEW HOSPITAL",
+      "address": "5623 PULPIT PEAK VW",
+      "city": "COLORADO SPRINGS",
+      "state": "CO",
+      "zipcode": "80918"
+    },
+    {
+      "id": "060131",
+      "name": "UCHEALTH GREELEY HOSPITAL",
+      "address": "6767 W 29TH ST",
+      "city": "GREELEY",
+      "state": "CO",
+      "zipcode": "80634"
+    },
+    {
+      "id": "060132",
+      "name": "UCHEALTH HIGHLANDS RANCH HOSPITAL",
+      "address": "1500 PARK CENTRAL DR",
+      "city": "HIGHLANDS RANCH",
+      "state": "CO",
+      "zipcode": "80129"
+    },
+    {
+      "id": "060133",
+      "name": "ST FRANCIS HOSPITAL - INTERQUEST",
+      "address": "10860 NEW ALLEGIANCE DR",
+      "city": "COLORADO SPRINGS",
+      "state": "CO",
+      "zipcode": "80921"
+    },
+    {
+      "id": "061300",
+      "name": "WEISBROD MEMORIAL COUNTY HOSPITAL",
+      "address": "1208 LUTHER ST",
+      "city": "EADS",
+      "state": "CO",
+      "zipcode": "81036"
+    },
+    {
+      "id": "061301",
+      "name": "RIO GRANDE HOSPITAL",
+      "address": "310 COUNTY RD 14",
+      "city": "DEL NORTE",
+      "state": "CO",
+      "zipcode": "81132"
+    },
+    {
+      "id": "061302",
+      "name": "FAMILY HEALTH WEST HOSPITAL",
+      "address": "300 W OTTLEY AVE",
+      "city": "FRUITA",
+      "state": "CO",
+      "zipcode": "81521"
+    },
+    {
+      "id": "061303",
+      "name": "EAST MORGAN COUNTY HOSPITAL",
+      "address": "2400 W EDISON ST",
+      "city": "BRUSH",
+      "state": "CO",
+      "zipcode": "80723"
+    },
+    {
+      "id": "061304",
+      "name": "HAXTUN HOSPITAL DISTRICT",
+      "address": "235 W FLETCHER ST",
+      "city": "HAXTUN",
+      "state": "CO",
+      "zipcode": "80731"
+    },
+    {
+      "id": "061305",
+      "name": "MELISSA MEMORIAL HOSPITAL",
+      "address": "1001 E JOHNSON ST",
+      "city": "HOLYOKE",
+      "state": "CO",
+      "zipcode": "80734"
+    },
+    {
+      "id": "061306",
+      "name": "LINCOLN HEALTH HOSPITAL",
+      "address": "111 6TH ST",
+      "city": "HUGO",
+      "state": "CO",
+      "zipcode": "80821"
+    },
+    {
+      "id": "061307",
+      "name": "RANGELY DISTRICT HOSPITAL",
+      "address": "225 EAGLE CREST DR",
+      "city": "RANGELY",
+      "state": "CO",
+      "zipcode": "81648"
+    },
+    {
+      "id": "061308",
+      "name": "SAN LUIS VALLEY HEALTH CONEJOS COUNTY HOSPITAL",
+      "address": "19021 US HIGHWAY 285",
+      "city": "LA JARA",
+      "state": "CO",
+      "zipcode": "81140"
+    },
+    {
+      "id": "061309",
+      "name": "WRAY COMMUNITY DISTRICT HOSPITAL",
+      "address": "1017 W 7TH ST",
+      "city": "WRAY",
+      "state": "CO",
+      "zipcode": "80758"
+    },
+    {
+      "id": "061310",
+      "name": "SEDGWICK COUNTY MEMORIAL HOSPITAL",
+      "address": "900 CEDAR ST",
+      "city": "JULESBURG",
+      "state": "CO",
+      "zipcode": "80737"
+    },
+    {
+      "id": "061311",
+      "name": "SOUTHEAST COLORADO HOSPITAL",
+      "address": "373 E 10TH AVE",
+      "city": "SPRINGFIELD",
+      "state": "CO",
+      "zipcode": "81073"
+    },
+    {
+      "id": "061312",
+      "name": "ESTES PARK MEDICAL CENTER",
+      "address": "555 PROSPECT AVE",
+      "city": "ESTES PARK",
+      "state": "CO",
+      "zipcode": "80517"
+    },
+    {
+      "id": "061313",
+      "name": "KIT CARSON COUNTY MEMORIAL HOSPITAL",
+      "address": "286 16TH ST",
+      "city": "BURLINGTON",
+      "state": "CO",
+      "zipcode": "80807"
+    },
+    {
+      "id": "061314",
+      "name": "MEMORIAL HOSPITAL, THE",
+      "address": "750 HOSPITAL LOOP",
+      "city": "CRAIG",
+      "state": "CO",
+      "zipcode": "81625"
+    },
+    {
+      "id": "061315",
+      "name": "YUMA DISTRICT HOSPITAL",
+      "address": "1000 W 8TH AVE",
+      "city": "YUMA",
+      "state": "CO",
+      "zipcode": "80759"
+    },
+    {
+      "id": "061316",
+      "name": "SPANISH PEAKS REGIONAL HEALTH CENTER",
+      "address": "23500 US HIGHWAY 160",
+      "city": "WALSENBURG",
+      "state": "CO",
+      "zipcode": "81089"
+    },
+    {
+      "id": "061317",
+      "name": "GRAND RIVER MEDICAL CENTER",
+      "address": "501 AIRPORT RD",
+      "city": "RIFLE",
+      "state": "CO",
+      "zipcode": "81650"
+    },
+    {
+      "id": "061318",
+      "name": "MIDDLE PARK MEDICAL CENTER",
+      "address": "214 S 4TH ST",
+      "city": "KREMMLING",
+      "state": "CO",
+      "zipcode": "80459"
+    },
+    {
+      "id": "061319",
+      "name": "ST VINCENT GENERAL HOSPITAL DISTRICT",
+      "address": "816 W 4TH ST",
+      "city": "LEADVILLE",
+      "state": "CO",
+      "zipcode": "80461"
+    },
+    {
+      "id": "061320",
+      "name": "GUNNISON VALLEY HOSPITAL",
+      "address": "711 N TAYLOR ST",
+      "city": "GUNNISON",
+      "state": "CO",
+      "zipcode": "81230"
+    },
+    {
+      "id": "061321",
+      "name": "MT SAN RAFAEL HOSPITAL",
+      "address": "410 BENEDICTA AVE",
+      "city": "TRINIDAD",
+      "state": "CO",
+      "zipcode": "81082"
+    },
+    {
+      "id": "061322",
+      "name": "HEART OF THE ROCKIES REGIONAL MEDICAL CENTER",
+      "address": "1000 RUSH DR",
+      "city": "SALIDA",
+      "state": "CO",
+      "zipcode": "81201"
+    },
+    {
+      "id": "061323",
+      "name": "PROWERS MEDICAL CENTER",
+      "address": "401 KENDALL DR",
+      "city": "LAMAR",
+      "state": "CO",
+      "zipcode": "81052"
+    },
+    {
+      "id": "061324",
+      "name": "ASPEN VALLEY HOSPITAL",
+      "address": "401 CASTLE CREEK RD",
+      "city": "ASPEN",
+      "state": "CO",
+      "zipcode": "81611"
+    },
+    {
+      "id": "061325",
+      "name": "PIONEERS MEDICAL CENTER",
+      "address": "100 PIONEERS MEDICAL CENTER DR",
+      "city": "MEEKER",
+      "state": "CO",
+      "zipcode": "81641"
+    },
+    {
+      "id": "061326",
+      "name": "UCHEALTH PIKES PEAK REGIONAL HOSPITAL",
+      "address": "16420 W US HIGHWAY 24",
+      "city": "WOODLAND PARK",
+      "state": "CO",
+      "zipcode": "80863"
+    },
+    {
+      "id": "061327",
+      "name": "SOUTHWEST MEMORIAL HOSPITAL",
+      "address": "1311 N MILDRED RD",
+      "city": "CORTEZ",
+      "state": "CO",
+      "zipcode": "81321"
+    },
+    {
+      "id": "061328",
+      "name": "PAGOSA SPRINGS MEDICAL CENTER",
+      "address": "95 S PAGOSA BLVD",
+      "city": "PAGOSA SPRINGS",
+      "state": "CO",
+      "zipcode": "81147"
+    },
+    {
+      "id": "061336",
+      "name": "ARKANSAS VALLEY REGIONAL MEDICAL CENTER",
+      "address": "1100 CARSON AVE",
+      "city": "LA JUNTA",
+      "state": "CO",
+      "zipcode": "81050"
+    },
+    {
+      "id": "061343",
+      "name": "KEEFE MEMORIAL HOSPITAL",
+      "address": "602 N 6TH ST W",
+      "city": "CHEYENNE WELLS",
+      "state": "CO",
+      "zipcode": "80810"
+    },
+    {
+      "id": "061344",
+      "name": "ST THOMAS MORE HOSPITAL",
+      "address": "1338 PHAY AVE",
+      "city": "CANON CITY",
+      "state": "CO",
+      "zipcode": "81212"
+    }
+  ]
+}

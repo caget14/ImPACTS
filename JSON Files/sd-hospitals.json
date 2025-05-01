@@ -1,0 +1,460 @@
+{
+  "hospitals": [
+    {
+      "id": "430005",
+      "name": "PRAIRIE LAKES HOSPITAL",
+      "address": "401 9TH AVENUE NW  POST OFFICE BOX 1210",
+      "city": "WATERTOWN",
+      "state": "SD",
+      "zipcode": "57201"
+    },
+    {
+      "id": "430008",
+      "name": "BROOKINGS HEALTH SYSTEM",
+      "address": "300 22ND AVE",
+      "city": "BROOKINGS",
+      "state": "SD",
+      "zipcode": "57006"
+    },
+    {
+      "id": "430012",
+      "name": "AVERA SACRED HEART HOSPITAL",
+      "address": "501 SUMMIT ST",
+      "city": "YANKTON",
+      "state": "SD",
+      "zipcode": "57078"
+    },
+    {
+      "id": "430014",
+      "name": "AVERA ST LUKES",
+      "address": "305 S STATE ST  POST OFFICE BOX 4450",
+      "city": "ABERDEEN",
+      "state": "SD",
+      "zipcode": "57401"
+    },
+    {
+      "id": "430015",
+      "name": "AVERA ST MARY'S HOSPITAL",
+      "address": "801 E SIOUX",
+      "city": "PIERRE",
+      "state": "SD",
+      "zipcode": "57501"
+    },
+    {
+      "id": "430016",
+      "name": "AVERA MCKENNAN HOSPITAL & UNIVERSITY HEALTH CENTER",
+      "address": "1325 S CLIFF AVE",
+      "city": "SIOUX FALLS",
+      "state": "SD",
+      "zipcode": "57117"
+    },
+    {
+      "id": "430027",
+      "name": "SANFORD USD MEDICAL CENTER",
+      "address": "1305 W 18TH ST  POST OFFICE BOX 5039",
+      "city": "SIOUX FALLS",
+      "state": "SD",
+      "zipcode": "57117"
+    },
+    {
+      "id": "430048",
+      "name": "MONUMENT HEALTH SPEARFISH HOSPITAL",
+      "address": "1440 N MAIN ST",
+      "city": "SPEARFISH",
+      "state": "SD",
+      "zipcode": "57783"
+    },
+    {
+      "id": "430077",
+      "name": "MONUMENT HEALTH RAPID CITY HOSPITAL",
+      "address": "353 FAIRMONT BLVD",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "zipcode": "57701"
+    },
+    {
+      "id": "430084",
+      "name": "PHS INDIAN HOSPITAL AT ROSEBUD",
+      "address": "400 SOLDIER CREEK ROAD",
+      "city": "ROSEBUD",
+      "state": "SD",
+      "zipcode": "57570"
+    },
+    {
+      "id": "430089",
+      "name": "DUNES SURGICAL HOSPITAL",
+      "address": "600 N SIOUX POINT ROAD",
+      "city": "DAKOTA DUNES",
+      "state": "SD",
+      "zipcode": "57049"
+    },
+    {
+      "id": "430090",
+      "name": "SIOUX FALLS SPECIALTY HOSPITAL LLP",
+      "address": "910 EAST 20TH STREET",
+      "city": "SIOUX FALLS",
+      "state": "SD",
+      "zipcode": "57105"
+    },
+    {
+      "id": "430091",
+      "name": "BLACK HILLS SURGICAL HOSPITAL LLP",
+      "address": "216 ANAMARIA DR",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "zipcode": "57703"
+    },
+    {
+      "id": "430093",
+      "name": "SAME DAY SURGERY CENTER LLC",
+      "address": "651 CATHEDRAL DRIVE",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "zipcode": "57701"
+    },
+    {
+      "id": "430095",
+      "name": "AVERA HEART HOSPITAL OF SOUTH DAKOTA",
+      "address": "4500 W 69TH ST",
+      "city": "SIOUX FALLS",
+      "state": "SD",
+      "zipcode": "57108"
+    },
+    {
+      "id": "430097",
+      "name": "SANFORD ABERDEEN MEDICAL CENTER",
+      "address": "2905 3RD AVE SE",
+      "city": "ABERDEEN",
+      "state": "SD",
+      "zipcode": "57402"
+    },
+    {
+      "id": "430098",
+      "name": "PINE RIDGE IHS HOSPITAL",
+      "address": "EAST HIGHWAY 18",
+      "city": "PINE RIDGE",
+      "state": "SD",
+      "zipcode": "57770"
+    },
+    {
+      "id": "431300",
+      "name": "MADISON REGIONAL HEALTH SYSTEM",
+      "address": "323 SW 10TH ST",
+      "city": "MADISON",
+      "state": "SD",
+      "zipcode": "57042"
+    },
+    {
+      "id": "431301",
+      "name": "FAULKTON AREA MEDICAL CENTER",
+      "address": "1300 OAK STREET  POST OFFICE BOX 100",
+      "city": "FAULKTON",
+      "state": "SD",
+      "zipcode": "57438"
+    },
+    {
+      "id": "431302",
+      "name": "AVERA MISSOURI RIVER HEALTH CENTER",
+      "address": "606 EAST GARFIELD",
+      "city": "GETTYSBURG",
+      "state": "SD",
+      "zipcode": "57442"
+    },
+    {
+      "id": "431305",
+      "name": "DOUGLAS COUNTY MEMORIAL HOSPITAL-CAH",
+      "address": "708 8TH ST",
+      "city": "ARMOUR",
+      "state": "SD",
+      "zipcode": "57313"
+    },
+    {
+      "id": "431306",
+      "name": "PLATTE HEALTH CENTER",
+      "address": "601 E 7TH ST  POST OFFICE BOX 200",
+      "city": "PLATTE",
+      "state": "SD",
+      "zipcode": "57369"
+    },
+    {
+      "id": "431307",
+      "name": "SANFORD CLEAR LAKE MEDICAL CENTER",
+      "address": "701 THIRD AVENUE SOUTH",
+      "city": "CLEAR LAKE",
+      "state": "SD",
+      "zipcode": "57226"
+    },
+    {
+      "id": "431308",
+      "name": "EUREKA COMMUNITY HEALTH SERVICES - CAH",
+      "address": "200 J AVE POST OFFICE BOX 517",
+      "city": "EUREKA",
+      "state": "SD",
+      "zipcode": "57437"
+    },
+    {
+      "id": "431309",
+      "name": "COMMUNITY MEMORIAL HOSPITAL",
+      "address": "809 JACKSON",
+      "city": "BURKE",
+      "state": "SD",
+      "zipcode": "57523"
+    },
+    {
+      "id": "431310",
+      "name": "AVERA FLANDREAU HOSPITAL - CAH",
+      "address": "214 NORTH PRAIRIE STREET",
+      "city": "FLANDREAU",
+      "state": "SD",
+      "zipcode": "57028"
+    },
+    {
+      "id": "431311",
+      "name": "SANFORD WEBSTER MEDICAL CENTER",
+      "address": "1401 W FIRST ST",
+      "city": "WEBSTER",
+      "state": "SD",
+      "zipcode": "57274"
+    },
+    {
+      "id": "431312",
+      "name": "MARSHALL COUNTY HEALTHCARE CENTER - CAH",
+      "address": "413 9TH STREET",
+      "city": "BRITTON",
+      "state": "SD",
+      "zipcode": "57430"
+    },
+    {
+      "id": "431313",
+      "name": "FREEMAN MEDICAL CENTER - CAH",
+      "address": "510 E 8TH ST  POST OFFICE BOX 370",
+      "city": "FREEMAN",
+      "state": "SD",
+      "zipcode": "57029"
+    },
+    {
+      "id": "431314",
+      "name": "BENNETT COUNTY HOSPITAL AND NURSING HOME - CAH",
+      "address": "102 MAJOR ALLEN   POST OFFICE BOX 70D",
+      "city": "MARTIN",
+      "state": "SD",
+      "zipcode": "57551"
+    },
+    {
+      "id": "431315",
+      "name": "WAGNER COMMUNITY MEMORIAL HOSPITAL - CAH",
+      "address": "513 3RD ST SW",
+      "city": "WAGNER",
+      "state": "SD",
+      "zipcode": "57380"
+    },
+    {
+      "id": "431316",
+      "name": "COMMUNITY MEMORIAL HOSPITAL",
+      "address": "111 W 10TH AVE  POST OFFICE BOX 420",
+      "city": "REDFIELD",
+      "state": "SD",
+      "zipcode": "57469"
+    },
+    {
+      "id": "431317",
+      "name": "LANDMANN-JUNGMAN MEMORIAL HOSPITAL - CAH",
+      "address": "600 BILLARS ST",
+      "city": "SCOTLAND",
+      "state": "SD",
+      "zipcode": "57059"
+    },
+    {
+      "id": "431318",
+      "name": "BOWDLE HOSPITAL - CAH",
+      "address": "8001 W 5TH  POST OFFICE BOX 556",
+      "city": "BOWDLE",
+      "state": "SD",
+      "zipcode": "57428"
+    },
+    {
+      "id": "431319",
+      "name": "HANS P PETERSON MEMORIAL HOSPITAL - CAH",
+      "address": "503 W PINE  POST OFFICE BOX 790",
+      "city": "PHILIP",
+      "state": "SD",
+      "zipcode": "57567"
+    },
+    {
+      "id": "431320",
+      "name": "MONUMENT HEALTH LEAD-DEADWOOD HOSPITAL",
+      "address": "61 CHARLES STREET",
+      "city": "DEADWOOD",
+      "state": "SD",
+      "zipcode": "57732"
+    },
+    {
+      "id": "431321",
+      "name": "MONUMENT HEALTH STURGIS HOSPITAL",
+      "address": "2140 JUNCTION AVE",
+      "city": "STURGIS",
+      "state": "SD",
+      "zipcode": "57785"
+    },
+    {
+      "id": "431322",
+      "name": "FALL RIVER HOSPITAL - CAH",
+      "address": "1201 HIGHWAY 71 SOUTH",
+      "city": "HOT SPRINGS",
+      "state": "SD",
+      "zipcode": "57747"
+    },
+    {
+      "id": "431323",
+      "name": "MONUMENT HEALTH CUSTER HOSPITAL",
+      "address": "1220 MONTGOMERY STREET",
+      "city": "CUSTER",
+      "state": "SD",
+      "zipcode": "57730"
+    },
+    {
+      "id": "431324",
+      "name": "AVERA WESKOTA MEMORIAL MEDICAL CENTER - CAH",
+      "address": "604 1ST ST NE",
+      "city": "WESSINGTON SPRINGS",
+      "state": "SD",
+      "zipcode": "57382"
+    },
+    {
+      "id": "431325",
+      "name": "MOBRIDGE REGIONAL HOSPITAL - CAH",
+      "address": "1401 10TH AVE WEST",
+      "city": "MOBRIDGE",
+      "state": "SD",
+      "zipcode": "57601"
+    },
+    {
+      "id": "431326",
+      "name": "MILBANK AREA HOSPITAL/AVERA HEALTH",
+      "address": "301 FLYNN DRIVE",
+      "city": "MILBANK",
+      "state": "SD",
+      "zipcode": "57252"
+    },
+    {
+      "id": "431327",
+      "name": "ST MICHAEL'S HOSPITAL - CAH",
+      "address": "410 W 16TH AVE",
+      "city": "TYNDALL",
+      "state": "SD",
+      "zipcode": "57066"
+    },
+    {
+      "id": "431328",
+      "name": "PIONEER MEMORIAL HOSPITAL - CAH",
+      "address": "315 N WASHINGTON AVE  POST OFFICE BOX 368",
+      "city": "VIBORG",
+      "state": "SD",
+      "zipcode": "57070"
+    },
+    {
+      "id": "431329",
+      "name": "SANFORD CHAMBERLAIN MEDICAL CENTER",
+      "address": "300 S BYRON",
+      "city": "CHAMBERLAIN",
+      "state": "SD",
+      "zipcode": "57325"
+    },
+    {
+      "id": "431330",
+      "name": "AVERA ST BENEDICT HEALTH CENTER - CAH",
+      "address": "401 WEST GLYNN DRIVE",
+      "city": "PARKSTON",
+      "state": "SD",
+      "zipcode": "57366"
+    },
+    {
+      "id": "431331",
+      "name": "AVERA DELLS AREA HOSPITAL  - CAH",
+      "address": "909 N IOWA AVE",
+      "city": "DELL RAPIDS",
+      "state": "SD",
+      "zipcode": "57022"
+    },
+    {
+      "id": "431332",
+      "name": "AVERA DE SMET MEMORIAL HOSPITAL - CAH",
+      "address": "306 PRAIRIE AVENUE SW  POST OFFICE BOX 160",
+      "city": "DE SMET",
+      "state": "SD",
+      "zipcode": "57231"
+    },
+    {
+      "id": "431333",
+      "name": "SANFORD CANTON-INWOOD MEDICAL CENTER - CAH",
+      "address": "440 NORTH HIAWATHA DRIVE",
+      "city": "CANTON",
+      "state": "SD",
+      "zipcode": "57013"
+    },
+    {
+      "id": "431334",
+      "name": "WINNER REGIONAL HEALTHCARE CENTER - CAH",
+      "address": "745 EAST 8TH STREET",
+      "city": "WINNER",
+      "state": "SD",
+      "zipcode": "57580"
+    },
+    {
+      "id": "431335",
+      "name": "HURON REGIONAL MEDICAL CENTER",
+      "address": "172 FOURTH STREET SE",
+      "city": "HURON",
+      "state": "SD",
+      "zipcode": "57350"
+    },
+    {
+      "id": "431336",
+      "name": "SANFORD VERMILLION HOSPITAL",
+      "address": "20 SOUTH PLUM STREET",
+      "city": "VERMILLION",
+      "state": "SD",
+      "zipcode": "57069"
+    },
+    {
+      "id": "431337",
+      "name": "AVERA HAND COUNTY MEMORIAL HOSPITAL AND CLINIC",
+      "address": "300 W 5TH ST",
+      "city": "MILLER",
+      "state": "SD",
+      "zipcode": "57362"
+    },
+    {
+      "id": "431338",
+      "name": "AVERA GREGORY HOSPITAL",
+      "address": "110 S LOGAN AVE",
+      "city": "GREGORY",
+      "state": "SD",
+      "zipcode": "57533"
+    },
+    {
+      "id": "431339",
+      "name": "COTEAU DES PRAIRIES HEALTH CARE SYSTEM",
+      "address": "205 ORCHARD DR",
+      "city": "SISSETON",
+      "state": "SD",
+      "zipcode": "57262"
+    },
+    {
+      "id": "431340",
+      "name": "AVERA QUEEN OF PEACE",
+      "address": "525 N FOSTER",
+      "city": "MITCHELL",
+      "state": "SD",
+      "zipcode": "57301"
+    },
+    {
+      "id": "431383",
+      "name": "EAGLE BUTTE INDIAN HEALTH SERVICE HOSPITAL",
+      "address": "24276 166TH AIRPORT ROAD",
+      "city": "EAGLE BUTTE",
+      "state": "SD",
+      "zipcode": "57625"
+    }
+  ]
+}

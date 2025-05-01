@@ -1,0 +1,276 @@
+{
+  "hospitals": [
+    {
+      "id": "290001",
+      "name": "RENOWN REGIONAL MEDICAL CENTER",
+      "address": "1155 MILL STREET",
+      "city": "RENO",
+      "state": "NV",
+      "zipcode": "89502"
+    },
+    {
+      "id": "290003",
+      "name": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+      "address": "3186 S MARYLAND PKWY",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89109"
+    },
+    {
+      "id": "290005",
+      "name": "NORTH VISTA HOSPITAL",
+      "address": "1409 EAST LAKE MEAD BLVD",
+      "city": "NORTH LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89030"
+    },
+    {
+      "id": "290007",
+      "name": "UNIVERSITY MEDICAL CENTER",
+      "address": "1800 W CHARLESTON BLVD",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89102"
+    },
+    {
+      "id": "290008",
+      "name": "NORTHEASTERN NEVADA REGIONAL HOSPITAL",
+      "address": "2001 ERRECART BLVD",
+      "city": "ELKO",
+      "state": "NV",
+      "zipcode": "89801"
+    },
+    {
+      "id": "290009",
+      "name": "SAINT MARY'S REGIONAL MEDICAL CENTER",
+      "address": "235 W 6TH ST",
+      "city": "RENO",
+      "state": "NV",
+      "zipcode": "89503"
+    },
+    {
+      "id": "290012",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - ROSE DE LIMA",
+      "address": "102 E LAKE MEAD DR",
+      "city": "HENDERSON",
+      "state": "NV",
+      "zipcode": "89015"
+    },
+    {
+      "id": "290019",
+      "name": "CARSON TAHOE REGIONAL MEDICAL CENTER",
+      "address": "1600 MEDICAL PARKWAY",
+      "city": "CARSON CITY",
+      "state": "NV",
+      "zipcode": "89703"
+    },
+    {
+      "id": "290021",
+      "name": "VALLEY HOSPITAL MEDICAL CENTER",
+      "address": "620 SHADOW LANE",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89106"
+    },
+    {
+      "id": "290032",
+      "name": "NORTHERN NEVADA MEDICAL CENTER",
+      "address": "2375 E PRATER WAY",
+      "city": "SPARKS",
+      "state": "NV",
+      "zipcode": "89434"
+    },
+    {
+      "id": "290039",
+      "name": "MOUNTAINVIEW HOSPITAL",
+      "address": "3100 N TENAYA WAY",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89128"
+    },
+    {
+      "id": "290041",
+      "name": "SUMMERLIN HOSPITAL MEDICAL CENTER",
+      "address": "657 TOWN CENTER DRIVE",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89144"
+    },
+    {
+      "id": "290045",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - SIENA CAMPUS",
+      "address": "3001 ST ROSE PARKWAY",
+      "city": "HENDERSON",
+      "state": "NV",
+      "zipcode": "89052"
+    },
+    {
+      "id": "290046",
+      "name": "SPRING VALLEY HOSPITAL MEDICAL CENTER",
+      "address": "5400 SOUTH RAINBOW BLVD",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89118"
+    },
+    {
+      "id": "290047",
+      "name": "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER",
+      "address": "9300 WEST SUNSET RD",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89148"
+    },
+    {
+      "id": "290049",
+      "name": "RENOWN SOUTH MEADOWS MEDICAL CENTER",
+      "address": "10101 DOUBLE R BLVD",
+      "city": "RENO",
+      "state": "NV",
+      "zipcode": "89521"
+    },
+    {
+      "id": "290053",
+      "name": "SAINT ROSE DOMINICAN HOSPITALS - SAN MARTIN CAMPUS",
+      "address": "8280 W WARM SPRINGS ROAD",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89113"
+    },
+    {
+      "id": "290054",
+      "name": "CENTENNIAL HILLS HOSPITAL MEDICAL CENTER",
+      "address": "6900 N DURANGO DR",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89149"
+    },
+    {
+      "id": "290057",
+      "name": "HENDERSON HOSPITAL",
+      "address": "1050 WEST GALLERIA DRIVE",
+      "city": "HENDERSON",
+      "state": "NV",
+      "zipcode": "89011"
+    },
+    {
+      "id": "290058",
+      "name": "DIGNITY HEALTH ST ROSE DOMINICAN N L V  CAMPUS",
+      "address": "1550 W CRAIG RANCH",
+      "city": "NORTH LAS VEGAS",
+      "state": "NV",
+      "zipcode": "89031"
+    },
+    {
+      "id": "290061",
+      "name": "NORTHERN NEVADA SIERRA MEDICAL CENTER",
+      "address": "6500 LONGLEY LANE",
+      "city": "RENO",
+      "state": "NV",
+      "zipcode": "89511"
+    },
+    {
+      "id": "291300",
+      "name": "MOUNT GRANT GENERAL HOSPITAL",
+      "address": "200 SOUTH A ST",
+      "city": "HAWTHORNE",
+      "state": "NV",
+      "zipcode": "89415"
+    },
+    {
+      "id": "291301",
+      "name": "INCLINE VILLAGE COMMUNITY HOSPITAL",
+      "address": "880 ALDER STREET",
+      "city": "INCLINE VILLAGE",
+      "state": "NV",
+      "zipcode": "89451"
+    },
+    {
+      "id": "291302",
+      "name": "WILLIAM BEE RIRIE HOSPITAL",
+      "address": "1500 AVENUE H",
+      "city": "ELY",
+      "state": "NV",
+      "zipcode": "89301"
+    },
+    {
+      "id": "291303",
+      "name": "BATTLE MOUNTAIN GENERAL HOSPITAL",
+      "address": "535 SOUTH HUMBOLDT STREET",
+      "city": "BATTE MTN",
+      "state": "NV",
+      "zipcode": "89820"
+    },
+    {
+      "id": "291304",
+      "name": "PERSHING GENERAL HOSPITAL",
+      "address": "855 6TH STREET/PO BOX 661",
+      "city": "LOVELOCK",
+      "state": "NV",
+      "zipcode": "89419"
+    },
+    {
+      "id": "291306",
+      "name": "CARSON VALLEY HEALTH",
+      "address": "1107 HIGHWAY 395",
+      "city": "GARDNERVILLE",
+      "state": "NV",
+      "zipcode": "89410"
+    },
+    {
+      "id": "291307",
+      "name": "MESA VIEW REGIONAL HOSPITAL",
+      "address": "1299 BERTHA HOWE AVENUE",
+      "city": "MESQUITE",
+      "state": "NV",
+      "zipcode": "89027"
+    },
+    {
+      "id": "291308",
+      "name": "HUMBOLDT GENERAL HOSPITAL",
+      "address": "118 EAST HASKELL STREET",
+      "city": "WINNEMUCCA",
+      "state": "NV",
+      "zipcode": "89445"
+    },
+    {
+      "id": "291309",
+      "name": "BOULDER CITY HOSPITAL",
+      "address": "901 ADAMS BLVD",
+      "city": "BOULDER CITY",
+      "state": "NV",
+      "zipcode": "89005"
+    },
+    {
+      "id": "291311",
+      "name": "DESERT VIEW HOSPITAL",
+      "address": "360 SOUTH LOLA LANE",
+      "city": "PAHRUMP",
+      "state": "NV",
+      "zipcode": "89048"
+    },
+    {
+      "id": "291312",
+      "name": "GROVER C DILS MEDICAL CENTER",
+      "address": "700 N SPRING ST, BOX 1010-C-ADM BLDG",
+      "city": "CALIENTE",
+      "state": "NV",
+      "zipcode": "89008"
+    },
+    {
+      "id": "291313",
+      "name": "BANNER CHURCHILL COMMUNITY HOSPITAL",
+      "address": "801 EAST WILLIAMS AVENUE",
+      "city": "FALLON",
+      "state": "NV",
+      "zipcode": "89406"
+    },
+    {
+      "id": "291314",
+      "name": "SOUTH LYON MEDICAL CENTER",
+      "address": "213 S WHITACRE/PO BOX 940",
+      "city": "YERINGTON",
+      "state": "NV",
+      "zipcode": "89447"
+    }
+  ]
+}

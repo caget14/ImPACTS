@@ -1,0 +1,52 @@
+{
+  "hospitals": [
+    {
+      "id": "080001",
+      "name": "CHRISTIANACARE",
+      "address": "4755 OGLETOWN-STANTON ROAD",
+      "city": "NEWARK",
+      "state": "DE",
+      "zipcode": "19718"
+    },
+    {
+      "id": "080003",
+      "name": "ST FRANCIS HOSPITAL",
+      "address": "7TH AND CLAYTON STS",
+      "city": "WILMINGTON",
+      "state": "DE",
+      "zipcode": "19805"
+    },
+    {
+      "id": "080004",
+      "name": "BAYHEALTH MEDICAL CENTER, KENT CAMPUS",
+      "address": "640 S STATE STREET",
+      "city": "DOVER",
+      "state": "DE",
+      "zipcode": "19901"
+    },
+    {
+      "id": "080006",
+      "name": "TIDALHEALTH NANTICOKE, INC.",
+      "address": "801 MIDDLEFORD RD",
+      "city": "SEAFORD",
+      "state": "DE",
+      "zipcode": "19973"
+    },
+    {
+      "id": "080007",
+      "name": "BEEBE MEDICAL CENTER",
+      "address": "424 SAVANNAH RD",
+      "city": "LEWES",
+      "state": "DE",
+      "zipcode": "19958"
+    },
+    {
+      "id": "080009",
+      "name": "BAYHEALTH HOSPITAL, SUSSEX CAMPUS",
+      "address": "100 WELLNESS WAY",
+      "city": "MILFORD",
+      "state": "DE",
+      "zipcode": "19963"
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "hospitals": [
+    {
+      "id": "250001",
+      "name": "UNIVERSITY OF MISSISSIPPI MED CENTER",
+      "address": "2500 N STATE ST",
+      "city": "JACKSON",
+      "state": "MS",
+      "zipcode": "39216"
+    },
+    {
+      "id": "250002",
+      "name": "TISHOMINGO HEALTH SERVICES INC",
+      "address": "1777 CURTIS DRIVE",
+      "city": "IUKA",
+      "state": "MS",
+      "zipcode": "38852"
+    },
+    {
+      "id": "250004",
+      "name": "NORTH MISSISSIPPI MEDICAL CENTER",
+      "address": "830 S GLOSTER STREET",
+      "city": "TUPELO",
+      "state": "MS",
+      "zipcode": "38801"
+    },
+    {
+      "id": "250006",
+      "name": "BAPTIST MEMORIAL HOSPITAL UNION COUNTY",
+      "address": "200 HWY 30 WEST",
+      "city": "NEW ALBANY",
+      "state": "MS",
+      "zipcode": "38652"
+    },
+    {
+      "id": "250007",
+      "name": "MERIT HEALTH BILOXI",
+      "address": "150 REYNOIR STREET",
+      "city": "BILOXI",
+      "state": "MS",
+      "zipcode": "39530"
+    },
+    {
+      "id": "250009",
+      "name": "MAGNOLIA REGIONAL HEALTH CENTER",
+      "address": "611 ALCORN DRIVE",
+      "city": "CORINTH",
+      "state": "MS",
+      "zipcode": "38834"
+    },
+    {
+      "id": "250017",
+      "name": "PROGRESSIVE HEALTH GROUP OF HOUSTON",
+      "address": "1002 EAST MADISON STREET",
+      "city": "HOUSTON",
+      "state": "MS",
+      "zipcode": "38851"
+    },
+    {
+      "id": "250018",
+      "name": "JASPER GENERAL HOSPITAL",
+      "address": "15A SOUTH 6TH STREET",
+      "city": "BAY SPRINGS",
+      "state": "MS",
+      "zipcode": "39422"
+    },
+    {
+      "id": "250019",
+      "name": "MEMORIAL HOSPITAL AT GULFPORT",
+      "address": "4500 13TH STREET",
+      "city": "GULFPORT",
+      "state": "MS",
+      "zipcode": "39502"
+    },
+    {
+      "id": "250020",
+      "name": "WEBSTER GENERAL HOSPITAL/ SWING BED",
+      "address": "70 MEDICAL PLAZA",
+      "city": "EUPORA",
+      "state": "MS",
+      "zipcode": "39744"
+    },
+    {
+      "id": "250025",
+      "name": "NORTH MISSISSIPPI MEDICAL CENTER-GILMORE AMORY",
+      "address": "1105 EARL FRYE BLVD",
+      "city": "AMORY",
+      "state": "MS",
+      "zipcode": "38821"
+    },
+    {
+      "id": "250027",
+      "name": "WINSTON MEDICAL CENTER & SWINGBED",
+      "address": "17550 EAST MAIN STREET",
+      "city": "LOUISVILLE",
+      "state": "MS",
+      "zipcode": "39339"
+    },
+    {
+      "id": "250031",
+      "name": "MERIT HEALTH RIVER REGION",
+      "address": "2100 HWY 61 N",
+      "city": "VICKSBURG",
+      "state": "MS",
+      "zipcode": "39183"
+    },
+    {
+      "id": "250034",
+      "name": "BAPTIST MEMORIAL HOSPITAL NORTH MS",
+      "address": "1100 BELK BLVD /PO BOX 946",
+      "city": "OXFORD",
+      "state": "MS",
+      "zipcode": "38655"
+    },
+    {
+      "id": "250036",
+      "name": "GEORGE REGIONAL HEALTH SYSTEM",
+      "address": "859 WINTER STREET",
+      "city": "LUCEDALE",
+      "state": "MS",
+      "zipcode": "39452"
+    },
+    {
+      "id": "250038",
+      "name": "MERIT HEALTH MADISON",
+      "address": "161 RIVER OAKS DRIVE",
+      "city": "CANTON",
+      "state": "MS",
+      "zipcode": "39046"
+    },
+    {
+      "id": "250040",
+      "name": "SINGING RIVER HEALTH SYSTEM",
+      "address": "2809 DENNY AVENUE",
+      "city": "PASCAGOULA",
+      "state": "MS",
+      "zipcode": "39581"
+    },
+    {
+      "id": "250042",
+      "name": "NORTHWEST MISSISSISSIPPI REGIONAL MEDICAL CENTER",
+      "address": "1970 HOSPITAL DRIVE",
+      "city": "CLARKSDALE",
+      "state": "MS",
+      "zipcode": "38614"
+    },
+    {
+      "id": "250043",
+      "name": "NESHOBA COUNTY GENERAL HOSPITAL",
+      "address": "1001 HOLLAND AVENUE",
+      "city": "PHILADELPHIA",
+      "state": "MS",
+      "zipcode": "39350"
+    },
+    {
+      "id": "250044",
+      "name": "BAPTIST MEMORIAL HOSPITAL BOONEVILLE",
+      "address": "100 HOSPITAL STREET",
+      "city": "BOONEVILLE",
+      "state": "MS",
+      "zipcode": "38829"
+    },
+    {
+      "id": "250048",
+      "name": "ST DOMINIC-JACKSON MEMORIAL HOSPITAL",
+      "address": "969 LAKELAND DR",
+      "city": "JACKSON",
+      "state": "MS",
+      "zipcode": "39216"
+    },
+    {
+      "id": "250049",
+      "name": "BEACHAM MEMORIAL HOSPITAL",
+      "address": "205 N CHERRY STREET / PO BOX 351",
+      "city": "MAGNOLIA",
+      "state": "MS",
+      "zipcode": "39652"
+    },
+    {
+      "id": "250050",
+      "name": "OCH REGIONAL MEDICAL CENTER",
+      "address": "400 HOSPITAL ROAD /MAIL PO BOX 1506",
+      "city": "STARKVILLE",
+      "state": "MS",
+      "zipcode": "39759"
+    },
+    {
+      "id": "250057",
+      "name": "KING'S DAUGHTERS MEDICAL CENTER-BROOKHAVEN",
+      "address": "427 HIGHWAY 51 NORTH",
+      "city": "BROOKHAVEN",
+      "state": "MS",
+      "zipcode": "39601"
+    },
+    {
+      "id": "250058",
+      "name": "SOUTH CENTRAL REG MED CTR",
+      "address": "1220 JEFFERSON ST BOX 607",
+      "city": "LAUREL",
+      "state": "MS",
+      "zipcode": "39440"
+    },
+    {
+      "id": "250061",
+      "name": "YALOBUSHA GENERAL HOSPITAL",
+      "address": "630 SOUTH MAIN STREET",
+      "city": "WATER VALLEY",
+      "state": "MS",
+      "zipcode": "38965"
+    },
+    {
+      "id": "250067",
+      "name": "NORTH MISSISSIPPI MEDICAL CENTER-WEST POINT",
+      "address": "150 MEDICAL CENTER DRIVE",
+      "city": "WEST POINT",
+      "state": "MS",
+      "zipcode": "39773"
+    },
+    {
+      "id": "250069",
+      "name": "OCHSNER RUSH HOSPITAL",
+      "address": "1314 19TH AVE",
+      "city": "MERIDIAN",
+      "state": "MS",
+      "zipcode": "39301"
+    },
+    {
+      "id": "250072",
+      "name": "MERIT HEALTH CENTRAL",
+      "address": "1850 CHADWICK DR",
+      "city": "JACKSON",
+      "state": "MS",
+      "zipcode": "39204"
+    },
+    {
+      "id": "250077",
+      "name": "WAYNE GENERAL HOSPITAL",
+      "address": "950 MATTHEW DR",
+      "city": "WAYNESBORO",
+      "state": "MS",
+      "zipcode": "39367"
+    },
+    {
+      "id": "250078",
+      "name": "FORREST GENERAL HOSPITAL",
+      "address": "6051 US HIGHWAY 49 SOUTH",
+      "city": "HATTIESBURG",
+      "state": "MS",
+      "zipcode": "39404"
+    },
+    {
+      "id": "250081",
+      "name": "ANDERSON RMC SOUTH",
+      "address": "1102 CONSTITUTION AVENUE",
+      "city": "MERIDIAN",
+      "state": "MS",
+      "zipcode": "39301"
+    },
+    {
+      "id": "250082",
+      "name": "DELTA HEALTH SYSTEM - THE MEDICAL CENTER",
+      "address": "1400 E UNION STREET / PO BOX 5247",
+      "city": "GREENVILLE",
+      "state": "MS",
+      "zipcode": "38704"
+    },
+    {
+      "id": "250084",
+      "name": "MERIT HEALTH NATCHEZ",
+      "address": "52 SERGEANT PRENTISS DRIVE",
+      "city": "NATCHEZ",
+      "state": "MS",
+      "zipcode": "39120"
+    },
+    {
+      "id": "250085",
+      "name": "MARION GENERAL HOSPITAL",
+      "address": "1560 SUMRALL RD",
+      "city": "COLUMBIA",
+      "state": "MS",
+      "zipcode": "39429"
+    },
+    {
+      "id": "250093",
+      "name": "BOLIVAR MEDICAL CENTER",
+      "address": "901 E SUNFLOWER RD",
+      "city": "CLEVELAND",
+      "state": "MS",
+      "zipcode": "38732"
+    },
+    {
+      "id": "250094",
+      "name": "MERIT HEALTH WESLEY",
+      "address": "5001 W HARDY ST",
+      "city": "HATTIESBURG",
+      "state": "MS",
+      "zipcode": "39402"
+    },
+    {
+      "id": "250095",
+      "name": "SOUTH SUNFLOWER COUNTY HOSPITAL",
+      "address": "121 EAST BAKER STREET",
+      "city": "INDIANOLA",
+      "state": "MS",
+      "zipcode": "38751"
+    },
+    {
+      "id": "250096",
+      "name": "MERIT HEALTH RANKIN",
+      "address": "350 CROSSGATES BLVD",
+      "city": "BRANDON",
+      "state": "MS",
+      "zipcode": "39042"
+    },
+    {
+      "id": "250097",
+      "name": "SOUTHWEST MS REGIONAL MEDICAL CENTER",
+      "address": "215 MARION AV BOX 1307",
+      "city": "MCCOMB",
+      "state": "MS",
+      "zipcode": "39649"
+    },
+    {
+      "id": "250099",
+      "name": "GREENWOOD LEFLORE HOSPITAL",
+      "address": "1401 RIVER RD",
+      "city": "GREENWOOD",
+      "state": "MS",
+      "zipcode": "38930"
+    },
+    {
+      "id": "250100",
+      "name": "BMH-GOLDEN TRIANGLE",
+      "address": "2520 5TH STREET N",
+      "city": "COLUMBUS",
+      "state": "MS",
+      "zipcode": "39705"
+    },
+    {
+      "id": "250102",
+      "name": "MISSISSIPPI BAPTIST MEDICAL CENTER",
+      "address": "1225 N STATE ST",
+      "city": "JACKSON",
+      "state": "MS",
+      "zipcode": "39202"
+    },
+    {
+      "id": "250104",
+      "name": "ANDERSON REGIONAL MEDICAL CENTER",
+      "address": "2124 14TH STREET",
+      "city": "MERIDIAN",
+      "state": "MS",
+      "zipcode": "39301"
+    },
+    {
+      "id": "250117",
+      "name": "HIGHLAND COMMUNITY  HOSPITAL",
+      "address": "130 HIGHLAND PKWY",
+      "city": "PICAYUNE",
+      "state": "MS",
+      "zipcode": "39466"
+    },
+    {
+      "id": "250123",
+      "name": "SINGING RIVER GULFPORT",
+      "address": "15200 COMMUNITY ROAD",
+      "city": "GULFPORT",
+      "state": "MS",
+      "zipcode": "39503"
+    },
+    {
+      "id": "250124",
+      "name": "MAGEE GENERAL HOSPITAL",
+      "address": "300 3RD AVE SE",
+      "city": "MAGEE",
+      "state": "MS",
+      "zipcode": "39111"
+    },
+    {
+      "id": "250127",
+      "name": "CHOCTAW HEALTH CENTER",
+      "address": "ROUTE 7 BOX R50",
+      "city": "PHILADELPHIA",
+      "state": "MS",
+      "zipcode": "39350"
+    },
+    {
+      "id": "250134",
+      "name": "WHITFIELD MEDICAL SURGICAL HOSPITAL",
+      "address": "3550 HWY 468 W, BLDG 60",
+      "city": "WHITFIELD",
+      "state": "MS",
+      "zipcode": "39193"
+    },
+    {
+      "id": "250136",
+      "name": "MERIT HEALTH WOMEN'S HOSPITAL",
+      "address": "1026 RIVER OAKS DRIVE",
+      "city": "FLOWOOD",
+      "state": "MS",
+      "zipcode": "39232"
+    },
+    {
+      "id": "250138",
+      "name": "MERIT HEALTH RIVER OAKS",
+      "address": "1030 RIVER OAKS DRIVE",
+      "city": "FLOWOOD",
+      "state": "MS",
+      "zipcode": "39232"
+    },
+    {
+      "id": "250141",
+      "name": "BAPTIST MEMORIAL HOSPITAL DESOTO",
+      "address": "7601 SOUTHCREST PARKWAY",
+      "city": "SOUTHAVEN",
+      "state": "MS",
+      "zipcode": "38671"
+    },
+    {
+      "id": "250151",
+      "name": "ALLIANCE HEALTH CENTER",
+      "address": "5000 HIGHWAY 39 NORTH",
+      "city": "MERIDIAN",
+      "state": "MS",
+      "zipcode": "39301"
+    },
+    {
+      "id": "250152",
+      "name": "MISSISSIPPI METHODIST REHAB CTR",
+      "address": "1350 E WOODROW WILSON DR",
+      "city": "JACKSON",
+      "state": "MS",
+      "zipcode": "39216"
+    },
+    {
+      "id": "250162",
+      "name": "OCHSNER MEDICAL CENTER-HANCOCK",
+      "address": "149 DRINKWATER BLVD",
+      "city": "BAY SAINT LOUIS",
+      "state": "MS",
+      "zipcode": "39520"
+    },
+    {
+      "id": "250167",
+      "name": "METHODIST HEALTHCARE - OLIVE BRANCH HOSPITAL",
+      "address": "4250 BETHEL ROAD",
+      "city": "OLIVE BRANCH",
+      "state": "MS",
+      "zipcode": "38654"
+    },
+    {
+      "id": "250168",
+      "name": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER- GRENADA",
+      "address": "960 AVENT DRIVE",
+      "city": "GRENADA",
+      "state": "MS",
+      "zipcode": "38901"
+    },
+    {
+      "id": "250172",
+      "name": "HIGHLAND HILLS MEDICAL CENTER",
+      "address": "401 GETWELL DRIVE",
+      "city": "SENATOBIA",
+      "state": "MS",
+      "zipcode": "38668"
+    },
+    {
+      "id": "250779",
+      "name": "ALLIANCE HEALTHCARE SYSTEM",
+      "address": "1430 HIGHWAY 4 EAST / P O BOX 6000",
+      "city": "HOLLY SPRINGS",
+      "state": "MS",
+      "zipcode": "38635"
+    },
+    {
+      "id": "250780",
+      "name": "JEFFERSON COUNTY HOSPITAL",
+      "address": "870 S MAIN",
+      "city": "FAYETTE",
+      "state": "MS",
+      "zipcode": "39069"
+    },
+    {
+      "id": "250781",
+      "name": "PANOLA MEDICAL CENTER",
+      "address": "303 MEDICAL CENTER DRIVE",
+      "city": "BATESVILLE",
+      "state": "MS",
+      "zipcode": "38606"
+    },
+    {
+      "id": "251300",
+      "name": "S E LACKEY MEMORIAL HOSPITAL",
+      "address": "330 N BROAD STREET",
+      "city": "FOREST",
+      "state": "MS",
+      "zipcode": "39074"
+    },
+    {
+      "id": "251302",
+      "name": "MONROE REGIONAL HOSPITAL",
+      "address": "400 SOUTH CHESTNUT STREET",
+      "city": "ABERDEEN",
+      "state": "MS",
+      "zipcode": "39730"
+    },
+    {
+      "id": "251304",
+      "name": "TALLAHATCHIE GENERAL HOSPITAL-CAH",
+      "address": "141 DR. T.T. LEWIS CIRCLE / PO BOX 230",
+      "city": "CHARLESTON",
+      "state": "MS",
+      "zipcode": "38921"
+    },
+    {
+      "id": "251305",
+      "name": "LAWRENCE COUNTY HOSPITAL CAH",
+      "address": "1065 EAST BROAD ST",
+      "city": "MONTICELLO",
+      "state": "MS",
+      "zipcode": "39654"
+    },
+    {
+      "id": "251306",
+      "name": "PERRY COUNTY GENERAL HOSPITAL",
+      "address": "206 BAY ST",
+      "city": "RICHTON",
+      "state": "MS",
+      "zipcode": "39476"
+    },
+    {
+      "id": "251307",
+      "name": "NOXUBEE GENERAL CRITICAL ACCESS HOSP",
+      "address": "78 HOSPITAL ROAD",
+      "city": "MACON",
+      "state": "MS",
+      "zipcode": "39341"
+    },
+    {
+      "id": "251308",
+      "name": "PONTOTOC HEALTH SERVICE CAH",
+      "address": "176 SOUTH MAIN STREET",
+      "city": "PONTOTOC",
+      "state": "MS",
+      "zipcode": "38863"
+    },
+    {
+      "id": "251309",
+      "name": "FIELD HEALTH SYSTEM",
+      "address": "178 HIGHWAY 24",
+      "city": "CENTREVILLE",
+      "state": "MS",
+      "zipcode": "39631"
+    },
+    {
+      "id": "251312",
+      "name": "TYLER HOLMES MEMORIAL HOSPITAL CAH",
+      "address": "409 TYLER HOLMES DRIVE",
+      "city": "WINONA",
+      "state": "MS",
+      "zipcode": "38967"
+    },
+    {
+      "id": "251313",
+      "name": "BAPTIST MEDICAL CENTER-YAZOO",
+      "address": "823 GRAND AVENUE",
+      "city": "YAZOO CITY",
+      "state": "MS",
+      "zipcode": "39194"
+    },
+    {
+      "id": "251315",
+      "name": "BAPTIST MEDICAL CENTER-LEAKE",
+      "address": "1100 HIGHWAY 16 EAST/PO BOX 909",
+      "city": "CARTHAGE",
+      "state": "MS",
+      "zipcode": "39051"
+    },
+    {
+      "id": "251316",
+      "name": "OCHSNER WATKINS HOSPITAL",
+      "address": "605 SOUTH ARCHUSA AVENUE",
+      "city": "QUITMAN",
+      "state": "MS",
+      "zipcode": "39355"
+    },
+    {
+      "id": "251317",
+      "name": "SIMPSON GENERAL HOSPITAL CAH",
+      "address": "1842 SIMPSON HIGHWAY 149",
+      "city": "MENDENHALL",
+      "state": "MS",
+      "zipcode": "39114"
+    },
+    {
+      "id": "251318",
+      "name": "NORTH SUNFLOWER MEDICAL CENTER CAH",
+      "address": "840 NORTH OAK AVENUE",
+      "city": "RULEVILLE",
+      "state": "MS",
+      "zipcode": "38771"
+    },
+    {
+      "id": "251319",
+      "name": "HOLMES COUNTY HOSPITAL AND CLINICS",
+      "address": "239 BOWLING GREEN ROAD",
+      "city": "LEXINGTON",
+      "state": "MS",
+      "zipcode": "39095"
+    },
+    {
+      "id": "251320",
+      "name": "CLAIBORNE COUNTY HOSPITAL",
+      "address": "123 MCCOMB AVENUE",
+      "city": "PORT GIBSON",
+      "state": "MS",
+      "zipcode": "39150"
+    },
+    {
+      "id": "251322",
+      "name": "OCHSNER LAIRD HOSPITAL",
+      "address": "25117 HIGHWAY 15",
+      "city": "UNION",
+      "state": "MS",
+      "zipcode": "39365"
+    },
+    {
+      "id": "251323",
+      "name": "OCHSNER SCOTT REGIONAL",
+      "address": "317 HIGHWAY 13 SOUTH",
+      "city": "MORTON",
+      "state": "MS",
+      "zipcode": "39117"
+    },
+    {
+      "id": "251324",
+      "name": "WALTHALL COUNTY GENERAL HOSPITAL CAH",
+      "address": "100 HOSPITAL DRIVE",
+      "city": "TYLERTOWN",
+      "state": "MS",
+      "zipcode": "39667"
+    },
+    {
+      "id": "251325",
+      "name": "COVINGTON COUNTY HOSPITAL CAH",
+      "address": "701 SOUTH HOLLY AVENUE",
+      "city": "COLLINS",
+      "state": "MS",
+      "zipcode": "39428"
+    },
+    {
+      "id": "251326",
+      "name": "JEFFERSON DAVIS COMMUNITY HOSPITAL CAH",
+      "address": "1102 ROSE STREET",
+      "city": "PRENTISS",
+      "state": "MS",
+      "zipcode": "39474"
+    },
+    {
+      "id": "251327",
+      "name": "COPIAH COUNTY MEDICAL CENTER",
+      "address": "21790 HIGHWAY 28",
+      "city": "HAZLEHURST",
+      "state": "MS",
+      "zipcode": "39083"
+    },
+    {
+      "id": "251329",
+      "name": "GREENE COUNTY HOSPITAL CAH",
+      "address": "1017 JACKSON STREET",
+      "city": "LEAKESVILLE",
+      "state": "MS",
+      "zipcode": "39451"
+    },
+    {
+      "id": "251330",
+      "name": "FRANKLIN COUNTY MEMORIAL HOSPITAL",
+      "address": "40 UNION CHURCH RD",
+      "city": "MEADVILLE",
+      "state": "MS",
+      "zipcode": "39653"
+    },
+    {
+      "id": "251331",
+      "name": "BMH-CALHOUN",
+      "address": "140 BURKE-CALHOUN CITY ROAD",
+      "city": "CALHOUN CITY",
+      "state": "MS",
+      "zipcode": "38916"
+    },
+    {
+      "id": "251333",
+      "name": "PEARL RIVER COUNTY HOSPITAL",
+      "address": "305 WEST MOODY STREET",
+      "city": "POPLARVILLE",
+      "state": "MS",
+      "zipcode": "39470"
+    },
+    {
+      "id": "251334",
+      "name": "CHOCTAW REGIONAL MEDICAL CENTER",
+      "address": "8613 MS HWY 12",
+      "city": "ACKERMAN",
+      "state": "MS",
+      "zipcode": "39735"
+    },
+    {
+      "id": "251335",
+      "name": "OCHSNER STENNIS MEMORIAL HOSPITAL",
+      "address": "14365 HIGHWAY 16 WEST",
+      "city": "DE KALB",
+      "state": "MS",
+      "zipcode": "39328"
+    },
+    {
+      "id": "251336",
+      "name": "BAPTIST MEDICAL CENTER-ATTALA",
+      "address": "220 HWY 12 WEST",
+      "city": "KOSCIUSKO",
+      "state": "MS",
+      "zipcode": "39090"
+    },
+    {
+      "id": "251337",
+      "name": "TIPPAH COUNTY HOSPITAL",
+      "address": "1005 CITY AVE NORTH",
+      "city": "RIPLEY",
+      "state": "MS",
+      "zipcode": "38663"
+    },
+    {
+      "id": "251338",
+      "name": "SHARKEY ISSAQUENA COMMUNITY HOSPITAL",
+      "address": "47 SOUTH FOURTH ST",
+      "city": "ROLLING FORK",
+      "state": "MS",
+      "zipcode": "39159"
+    },
+    {
+      "id": "251339",
+      "name": "QUITMAN COMMUNITY HOSPITAL",
+      "address": "340 GETWELL DRIVE",
+      "city": "MARKS",
+      "state": "MS",
+      "zipcode": "38646"
+    }
+  ]
+}

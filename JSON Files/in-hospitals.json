@@ -1,0 +1,924 @@
+{
+  "hospitals": [
+    {
+      "id": "150001",
+      "name": "JOHNSON MEMORIAL HOSPITAL",
+      "address": "1125 W JEFFERSON ST",
+      "city": "FRANKLIN",
+      "state": "IN",
+      "zipcode": "46131"
+    },
+    {
+      "id": "150002",
+      "name": "METHODIST HOSPITALS INC",
+      "address": "600 GRANT ST",
+      "city": "GARY",
+      "state": "IN",
+      "zipcode": "46402"
+    },
+    {
+      "id": "150005",
+      "name": "HENDRICKS REGIONAL HEALTH",
+      "address": "1000 E MAIN ST",
+      "city": "DANVILLE",
+      "state": "IN",
+      "zipcode": "46122"
+    },
+    {
+      "id": "150006",
+      "name": "NORTHWEST HEALTH-LA PORTE",
+      "address": "1331 STATE STREET",
+      "city": "LA PORTE",
+      "state": "IN",
+      "zipcode": "46350"
+    },
+    {
+      "id": "150007",
+      "name": "COMMUNITY HOWARD REGIONAL HEALTH INC",
+      "address": "3500 S LAFOUNTAIN ST",
+      "city": "KOKOMO",
+      "state": "IN",
+      "zipcode": "46902"
+    },
+    {
+      "id": "150008",
+      "name": "ST CATHERINE HOSPITAL INC",
+      "address": "4321 FIR STREET",
+      "city": "EAST CHICAGO",
+      "state": "IN",
+      "zipcode": "46312"
+    },
+    {
+      "id": "150009",
+      "name": "NORTON CLARK HOSPITAL",
+      "address": "1220 MISSOURI AVE",
+      "city": "JEFFERSONVILLE",
+      "state": "IN",
+      "zipcode": "47130"
+    },
+    {
+      "id": "150010",
+      "name": "ASCENSION ST VINCENT KOKOMO",
+      "address": "1907 W SYCAMORE ST",
+      "city": "KOKOMO",
+      "state": "IN",
+      "zipcode": "46904"
+    },
+    {
+      "id": "150011",
+      "name": "MARION GENERAL HOSPITAL",
+      "address": "441 N WABASH AVE",
+      "city": "MARION",
+      "state": "IN",
+      "zipcode": "46952"
+    },
+    {
+      "id": "150012",
+      "name": "SAINT JOSEPH REGIONAL MEDICAL CENTER",
+      "address": "5215 HOLY CROSS PKWY",
+      "city": "MISHAWAKA",
+      "state": "IN",
+      "zipcode": "46545"
+    },
+    {
+      "id": "150015",
+      "name": "FRANCISCAN HEALTH MICHIGAN CITY",
+      "address": "3500 FRANCISCAN WAY",
+      "city": "MICHIGAN CITY",
+      "state": "IN",
+      "zipcode": "46360"
+    },
+    {
+      "id": "150017",
+      "name": "LUTHERAN HOSPITAL OF INDIANA",
+      "address": "7950 W JEFFERSON BLVD",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "zipcode": "46804"
+    },
+    {
+      "id": "150018",
+      "name": "ELKHART GENERAL HOSPITAL",
+      "address": "600 E BLVD",
+      "city": "ELKHART",
+      "state": "IN",
+      "zipcode": "46514"
+    },
+    {
+      "id": "150021",
+      "name": "PARKVIEW REGIONAL MEDICAL CENTER",
+      "address": "11109 PARKVIEW PLAZA DRIVE",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "zipcode": "46845"
+    },
+    {
+      "id": "150022",
+      "name": "FRANCISCAN HEALTH CRAWFORDSVILLE",
+      "address": "1710 LAFAYETTE RD",
+      "city": "CRAWFORDSVILLE",
+      "state": "IN",
+      "zipcode": "47933"
+    },
+    {
+      "id": "150023",
+      "name": "UNION HOSPITAL INC",
+      "address": "1606 N SEVENTH ST",
+      "city": "TERRE HAUTE",
+      "state": "IN",
+      "zipcode": "47804"
+    },
+    {
+      "id": "150024",
+      "name": "ESKENAZI HEALTH",
+      "address": "720 ESKENAZI AVENUE",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46202"
+    },
+    {
+      "id": "150026",
+      "name": "GOSHEN HOSPITAL",
+      "address": "200 HIGH PARK AVE",
+      "city": "GOSHEN",
+      "state": "IN",
+      "zipcode": "46526"
+    },
+    {
+      "id": "150030",
+      "name": "HENRY COUNTY MEMORIAL HOSPITAL",
+      "address": "1000 N 16TH ST",
+      "city": "NEW CASTLE",
+      "state": "IN",
+      "zipcode": "47362"
+    },
+    {
+      "id": "150034",
+      "name": "ST MARY MEDICAL CENTER INC",
+      "address": "1500 S LAKE PARK AVE",
+      "city": "HOBART",
+      "state": "IN",
+      "zipcode": "46342"
+    },
+    {
+      "id": "150035",
+      "name": "NORTHWEST  HEALTH- PORTER",
+      "address": "85 EAST US HWY 6",
+      "city": "VALPARAISO",
+      "state": "IN",
+      "zipcode": "46383"
+    },
+    {
+      "id": "150037",
+      "name": "HANCOCK REGIONAL HOSPITAL",
+      "address": "801 N STATE ST",
+      "city": "GREENFIELD",
+      "state": "IN",
+      "zipcode": "46140"
+    },
+    {
+      "id": "150042",
+      "name": "GOOD SAMARITAN HOSPITAL",
+      "address": "520 S 7TH ST",
+      "city": "VINCENNES",
+      "state": "IN",
+      "zipcode": "47591"
+    },
+    {
+      "id": "150044",
+      "name": "BAPTIST HEALTH FLOYD",
+      "address": "1850 STATE ST",
+      "city": "NEW ALBANY",
+      "state": "IN",
+      "zipcode": "47150"
+    },
+    {
+      "id": "150045",
+      "name": "PARKVIEW DEKALB HOSPITAL",
+      "address": "1316 E SEVENTH ST",
+      "city": "AUBURN",
+      "state": "IN",
+      "zipcode": "46706"
+    },
+    {
+      "id": "150046",
+      "name": "TERRE HAUTE REGIONAL HOSPITAL",
+      "address": "3901 S SEVENTH ST",
+      "city": "TERRE HAUTE",
+      "state": "IN",
+      "zipcode": "47802"
+    },
+    {
+      "id": "150047",
+      "name": "LUTHERAN DOWNTOWN HOSPITAL",
+      "address": "702 VAN BUREN STREET",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "zipcode": "46802"
+    },
+    {
+      "id": "150048",
+      "name": "REID HEALTH",
+      "address": "1100 REID PKWY",
+      "city": "RICHMOND",
+      "state": "IN",
+      "zipcode": "47374"
+    },
+    {
+      "id": "150051",
+      "name": "IU HEALTH BLOOMINGTON HOSPITAL",
+      "address": "2651 EAST DISCOVERY PARKWAY",
+      "city": "BLOOMINGTON",
+      "state": "IN",
+      "zipcode": "47408"
+    },
+    {
+      "id": "150056",
+      "name": "INDIANA UNIVERSITY HEALTH",
+      "address": "1701 N SENATE BLVD",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46202"
+    },
+    {
+      "id": "150057",
+      "name": "FRANCISCAN HEALTH MOORESVILLE",
+      "address": "1201 HADLEY RD",
+      "city": "MOORESVILLE",
+      "state": "IN",
+      "zipcode": "46158"
+    },
+    {
+      "id": "150058",
+      "name": "MEMORIAL HOSPITAL OF SOUTH BEND",
+      "address": "615 N MICHIGAN ST",
+      "city": "SOUTH BEND",
+      "state": "IN",
+      "zipcode": "46601"
+    },
+    {
+      "id": "150059",
+      "name": "RIVERVIEW HEALTH",
+      "address": "395 WESTFIELD RD",
+      "city": "NOBLESVILLE",
+      "state": "IN",
+      "zipcode": "46060"
+    },
+    {
+      "id": "150061",
+      "name": "DAVIESS COMMUNITY HOSPITAL",
+      "address": "1314 E WALNUT ST",
+      "city": "WASHINGTON",
+      "state": "IN",
+      "zipcode": "47501"
+    },
+    {
+      "id": "150065",
+      "name": "SCHNECK MEDICAL CENTER",
+      "address": "411 W TIPTON ST",
+      "city": "SEYMOUR",
+      "state": "IN",
+      "zipcode": "47274"
+    },
+    {
+      "id": "150069",
+      "name": "NORTON-KING'S DAUGHTERS' HEALTH",
+      "address": "1373 EAST SR 62",
+      "city": "MADISON",
+      "state": "IN",
+      "zipcode": "47250"
+    },
+    {
+      "id": "150072",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "1101 MICHIGAN AVE",
+      "city": "LOGANSPORT",
+      "state": "IN",
+      "zipcode": "46947"
+    },
+    {
+      "id": "150074",
+      "name": "COMMUNITY HOSPITAL EAST",
+      "address": "1500 N RITTER AVE",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46219"
+    },
+    {
+      "id": "150075",
+      "name": "BLUFFTON REGIONAL MEDICAL CENTER",
+      "address": "303 S MAIN ST",
+      "city": "BLUFFTON",
+      "state": "IN",
+      "zipcode": "46714"
+    },
+    {
+      "id": "150076",
+      "name": "SAINT JOSEPH REGIONAL MEDICAL CENTER - PLYMOUTH",
+      "address": "1915 LAKE AVE",
+      "city": "PLYMOUTH",
+      "state": "IN",
+      "zipcode": "46563"
+    },
+    {
+      "id": "150082",
+      "name": "DEACONESS HOSPITAL INC",
+      "address": "600 MARY ST",
+      "city": "EVANSVILLE",
+      "state": "IN",
+      "zipcode": "47710"
+    },
+    {
+      "id": "150084",
+      "name": "ASCENSION ST VINCENT HOSPITAL",
+      "address": "2001 W 86TH ST",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46260"
+    },
+    {
+      "id": "150086",
+      "name": "ST ELIZABETH DEARBORN HOSPITAL",
+      "address": "600 WILSON CREEK RD",
+      "city": "LAWRENCEBURG",
+      "state": "IN",
+      "zipcode": "47025"
+    },
+    {
+      "id": "150088",
+      "name": "ASCENSION ST VINCENT ANDERSON",
+      "address": "2015 JACKSON ST",
+      "city": "ANDERSON",
+      "state": "IN",
+      "zipcode": "46016"
+    },
+    {
+      "id": "150089",
+      "name": "INDIANA UNIVERSITY HEALTH BALL MEMORIAL HOSPITAL",
+      "address": "2401 UNIVERSITY AVE",
+      "city": "MUNCIE",
+      "state": "IN",
+      "zipcode": "47303"
+    },
+    {
+      "id": "150090",
+      "name": "FRANCISCAN HEALTH DYER",
+      "address": "24 JOLIET ST",
+      "city": "DYER",
+      "state": "IN",
+      "zipcode": "46311"
+    },
+    {
+      "id": "150091",
+      "name": "PARKVIEW HUNTINGTON HOSPITAL",
+      "address": "2001 STULTS RD",
+      "city": "HUNTINGTON",
+      "state": "IN",
+      "zipcode": "46750"
+    },
+    {
+      "id": "150097",
+      "name": "MAJOR HOSPITAL",
+      "address": "2451 INTELLIPLEX DR",
+      "city": "SHELBYVILLE",
+      "state": "IN",
+      "zipcode": "46176"
+    },
+    {
+      "id": "150100",
+      "name": "ASCENSION ST VINCENT EVANSVILLE",
+      "address": "3700 WASHINGTON AVE",
+      "city": "EVANSVILLE",
+      "state": "IN",
+      "zipcode": "47750"
+    },
+    {
+      "id": "150101",
+      "name": "PARKVIEW WHITLEY HOSPITAL",
+      "address": "1260 E SR 205",
+      "city": "COLUMBIA CITY",
+      "state": "IN",
+      "zipcode": "46725"
+    },
+    {
+      "id": "150102",
+      "name": "NORTHWEST HEALTH- STARKE",
+      "address": "102 E CULVER RD",
+      "city": "KNOX",
+      "state": "IN",
+      "zipcode": "46534"
+    },
+    {
+      "id": "150104",
+      "name": "WITHAM HEALTH SERVICES",
+      "address": "2605 N LEBANON ST",
+      "city": "LEBANON",
+      "state": "IN",
+      "zipcode": "46052"
+    },
+    {
+      "id": "150109",
+      "name": "FRANCISCAN HEALTH LAFAYETTE",
+      "address": "1701 S CREASY LN",
+      "city": "LAFAYETTE",
+      "state": "IN",
+      "zipcode": "47905"
+    },
+    {
+      "id": "150112",
+      "name": "COLUMBUS REGIONAL HOSPITAL",
+      "address": "2400 E 17TH ST",
+      "city": "COLUMBUS",
+      "state": "IN",
+      "zipcode": "47201"
+    },
+    {
+      "id": "150113",
+      "name": "COMMUNITY HOSPITAL OF ANDERSON AND MADISON COUNTY",
+      "address": "1515 N MADISON AVE",
+      "city": "ANDERSON",
+      "state": "IN",
+      "zipcode": "46011"
+    },
+    {
+      "id": "150115",
+      "name": "MEMORIAL HOSPITAL AND HEALTH CARE CENTER",
+      "address": "800 W 9TH ST",
+      "city": "JASPER",
+      "state": "IN",
+      "zipcode": "47546"
+    },
+    {
+      "id": "150125",
+      "name": "COMMUNITY HOSPITAL",
+      "address": "901 MACARTHUR BLVD",
+      "city": "MUNSTER",
+      "state": "IN",
+      "zipcode": "46321"
+    },
+    {
+      "id": "150126",
+      "name": "FRANCISCAN HEALTH CROWN POINT",
+      "address": "12750 SAINT FRANCIS DRIVE",
+      "city": "CROWN POINT",
+      "state": "IN",
+      "zipcode": "46307"
+    },
+    {
+      "id": "150128",
+      "name": "COMMUNITY HOSPITAL SOUTH",
+      "address": "1402 E COUNTY LINE RD S",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46227"
+    },
+    {
+      "id": "150133",
+      "name": "LUTHERAN KOSCIUSKO HOSPITAL",
+      "address": "2101 E DUBOIS DR",
+      "city": "WARSAW",
+      "state": "IN",
+      "zipcode": "46580"
+    },
+    {
+      "id": "150146",
+      "name": "PARKVIEW NOBLE HOSPITAL",
+      "address": "401 SAWYER RD",
+      "city": "KENDALLVILLE",
+      "state": "IN",
+      "zipcode": "46755"
+    },
+    {
+      "id": "150149",
+      "name": "WOMEN'S HOSPITAL THE",
+      "address": "4199 GATEWAY BLVD",
+      "city": "NEWBURGH",
+      "state": "IN",
+      "zipcode": "47630"
+    },
+    {
+      "id": "150150",
+      "name": "DUPONT HOSPITAL LLC",
+      "address": "2520 E DUPONT RD",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "zipcode": "46825"
+    },
+    {
+      "id": "150153",
+      "name": "ASCENSION ST VINCENT HEART CENTER",
+      "address": "10580 N MERIDIAN ST",
+      "city": "CARMEL",
+      "state": "IN",
+      "zipcode": "46290"
+    },
+    {
+      "id": "150157",
+      "name": "ASCENSION ST VINCENT CARMEL",
+      "address": "13500 N MERIDIAN ST",
+      "city": "CARMEL",
+      "state": "IN",
+      "zipcode": "46032"
+    },
+    {
+      "id": "150158",
+      "name": "IU HEALTH WEST HOSPITAL",
+      "address": "1111 N RONALD REAGAN PKWY",
+      "city": "AVON",
+      "state": "IN",
+      "zipcode": "46123"
+    },
+    {
+      "id": "150160",
+      "name": "ORTHOINDY HOSPITAL",
+      "address": "8400 NORTHWEST BLVD",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46278"
+    },
+    {
+      "id": "150161",
+      "name": "INDIANA UNIVERSITY HEALTH NORTH HOSPITAL",
+      "address": "11700 N MERIDIAN ST",
+      "city": "CARMEL",
+      "state": "IN",
+      "zipcode": "46032"
+    },
+    {
+      "id": "150162",
+      "name": "FRANCISCAN HEALTH INDIANAPOLIS",
+      "address": "8111 S EMERSON AVE",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46237"
+    },
+    {
+      "id": "150165",
+      "name": "FRANCISCAN HEALTH MUNSTER",
+      "address": "701 SUPERIOR AVE",
+      "city": "MUNSTER",
+      "state": "IN",
+      "zipcode": "46321"
+    },
+    {
+      "id": "150166",
+      "name": "PINNACLE HOSPITAL",
+      "address": "9301 CONNECTICUT DR",
+      "city": "CROWN POINT",
+      "state": "IN",
+      "zipcode": "46307"
+    },
+    {
+      "id": "150167",
+      "name": "ORTHOPAEDIC HOSPITAL AT PARKVIEW NORTH LLC",
+      "address": "11130 PARKVIEW CIRCLE DR",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "zipcode": "46845"
+    },
+    {
+      "id": "150168",
+      "name": "THE ORTHOPAEDIC HOSPITAL OF LUTHERAN HEALTH NETWOR",
+      "address": "7952 W JEFFERSON BLVD",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "zipcode": "46804"
+    },
+    {
+      "id": "150169",
+      "name": "COMMUNITY HOSPITAL NORTH",
+      "address": "7150 CLEARVISTA DR",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46256"
+    },
+    {
+      "id": "150172",
+      "name": "PHYSICIANS' MEDICAL CENTER LLC",
+      "address": "4023 REAS LN",
+      "city": "NEW ALBANY",
+      "state": "IN",
+      "zipcode": "47150"
+    },
+    {
+      "id": "150173",
+      "name": "INDIANA UNIVERSITY HEALTH ARNETT HOSPITAL",
+      "address": "5165 MCCARTY LN",
+      "city": "LAFAYETTE",
+      "state": "IN",
+      "zipcode": "47905"
+    },
+    {
+      "id": "150177",
+      "name": "UNITY PHYSICIANS HOSPITAL",
+      "address": "4455 EDISON LAKES PKWY",
+      "city": "MISHAWAKA",
+      "state": "IN",
+      "zipcode": "46545"
+    },
+    {
+      "id": "150179",
+      "name": "COMMUNITY FAIRBANKS RECOVERY CENTER",
+      "address": "8102 CLEARVISTA PARKWAY",
+      "city": "INDIANAPOLIS",
+      "state": "IN",
+      "zipcode": "46256"
+    },
+    {
+      "id": "150181",
+      "name": "ASCENSION ST VINCENT FISHERS",
+      "address": "13861 OLIO ROAD",
+      "city": "FISHERS",
+      "state": "IN",
+      "zipcode": "46037"
+    },
+    {
+      "id": "150183",
+      "name": "MONROE HOSPITAL",
+      "address": "4011 S MONROE MEDICAL PARK BLVD",
+      "city": "BLOOMINGTON",
+      "state": "IN",
+      "zipcode": "47403"
+    },
+    {
+      "id": "150191",
+      "name": "FRANCISCAN BEACON HOSPITAL, LLC",
+      "address": "1010 W SR 2",
+      "city": "LA PORTE",
+      "state": "IN",
+      "zipcode": "46350"
+    },
+    {
+      "id": "150193",
+      "name": "FRANCISCAN HEALTH ORTHOPEDIC HOSPITAL CARMEL",
+      "address": "10777 ILLINOIS STREET",
+      "city": "CARMEL",
+      "state": "IN",
+      "zipcode": "46032"
+    },
+    {
+      "id": "151300",
+      "name": "COMMUNITY HOSPITAL OF BREMEN INC",
+      "address": "1020 HIGH RD",
+      "city": "BREMEN",
+      "state": "IN",
+      "zipcode": "46506"
+    },
+    {
+      "id": "151301",
+      "name": "ASCENSION ST VINCENT RANDOLPH",
+      "address": "473 E GREENVILLE AVE",
+      "city": "WINCHESTER",
+      "state": "IN",
+      "zipcode": "47394"
+    },
+    {
+      "id": "151303",
+      "name": "ASCENSION ST VINCENT JENNINGS",
+      "address": "301 HENRY ST",
+      "city": "NORTH VERNON",
+      "state": "IN",
+      "zipcode": "47265"
+    },
+    {
+      "id": "151304",
+      "name": "RUSH MEMORIAL HOSPITAL",
+      "address": "1300 N MAIN ST",
+      "city": "RUSHVILLE",
+      "state": "IN",
+      "zipcode": "46173"
+    },
+    {
+      "id": "151305",
+      "name": "PULASKI MEMORIAL HOSPITAL",
+      "address": "616 E 13TH ST",
+      "city": "WINAMAC",
+      "state": "IN",
+      "zipcode": "46996"
+    },
+    {
+      "id": "151306",
+      "name": "INDIANA UNIVERSITY HEALTH PAOLI HOSPITAL",
+      "address": "642 W HOSPITAL RD",
+      "city": "PAOLI",
+      "state": "IN",
+      "zipcode": "47454"
+    },
+    {
+      "id": "151307",
+      "name": "ASCENSION ST VINCENT WILLIAMSPORT",
+      "address": "412 N MONROE ST",
+      "city": "WILLIAMSPORT",
+      "state": "IN",
+      "zipcode": "47993"
+    },
+    {
+      "id": "151308",
+      "name": "ASCENSION ST VINCENT MERCY",
+      "address": "1331 S A ST",
+      "city": "ELWOOD",
+      "state": "IN",
+      "zipcode": "46036"
+    },
+    {
+      "id": "151309",
+      "name": "ASCENSION ST VINCENT CLAY",
+      "address": "1206 E NATIONAL AVE",
+      "city": "BRAZIL",
+      "state": "IN",
+      "zipcode": "47834"
+    },
+    {
+      "id": "151310",
+      "name": "PARKVIEW WABASH HOSPITAL, INC",
+      "address": "10 JOHN KISSINGER DRIVE",
+      "city": "WABASH",
+      "state": "IN",
+      "zipcode": "46992"
+    },
+    {
+      "id": "151311",
+      "name": "INDIANA UNIVERSITY HEALTH TIPTON HOSPITAL INC",
+      "address": "1000 S MAIN ST",
+      "city": "TIPTON",
+      "state": "IN",
+      "zipcode": "46072"
+    },
+    {
+      "id": "151312",
+      "name": "INDIANA UNIVERSITY HEALTH WHITE MEMORIAL HOSPITAL",
+      "address": "720 SOUTH SIXTH ST",
+      "city": "MONTICELLO",
+      "state": "IN",
+      "zipcode": "47960"
+    },
+    {
+      "id": "151313",
+      "name": "WOODLAWN HOSPITAL",
+      "address": "1400 E 9TH ST",
+      "city": "ROCHESTER",
+      "state": "IN",
+      "zipcode": "46975"
+    },
+    {
+      "id": "151314",
+      "name": "ASCENSION ST VINCENT SALEM",
+      "address": "911 N SHELBY ST",
+      "city": "SALEM",
+      "state": "IN",
+      "zipcode": "47167"
+    },
+    {
+      "id": "151315",
+      "name": "CAMERON MEMORIAL COMMUNITY HOSPITAL INC",
+      "address": "416 E MAUMEE ST",
+      "city": "ANGOLA",
+      "state": "IN",
+      "zipcode": "46703"
+    },
+    {
+      "id": "151316",
+      "name": "INDIANA UNIVERSITY HEALTH FRANKFORT INC",
+      "address": "1300 S JACKSON ST",
+      "city": "FRANKFORT",
+      "state": "IN",
+      "zipcode": "46041"
+    },
+    {
+      "id": "151317",
+      "name": "GREENE COUNTY GENERAL HOSPITAL",
+      "address": "1185 N 1000 W",
+      "city": "LINTON",
+      "state": "IN",
+      "zipcode": "47441"
+    },
+    {
+      "id": "151318",
+      "name": "DUKES MEMORIAL HOSPITAL",
+      "address": "275 W 12TH ST",
+      "city": "PERU",
+      "state": "IN",
+      "zipcode": "46970"
+    },
+    {
+      "id": "151319",
+      "name": "DEACONESS GIBSON HOSPITAL",
+      "address": "1808 SHERMAN DR",
+      "city": "PRINCETON",
+      "state": "IN",
+      "zipcode": "47670"
+    },
+    {
+      "id": "151320",
+      "name": "IU HEALTH JAY",
+      "address": "500 W VOTAW ST",
+      "city": "PORTLAND",
+      "state": "IN",
+      "zipcode": "47371"
+    },
+    {
+      "id": "151322",
+      "name": "PERRY COUNTY MEMORIAL HOSPITAL",
+      "address": "8885 SR 237",
+      "city": "TELL CITY",
+      "state": "IN",
+      "zipcode": "47586"
+    },
+    {
+      "id": "151323",
+      "name": "PARKVIEW LAGRANGE HOSPITAL",
+      "address": "207 N TOWNLINE RD",
+      "city": "LAGRANGE",
+      "state": "IN",
+      "zipcode": "46761"
+    },
+    {
+      "id": "151324",
+      "name": "FRANCISCAN HEALTH RENSSELAER, INC",
+      "address": "1104 E GRACE ST",
+      "city": "RENSSELAER",
+      "state": "IN",
+      "zipcode": "47978"
+    },
+    {
+      "id": "151325",
+      "name": "ASCENSION ST VINCENT WARRICK",
+      "address": "1116 MILLIS AVE",
+      "city": "BOONVILLE",
+      "state": "IN",
+      "zipcode": "47601"
+    },
+    {
+      "id": "151326",
+      "name": "UNION HOSPITAL CLINTON",
+      "address": "801 S MAIN ST",
+      "city": "CLINTON",
+      "state": "IN",
+      "zipcode": "47842"
+    },
+    {
+      "id": "151327",
+      "name": "SULLIVAN COUNTY COMMUNITY HOSPITAL",
+      "address": "2200 N SECTION ST",
+      "city": "SULLIVAN",
+      "state": "IN",
+      "zipcode": "47882"
+    },
+    {
+      "id": "151328",
+      "name": "INDIANA UNIVERSITY HEALTH BEDFORD HOSPITAL",
+      "address": "2900 W 16TH ST",
+      "city": "BEDFORD",
+      "state": "IN",
+      "zipcode": "47421"
+    },
+    {
+      "id": "151329",
+      "name": "MARGARET MARY HEALTH",
+      "address": "321 MITCHELL AVE",
+      "city": "BATESVILLE",
+      "state": "IN",
+      "zipcode": "47006"
+    },
+    {
+      "id": "151330",
+      "name": "ADAMS MEMORIAL HOSPITAL",
+      "address": "1100 MERCER AVE",
+      "city": "DECATUR",
+      "state": "IN",
+      "zipcode": "46733"
+    },
+    {
+      "id": "151331",
+      "name": "HARRISON COUNTY HOSPITAL",
+      "address": "1141 HOSPITAL DR NW",
+      "city": "CORYDON",
+      "state": "IN",
+      "zipcode": "47112"
+    },
+    {
+      "id": "151332",
+      "name": "DECATUR COUNTY MEMORIAL HOSPITAL",
+      "address": "720 N LINCOLN ST",
+      "city": "GREENSBURG",
+      "state": "IN",
+      "zipcode": "47240"
+    },
+    {
+      "id": "151333",
+      "name": "PUTNAM COUNTY HOSPITAL",
+      "address": "1542 S BLOOMINGTON ST",
+      "city": "GREENCASTLE",
+      "state": "IN",
+      "zipcode": "46135"
+    },
+    {
+      "id": "151334",
+      "name": "NORTON SCOTT HOSPITAL",
+      "address": "1451 N GARDNER ST",
+      "city": "SCOTTSBURG",
+      "state": "IN",
+      "zipcode": "47170"
+    }
+  ]
+}

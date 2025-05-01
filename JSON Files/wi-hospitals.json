@@ -1,0 +1,1004 @@
+{
+  "hospitals": [
+    {
+      "id": "520002",
+      "name": "ASPIRUS STEVENS POINT HOSPITAL",
+      "address": "900 ILLINOIS AVE",
+      "city": "STEVENS POINT",
+      "state": "WI",
+      "zipcode": "54481"
+    },
+    {
+      "id": "520004",
+      "name": "MAYO CLINIC HEALTH SYSTEM IN LA CROSSE",
+      "address": "700 WEST AVENUE SOUTH",
+      "city": "LA CROSSE",
+      "state": "WI",
+      "zipcode": "54601"
+    },
+    {
+      "id": "520008",
+      "name": "PROHEALTH WAUKESHA MEMORIAL HOSPITAL",
+      "address": "725 AMERICAN AVE",
+      "city": "WAUKESHA",
+      "state": "WI",
+      "zipcode": "53188"
+    },
+    {
+      "id": "520009",
+      "name": "ASCENSION NE WISCONSIN - ST ELIZABETH CAMPUS",
+      "address": "1506 S ONEIDA ST",
+      "city": "APPLETON",
+      "state": "WI",
+      "zipcode": "54915"
+    },
+    {
+      "id": "520011",
+      "name": "MARSHFIELD MEDICAL CENTER - RICE LAKE",
+      "address": "1700 WEST STOUT STREET",
+      "city": "RICE LAKE",
+      "state": "WI",
+      "zipcode": "54868"
+    },
+    {
+      "id": "520013",
+      "name": "SACRED HEART HOSPITAL",
+      "address": "900 W CLAIREMONT AVE",
+      "city": "EAU CLAIRE",
+      "state": "WI",
+      "zipcode": "54701"
+    },
+    {
+      "id": "520017",
+      "name": "ST JOSEPHS HOSPITAL",
+      "address": "2661 COUNTY HWY I",
+      "city": "CHIPPEWA FALLS",
+      "state": "WI",
+      "zipcode": "54729"
+    },
+    {
+      "id": "520019",
+      "name": "ASPIRUS RHINELANDER HOSPITAL",
+      "address": "2251 NORTH SHORE DR",
+      "city": "RHINELANDER",
+      "state": "WI",
+      "zipcode": "54501"
+    },
+    {
+      "id": "520021",
+      "name": "FROEDTERT SOUTH - FROEDTERT PLEASANT PRAIRIE",
+      "address": "9555 76TH ST",
+      "city": "PLEASANT PRAIRIE",
+      "state": "WI",
+      "zipcode": "53158"
+    },
+    {
+      "id": "520028",
+      "name": "SSM HEALTH MONROE HOSPITAL",
+      "address": "515 22ND AVE",
+      "city": "MONROE",
+      "state": "WI",
+      "zipcode": "53566"
+    },
+    {
+      "id": "520030",
+      "name": "ASPIRUS WAUSAU HOSPITAL",
+      "address": "333 PINE RIDGE BLVD",
+      "city": "WAUSAU",
+      "state": "WI",
+      "zipcode": "54401"
+    },
+    {
+      "id": "520033",
+      "name": "ASPIRUS RIVERVIEW HOSPITAL & CLINICS INC",
+      "address": "410 DEWEY ST",
+      "city": "WISCONSIN RAPIDS",
+      "state": "WI",
+      "zipcode": "54495"
+    },
+    {
+      "id": "520034",
+      "name": "AURORA MEDICAL CTR MANITOWOC COUNTY",
+      "address": "5000 MEMORIAL DRIVE",
+      "city": "TWO RIVERS",
+      "state": "WI",
+      "zipcode": "54241"
+    },
+    {
+      "id": "520035",
+      "name": "AURORA MEDICAL CENTER SHEBOYGAN COUNTY",
+      "address": "3400 UNION AVE",
+      "city": "SHEBOYGAN",
+      "state": "WI",
+      "zipcode": "53081"
+    },
+    {
+      "id": "520037",
+      "name": "MARSHFIELD MEDICAL CENTER",
+      "address": "611 ST JOSEPH AVE",
+      "city": "MARSHFIELD",
+      "state": "WI",
+      "zipcode": "54449"
+    },
+    {
+      "id": "520038",
+      "name": "AURORA MEDICAL CTR WASHINGTON COUNTY",
+      "address": "1032 E SUMNER ST",
+      "city": "HARTFORD",
+      "state": "WI",
+      "zipcode": "53027"
+    },
+    {
+      "id": "520041",
+      "name": "ASPIRUS DIVINE SAVIOR HOSPITAL",
+      "address": "2817 NEW PINERY ROAD",
+      "city": "PORTAGE",
+      "state": "WI",
+      "zipcode": "53901"
+    },
+    {
+      "id": "520044",
+      "name": "ST NICHOLAS HOSPITAL",
+      "address": "3100 SUPERIOR AVE",
+      "city": "SHEBOYGAN",
+      "state": "WI",
+      "zipcode": "53081"
+    },
+    {
+      "id": "520045",
+      "name": "THEDACARE REGIONAL MEDICAL CENTER - NEENAH INC",
+      "address": "130 2ND ST",
+      "city": "NEENAH",
+      "state": "WI",
+      "zipcode": "54956"
+    },
+    {
+      "id": "520049",
+      "name": "BELLIN MEMORIAL HOSPITAL",
+      "address": "744 S WEBSTER AVE",
+      "city": "GREEN BAY",
+      "state": "WI",
+      "zipcode": "54305"
+    },
+    {
+      "id": "520051",
+      "name": "ASCENSION COLUMBIA ST MARY'S HOSPITAL MILWAUKEE CA",
+      "address": "2323 N LAKE DR",
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "zipcode": "53211"
+    },
+    {
+      "id": "520057",
+      "name": "SSM HEALTH ST CLARE HOSPITAL - BARABOO",
+      "address": "707 14TH ST",
+      "city": "BARABOO",
+      "state": "WI",
+      "zipcode": "53913"
+    },
+    {
+      "id": "520059",
+      "name": "AURORA MEDICAL CENTER BURLINGTON",
+      "address": "252 MCHENRY ST",
+      "city": "BURLINGTON",
+      "state": "WI",
+      "zipcode": "53105"
+    },
+    {
+      "id": "520062",
+      "name": "PROHEALTH OCONOMOWOC MEMORIAL HOSPITAL",
+      "address": "791 E SUMMIT AVE",
+      "city": "OCONOMOWOC",
+      "state": "WI",
+      "zipcode": "53066"
+    },
+    {
+      "id": "520063",
+      "name": "FROEDTERT WEST BEND HOSPITAL",
+      "address": "3200 PLEASANT VALLEY ROAD",
+      "city": "WEST BEND",
+      "state": "WI",
+      "zipcode": "53095"
+    },
+    {
+      "id": "520066",
+      "name": "MERCY HEALTH SYSTEM CORP",
+      "address": "1000 MINERAL POINT AVE",
+      "city": "JANESVILLE",
+      "state": "WI",
+      "zipcode": "53548"
+    },
+    {
+      "id": "520070",
+      "name": "MAYO CLINIC HEALTH SYSTEM IN EAU CLAIRE",
+      "address": "1221 WHIPPLE ST",
+      "city": "EAU CLAIRE",
+      "state": "WI",
+      "zipcode": "54703"
+    },
+    {
+      "id": "520071",
+      "name": "FORT MEMORIAL HOSPITAL",
+      "address": "611 SHERMAN AVE E",
+      "city": "FORT ATKINSON",
+      "state": "WI",
+      "zipcode": "53538"
+    },
+    {
+      "id": "520075",
+      "name": "ST VINCENT HOSPITAL",
+      "address": "835 S VAN BUREN ST",
+      "city": "GREEN BAY",
+      "state": "WI",
+      "zipcode": "54301"
+    },
+    {
+      "id": "520076",
+      "name": "MARSHFIELD MEDICAL CENTER - BEAVER DAM",
+      "address": "707 S UNIVERSITY AVE",
+      "city": "BEAVER DAM",
+      "state": "WI",
+      "zipcode": "53916"
+    },
+    {
+      "id": "520078",
+      "name": "ASCENSION ST FRANCIS HOSPITAL",
+      "address": "3237 S 16TH ST",
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "zipcode": "53215"
+    },
+    {
+      "id": "520083",
+      "name": "SSM HEALTH ST MARY'S HOSPITAL - MADISON",
+      "address": "700 SOUTH PARK ST",
+      "city": "MADISON",
+      "state": "WI",
+      "zipcode": "53715"
+    },
+    {
+      "id": "520087",
+      "name": "GUNDERSEN LUTHERAN MEDICAL CENTER",
+      "address": "1910 SOUTH AVE",
+      "city": "LA CROSSE",
+      "state": "WI",
+      "zipcode": "54601"
+    },
+    {
+      "id": "520088",
+      "name": "SSM HEALTH ST AGNES HOSPITAL-FOND DU LAC",
+      "address": "430 E DIVISION ST",
+      "city": "FOND DU LAC",
+      "state": "WI",
+      "zipcode": "54935"
+    },
+    {
+      "id": "520089",
+      "name": "UNITYPOINT HEALTH - MERITER",
+      "address": "202 S PARK ST",
+      "city": "MADISON",
+      "state": "WI",
+      "zipcode": "53715"
+    },
+    {
+      "id": "520091",
+      "name": "HOWARD YOUNG MEDICAL CTR",
+      "address": "240 MAPLE ST",
+      "city": "WOODRUFF",
+      "state": "WI",
+      "zipcode": "54568"
+    },
+    {
+      "id": "520095",
+      "name": "SAUK PRAIRIE HOSPITAL",
+      "address": "260 26TH STREET",
+      "city": "PRAIRIE DU SAC",
+      "state": "WI",
+      "zipcode": "53578"
+    },
+    {
+      "id": "520096",
+      "name": "ASCENSION ALL SAINTS HOSPITAL",
+      "address": "3801 SPRING ST",
+      "city": "RACINE",
+      "state": "WI",
+      "zipcode": "53405"
+    },
+    {
+      "id": "520097",
+      "name": "ST MARYS HOSPITAL MEDICAL CTR",
+      "address": "1726 SHAWANO AVE",
+      "city": "GREEN BAY",
+      "state": "WI",
+      "zipcode": "54303"
+    },
+    {
+      "id": "520098",
+      "name": "UNIVERSITY OF WI  HOSPITALS & CLINICS AUTHORITY",
+      "address": "600 HIGHLAND AVENUE",
+      "city": "MADISON",
+      "state": "WI",
+      "zipcode": "53792"
+    },
+    {
+      "id": "520100",
+      "name": "BELOIT MEMORIAL HOSPITAL",
+      "address": "1969 W HART RD",
+      "city": "BELOIT",
+      "state": "WI",
+      "zipcode": "53511"
+    },
+    {
+      "id": "520102",
+      "name": "AURORA LAKELAND MEDICAL CENTER",
+      "address": "W3985 COUNTY ROAD NN",
+      "city": "ELKHORN",
+      "state": "WI",
+      "zipcode": "53121"
+    },
+    {
+      "id": "520103",
+      "name": "FROEDTERT MENOMONEE FALLS HOSPITAL",
+      "address": "W180 N8085 TOWN HALL RD",
+      "city": "MENOMONEE FALLS",
+      "state": "WI",
+      "zipcode": "53051"
+    },
+    {
+      "id": "520107",
+      "name": "FROEDTERT HOLY FAMILY MEMORIAL HOSPITAL",
+      "address": "2300 WESTERN AVE",
+      "city": "MANITOWOC",
+      "state": "WI",
+      "zipcode": "54221"
+    },
+    {
+      "id": "520109",
+      "name": "MILE BLUFF MEDICAL CENTER",
+      "address": "1050 DIVISION ST",
+      "city": "MAUSTON",
+      "state": "WI",
+      "zipcode": "53948"
+    },
+    {
+      "id": "520113",
+      "name": "AURORA MEDICAL CENTER BAY AREA",
+      "address": "3003 UNIVERSITY DR",
+      "city": "MARINETTE",
+      "state": "WI",
+      "zipcode": "54143"
+    },
+    {
+      "id": "520116",
+      "name": "WATERTOWN REGIONAL MEDICAL CENTER",
+      "address": "125 HOSPITAL DRIVE",
+      "city": "WATERTOWN",
+      "state": "WI",
+      "zipcode": "53098"
+    },
+    {
+      "id": "520136",
+      "name": "ASCENSION SE WISCONSIN HOSPITAL - ST JOSEPH CAMPUS",
+      "address": "5000 W CHAMBERS ST",
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "zipcode": "53210"
+    },
+    {
+      "id": "520138",
+      "name": "AURORA ST LUKES MEDICAL CENTER",
+      "address": "2900 W OKLAHOMA AVE",
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "zipcode": "53215"
+    },
+    {
+      "id": "520139",
+      "name": "AURORA WEST ALLIS MEDICAL CENTER",
+      "address": "8901 W LINCOLN AVE",
+      "city": "WEST ALLIS",
+      "state": "WI",
+      "zipcode": "53227"
+    },
+    {
+      "id": "520160",
+      "name": "THEDACARE REGIONAL MEDICAL CENTER - APPLETON INC",
+      "address": "1818 N MEADE ST",
+      "city": "APPLETON",
+      "state": "WI",
+      "zipcode": "54911"
+    },
+    {
+      "id": "520177",
+      "name": "FROEDTERT MEMORIAL LUTHERAN HOSPITAL",
+      "address": "9200 W WISCONSIN AVE",
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "zipcode": "53226"
+    },
+    {
+      "id": "520189",
+      "name": "AURORA MEDICAL CTR KENOSHA",
+      "address": "10400 75TH ST",
+      "city": "KENOSHA",
+      "state": "WI",
+      "zipcode": "53142"
+    },
+    {
+      "id": "520193",
+      "name": "AURORA BAYCARE MEDICAL CTR",
+      "address": "2845 GREENBRIER RD",
+      "city": "GREEN BAY",
+      "state": "WI",
+      "zipcode": "54311"
+    },
+    {
+      "id": "520194",
+      "name": "ORTHOPAEDIC HOSPITAL OF WISCONSIN",
+      "address": "475 W RIVER WOODS PKWY",
+      "city": "GLENDALE",
+      "state": "WI",
+      "zipcode": "53212"
+    },
+    {
+      "id": "520196",
+      "name": "OAKLEAF SURGICAL HOSPITAL",
+      "address": "1000 OAKLEAF WAY",
+      "city": "ALTOONA",
+      "state": "WI",
+      "zipcode": "54720"
+    },
+    {
+      "id": "520198",
+      "name": "AURORA MEDICAL CTR OSHKOSH",
+      "address": "855 N WESTHAVEN DRIVE",
+      "city": "OSHKOSH",
+      "state": "WI",
+      "zipcode": "54904"
+    },
+    {
+      "id": "520202",
+      "name": "MARSHFIELD MEDICAL CENTER - WESTON",
+      "address": "3400 MINISTRY PARKWAY",
+      "city": "WESTON",
+      "state": "WI",
+      "zipcode": "54476"
+    },
+    {
+      "id": "520205",
+      "name": "MIDWEST ORTHOPEDIC SPECIALTY HOSPITAL",
+      "address": "10101 SOUTH 27TH ST  2ND FLOOR",
+      "city": "FRANKLIN",
+      "state": "WI",
+      "zipcode": "53132"
+    },
+    {
+      "id": "520206",
+      "name": "AURORA MEDICAL CENTER SUMMIT",
+      "address": "36500 AURORA DRIVE",
+      "city": "SUMMIT",
+      "state": "WI",
+      "zipcode": "53066"
+    },
+    {
+      "id": "520207",
+      "name": "AURORA MEDICAL CENTER",
+      "address": "975 PORT WASHINGTON ROAD",
+      "city": "GRAFTON",
+      "state": "WI",
+      "zipcode": "53024"
+    },
+    {
+      "id": "520208",
+      "name": "SSM HEALTH ST MARY'S HOSPITAL - JANESVILLE",
+      "address": "3400 EAST RACINE STREET",
+      "city": "JANESVILLE",
+      "state": "WI",
+      "zipcode": "53546"
+    },
+    {
+      "id": "520210",
+      "name": "MARSHFIELD MEDICAL CENTER - EAU CLAIRE",
+      "address": "2310 CRAIG RD",
+      "city": "EAU CLAIRE",
+      "state": "WI",
+      "zipcode": "54701"
+    },
+    {
+      "id": "520212",
+      "name": "MARSHFIELD MEDICAL CENTER - MINOCQUA",
+      "address": "9576 HIGHWAY 70",
+      "city": "MINOCQUA",
+      "state": "WI",
+      "zipcode": "54548"
+    },
+    {
+      "id": "520213",
+      "name": "FROEDTERT COMMUNITY HOSPITAL",
+      "address": "4805 S MOORLAND RD",
+      "city": "NEW BERLIN",
+      "state": "WI",
+      "zipcode": "53151"
+    },
+    {
+      "id": "520214",
+      "name": "ASCENSION WISCONSIN HOSP MENOMONEE FALLS CAMPUS",
+      "address": "N88W14275 MAIN STREET, SUITE 100",
+      "city": "MENOMONEE FALLS",
+      "state": "WI",
+      "zipcode": "53051"
+    },
+    {
+      "id": "520215",
+      "name": "MARSHFIELD MEDICAL CENTER - RIVER REGION",
+      "address": "4100 STATE HIGHWAY 66",
+      "city": "STEVENS POINT",
+      "state": "WI",
+      "zipcode": "54482"
+    },
+    {
+      "id": "521300",
+      "name": "ASPIRUS EAGLE RIVER HOSPITAL",
+      "address": "201 HOSPITAL ROAD",
+      "city": "EAGLE RIVER",
+      "state": "WI",
+      "zipcode": "54521"
+    },
+    {
+      "id": "521302",
+      "name": "MAYO CLINIC HEALTH SYSTEM-OAKRIDGE",
+      "address": "13025 8TH ST",
+      "city": "OSSEO",
+      "state": "WI",
+      "zipcode": "54758"
+    },
+    {
+      "id": "521303",
+      "name": "THEDACARE MEDICAL CENTER - WILD ROSE INC",
+      "address": "601 GROVE AVE",
+      "city": "WILD ROSE",
+      "state": "WI",
+      "zipcode": "54984"
+    },
+    {
+      "id": "521304",
+      "name": "GUNDERSEN ST JOSEPHS HOSPITAL AND CLINICS",
+      "address": "400 WATER AVE",
+      "city": "HILLSBORO",
+      "state": "WI",
+      "zipcode": "54634"
+    },
+    {
+      "id": "521305",
+      "name": "MAYO CLINIC HEALTH SYSTEM IN SPARTA",
+      "address": "310 W MAIN ST",
+      "city": "SPARTA",
+      "state": "WI",
+      "zipcode": "54656"
+    },
+    {
+      "id": "521307",
+      "name": "ADVENTHEALTH DURAND",
+      "address": "1220 3RD AVE W",
+      "city": "DURAND",
+      "state": "WI",
+      "zipcode": "54736"
+    },
+    {
+      "id": "521308",
+      "name": "AMERY HOSPITAL & CLINIC",
+      "address": "265 GRIFFIN STREET EAST",
+      "city": "AMERY",
+      "state": "WI",
+      "zipcode": "54001"
+    },
+    {
+      "id": "521309",
+      "name": "GUNDERSEN MOUNDVIEW HOSPITAL AND CLINICS",
+      "address": "402 W LAKE ST",
+      "city": "FRIENDSHIP",
+      "state": "WI",
+      "zipcode": "53934"
+    },
+    {
+      "id": "521310",
+      "name": "HSHS ST CLARE MEMORIAL HOSPITAL",
+      "address": "855 S MAIN ST",
+      "city": "OCONTO FALLS",
+      "state": "WI",
+      "zipcode": "54154"
+    },
+    {
+      "id": "521311",
+      "name": "ASPIRUS STANLEY HOSPITAL",
+      "address": "1120 PINE ST",
+      "city": "STANLEY",
+      "state": "WI",
+      "zipcode": "54768"
+    },
+    {
+      "id": "521312",
+      "name": "MEMORIAL HOSPITAL OF LAFAYETTE COUNTY",
+      "address": "800 CLAY ST",
+      "city": "DARLINGTON",
+      "state": "WI",
+      "zipcode": "53530"
+    },
+    {
+      "id": "521313",
+      "name": "ASPIRUS TOMAHAWK HOSPITAL",
+      "address": "401 W MOHAWK DR  SUITE 100",
+      "city": "TOMAHAWK",
+      "state": "WI",
+      "zipcode": "54487"
+    },
+    {
+      "id": "521314",
+      "name": "MAYO CLINIC HEALTH SYSTEM-CHIPPEWA VALLEY",
+      "address": "1501 THOMPSON ST",
+      "city": "BLOOMER",
+      "state": "WI",
+      "zipcode": "54724"
+    },
+    {
+      "id": "521315",
+      "name": "MAYO CLINIC HEALTH SYSTEM-NORTHLAND",
+      "address": "1222 E WOODLAND AVE",
+      "city": "BARRON",
+      "state": "WI",
+      "zipcode": "54812"
+    },
+    {
+      "id": "521316",
+      "name": "GUNDERSEN TRI-COUNTY HOSPITAL AND CLINICS",
+      "address": "18601 LINCOLN ST",
+      "city": "WHITEHALL",
+      "state": "WI",
+      "zipcode": "54773"
+    },
+    {
+      "id": "521317",
+      "name": "ASCENSION CALUMET HOSPITAL",
+      "address": "614 MEMORIAL DRIVE",
+      "city": "CHILTON",
+      "state": "WI",
+      "zipcode": "53014"
+    },
+    {
+      "id": "521318",
+      "name": "LADD MEMORIAL HOSPITAL",
+      "address": "2600 65TH AVENUE",
+      "city": "OSCEOLA",
+      "state": "WI",
+      "zipcode": "54020"
+    },
+    {
+      "id": "521319",
+      "name": "EDGERTON HOSPITAL AND HEALTH SERVICES",
+      "address": "11101 N SHERMAN ROAD",
+      "city": "EDGERTON",
+      "state": "WI",
+      "zipcode": "53534"
+    },
+    {
+      "id": "521320",
+      "name": "TOMAH MEMORIAL HOSPITAL",
+      "address": "501 GOPHER DR",
+      "city": "TOMAH",
+      "state": "WI",
+      "zipcode": "54660"
+    },
+    {
+      "id": "521321",
+      "name": "SSM HEALTH RIPON COMMUNITY HOSPITAL",
+      "address": "845 PARKSIDE ST",
+      "city": "RIPON",
+      "state": "WI",
+      "zipcode": "54971"
+    },
+    {
+      "id": "521322",
+      "name": "GRANT REGIONAL HEALTH CENTER",
+      "address": "507 S MONROE ST",
+      "city": "LANCASTER",
+      "state": "WI",
+      "zipcode": "53813"
+    },
+    {
+      "id": "521323",
+      "name": "MARSHFIELD MEDICAL CENTER - NEILLSVILLE",
+      "address": "N3708 RIVER AVE",
+      "city": "NEILLSVILLE",
+      "state": "WI",
+      "zipcode": "54456"
+    },
+    {
+      "id": "521324",
+      "name": "ASPIRUS MEDFORD HOSPITAL & CLINICS, INC",
+      "address": "135 S GIBSON ST",
+      "city": "MEDFORD",
+      "state": "WI",
+      "zipcode": "54451"
+    },
+    {
+      "id": "521325",
+      "name": "MARSHFIELD MEDICAL CENTER - PARK FALLS",
+      "address": "98 SHERRY AVE",
+      "city": "PARK FALLS",
+      "state": "WI",
+      "zipcode": "54552"
+    },
+    {
+      "id": "521326",
+      "name": "THEDACARE MEDICAL CENTER NEW LONDON",
+      "address": "1405 MILL ST",
+      "city": "NEW LONDON",
+      "state": "WI",
+      "zipcode": "54961"
+    },
+    {
+      "id": "521327",
+      "name": "SSM HEALTH WAUPUN MEMORIAL HOSPITAL",
+      "address": "620 W BROWN ST",
+      "city": "WAUPUN",
+      "state": "WI",
+      "zipcode": "53963"
+    },
+    {
+      "id": "521328",
+      "name": "MARSHFIELD MEDICAL CENTER - LADYSMITH",
+      "address": "1200 PORT ARTHUR RD",
+      "city": "LADYSMITH",
+      "state": "WI",
+      "zipcode": "54848"
+    },
+    {
+      "id": "521329",
+      "name": "ESSENTIA HEALTH ST MARY'S HOSPITAL - SUPERIOR",
+      "address": "3500 TOWER AVE",
+      "city": "SUPERIOR",
+      "state": "WI",
+      "zipcode": "54880"
+    },
+    {
+      "id": "521330",
+      "name": "CROSSING RIVERS HEALTH MEDICAL CENTER",
+      "address": "37868 US HWY 18",
+      "city": "PRAIRIE DU CHIEN",
+      "state": "WI",
+      "zipcode": "53821"
+    },
+    {
+      "id": "521331",
+      "name": "BURNETT MEDICAL CENTER",
+      "address": "257 W ST GEORGE AVE",
+      "city": "GRANTSBURG",
+      "state": "WI",
+      "zipcode": "54840"
+    },
+    {
+      "id": "521332",
+      "name": "SPOONER HEALTH SYSTEM",
+      "address": "1280 CHANDLER DR",
+      "city": "SPOONER",
+      "state": "WI",
+      "zipcode": "54801"
+    },
+    {
+      "id": "521333",
+      "name": "BLACK RIVER MEMORIAL HOSPITAL",
+      "address": "711 W ADAMS ST",
+      "city": "BLACK RIVER FALLS",
+      "state": "WI",
+      "zipcode": "54615"
+    },
+    {
+      "id": "521334",
+      "name": "THEDACARE MEDICAL CENTER - WAUPACA INC",
+      "address": "800 RIVERSIDE DRIVE",
+      "city": "WAUPACA",
+      "state": "WI",
+      "zipcode": "54981"
+    },
+    {
+      "id": "521335",
+      "name": "HUDSON HOSPITAL & CLINIC",
+      "address": "405 STAGELINE ROAD",
+      "city": "HUDSON",
+      "state": "WI",
+      "zipcode": "54016"
+    },
+    {
+      "id": "521336",
+      "name": "TAMARACK HEALTH HAYWARD MEDICAL CENTER",
+      "address": "11040 N STATE RD 77",
+      "city": "HAYWARD",
+      "state": "WI",
+      "zipcode": "54843"
+    },
+    {
+      "id": "521337",
+      "name": "ST CROIX REGIONAL MEDICAL CENTER",
+      "address": "235 E STATE STREET",
+      "city": "SAINT CROIX FALLS",
+      "state": "WI",
+      "zipcode": "54024"
+    },
+    {
+      "id": "521338",
+      "name": "PRAIRIE RIDGE HEALTH",
+      "address": "1515 PARK AVE",
+      "city": "COLUMBUS",
+      "state": "WI",
+      "zipcode": "53925"
+    },
+    {
+      "id": "521339",
+      "name": "ASPIRUS MERRILL HOSPITAL",
+      "address": "601 S CENTER AVE",
+      "city": "MERRILL",
+      "state": "WI",
+      "zipcode": "54452"
+    },
+    {
+      "id": "521340",
+      "name": "MAYO CLINIC HEALTH SYSTEM-RED CEDAR",
+      "address": "2321 STOUT RD",
+      "city": "MENOMONIE",
+      "state": "WI",
+      "zipcode": "54751"
+    },
+    {
+      "id": "521341",
+      "name": "RICHLAND HOSPITAL",
+      "address": "333 E SECOND ST",
+      "city": "RICHLAND CENTER",
+      "state": "WI",
+      "zipcode": "53581"
+    },
+    {
+      "id": "521342",
+      "name": "INDIANHEAD MEDICAL CENTER SHELL LAKE",
+      "address": "113 4TH AVE",
+      "city": "SHELL LAKE",
+      "state": "WI",
+      "zipcode": "54871"
+    },
+    {
+      "id": "521343",
+      "name": "STOUGHTON HOSPITAL",
+      "address": "900 RIDGE ST",
+      "city": "STOUGHTON",
+      "state": "WI",
+      "zipcode": "53589"
+    },
+    {
+      "id": "521344",
+      "name": "GUNDERSEN BOSCOBEL AREA HOSPITAL AND CLINICS",
+      "address": "205 PARKER ST",
+      "city": "BOSCOBEL",
+      "state": "WI",
+      "zipcode": "53805"
+    },
+    {
+      "id": "521345",
+      "name": "WESTFIELDS HOSPITAL AND CLINIC",
+      "address": "535 HOSPITAL RD",
+      "city": "NEW RICHMOND",
+      "state": "WI",
+      "zipcode": "54017"
+    },
+    {
+      "id": "521346",
+      "name": "THEDACARE MEDICAL CENTER - SHAWANO INC",
+      "address": "100 COUNTY RD B",
+      "city": "SHAWANO",
+      "state": "WI",
+      "zipcode": "54166"
+    },
+    {
+      "id": "521347",
+      "name": "WESTERN WISCONSIN HEALTH",
+      "address": "1100 BERGSLIEN ST",
+      "city": "BALDWIN",
+      "state": "WI",
+      "zipcode": "54002"
+    },
+    {
+      "id": "521348",
+      "name": "VERNON MEMORIAL HOSPITAL",
+      "address": "507 SOUTH MAIN ST",
+      "city": "VIROQUA",
+      "state": "WI",
+      "zipcode": "54665"
+    },
+    {
+      "id": "521349",
+      "name": "RIVER FALLS AREA HOSPITAL",
+      "address": "1629 E DIVISION ST",
+      "city": "RIVER FALLS",
+      "state": "WI",
+      "zipcode": "54022"
+    },
+    {
+      "id": "521350",
+      "name": "ASPIRUS LANGLADE HOSPITAL",
+      "address": "112 E FIFTH AVE",
+      "city": "ANTIGO",
+      "state": "WI",
+      "zipcode": "54409"
+    },
+    {
+      "id": "521351",
+      "name": "REEDSBURG AREA MEDICAL CENTER",
+      "address": "2000 N DEWEY AVE",
+      "city": "REEDSBURG",
+      "state": "WI",
+      "zipcode": "53959"
+    },
+    {
+      "id": "521352",
+      "name": "UPLAND HILLS HEALTH",
+      "address": "800 COMPASSION WAY",
+      "city": "DODGEVILLE",
+      "state": "WI",
+      "zipcode": "53533"
+    },
+    {
+      "id": "521353",
+      "name": "CUMBERLAND MEMORIAL HOSPITAL",
+      "address": "1705 16TH AVE",
+      "city": "CUMBERLAND",
+      "state": "WI",
+      "zipcode": "54829"
+    },
+    {
+      "id": "521354",
+      "name": "SOUTHWEST HEALTH CENTER",
+      "address": "1400 EAST SIDE RD",
+      "city": "PLATTEVILLE",
+      "state": "WI",
+      "zipcode": "53818"
+    },
+    {
+      "id": "521355",
+      "name": "THEDACARE MEDICAL CENTER - BERLIN INC",
+      "address": "225 MEMORIAL DRIVE",
+      "city": "BERLIN",
+      "state": "WI",
+      "zipcode": "54923"
+    },
+    {
+      "id": "521356",
+      "name": "BELLIN HEALTH OCONTO HOSPITAL",
+      "address": "820 ARBUTUS AVE",
+      "city": "OCONTO",
+      "state": "WI",
+      "zipcode": "54153"
+    },
+    {
+      "id": "521357",
+      "name": "MERCY WALWORTH HOSPITAL & MEDICAL CENTER",
+      "address": "N2950 STATE ROAD 67",
+      "city": "LAKE GENEVA",
+      "state": "WI",
+      "zipcode": "53147"
+    },
+    {
+      "id": "521358",
+      "name": "DOOR COUNTY MEDICAL CENTER",
+      "address": "323 SOUTH 18TH AVENUE",
+      "city": "STURGEON BAY",
+      "state": "WI",
+      "zipcode": "54235"
+    },
+    {
+      "id": "521359",
+      "name": "TAMARACK HEALTH ASHLAND MEDICAL CENTER",
+      "address": "1615 MAPLE LANE",
+      "city": "ASHLAND",
+      "state": "WI",
+      "zipcode": "54806"
+    }
+  ]
+}

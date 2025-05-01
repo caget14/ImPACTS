@@ -1,0 +1,492 @@
+{
+  "hospitals": [
+    {
+      "id": "310001",
+      "name": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+      "address": "30 PROSPECT AVE",
+      "city": "HACKENSACK",
+      "state": "NJ",
+      "zipcode": "07601"
+    },
+    {
+      "id": "310002",
+      "name": "NEWARK BETH ISRAEL MEDICAL CENTER",
+      "address": "201 LYONS AVE",
+      "city": "NEWARK",
+      "state": "NJ",
+      "zipcode": "07112"
+    },
+    {
+      "id": "310003",
+      "name": "PALISADES MEDICAL CENTER",
+      "address": "7600 RIVER RD",
+      "city": "NORTH BERGEN",
+      "state": "NJ",
+      "zipcode": "07047"
+    },
+    {
+      "id": "310005",
+      "name": "HUNTERDON MEDICAL CENTER",
+      "address": "2100 WESCOTT DRIVE",
+      "city": "FLEMINGTON",
+      "state": "NJ",
+      "zipcode": "08822"
+    },
+    {
+      "id": "310006",
+      "name": "ST MARY'S GENERAL HOSPITAL",
+      "address": "350 BOULEVARD",
+      "city": "PASSAIC",
+      "state": "NJ",
+      "zipcode": "07055"
+    },
+    {
+      "id": "310008",
+      "name": "HOLY NAME MEDICAL CENTER",
+      "address": "718 TEANECK RD",
+      "city": "TEANECK",
+      "state": "NJ",
+      "zipcode": "07666"
+    },
+    {
+      "id": "310009",
+      "name": "CLARA MAASS MEDICAL CENTER",
+      "address": "ONE CLARA MAASS DRIVE",
+      "city": "BELLEVILLE",
+      "state": "NJ",
+      "zipcode": "07109"
+    },
+    {
+      "id": "310010",
+      "name": "PENN MEDICINE PRINCETON MEDICAL CENTER",
+      "address": "ONE-FIVE PLAINSBORO ROAD",
+      "city": "PLAINSBORO",
+      "state": "NJ",
+      "zipcode": "08536"
+    },
+    {
+      "id": "310011",
+      "name": "CAPE REGIONAL MEDICAL CENTER, INC",
+      "address": "TWO STONE HARBOR BLVD",
+      "city": "CAPE MAY COURT HOUSE",
+      "state": "NJ",
+      "zipcode": "08210"
+    },
+    {
+      "id": "310012",
+      "name": "VALLEY HOSPITAL",
+      "address": "4 VALLEY HEALTH PLAZA",
+      "city": "PARAMUS",
+      "state": "NJ",
+      "zipcode": "07652"
+    },
+    {
+      "id": "310014",
+      "name": "COOPER UNIVERSITY HOSPITAL",
+      "address": "1 COOPER PLAZA",
+      "city": "CAMDEN",
+      "state": "NJ",
+      "zipcode": "08103"
+    },
+    {
+      "id": "310015",
+      "name": "MORRISTOWN MEDICAL CENTER",
+      "address": "100 MADISON AVE",
+      "city": "MORRISTOWN",
+      "state": "NJ",
+      "zipcode": "07960"
+    },
+    {
+      "id": "310016",
+      "name": "CAREPOINT HEALTH-CHRIST HOSPITAL",
+      "address": "176 PALISADE AVE",
+      "city": "JERSEY CITY",
+      "state": "NJ",
+      "zipcode": "07306"
+    },
+    {
+      "id": "310017",
+      "name": "CHILTON MEDICAL CENTER",
+      "address": "97 WEST PARKWAY",
+      "city": "POMPTON PLAINS",
+      "state": "NJ",
+      "zipcode": "07444"
+    },
+    {
+      "id": "310019",
+      "name": "ST JOSEPH'S UNIVERSITY MEDICAL CENTER INC",
+      "address": "703 MAIN ST",
+      "city": "PATERSON",
+      "state": "NJ",
+      "zipcode": "07503"
+    },
+    {
+      "id": "310022",
+      "name": "WEST JERSEY HOSPITAL",
+      "address": "100 BOWMAN DRIVE",
+      "city": "VOORHEES",
+      "state": "NJ",
+      "zipcode": "08043"
+    },
+    {
+      "id": "310024",
+      "name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT RAHWAY",
+      "address": "865 STONE ST",
+      "city": "RAHWAY",
+      "state": "NJ",
+      "zipcode": "07065"
+    },
+    {
+      "id": "310025",
+      "name": "CAREPOINT HEALTH - BAYONNE MEDICAL CENTER",
+      "address": "29 EAST 29TH ST",
+      "city": "BAYONNE",
+      "state": "NJ",
+      "zipcode": "07002"
+    },
+    {
+      "id": "310027",
+      "name": "TRINITAS REGIONAL MEDICAL CENTER",
+      "address": "225 WILLIAMSON STREET",
+      "city": "ELIZABETH",
+      "state": "NJ",
+      "zipcode": "07207"
+    },
+    {
+      "id": "310028",
+      "name": "NEWTON MEDICAL CENTER",
+      "address": "175 HIGH ST",
+      "city": "NEWTON",
+      "state": "NJ",
+      "zipcode": "07860"
+    },
+    {
+      "id": "310029",
+      "name": "VIRTUA OUR LADY OF LOURDES HOSPITAL",
+      "address": "1600 HADDON AVENUE",
+      "city": "CAMDEN",
+      "state": "NJ",
+      "zipcode": "08103"
+    },
+    {
+      "id": "310031",
+      "name": "DEBORAH HEART AND LUNG CENTER",
+      "address": "200 TRENTON ROAD",
+      "city": "BROWNS MILLS",
+      "state": "NJ",
+      "zipcode": "08015"
+    },
+    {
+      "id": "310032",
+      "name": "INSPIRA MEDICAL CENTER VINELAND",
+      "address": "1505 W SHERMAN AVE",
+      "city": "VINELAND",
+      "state": "NJ",
+      "zipcode": "08360"
+    },
+    {
+      "id": "310034",
+      "name": "RIVERVIEW MEDICAL CENTER",
+      "address": "ONE RIVERVIEW PLAZA",
+      "city": "RED BANK",
+      "state": "NJ",
+      "zipcode": "07701"
+    },
+    {
+      "id": "310038",
+      "name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL",
+      "address": "ONE ROBERT WOOD JOHNSON PLACE",
+      "city": "NEW BRUNSWICK",
+      "state": "NJ",
+      "zipcode": "08901"
+    },
+    {
+      "id": "310039",
+      "name": "RARITAN BAY MEDICAL CENTER",
+      "address": "530 NEW BRUNSWICK AVE",
+      "city": "PERTH AMBOY",
+      "state": "NJ",
+      "zipcode": "08861"
+    },
+    {
+      "id": "310040",
+      "name": "CAREPOINT HEALTH-HOBOKEN UNIVERSITY MEDICAL CENTER",
+      "address": "308 WILLOW AVE",
+      "city": "HOBOKEN",
+      "state": "NJ",
+      "zipcode": "07030"
+    },
+    {
+      "id": "310041",
+      "name": "COMMUNITY MEDICAL CENTER",
+      "address": "99 RT 37 WEST",
+      "city": "TOMS RIVER",
+      "state": "NJ",
+      "zipcode": "08755"
+    },
+    {
+      "id": "310044",
+      "name": "CAPITAL HEALTH MEDICAL CENTER - HOPEWELL",
+      "address": "ONE CAPITAL WAY",
+      "city": "PENNINGTON",
+      "state": "NJ",
+      "zipcode": "08534"
+    },
+    {
+      "id": "310045",
+      "name": "ENGLEWOOD HOSPITAL",
+      "address": "350 ENGLE ST",
+      "city": "ENGLEWOOD",
+      "state": "NJ",
+      "zipcode": "07631"
+    },
+    {
+      "id": "310047",
+      "name": "SHORE MEDICAL CENTER",
+      "address": "100 MEDICAL CENTER WAY",
+      "city": "SOMERS POINT",
+      "state": "NJ",
+      "zipcode": "08244"
+    },
+    {
+      "id": "310048",
+      "name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET",
+      "address": "110 REHILL AVE",
+      "city": "SOMERVILLE",
+      "state": "NJ",
+      "zipcode": "08876"
+    },
+    {
+      "id": "310050",
+      "name": "SAINT CLARE'S HOSPITAL",
+      "address": "25 POCONO ROAD",
+      "city": "DENVILLE",
+      "state": "NJ",
+      "zipcode": "07834"
+    },
+    {
+      "id": "310051",
+      "name": "OVERLOOK MEDICAL CENTER",
+      "address": "99 BEAUVOIR AVENUE",
+      "city": "SUMMIT",
+      "state": "NJ",
+      "zipcode": "07901"
+    },
+    {
+      "id": "310052",
+      "name": "OCEAN UNIVERSITY MEDICAL CENTER",
+      "address": "425 JACK MARTIN BLVD",
+      "city": "BRICK",
+      "state": "NJ",
+      "zipcode": "08724"
+    },
+    {
+      "id": "310054",
+      "name": "HACKENSACK MERIDIAN MOUNTAINSIDE MEDICAL",
+      "address": "1 BAY AVENUE",
+      "city": "MONTCLAIR",
+      "state": "NJ",
+      "zipcode": "07042"
+    },
+    {
+      "id": "310057",
+      "name": "VIRTUA MOUNT HOLLY HOSPITAL",
+      "address": "175 MADISON AVE",
+      "city": "MOUNT HOLLY",
+      "state": "NJ",
+      "zipcode": "08060"
+    },
+    {
+      "id": "310058",
+      "name": "BERGEN NEW BRIDGE MEDICAL CENTER",
+      "address": "230 EAST RIDGEWOOD AVE",
+      "city": "PARAMUS",
+      "state": "NJ",
+      "zipcode": "07652"
+    },
+    {
+      "id": "310060",
+      "name": "ST LUKE'S WARREN HOSPITAL",
+      "address": "185 ROSEBERRY ST",
+      "city": "PHILLIPSBURG",
+      "state": "NJ",
+      "zipcode": "08865"
+    },
+    {
+      "id": "310061",
+      "name": "VIRTUA WILLINGBORO HOSPITAL",
+      "address": "218A SUNSET ROAD",
+      "city": "WILLINGBORO",
+      "state": "NJ",
+      "zipcode": "08046"
+    },
+    {
+      "id": "310064",
+      "name": "ATLANTICARE REGIONAL MEDICAL CENTER - CITY CAMPUS",
+      "address": "1925 PACIFIC AVENUE",
+      "city": "ATLANTIC CITY",
+      "state": "NJ",
+      "zipcode": "08401"
+    },
+    {
+      "id": "310069",
+      "name": "INSPIRA MEDICAL CENTER MULLICA HILL",
+      "address": "700 MULLICA HILL RD",
+      "city": "MULLICA HILL",
+      "state": "NJ",
+      "zipcode": "08062"
+    },
+    {
+      "id": "310070",
+      "name": "SAINT PETER'S UNIVERSITY HOSPITAL",
+      "address": "254 EASTON AVE",
+      "city": "NEW BRUNSWICK",
+      "state": "NJ",
+      "zipcode": "08901"
+    },
+    {
+      "id": "310073",
+      "name": "JERSEY SHORE UNIVERSITY MEDICAL CENTER",
+      "address": "1945 STATE ROUTE 33",
+      "city": "NEPTUNE",
+      "state": "NJ",
+      "zipcode": "07753"
+    },
+    {
+      "id": "310074",
+      "name": "JERSEY CITY MEDICAL CENTER",
+      "address": "355 GRAND STREET",
+      "city": "JERSEY CITY",
+      "state": "NJ",
+      "zipcode": "07302"
+    },
+    {
+      "id": "310075",
+      "name": "MONMOUTH MEDICAL CENTER",
+      "address": "300 SECOND AVENUE",
+      "city": "LONG BRANCH",
+      "state": "NJ",
+      "zipcode": "07740"
+    },
+    {
+      "id": "310076",
+      "name": "COOPERMAN BARNABAS MEDICAL CENTER",
+      "address": "94 OLD SHORT HILLS ROAD",
+      "city": "LIVINGSTON",
+      "state": "NJ",
+      "zipcode": "07039"
+    },
+    {
+      "id": "310083",
+      "name": "CAREWELL HEALTH MEDICAL CENTER",
+      "address": "300 CENTRAL AVE",
+      "city": "EAST ORANGE",
+      "state": "NJ",
+      "zipcode": "07018"
+    },
+    {
+      "id": "310084",
+      "name": "MONMOUTH MEDICAL CENTER-SOUTHERN CAMPUS",
+      "address": "600 RIVER AVE",
+      "city": "LAKEWOOD",
+      "state": "NJ",
+      "zipcode": "08701"
+    },
+    {
+      "id": "310086",
+      "name": "JEFFERSON STRATFORD HOSPITAL",
+      "address": "18 EAST LAUREL ROAD",
+      "city": "STRATFORD",
+      "state": "NJ",
+      "zipcode": "08084"
+    },
+    {
+      "id": "310092",
+      "name": "CAPITAL HEALTH REGIONAL MEDICAL CENTER",
+      "address": "750 BRUNSWICK AVE",
+      "city": "TRENTON",
+      "state": "NJ",
+      "zipcode": "08638"
+    },
+    {
+      "id": "310096",
+      "name": "SAINT MICHAEL'S MEDICAL CENTER",
+      "address": "111 CENTRAL AVENUE",
+      "city": "NEWARK",
+      "state": "NJ",
+      "zipcode": "07102"
+    },
+    {
+      "id": "310108",
+      "name": "JFK UNIVERSITY MEDICAL CENTER",
+      "address": "65 JAMES STREET",
+      "city": "EDISON",
+      "state": "NJ",
+      "zipcode": "08820"
+    },
+    {
+      "id": "310110",
+      "name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL HAMILTON",
+      "address": "ONE HAMILTON HEALTH PLACE",
+      "city": "HAMILTON",
+      "state": "NJ",
+      "zipcode": "08690"
+    },
+    {
+      "id": "310111",
+      "name": "CENTRASTATE MEDICAL CENTER",
+      "address": "901 WEST MAIN STREET",
+      "city": "FREEHOLD",
+      "state": "NJ",
+      "zipcode": "07728"
+    },
+    {
+      "id": "310112",
+      "name": "BAYSHORE MEDICAL CENTER",
+      "address": "727 N BEERS ST",
+      "city": "HOLMDEL",
+      "state": "NJ",
+      "zipcode": "07733"
+    },
+    {
+      "id": "310113",
+      "name": "SOUTHERN OCEAN MEDICAL CENTER",
+      "address": "1140 RT 72 W",
+      "city": "MANAHAWKIN",
+      "state": "NJ",
+      "zipcode": "08050"
+    },
+    {
+      "id": "310115",
+      "name": "HACKETTSTOWN MEDICAL CENTER",
+      "address": "651 WILLOW GROVE ST",
+      "city": "HACKETTSTOWN",
+      "state": "NJ",
+      "zipcode": "07840"
+    },
+    {
+      "id": "310118",
+      "name": "HUDSON REGIONAL HOSPITAL",
+      "address": "55 MEADOWLANDS PKWY",
+      "city": "SECAUCUS",
+      "state": "NJ",
+      "zipcode": "07094"
+    },
+    {
+      "id": "310119",
+      "name": "UNIVERSITY HOSPITAL",
+      "address": "150 BERGEN ST",
+      "city": "NEWARK",
+      "state": "NJ",
+      "zipcode": "07103"
+    },
+    {
+      "id": "310130",
+      "name": "HACKENSACK MERIDIAN HEALTH PASCACK VALLEY MEDICAL",
+      "address": "250 OLD HOOK ROAD",
+      "city": "WESTWOOD",
+      "state": "NJ",
+      "zipcode": "07675"
+    }
+  ]
+}

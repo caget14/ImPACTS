@@ -1,0 +1,372 @@
+{
+  "hospitals": [
+    {
+      "id": "460001",
+      "name": "INTERMOUNTAIN HEALTH UTAH VALLEY HOSPITAL",
+      "address": "1034 NORTH 500 WEST",
+      "city": "PROVO",
+      "state": "UT",
+      "zipcode": "84604"
+    },
+    {
+      "id": "460003",
+      "name": "HOLY CROSS HOSPITAL - SALT LAKE",
+      "address": "1050 EAST SOUTH TEMPLE",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "zipcode": "84102"
+    },
+    {
+      "id": "460004",
+      "name": "MCKAY-DEE HOSPITAL",
+      "address": "4401 HARRISON BOULEVARD",
+      "city": "OGDEN",
+      "state": "UT",
+      "zipcode": "84403"
+    },
+    {
+      "id": "460005",
+      "name": "OGDEN REGIONAL MEDICAL CENTER",
+      "address": "5475 SOUTH 500 EAST",
+      "city": "OGDEN",
+      "state": "UT",
+      "zipcode": "84405"
+    },
+    {
+      "id": "460006",
+      "name": "LDS HOSPITAL",
+      "address": "8TH AVENUE AND C STREET",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "zipcode": "84143"
+    },
+    {
+      "id": "460007",
+      "name": "CEDAR CITY HOSPITAL",
+      "address": "1303 NORTH MAIN STREET",
+      "city": "CEDAR CITY",
+      "state": "UT",
+      "zipcode": "84721"
+    },
+    {
+      "id": "460009",
+      "name": "UNIVERSITY OF UTAH HOSPITAL AND CLINICS",
+      "address": "50 NORTH MEDICAL DRIVE",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "zipcode": "84132"
+    },
+    {
+      "id": "460010",
+      "name": "INTERMOUNTAIN MEDICAL CENTER",
+      "address": "5121 SOUTH COTTONWOOD STREET",
+      "city": "MURRAY",
+      "state": "UT",
+      "zipcode": "84107"
+    },
+    {
+      "id": "460011",
+      "name": "CASTLEVIEW HOSPITAL",
+      "address": "300 NORTH HOSPITAL DRIVE",
+      "city": "PRICE",
+      "state": "UT",
+      "zipcode": "84501"
+    },
+    {
+      "id": "460013",
+      "name": "MOUNTAIN VIEW HOSPITAL",
+      "address": "1000 EAST 100 NORTH",
+      "city": "PAYSON",
+      "state": "UT",
+      "zipcode": "84651"
+    },
+    {
+      "id": "460014",
+      "name": "MOUNTAIN WEST MEDICAL CENTER",
+      "address": "2055 NORTH MAIN STREET",
+      "city": "TOOELE",
+      "state": "UT",
+      "zipcode": "84074"
+    },
+    {
+      "id": "460015",
+      "name": "LOGAN REGIONAL HOSPITAL",
+      "address": "1400 NORTH 500 EAST",
+      "city": "LOGAN",
+      "state": "UT",
+      "zipcode": "84341"
+    },
+    {
+      "id": "460017",
+      "name": "BRIGHAM CITY COMMUNITY HOSPITAL",
+      "address": "950 SOUTH MEDICAL DRIVE",
+      "city": "BRIGHAM CITY",
+      "state": "UT",
+      "zipcode": "84302"
+    },
+    {
+      "id": "460019",
+      "name": "UINTAH BASIN MEDICAL CENTER",
+      "address": "250 WEST 300 NORTH",
+      "city": "ROOSEVELT",
+      "state": "UT",
+      "zipcode": "84066"
+    },
+    {
+      "id": "460021",
+      "name": "ST GEORGE REGIONAL HOSPITAL",
+      "address": "1380 EAST MEDICAL CENTER DRIVE",
+      "city": "ST GEORGE",
+      "state": "UT",
+      "zipcode": "84790"
+    },
+    {
+      "id": "460023",
+      "name": "AMERICAN FORK HOSPITAL",
+      "address": "170 NORTH 1100 EAST",
+      "city": "AMERICAN FORK",
+      "state": "UT",
+      "zipcode": "84003"
+    },
+    {
+      "id": "460026",
+      "name": "SEVIER VALLEY HOSPITAL",
+      "address": "1000 NORTH MAIN STREET",
+      "city": "RICHFIELD",
+      "state": "UT",
+      "zipcode": "84701"
+    },
+    {
+      "id": "460030",
+      "name": "ASHLEY REGIONAL MEDICAL CENTER",
+      "address": "150 WEST 100 NORTH",
+      "city": "VERNAL",
+      "state": "UT",
+      "zipcode": "84078"
+    },
+    {
+      "id": "460039",
+      "name": "BEAR RIVER VALLEY HOSPITAL",
+      "address": "905 NORTH 1000 WEST",
+      "city": "TREMONTON",
+      "state": "UT",
+      "zipcode": "84337"
+    },
+    {
+      "id": "460041",
+      "name": "HOLY CROSS HOSPITAL-DAVIS",
+      "address": "1600 WEST ANTELOPE DRIVE",
+      "city": "LAYTON",
+      "state": "UT",
+      "zipcode": "84041"
+    },
+    {
+      "id": "460042",
+      "name": "LAKEVIEW HOSPITAL",
+      "address": "630 EAST MEDICAL DRIVE",
+      "city": "BOUNTIFUL",
+      "state": "UT",
+      "zipcode": "84010"
+    },
+    {
+      "id": "460043",
+      "name": "OREM COMMUNITY HOSPITAL",
+      "address": "331 NORTH 400 WEST",
+      "city": "OREM",
+      "state": "UT",
+      "zipcode": "84057"
+    },
+    {
+      "id": "460044",
+      "name": "INTERMOUNTAIN HEALTH ALTA VIEW HOSPITAL",
+      "address": "9660 SOUTH 1300 EAST",
+      "city": "SANDY",
+      "state": "UT",
+      "zipcode": "84094"
+    },
+    {
+      "id": "460047",
+      "name": "ST MARK'S HOSPITAL",
+      "address": "1200 EAST 3900 SOUTH",
+      "city": "SALT LAKE CITY",
+      "state": "UT",
+      "zipcode": "84124"
+    },
+    {
+      "id": "460049",
+      "name": "THE ORTHOPEDIC SPECIALTY HOSPITAL",
+      "address": "5848 SOUTH 300 EAST",
+      "city": "MURRAY",
+      "state": "UT",
+      "zipcode": "84107"
+    },
+    {
+      "id": "460051",
+      "name": "HOLY CROSS HOSPITAL-JORDAN VALLEY",
+      "address": "3580 WEST 9000 SOUTH",
+      "city": "WEST JORDAN",
+      "state": "UT",
+      "zipcode": "84088"
+    },
+    {
+      "id": "460052",
+      "name": "TIMPANOGOS REGIONAL HOSPITAL",
+      "address": "750 WEST 800 NORTH",
+      "city": "OREM",
+      "state": "UT",
+      "zipcode": "84057"
+    },
+    {
+      "id": "460054",
+      "name": "CACHE VALLEY  HOSPITAL",
+      "address": "2380 NORTH 400 EAST",
+      "city": "NORTH LOGAN",
+      "state": "UT",
+      "zipcode": "84341"
+    },
+    {
+      "id": "460057",
+      "name": "PARK CITY HOSPITAL",
+      "address": "900 ROUND VALLEY DRIVE",
+      "city": "PARK CITY",
+      "state": "UT",
+      "zipcode": "84060"
+    },
+    {
+      "id": "460058",
+      "name": "RIVERTON HOSPITAL",
+      "address": "3741 WEST 12600 SOUTH",
+      "city": "RIVERTON",
+      "state": "UT",
+      "zipcode": "84065"
+    },
+    {
+      "id": "460060",
+      "name": "LONE PEAK HOSPITAL",
+      "address": "11925 SOUTH STATE STREET",
+      "city": "DRAPER",
+      "state": "UT",
+      "zipcode": "84020"
+    },
+    {
+      "id": "460061",
+      "name": "INTERMOUNTAIN HEALTH LAYTON HOSPITAL",
+      "address": "201 WEST LAYTON PARKWAY",
+      "city": "LAYTON",
+      "state": "UT",
+      "zipcode": "84041"
+    },
+    {
+      "id": "460062",
+      "name": "INTERMOUNTAIN HEALTH SPANISH FORK HOSPITAL",
+      "address": "765 EAST MARKET PLACE DRIVE",
+      "city": "SPANISH FORK",
+      "state": "UT",
+      "zipcode": "84660"
+    },
+    {
+      "id": "461300",
+      "name": "INTERMOUNTAIN HEALTH DELTA COMMUNITY HOSPITAL",
+      "address": "126 SOUTH WHITE SAGE AVENUE",
+      "city": "DELTA",
+      "state": "UT",
+      "zipcode": "84624"
+    },
+    {
+      "id": "461301",
+      "name": "FILLMORE COMMUNITY HOSPITAL",
+      "address": "674 SOUTH HIGHWAY 99",
+      "city": "FILLMORE",
+      "state": "UT",
+      "zipcode": "84631"
+    },
+    {
+      "id": "461302",
+      "name": "MOAB REGIONAL HOSPITAL",
+      "address": "450 WEST WILLIAMS WAY",
+      "city": "MOAB",
+      "state": "UT",
+      "zipcode": "84532"
+    },
+    {
+      "id": "461303",
+      "name": "INTERMOUNTAIN HEALTH SANPETE VALLEY HOSPITAL",
+      "address": "1100 SOUTH MEDICAL DRIVE",
+      "city": "MOUNT PLEASANT",
+      "state": "UT",
+      "zipcode": "84647"
+    },
+    {
+      "id": "461304",
+      "name": "CENTRAL VALLEY MEDICAL CENTER - CAH",
+      "address": "48 WEST 1500 NORTH",
+      "city": "NEPHI",
+      "state": "UT",
+      "zipcode": "84648"
+    },
+    {
+      "id": "461305",
+      "name": "MILFORD MEMORIAL HOSPITAL",
+      "address": "850 NORTH MAIN STREET",
+      "city": "MILFORD",
+      "state": "UT",
+      "zipcode": "84751"
+    },
+    {
+      "id": "461306",
+      "name": "GUNNISON VALLEY HOSPITAL",
+      "address": "64 EAST 100 NORTH",
+      "city": "GUNNISON",
+      "state": "UT",
+      "zipcode": "84634"
+    },
+    {
+      "id": "461307",
+      "name": "HEBER VALLEY HOSPITAL",
+      "address": "454 EAST MEDICAL WAY",
+      "city": "HEBER CITY",
+      "state": "UT",
+      "zipcode": "84032"
+    },
+    {
+      "id": "461308",
+      "name": "SAN JUAN HOSPITAL",
+      "address": "380 WEST 100 NORTH",
+      "city": "MONTICELLO",
+      "state": "UT",
+      "zipcode": "84535"
+    },
+    {
+      "id": "461309",
+      "name": "KANE COUNTY HOSPITAL",
+      "address": "355 NORTH MAIN STREET",
+      "city": "KANAB",
+      "state": "UT",
+      "zipcode": "84741"
+    },
+    {
+      "id": "461310",
+      "name": "BLUE MOUNTAIN HOSPITAL",
+      "address": "802 SOUTH 200 WEST",
+      "city": "BLANDING",
+      "state": "UT",
+      "zipcode": "84511"
+    },
+    {
+      "id": "461333",
+      "name": "GARFIELD MEMORIAL HOSPITAL",
+      "address": "200 NORTH 400 EAST",
+      "city": "PANGUITCH",
+      "state": "UT",
+      "zipcode": "84759"
+    },
+    {
+      "id": "461335",
+      "name": "BEAVER VALLEY HOSPITAL",
+      "address": "1109 NORTH 100 WEST",
+      "city": "BEAVER",
+      "state": "UT",
+      "zipcode": "84713"
+    }
+  ]
+}

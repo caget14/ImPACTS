@@ -1,0 +1,476 @@
+{
+  "hospitals": [
+    {
+      "id": "220001",
+      "name": "HEALTH ALLIANCE - CLINTON HOSPITAL",
+      "address": "60 HOSPITAL ROAD",
+      "city": "LEOMINSTER",
+      "state": "MA",
+      "zipcode": "01453"
+    },
+    {
+      "id": "220002",
+      "name": "MOUNT AUBURN HOSPITAL",
+      "address": "330 MOUNT AUBURN STREET",
+      "city": "CAMBRIDGE",
+      "state": "MA",
+      "zipcode": "02138"
+    },
+    {
+      "id": "220008",
+      "name": "STURDY MEMORIAL HOSPITAL",
+      "address": "211 PARK STREET",
+      "city": "ATTLEBORO",
+      "state": "MA",
+      "zipcode": "02703"
+    },
+    {
+      "id": "220010",
+      "name": "LAWRENCE GENERAL HOSPITAL",
+      "address": "ONE GENERAL STREET",
+      "city": "LAWRENCE",
+      "state": "MA",
+      "zipcode": "01842"
+    },
+    {
+      "id": "220011",
+      "name": "CAMBRIDGE HEALTH ALLIANCE",
+      "address": "1493 CAMBRIDGE STREET",
+      "city": "CAMBRIDGE",
+      "state": "MA",
+      "zipcode": "02138"
+    },
+    {
+      "id": "220012",
+      "name": "CAPE COD HOSPITAL",
+      "address": "27 PARK STREET",
+      "city": "HYANNIS",
+      "state": "MA",
+      "zipcode": "02601"
+    },
+    {
+      "id": "220015",
+      "name": "COOLEY DICKINSON HOSPITAL INC,THE",
+      "address": "30 LOCUST STREET",
+      "city": "NORTHAMPTON",
+      "state": "MA",
+      "zipcode": "01060"
+    },
+    {
+      "id": "220016",
+      "name": "BAYSTATE FRANKLIN MEDICAL CENTER",
+      "address": "164 HIGH STREET",
+      "city": "GREENFIELD",
+      "state": "MA",
+      "zipcode": "01301"
+    },
+    {
+      "id": "220017",
+      "name": "CARNEY HOSPITAL",
+      "address": "2100 DORCHESTER AVENUE",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02124"
+    },
+    {
+      "id": "220019",
+      "name": "UMASS MEMORIAL HEALH - HARRINGTON HOSPITAL",
+      "address": "100 SOUTH STREET",
+      "city": "SOUTHBRIDGE",
+      "state": "MA",
+      "zipcode": "01550"
+    },
+    {
+      "id": "220020",
+      "name": "SAINT ANNE'S HOSPITAL",
+      "address": "795 MIDDLE STREET",
+      "city": "FALL RIVER",
+      "state": "MA",
+      "zipcode": "02721"
+    },
+    {
+      "id": "220024",
+      "name": "HOLYOKE MEDICAL CENTER",
+      "address": "575 BEECH STREET",
+      "city": "HOLYOKE",
+      "state": "MA",
+      "zipcode": "01040"
+    },
+    {
+      "id": "220029",
+      "name": "ANNA JAQUES HOSPITAL",
+      "address": "25 HIGHLAND AVENUE",
+      "city": "NEWBURYPORT",
+      "state": "MA",
+      "zipcode": "01950"
+    },
+    {
+      "id": "220030",
+      "name": "BAYSTATE WING HOSPITAL AND MEDICAL CENTERS",
+      "address": "40 WRIGHT STREET",
+      "city": "PALMER",
+      "state": "MA",
+      "zipcode": "01069"
+    },
+    {
+      "id": "220031",
+      "name": "BOSTON MEDICAL CENTER CORPORATION-",
+      "address": "1 BOSTON MEDICAL CENTER PLACE",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02118"
+    },
+    {
+      "id": "220033",
+      "name": "BEVERLY HOSPITAL CORPORATION",
+      "address": "85 HERRICK STREET",
+      "city": "BEVERLY",
+      "state": "MA",
+      "zipcode": "01915"
+    },
+    {
+      "id": "220035",
+      "name": "NORTH SHORE MEDICAL CENTER -",
+      "address": "81 HIGHLAND AVENUE",
+      "city": "SALEM",
+      "state": "MA",
+      "zipcode": "01970"
+    },
+    {
+      "id": "220036",
+      "name": "ST ELIZABETH'S MEDICAL CENTER",
+      "address": "736 CAMBRIDGE STREET",
+      "city": "BRIGHTON",
+      "state": "MA",
+      "zipcode": "02135"
+    },
+    {
+      "id": "220046",
+      "name": "BERKSHIRE MEDICAL CENTER INC - 1",
+      "address": "725 NORTH STREET",
+      "city": "PITTSFIELD",
+      "state": "MA",
+      "zipcode": "01201"
+    },
+    {
+      "id": "220049",
+      "name": "MARLBOROUGH HOSPITAL",
+      "address": "157 UNION STREET",
+      "city": "MARLBOROUGH",
+      "state": "MA",
+      "zipcode": "01752"
+    },
+    {
+      "id": "220052",
+      "name": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL",
+      "address": "680 CENTER STREET",
+      "city": "BROCKTON",
+      "state": "MA",
+      "zipcode": "02302"
+    },
+    {
+      "id": "220060",
+      "name": "BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH",
+      "address": "275 SANDWICH STREET",
+      "city": "PLYMOUTH",
+      "state": "MA",
+      "zipcode": "02360"
+    },
+    {
+      "id": "220062",
+      "name": "ADCARE HOSPITAL OF WORCESTER INC",
+      "address": "107 LINCOLN STREET",
+      "city": "WORCESTER",
+      "state": "MA",
+      "zipcode": "01605"
+    },
+    {
+      "id": "220063",
+      "name": "LOWELL GENERAL HOSPITAL",
+      "address": "295 VARNUM AVENUE",
+      "city": "LOWELL",
+      "state": "MA",
+      "zipcode": "01854"
+    },
+    {
+      "id": "220065",
+      "name": "BAYSTATE NOBLE HOSPITAL",
+      "address": "115 WEST SILVER STREET",
+      "city": "WESTFIELD",
+      "state": "MA",
+      "zipcode": "01085"
+    },
+    {
+      "id": "220066",
+      "name": "MERCY MEDICAL CTR",
+      "address": "271 CAREW STREET",
+      "city": "SPRINGFIELD",
+      "state": "MA",
+      "zipcode": "01104"
+    },
+    {
+      "id": "220070",
+      "name": "MELROSEWAKEFIELD HEALTHCARE",
+      "address": "585 LEBANON STREET",
+      "city": "MELROSE",
+      "state": "MA",
+      "zipcode": "02176"
+    },
+    {
+      "id": "220071",
+      "name": "MASSACHUSETTS GENERAL HOSPITAL",
+      "address": "55 FRUIT STREET",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02114"
+    },
+    {
+      "id": "220073",
+      "name": "MORTON HOSPITAL",
+      "address": "88 WASHINGTON STREET",
+      "city": "TAUNTON",
+      "state": "MA",
+      "zipcode": "02780"
+    },
+    {
+      "id": "220074",
+      "name": "SOUTHCOAST HOSPITAL GROUP, INC",
+      "address": "363 HIGHLAND AVENUE",
+      "city": "FALL RIVER",
+      "state": "MA",
+      "zipcode": "02720"
+    },
+    {
+      "id": "220075",
+      "name": "MASSACHUSETTS EYE AND EAR INFIRMARY -",
+      "address": "243 CHARLES STREET",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02114"
+    },
+    {
+      "id": "220077",
+      "name": "BAYSTATE MEDICAL CENTER",
+      "address": "759 CHESTNUT STREET",
+      "city": "SPRINGFIELD",
+      "state": "MA",
+      "zipcode": "01199"
+    },
+    {
+      "id": "220080",
+      "name": "HOLY FAMILY HOSPITAL",
+      "address": "70 EAST STREET",
+      "city": "METHUEN",
+      "state": "MA",
+      "zipcode": "01844"
+    },
+    {
+      "id": "220083",
+      "name": "BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM",
+      "address": "148 CHESTNUT STREET",
+      "city": "NEEDHAM",
+      "state": "MA",
+      "zipcode": "02494"
+    },
+    {
+      "id": "220084",
+      "name": "EMERSON HOSPITAL -",
+      "address": "133 OLD ROAD TO 9 ACRE CORNER",
+      "city": "W CONCORD",
+      "state": "MA",
+      "zipcode": "01742"
+    },
+    {
+      "id": "220086",
+      "name": "BETH ISRAEL DEACONESS MEDICAL CENTER",
+      "address": "330 BROOKLINE AVENUE",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02215"
+    },
+    {
+      "id": "220088",
+      "name": "NEW ENGLAND BAPTIST HOSPITAL",
+      "address": "125 PARKER HILL AVENUE",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02120"
+    },
+    {
+      "id": "220090",
+      "name": "MILFORD REGIONAL MEDICAL CENTER",
+      "address": "14 PROSPECT STREET",
+      "city": "MILFORD",
+      "state": "MA",
+      "zipcode": "01757"
+    },
+    {
+      "id": "220095",
+      "name": "HEYWOOD HOSPITAL -",
+      "address": "242 GREEN STREET",
+      "city": "GARDNER",
+      "state": "MA",
+      "zipcode": "01440"
+    },
+    {
+      "id": "220098",
+      "name": "NASHOBA VALLEY MEDICAL CENTER",
+      "address": "200 GROTON ROAD",
+      "city": "AYER",
+      "state": "MA",
+      "zipcode": "01432"
+    },
+    {
+      "id": "220100",
+      "name": "SOUTH SHORE HOSPITAL",
+      "address": "55 FOGG ROAD",
+      "city": "SOUTH WEYMOUTH",
+      "state": "MA",
+      "zipcode": "02190"
+    },
+    {
+      "id": "220101",
+      "name": "NEWTON-WELLESLEY HOSPITAL",
+      "address": "2014 WASHINGTON STREET",
+      "city": "NEWTON",
+      "state": "MA",
+      "zipcode": "02462"
+    },
+    {
+      "id": "220105",
+      "name": "WINCHESTER HOSPITAL",
+      "address": "41 HIGHLAND AVENUE",
+      "city": "WINCHESTER",
+      "state": "MA",
+      "zipcode": "01890"
+    },
+    {
+      "id": "220108",
+      "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+      "address": "199 REEDSDALE ROAD",
+      "city": "MILTON",
+      "state": "MA",
+      "zipcode": "02186"
+    },
+    {
+      "id": "220110",
+      "name": "BRIGHAM AND WOMEN'S HOSPITAL",
+      "address": "75 FRANCIS STREET",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02115"
+    },
+    {
+      "id": "220111",
+      "name": "GOOD SAMARITAN MEDICAL CENTER",
+      "address": "235 NORTH PEARL STREET",
+      "city": "BROCKTON",
+      "state": "MA",
+      "zipcode": "02301"
+    },
+    {
+      "id": "220116",
+      "name": "TUFTS MEDICAL CENTER",
+      "address": "800 WASHINGTON STREET",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02111"
+    },
+    {
+      "id": "220119",
+      "name": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL",
+      "address": "1153 CENTRE STREET",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02130"
+    },
+    {
+      "id": "220126",
+      "name": "NORWOOD HOSPITAL",
+      "address": "800 WASHINGTON STREET",
+      "city": "NORWOOD",
+      "state": "MA",
+      "zipcode": "02062"
+    },
+    {
+      "id": "220135",
+      "name": "FALMOUTH HOSPITAL",
+      "address": "67 & 100 TER HEUN DRIVE",
+      "city": "FALMOUTH",
+      "state": "MA",
+      "zipcode": "02540"
+    },
+    {
+      "id": "220162",
+      "name": "DANA-FARBER CANCER INSTITUTE",
+      "address": "450 BROOKLINE AVENUE",
+      "city": "BOSTON",
+      "state": "MA",
+      "zipcode": "02115"
+    },
+    {
+      "id": "220163",
+      "name": "UMASS MEMORIAL MEDICAL CENTER INC",
+      "address": "55 LAKE AVENUE NORTH",
+      "city": "WORCESTER",
+      "state": "MA",
+      "zipcode": "01655"
+    },
+    {
+      "id": "220171",
+      "name": "LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",
+      "address": "41 & 45 MALL ROAD",
+      "city": "BURLINGTON",
+      "state": "MA",
+      "zipcode": "01803"
+    },
+    {
+      "id": "220175",
+      "name": "METROWEST MEDICAL CENTER",
+      "address": "115 LINCOLN STREET",
+      "city": "FRAMINGHAM",
+      "state": "MA",
+      "zipcode": "01701"
+    },
+    {
+      "id": "220176",
+      "name": "ST VINCENT HOSPITAL",
+      "address": "123 SUMMER STREET",
+      "city": "WORCESTER",
+      "state": "MA",
+      "zipcode": "01608"
+    },
+    {
+      "id": "220177",
+      "name": "NANTUCKET COTTAGE HOSPITAL",
+      "address": "57 PROSPECT STREET",
+      "city": "NANTUCKET",
+      "state": "MA",
+      "zipcode": "02554"
+    },
+    {
+      "id": "221300",
+      "name": "MARTHA'S VINEYARD HOSPITAL INC",
+      "address": "ONE HOSPITAL ROAD, FIRST FL, WING 5,  PO BOX 1477",
+      "city": "OAK BLUFFS",
+      "state": "MA",
+      "zipcode": "02557"
+    },
+    {
+      "id": "221302",
+      "name": "FAIRVIEW HOSPITAL",
+      "address": "29 LEWIS AVENUE",
+      "city": "GREAT BARRINGTON",
+      "state": "MA",
+      "zipcode": "01230"
+    },
+    {
+      "id": "221303",
+      "name": "ATHOL MEMORIAL HOSPITAL",
+      "address": "2033 MAIN STREET",
+      "city": "ATHOL",
+      "state": "MA",
+      "zipcode": "01331"
+    }
+  ]
+}

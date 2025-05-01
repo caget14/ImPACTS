@@ -1,0 +1,1364 @@
+{
+  "hospitals": [
+    {
+      "id": "140001",
+      "name": "GRAHAM HOSPITAL ASSOCIATION",
+      "address": "210 WEST WALNUT STREET",
+      "city": "CANTON",
+      "state": "IL",
+      "zipcode": "61520"
+    },
+    {
+      "id": "140002",
+      "name": "ALTON MEMORIAL HOSPITAL",
+      "address": "ONE MEMORIAL DRIVE",
+      "city": "ALTON",
+      "state": "IL",
+      "zipcode": "62002"
+    },
+    {
+      "id": "140007",
+      "name": "PRESENCE SAINT JOSEPH MEDICAL CENTER",
+      "address": "333 N MADISON ST",
+      "city": "JOLIET",
+      "state": "IL",
+      "zipcode": "60435"
+    },
+    {
+      "id": "140008",
+      "name": "LOYOLA GOTTLIEB MEMORIAL HOSPITAL",
+      "address": "701 WEST NORTH AVE",
+      "city": "MELROSE PARK",
+      "state": "IL",
+      "zipcode": "60160"
+    },
+    {
+      "id": "140010",
+      "name": "NORTHSHORE UNIVERSITY HEALTHSYSTEM EVANSTON HOSP",
+      "address": "2650 RIDGE AVE",
+      "city": "EVANSTON",
+      "state": "IL",
+      "zipcode": "60201"
+    },
+    {
+      "id": "140011",
+      "name": "HERRIN HOSPITAL",
+      "address": "201 S 14TH ST",
+      "city": "HERRIN",
+      "state": "IL",
+      "zipcode": "62948"
+    },
+    {
+      "id": "140012",
+      "name": "KATHERINE SHAW BETHEA HOSPITAL",
+      "address": "403 E 1ST ST",
+      "city": "DIXON",
+      "state": "IL",
+      "zipcode": "61021"
+    },
+    {
+      "id": "140013",
+      "name": "CARLE HEALTH PROCTOR HOSPITAL",
+      "address": "5409 N KNOXVILLE AVE",
+      "city": "PEORIA",
+      "state": "IL",
+      "zipcode": "61614"
+    },
+    {
+      "id": "140015",
+      "name": "BLESSING HOSPITAL",
+      "address": "1005 BROADWAY ST",
+      "city": "QUINCY",
+      "state": "IL",
+      "zipcode": "62301"
+    },
+    {
+      "id": "140018",
+      "name": "MT SINAI HOSPITAL MEDICAL CENTER",
+      "address": "1500 S FAIRFIELD AVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60608"
+    },
+    {
+      "id": "140029",
+      "name": "RUSH COPLEY MEDICAL CENTER",
+      "address": "2000 OGDEN AVENUE",
+      "city": "AURORA",
+      "state": "IL",
+      "zipcode": "60504"
+    },
+    {
+      "id": "140030",
+      "name": "ADVOCATE SHERMAN HOSPITAL",
+      "address": "1425 NORTH RANDALL ROAD",
+      "city": "ELGIN",
+      "state": "IL",
+      "zipcode": "60123"
+    },
+    {
+      "id": "140032",
+      "name": "ST ANTHONYS MEMORIAL HOSPITAL",
+      "address": "503 N MAPLE STREET",
+      "city": "EFFINGHAM",
+      "state": "IL",
+      "zipcode": "62401"
+    },
+    {
+      "id": "140034",
+      "name": "SSM HEALTH ST MARY'S HOSPITAL -CENTRALIA",
+      "address": "400 NORTH PLEASANT AVENUE",
+      "city": "CENTRALIA",
+      "state": "IL",
+      "zipcode": "62801"
+    },
+    {
+      "id": "140043",
+      "name": "CGH MEDICAL CENTER",
+      "address": "100 EAST LEFEVRE ROAD",
+      "city": "STERLING",
+      "state": "IL",
+      "zipcode": "61081"
+    },
+    {
+      "id": "140046",
+      "name": "GOOD SAMARITAN REGIONAL HLTH CENTER",
+      "address": "1 GOOD SAMARITAN WAY",
+      "city": "MOUNT VERNON",
+      "state": "IL",
+      "zipcode": "62864"
+    },
+    {
+      "id": "140048",
+      "name": "ADVOCATE TRINITY HOSPITAL",
+      "address": "2320 E 93RD ST",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60617"
+    },
+    {
+      "id": "140049",
+      "name": "WEST SUBURBAN MEDICAL CENTER",
+      "address": "3 ERIE COURT",
+      "city": "OAK PARK",
+      "state": "IL",
+      "zipcode": "60302"
+    },
+    {
+      "id": "140052",
+      "name": "OSF SAINT ANTHONY'S HEALTH CENTER",
+      "address": "ST ANTHONY'S WAY",
+      "city": "ALTON",
+      "state": "IL",
+      "zipcode": "62002"
+    },
+    {
+      "id": "140053",
+      "name": "ST JOHNS HOSPITAL",
+      "address": "800 E CARPENTER ST",
+      "city": "SPRINGFIELD",
+      "state": "IL",
+      "zipcode": "62769"
+    },
+    {
+      "id": "140054",
+      "name": "MACNEAL  HOSPITAL",
+      "address": "3249 SOUTH OAK PARK AVENUE",
+      "city": "BERWYN",
+      "state": "IL",
+      "zipcode": "60402"
+    },
+    {
+      "id": "140059",
+      "name": "JERSEY COMMUNITY HOSPITAL",
+      "address": "400 MAPLE SUMMIT ROAD",
+      "city": "JERSEYVILLE",
+      "state": "IL",
+      "zipcode": "62052"
+    },
+    {
+      "id": "140062",
+      "name": "PALOS COMMUNITY HOSPITAL",
+      "address": "12251 SOUTH 80TH AVENUE",
+      "city": "PALOS HEIGHTS",
+      "state": "IL",
+      "zipcode": "60463"
+    },
+    {
+      "id": "140063",
+      "name": "RUSH OAK PARK HOSPITAL",
+      "address": "520 S MAPLE AVE",
+      "city": "OAK PARK",
+      "state": "IL",
+      "zipcode": "60304"
+    },
+    {
+      "id": "140064",
+      "name": "ST MARY MEDICAL CENTER",
+      "address": "3333 NORTH SEMINARY",
+      "city": "GALESBURG",
+      "state": "IL",
+      "zipcode": "61401"
+    },
+    {
+      "id": "140065",
+      "name": "UCHICAGO MEDICINE ADVENTHEALTH LA GRANGE",
+      "address": "5101 S WILLOW SPRINGS RD",
+      "city": "LA GRANGE",
+      "state": "IL",
+      "zipcode": "60525"
+    },
+    {
+      "id": "140067",
+      "name": "SAINT FRANCIS MEDICAL CENTER",
+      "address": "530 NE GLEN OAK AVE",
+      "city": "PEORIA",
+      "state": "IL",
+      "zipcode": "61637"
+    },
+    {
+      "id": "140068",
+      "name": "ROSELAND COMMUNITY HOSPITAL",
+      "address": "45 W 111TH STREET",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60628"
+    },
+    {
+      "id": "140077",
+      "name": "TOUCHETTE REGIONAL HOSPITAL INC",
+      "address": "5900 BOND AVENUE",
+      "city": "CENTREVILLE",
+      "state": "IL",
+      "zipcode": "62207"
+    },
+    {
+      "id": "140080",
+      "name": "PRESENCE SAINT FRANCIS HOSPITAL",
+      "address": "355 RIDGE AVE",
+      "city": "EVANSTON",
+      "state": "IL",
+      "zipcode": "60202"
+    },
+    {
+      "id": "140082",
+      "name": "LOUIS A WEISS MEMORIAL HOSPITAL",
+      "address": "4646 N MARINE DRIVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60640"
+    },
+    {
+      "id": "140083",
+      "name": "LORETTO HOSPITAL",
+      "address": "645 SOUTH CENTRAL AVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60644"
+    },
+    {
+      "id": "140084",
+      "name": "VISTA MEDICAL CENTER EAST",
+      "address": "1324 NORTH SHERIDAN ROAD",
+      "city": "WAUKEGAN",
+      "state": "IL",
+      "zipcode": "60085"
+    },
+    {
+      "id": "140088",
+      "name": "THE UNIVERSITY OF CHICAGO MEDICAL CENTER",
+      "address": "5841 SOUTH MARYLAND",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60637"
+    },
+    {
+      "id": "140089",
+      "name": "MC DONOUGH DISTRICT HOSPITAL",
+      "address": "525 EAST GRANT STREET",
+      "city": "MACOMB",
+      "state": "IL",
+      "zipcode": "61455"
+    },
+    {
+      "id": "140091",
+      "name": "THE CARLE FOUNDATION HOSPITAL",
+      "address": "611 WEST PARK STREET",
+      "city": "URBANA",
+      "state": "IL",
+      "zipcode": "61801"
+    },
+    {
+      "id": "140093",
+      "name": "OSF SACRED HEART MEDICAL CENTER",
+      "address": "812 N LOGAN AVE",
+      "city": "DANVILLE",
+      "state": "IL",
+      "zipcode": "61832"
+    },
+    {
+      "id": "140095",
+      "name": "SAINT ANTHONY HOSPITAL",
+      "address": "2875 WEST 19TH STREET",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60623"
+    },
+    {
+      "id": "140100",
+      "name": "MIDWESTERN REGION MED CENTER, INC",
+      "address": "2520 ELISHA AVENUE",
+      "city": "ZION",
+      "state": "IL",
+      "zipcode": "60099"
+    },
+    {
+      "id": "140101",
+      "name": "MORRIS HOSPITAL & HEALTHCARE CENTERS",
+      "address": "150 W HIGH ST",
+      "city": "MORRIS",
+      "state": "IL",
+      "zipcode": "60450"
+    },
+    {
+      "id": "140103",
+      "name": "ST BERNARD HOSPITAL",
+      "address": "326 W 64TH ST",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60621"
+    },
+    {
+      "id": "140110",
+      "name": "OSF SAINT ELIZABETH MEDICAL CENTER",
+      "address": "1100 E NORRIS DRIVE",
+      "city": "OTTAWA",
+      "state": "IL",
+      "zipcode": "61350"
+    },
+    {
+      "id": "140113",
+      "name": "OSF HEART OF MARY MEDICAL CENTER",
+      "address": "1400 WEST PARK AVENUE",
+      "city": "URBANA",
+      "state": "IL",
+      "zipcode": "61801"
+    },
+    {
+      "id": "140114",
+      "name": "SWEDISH HOSPITAL",
+      "address": "5145 N CALIFORNIA AVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60625"
+    },
+    {
+      "id": "140115",
+      "name": "THOREK MEMORIAL HOSPITAL",
+      "address": "850 W IRVING PARK RD",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60613"
+    },
+    {
+      "id": "140116",
+      "name": "NORTHWESTERN MEDICINE MCHENRY HOSPITAL",
+      "address": "4201 MEDICAL CENTER DRIVE",
+      "city": "MCHENRY",
+      "state": "IL",
+      "zipcode": "60050"
+    },
+    {
+      "id": "140117",
+      "name": "PRESENCE RESURRECTION MEDICAL CENTER",
+      "address": "7435 W TALCOTT AVENUE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60631"
+    },
+    {
+      "id": "140119",
+      "name": "RUSH UNIVERSITY MEDICAL CENTER",
+      "address": "1653 WEST CONGRESS PARKWAY",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60612"
+    },
+    {
+      "id": "140120",
+      "name": "CARLE HEALTH PEKIN HOSPITAL",
+      "address": "600 SOUTH 13TH STREET",
+      "city": "PEKIN",
+      "state": "IL",
+      "zipcode": "61554"
+    },
+    {
+      "id": "140122",
+      "name": "UCHICAGO MEDICINE ADVENTHEALTH HINSDALE",
+      "address": "120 NORTH OAK ST",
+      "city": "HINSDALE",
+      "state": "IL",
+      "zipcode": "60521"
+    },
+    {
+      "id": "140124",
+      "name": "JOHN H STROGER JR HOSPITAL",
+      "address": "1901 W HARRISON ST",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60612"
+    },
+    {
+      "id": "140125",
+      "name": "GATEWAY REGIONAL MEDICAL CENTER",
+      "address": "2100 MADISON AVENUE",
+      "city": "GRANITE CITY",
+      "state": "IL",
+      "zipcode": "62040"
+    },
+    {
+      "id": "140127",
+      "name": "CARLE BROMENN MEDICAL CENTER",
+      "address": "1304 FRANKLIN AVENUE",
+      "city": "NORMAL",
+      "state": "IL",
+      "zipcode": "61761"
+    },
+    {
+      "id": "140130",
+      "name": "NORTHWESTERN LAKE FOREST HOSPITAL",
+      "address": "1000 N WESTMORELAND ROAD",
+      "city": "LAKE FOREST",
+      "state": "IL",
+      "zipcode": "60045"
+    },
+    {
+      "id": "140133",
+      "name": "HOLY CROSS HOSPITAL",
+      "address": "2701 W 68TH STREET",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60629"
+    },
+    {
+      "id": "140135",
+      "name": "DECATUR MEMORIAL HOSPITAL",
+      "address": "2300 NORTH EDWARD STREET",
+      "city": "DECATUR",
+      "state": "IL",
+      "zipcode": "62526"
+    },
+    {
+      "id": "140137",
+      "name": "HSHS HOLY FAMILY HOSPITAL",
+      "address": "200 HEALTH CARE DR",
+      "city": "GREENVILLE",
+      "state": "IL",
+      "zipcode": "62246"
+    },
+    {
+      "id": "140145",
+      "name": "ST JOSEPHS HOSPITAL",
+      "address": "9515 HOLY CROSS LN",
+      "city": "BREESE",
+      "state": "IL",
+      "zipcode": "62230"
+    },
+    {
+      "id": "140147",
+      "name": "CARLE RICHLAND MEMORIAL HOSPITAL",
+      "address": "800 EAST LOCUST STREET",
+      "city": "OLNEY",
+      "state": "IL",
+      "zipcode": "62450"
+    },
+    {
+      "id": "140148",
+      "name": "MEMORIAL MEDICAL CENTER",
+      "address": "701 N FIRST ST",
+      "city": "SPRINGFIELD",
+      "state": "IL",
+      "zipcode": "62702"
+    },
+    {
+      "id": "140150",
+      "name": "UNIVERSITY OF ILLINOIS HOSPITAL AND CLINICS",
+      "address": "1740 WEST TAYLOR ST SUITE 1400",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60612"
+    },
+    {
+      "id": "140155",
+      "name": "PRESENCE ST MARYS HOSPITAL",
+      "address": "500 W COURT ST",
+      "city": "KANKAKEE",
+      "state": "IL",
+      "zipcode": "60901"
+    },
+    {
+      "id": "140158",
+      "name": "INSIGHT HOSPITAL AND MEDICAL CENTER CHICAGO",
+      "address": "2525 S MICHIGAN AVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60616"
+    },
+    {
+      "id": "140160",
+      "name": "FHN MEMORIAL HOSPITAL",
+      "address": "1045 WEST STEPHENSON STREET",
+      "city": "FREEPORT",
+      "state": "IL",
+      "zipcode": "61032"
+    },
+    {
+      "id": "140161",
+      "name": "SAINT JAMES HOSPITAL",
+      "address": "2500 WEST REYNOLDS STREET",
+      "city": "PONTIAC",
+      "state": "IL",
+      "zipcode": "61764"
+    },
+    {
+      "id": "140162",
+      "name": "ST JOSEPH MEDICAL CENTER",
+      "address": "2200 E WASHINGTON",
+      "city": "BLOOMINGTON",
+      "state": "IL",
+      "zipcode": "61701"
+    },
+    {
+      "id": "140164",
+      "name": "MEMORIAL HOSPITAL OF CARBONDALE",
+      "address": "405 W JACKSON",
+      "city": "CARBONDALE",
+      "state": "IL",
+      "zipcode": "62901"
+    },
+    {
+      "id": "140166",
+      "name": "ST MARYS HOSPITAL",
+      "address": "1800 E LAKE SHORE DR",
+      "city": "DECATUR",
+      "state": "IL",
+      "zipcode": "62521"
+    },
+    {
+      "id": "140172",
+      "name": "FRANCISCAN HEALTH OLYMPIA & CHICAGO HEIGHTS",
+      "address": "20201 S CRAWFORD AVENUE",
+      "city": "OLYMPIA FIELDS",
+      "state": "IL",
+      "zipcode": "60461"
+    },
+    {
+      "id": "140174",
+      "name": "PRESENCE MERCY MEDICAL CENTER",
+      "address": "1325 N HIGHLAND AVENUE",
+      "city": "AURORA",
+      "state": "IL",
+      "zipcode": "60506"
+    },
+    {
+      "id": "140177",
+      "name": "JACKSON PARK HOSPITAL",
+      "address": "7531 S STONY ISLAND AVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60649"
+    },
+    {
+      "id": "140179",
+      "name": "OSF LITTLE COMPANY OF MARY MEDICAL CENTER",
+      "address": "2800 W 95TH ST",
+      "city": "EVERGREEN PARK",
+      "state": "IL",
+      "zipcode": "60805"
+    },
+    {
+      "id": "140180",
+      "name": "PRESENCE SAINTS MARY AND ELIZABETH MEDICAL CENTER",
+      "address": "2233 W DIVISION ST",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60622"
+    },
+    {
+      "id": "140181",
+      "name": "SOUTH SHORE HOSPITAL",
+      "address": "8012 SOUTH CRANDON AVENUE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60617"
+    },
+    {
+      "id": "140182",
+      "name": "ADVOCATE ILLINOIS MASONIC MEDICAL CENTER",
+      "address": "836 WEST WELLINGTON AVENUE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60657"
+    },
+    {
+      "id": "140184",
+      "name": "HEARTLAND REGIONAL MEDICAL CENTER",
+      "address": "3333 W DEYOUNG",
+      "city": "MARION",
+      "state": "IL",
+      "zipcode": "62959"
+    },
+    {
+      "id": "140185",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "4500 MEMORIAL DRIVE",
+      "city": "BELLEVILLE",
+      "state": "IL",
+      "zipcode": "62226"
+    },
+    {
+      "id": "140186",
+      "name": "RIVERSIDE MEDICAL CENTER",
+      "address": "350 N WALL ST",
+      "city": "KANKAKEE",
+      "state": "IL",
+      "zipcode": "60901"
+    },
+    {
+      "id": "140187",
+      "name": "HSHS ST ELIZABETH'S HOSPITAL",
+      "address": "ONE ST ELIZABETH BOULEVARD",
+      "city": "O FALLON",
+      "state": "IL",
+      "zipcode": "62269"
+    },
+    {
+      "id": "140189",
+      "name": "SARAH BUSH LINCOLN HEALTH CENTER",
+      "address": "1000 HEALTH CENTER DRIVE P O BOX 372",
+      "city": "MATTOON",
+      "state": "IL",
+      "zipcode": "61938"
+    },
+    {
+      "id": "140191",
+      "name": "INGALLS MEMORIAL HOSPITAL",
+      "address": "1 INGALLS DRIVE",
+      "city": "HARVEY",
+      "state": "IL",
+      "zipcode": "60426"
+    },
+    {
+      "id": "140197",
+      "name": "METHODIST HOSPITAL OF CHICAGO",
+      "address": "5025 N PAULINA STREET",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60640"
+    },
+    {
+      "id": "140200",
+      "name": "ELMHURST MEMORIAL HOSPITAL",
+      "address": "155 EAST BRUSH HILL ROAD",
+      "city": "ELMHURST",
+      "state": "IL",
+      "zipcode": "60126"
+    },
+    {
+      "id": "140202",
+      "name": "ADVOCATE CONDELL MEDICAL CENTER",
+      "address": "801 S MILWAUKEE AVE",
+      "city": "LIBERTYVILLE",
+      "state": "IL",
+      "zipcode": "60048"
+    },
+    {
+      "id": "140206",
+      "name": "HUMBOLDT PARK HEALTH",
+      "address": "1044 N FRANCISCO AVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60622"
+    },
+    {
+      "id": "140208",
+      "name": "ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER",
+      "address": "4440 W 95TH STREET",
+      "city": "OAK LAWN",
+      "state": "IL",
+      "zipcode": "60453"
+    },
+    {
+      "id": "140209",
+      "name": "CARLE HEALTH METHODIST HOSPITAL",
+      "address": "221 N E GLEN OAK AVE",
+      "city": "PEORIA",
+      "state": "IL",
+      "zipcode": "61636"
+    },
+    {
+      "id": "140210",
+      "name": "HARRISBURG MEDICAL CENTER",
+      "address": "100 DOCTOR WARREN TUTTLE DR",
+      "city": "HARRISBURG",
+      "state": "IL",
+      "zipcode": "62946"
+    },
+    {
+      "id": "140211",
+      "name": "NORTHWESTERN MEDICINE DELNOR COMMUNITY HOSPITAL",
+      "address": "300 RANDALL RD",
+      "city": "GENEVA",
+      "state": "IL",
+      "zipcode": "60134"
+    },
+    {
+      "id": "140213",
+      "name": "SILVER CROSS HOSPITAL  AND MEDICAL CENTERS",
+      "address": "1900 SILVER CROSS BLVD",
+      "city": "NEW LENOX",
+      "state": "IL",
+      "zipcode": "60451"
+    },
+    {
+      "id": "140217",
+      "name": "PRESENCE SAINT JOSEPH HOSPITAL - ELGIN",
+      "address": "77 N AIRLITE STREET",
+      "city": "ELGIN",
+      "state": "IL",
+      "zipcode": "60123"
+    },
+    {
+      "id": "140223",
+      "name": "ADVOCATE LUTHERAN GENERAL HOSPITAL",
+      "address": "1775 DEMPSTER ST",
+      "city": "PARK RIDGE",
+      "state": "IL",
+      "zipcode": "60068"
+    },
+    {
+      "id": "140224",
+      "name": "PRESENCE SAINT JOSEPH HOSPITAL - CHICAGO",
+      "address": "2900 NORTH LAKE SHORE DRIVE",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60657"
+    },
+    {
+      "id": "140228",
+      "name": "UW HEALTH",
+      "address": "1401 EAST STATE STREET",
+      "city": "ROCKFORD",
+      "state": "IL",
+      "zipcode": "61104"
+    },
+    {
+      "id": "140231",
+      "name": "EDWARD HOSPITAL",
+      "address": "801 SOUTH WASHINGTON",
+      "city": "NAPERVILLE",
+      "state": "IL",
+      "zipcode": "60540"
+    },
+    {
+      "id": "140233",
+      "name": "SAINT ANTHONY MEDICAL CENTER",
+      "address": "5666 EAST STATE STREET",
+      "city": "ROCKFORD",
+      "state": "IL",
+      "zipcode": "61108"
+    },
+    {
+      "id": "140239",
+      "name": "JAVON BEA HOSPITAL",
+      "address": "8201 E RIVERSIDE BLVD",
+      "city": "ROCKFORD",
+      "state": "IL",
+      "zipcode": "61114"
+    },
+    {
+      "id": "140242",
+      "name": "NORTHWESTERN MEDICINE CENTRAL DUPAGE HOSPITAL",
+      "address": "25 NORTH WINFIELD ROAD",
+      "city": "WINFIELD",
+      "state": "IL",
+      "zipcode": "60190"
+    },
+    {
+      "id": "140251",
+      "name": "COMMUNITY FIRST MEDICAL CENTER",
+      "address": "5645 W ADDISON STREET",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60634"
+    },
+    {
+      "id": "140252",
+      "name": "NORTHWEST COMMUNITY HOSPITAL 1",
+      "address": "800 W CENTRAL ROAD",
+      "city": "ARLINGTON HEIGHTS",
+      "state": "IL",
+      "zipcode": "60005"
+    },
+    {
+      "id": "140258",
+      "name": "ALEXIAN BROTHERS MEDICAL CENTER 1",
+      "address": "800 BIESTERFIELD RD",
+      "city": "ELK GROVE VILLAGE",
+      "state": "IL",
+      "zipcode": "60007"
+    },
+    {
+      "id": "140275",
+      "name": "GENESIS HEALTH SYSTEM",
+      "address": "801 ILLINI DR",
+      "city": "SILVIS",
+      "state": "IL",
+      "zipcode": "61282"
+    },
+    {
+      "id": "140276",
+      "name": "LOYOLA UNIVERSITY MEDICAL CENTER",
+      "address": "2160 S 1ST AVENUE",
+      "city": "MAYWOOD",
+      "state": "IL",
+      "zipcode": "60153"
+    },
+    {
+      "id": "140280",
+      "name": "TRINITY ROCK ISLAND",
+      "address": "2701 17TH ST",
+      "city": "ROCK ISLAND",
+      "state": "IL",
+      "zipcode": "61201"
+    },
+    {
+      "id": "140281",
+      "name": "NORTHWESTERN MEMORIAL HOSPITAL",
+      "address": "251 E HURON ST",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60611"
+    },
+    {
+      "id": "140286",
+      "name": "NORTHWESTERN MEDICINE KISHWAUKEE HOSPITAL",
+      "address": "ONE KISH HOSPITAL DRIVE",
+      "city": "DEKALB",
+      "state": "IL",
+      "zipcode": "60115"
+    },
+    {
+      "id": "140288",
+      "name": "ADVOCATE GOOD SAMARITAN HOSPITAL",
+      "address": "3815 HIGHLAND AVENUE",
+      "city": "DOWNERS GROVE",
+      "state": "IL",
+      "zipcode": "60515"
+    },
+    {
+      "id": "140289",
+      "name": "ANDERSON HOSPITAL",
+      "address": "6800 STATE ROUTE 162",
+      "city": "MARYVILLE",
+      "state": "IL",
+      "zipcode": "62062"
+    },
+    {
+      "id": "140290",
+      "name": "ST ALEXIUS MEDICAL CENTER",
+      "address": "1555 N BARRINGTON RD",
+      "city": "HOFFMAN ESTATES",
+      "state": "IL",
+      "zipcode": "60169"
+    },
+    {
+      "id": "140291",
+      "name": "ADVOCATE GOOD SHEPHERD HOSPITAL",
+      "address": "450 WEST HIGHWAY 22",
+      "city": "BARRINGTON",
+      "state": "IL",
+      "zipcode": "60010"
+    },
+    {
+      "id": "140292",
+      "name": "UCHICAGO MEDICINE ADVENTHEALTH GLENOAKS",
+      "address": "701 WINTHROP AVENUE",
+      "city": "GLENDALE HEIGHTS",
+      "state": "IL",
+      "zipcode": "60139"
+    },
+    {
+      "id": "140294",
+      "name": "DEACONESS ILLINOIS CROSSROADS",
+      "address": "8 DOCTORS PARK RD",
+      "city": "MOUNT VERNON",
+      "state": "IL",
+      "zipcode": "62864"
+    },
+    {
+      "id": "140300",
+      "name": "PROVIDENT HOSPITAL OF CHICAGO",
+      "address": "500 E 51ST ST",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zipcode": "60615"
+    },
+    {
+      "id": "140304",
+      "name": "UCHICAGO MEDICINE ADVENTHEALTH BOLINGBROOK",
+      "address": "500 REMINGTON BOULEVARD",
+      "city": "BOLINGBROOK",
+      "state": "IL",
+      "zipcode": "60440"
+    },
+    {
+      "id": "140308",
+      "name": "MERCYHEALTH HOSPITAL & PHYSICIAN CLINIC-CRYSTAL LA",
+      "address": "875 S ROUTE 31",
+      "city": "CRYSTAL LAKE",
+      "state": "IL",
+      "zipcode": "60014"
+    },
+    {
+      "id": "141300",
+      "name": "THOMAS H BOYD MEMORIAL HOSPITAL",
+      "address": "800 SCHOOL ST",
+      "city": "CARROLLTON",
+      "state": "IL",
+      "zipcode": "62016"
+    },
+    {
+      "id": "141301",
+      "name": "KIRBY MEDICAL CENTER",
+      "address": "1000 MEDICAL CENTER DRIVE",
+      "city": "MONTICELLO",
+      "state": "IL",
+      "zipcode": "61856"
+    },
+    {
+      "id": "141302",
+      "name": "MIDWEST MEDICAL CENTER",
+      "address": "1 MEDICAL CENTER DRIVE",
+      "city": "GALENA",
+      "state": "IL",
+      "zipcode": "61036"
+    },
+    {
+      "id": "141303",
+      "name": "WARNER HOSPITAL AND HEALTH SERVICES",
+      "address": "422 W WHITE ST",
+      "city": "CLINTON",
+      "state": "IL",
+      "zipcode": "61727"
+    },
+    {
+      "id": "141304",
+      "name": "GENESIS MEDICAL CENTER, ALEDO",
+      "address": "409 NW 9TH AVENUE",
+      "city": "ALEDO",
+      "state": "IL",
+      "zipcode": "61231"
+    },
+    {
+      "id": "141305",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "1454 N COUNTY ROAD 2050 E",
+      "city": "CARTHAGE",
+      "state": "IL",
+      "zipcode": "62321"
+    },
+    {
+      "id": "141306",
+      "name": "COMMUNITY HOSPITAL OF STAUNTON",
+      "address": "400 N CALDWELL ST",
+      "city": "STAUNTON",
+      "state": "IL",
+      "zipcode": "62088"
+    },
+    {
+      "id": "141307",
+      "name": "PINCKNEYVILLE COMMUNITY HOSPITAL",
+      "address": "5383 STATE ROUTE 154",
+      "city": "PINCKNEYVILLE",
+      "state": "IL",
+      "zipcode": "62274"
+    },
+    {
+      "id": "141308",
+      "name": "WASHINGTON COUNTY HOSPITAL",
+      "address": "705 S GRAND AVE",
+      "city": "NASHVILLE",
+      "state": "IL",
+      "zipcode": "62263"
+    },
+    {
+      "id": "141309",
+      "name": "CARLE EUREKA HOSPITAL",
+      "address": "101 S MAJOR ST",
+      "city": "EUREKA",
+      "state": "IL",
+      "zipcode": "61530"
+    },
+    {
+      "id": "141310",
+      "name": "OSF SAINT PAUL MEDICAL CENTER",
+      "address": "1401 E 12TH STREET",
+      "city": "MENDOTA",
+      "state": "IL",
+      "zipcode": "61342"
+    },
+    {
+      "id": "141311",
+      "name": "FAIRFIELD MEMORIAL HOSPITAL 1",
+      "address": "303 N W 11TH STREET",
+      "city": "FAIRFIELD",
+      "state": "IL",
+      "zipcode": "62837"
+    },
+    {
+      "id": "141312",
+      "name": "ROCHELLE COMMUNITY HOSPITAL",
+      "address": "900 N 2ND ST",
+      "city": "ROCHELLE",
+      "state": "IL",
+      "zipcode": "61068"
+    },
+    {
+      "id": "141313",
+      "name": "MASON DISTRICT HOSPITAL",
+      "address": "615 NORTH PROMENADE STREET,P O BOX 530",
+      "city": "HAVANA",
+      "state": "IL",
+      "zipcode": "62644"
+    },
+    {
+      "id": "141315",
+      "name": "ILLINI COMMUNITY HOSPITAL",
+      "address": "640 W WASHINGTON",
+      "city": "PITTSFIELD",
+      "state": "IL",
+      "zipcode": "62363"
+    },
+    {
+      "id": "141316",
+      "name": "HOOPESTON COMMUNITY MEMORIAL HOSPITAL",
+      "address": "701 EAST ORANGE STREET",
+      "city": "HOOPESTON",
+      "state": "IL",
+      "zipcode": "60942"
+    },
+    {
+      "id": "141317",
+      "name": "GIBSON COMMUNITY HOSPITAL",
+      "address": "1120 N MELVIN STREET",
+      "city": "GIBSON CITY",
+      "state": "IL",
+      "zipcode": "60936"
+    },
+    {
+      "id": "141318",
+      "name": "OSF HOLY FAMILY MEDICAL CENTER",
+      "address": "1000 W HARLEM AVENUE",
+      "city": "MONMOUTH",
+      "state": "IL",
+      "zipcode": "61462"
+    },
+    {
+      "id": "141319",
+      "name": "HAMMOND HENRY HOSPITAL",
+      "address": "600 N COLLEGE AVENUE",
+      "city": "GENESEO",
+      "state": "IL",
+      "zipcode": "61254"
+    },
+    {
+      "id": "141320",
+      "name": "PARIS COMMUNITY HOSPITAL",
+      "address": "721 E COURT STREET",
+      "city": "PARIS",
+      "state": "IL",
+      "zipcode": "61944"
+    },
+    {
+      "id": "141321",
+      "name": "FRANKLIN HOSPITAL",
+      "address": "201 BAILEY LANE",
+      "city": "BENTON",
+      "state": "IL",
+      "zipcode": "62812"
+    },
+    {
+      "id": "141322",
+      "name": "ABRAHAM LINCOLN MEMORIAL HOSPITAL",
+      "address": "200 STAHLHUT DRIVE",
+      "city": "LINCOLN",
+      "state": "IL",
+      "zipcode": "62656"
+    },
+    {
+      "id": "141323",
+      "name": "MASSAC MEMORIAL HOSPITAL",
+      "address": "28 CHICK STREET, PO BOX 850",
+      "city": "METROPOLIS",
+      "state": "IL",
+      "zipcode": "62960"
+    },
+    {
+      "id": "141324",
+      "name": "FERRELL HOSPITAL COMMUNITY FOUNDATIONS",
+      "address": "1201 PINE STREET",
+      "city": "ELDORADO",
+      "state": "IL",
+      "zipcode": "62930"
+    },
+    {
+      "id": "141325",
+      "name": "OSF SAINT LUKE MEDICAL CENTER",
+      "address": "1051 WEST SOUTH STREET",
+      "city": "KEWANEE",
+      "state": "IL",
+      "zipcode": "61443"
+    },
+    {
+      "id": "141326",
+      "name": "HAMILTON MEMORIAL HOSPITAL",
+      "address": "611 S MARSHALL AVENUE",
+      "city": "MCLEANSBORO",
+      "state": "IL",
+      "zipcode": "62859"
+    },
+    {
+      "id": "141327",
+      "name": "WABASH GENERAL HOSPITAL 1",
+      "address": "1418 COLLEGE DRIVE",
+      "city": "MOUNT CARMEL",
+      "state": "IL",
+      "zipcode": "62863"
+    },
+    {
+      "id": "141328",
+      "name": "HARDIN COUNTY GENERAL HOSPITAL",
+      "address": "6 FERRELL ROAD",
+      "city": "ROSICLARE",
+      "state": "IL",
+      "zipcode": "62982"
+    },
+    {
+      "id": "141329",
+      "name": "MORRISON COMMUNITY HOSPITAL",
+      "address": "303 N JACKSON STREET",
+      "city": "MORRISON",
+      "state": "IL",
+      "zipcode": "61270"
+    },
+    {
+      "id": "141330",
+      "name": "HOPEDALE HOSPITAL",
+      "address": "107 TREMONT STREET",
+      "city": "HOPEDALE",
+      "state": "IL",
+      "zipcode": "61747"
+    },
+    {
+      "id": "141331",
+      "name": "MARSHALL BROWNING HOSPITAL",
+      "address": "900 NORTH WASHINGTON STREET",
+      "city": "DU QUOIN",
+      "state": "IL",
+      "zipcode": "62832"
+    },
+    {
+      "id": "141332",
+      "name": "HILLSBORO AREA HOSPITAL",
+      "address": "1200 E TREMONT STREET",
+      "city": "HILLSBORO",
+      "state": "IL",
+      "zipcode": "62049"
+    },
+    {
+      "id": "141333",
+      "name": "SARAH D CULBERTSON MEMORIAL HOSPITAL",
+      "address": "238 SOUTH CONGRESS STREET",
+      "city": "RUSHVILLE",
+      "state": "IL",
+      "zipcode": "62681"
+    },
+    {
+      "id": "141334",
+      "name": "ST JOSEPH MEMORIAL HOSPITAL",
+      "address": "2 SOUTH HOSPITAL DRIVE",
+      "city": "MURPHYSBORO",
+      "state": "IL",
+      "zipcode": "62966"
+    },
+    {
+      "id": "141335",
+      "name": "MERCY HARVARD HOSPITAL",
+      "address": "901 S GRANT STREET",
+      "city": "HARVARD",
+      "state": "IL",
+      "zipcode": "60033"
+    },
+    {
+      "id": "141336",
+      "name": "ST JOSEPH'S HOSPITAL",
+      "address": "12866 TROXLER AVENUE",
+      "city": "HIGHLAND",
+      "state": "IL",
+      "zipcode": "62249"
+    },
+    {
+      "id": "141337",
+      "name": "OSF SAINT CLARE MEDICAL CENTER",
+      "address": "530 PARK AVENUE EAST",
+      "city": "PRINCETON",
+      "state": "IL",
+      "zipcode": "61356"
+    },
+    {
+      "id": "141338",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "1900 STATE ST",
+      "city": "CHESTER",
+      "state": "IL",
+      "zipcode": "62233"
+    },
+    {
+      "id": "141339",
+      "name": "TAYLORVILLE MEMORIAL HOSPITAL",
+      "address": "201 EAST PLEASANT STREET",
+      "city": "TAYLORVILLE",
+      "state": "IL",
+      "zipcode": "62568"
+    },
+    {
+      "id": "141340",
+      "name": "NORTHWESTERN MEDICINE VALLEY WEST HOSPITAL",
+      "address": "1301 NORTH MAIN STREET",
+      "city": "SANDWICH",
+      "state": "IL",
+      "zipcode": "60548"
+    },
+    {
+      "id": "141341",
+      "name": "PANA COMMUNITY HOSPITAL",
+      "address": "101 E NINTH STREET",
+      "city": "PANA",
+      "state": "IL",
+      "zipcode": "62557"
+    },
+    {
+      "id": "141342",
+      "name": "DEACONESS ILLINOIS UNION COUNTY",
+      "address": "517 NORTH MAIN STREET",
+      "city": "ANNA",
+      "state": "IL",
+      "zipcode": "62906"
+    },
+    {
+      "id": "141343",
+      "name": "CRAWFORD MEMORIAL HOSPITAL",
+      "address": "1000 NORTH ALLEN STREET",
+      "city": "ROBINSON",
+      "state": "IL",
+      "zipcode": "62454"
+    },
+    {
+      "id": "141344",
+      "name": "LAWRENCE COUNTY MEMORIAL HOSPITAL",
+      "address": "2200 STATE ST",
+      "city": "LAWRENCEVILLE",
+      "state": "IL",
+      "zipcode": "62439"
+    },
+    {
+      "id": "141345",
+      "name": "SALEM TOWNSHIP HOSPITAL",
+      "address": "1201 RICKER DRIVE",
+      "city": "SALEM",
+      "state": "IL",
+      "zipcode": "62881"
+    },
+    {
+      "id": "141346",
+      "name": "SARAH BUSH LINCOLN FAYETTE COUNTY HOSPITAL",
+      "address": "650 W TAYLOR ST",
+      "city": "VANDALIA",
+      "state": "IL",
+      "zipcode": "62471"
+    },
+    {
+      "id": "141347",
+      "name": "CARLINVILLE AREA HOSPITAL",
+      "address": "20733 N BROAD STREET",
+      "city": "CARLINVILLE",
+      "state": "IL",
+      "zipcode": "62626"
+    },
+    {
+      "id": "141348",
+      "name": "RED BUD REGIONAL HOSPITAL",
+      "address": "325 SPRING STREET",
+      "city": "RED BUD",
+      "state": "IL",
+      "zipcode": "62278"
+    },
+    {
+      "id": "141349",
+      "name": "SPARTA COMMUNITY HOSPITAL",
+      "address": "818 E BROADWAY",
+      "city": "SPARTA",
+      "state": "IL",
+      "zipcode": "62286"
+    },
+    {
+      "id": "141350",
+      "name": "ST FRANCIS HOSPITAL",
+      "address": "1215 FRANCISCAN DR",
+      "city": "LITCHFIELD",
+      "state": "IL",
+      "zipcode": "62056"
+    },
+    {
+      "id": "141351",
+      "name": "CLAY COUNTY HOSPITAL",
+      "address": "911 STACY BURK DR",
+      "city": "FLORA",
+      "state": "IL",
+      "zipcode": "62839"
+    },
+    {
+      "id": "141352",
+      "name": "JACKSONVILLE MEMORIAL HOSPITAL",
+      "address": "1600 W WALNUT ST",
+      "city": "JACKSONVILLE",
+      "state": "IL",
+      "zipcode": "62650"
+    },
+    {
+      "id": "141353",
+      "name": "IROQUOIS MEMORIAL HOSPITAL",
+      "address": "200 FAIRMAN STREET",
+      "city": "WATSEKA",
+      "state": "IL",
+      "zipcode": "60970"
+    },
+    {
+      "id": "141354",
+      "name": "HSHS GOOD SHEPHERD HOSPITAL INC",
+      "address": "200 S CEDAR ST",
+      "city": "SHELBYVILLE",
+      "state": "IL",
+      "zipcode": "62565"
+    },
+    {
+      "id": "141355",
+      "name": "CARLE RICHLAND MEMORIAL HOSPITAL",
+      "address": "800 EAST LOCUST STREET",
+      "city": "OLNEY",
+      "state": "IL",
+      "zipcode": "62450"
+    }
+  ]
+}

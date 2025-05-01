@@ -1,0 +1,468 @@
+{
+  "hospitals": [
+    {
+      "id": "380001",
+      "name": "ADVENTIST HEALTH COLUMBIA GORGE",
+      "address": "1700 E 19TH STREET",
+      "city": "THE DALLES",
+      "state": "OR",
+      "zipcode": "97058"
+    },
+    {
+      "id": "380002",
+      "name": "ASANTE THREE RIVERS MEDICAL CENTER",
+      "address": "500 SW RAMSEY AVENUE",
+      "city": "GRANTS PASS",
+      "state": "OR",
+      "zipcode": "97527"
+    },
+    {
+      "id": "380004",
+      "name": "PROVIDENCE ST VINCENT MEDICAL CENTER",
+      "address": "9205 SW BARNES ROAD",
+      "city": "PORTLAND",
+      "state": "OR",
+      "zipcode": "97225"
+    },
+    {
+      "id": "380005",
+      "name": "ASANTE ASHLAND COMMUNITY HOSPITAL",
+      "address": "280 MAPLE STREET",
+      "city": "ASHLAND",
+      "state": "OR",
+      "zipcode": "97520"
+    },
+    {
+      "id": "380007",
+      "name": "LEGACY EMANUEL MEDICAL CENTER",
+      "address": "2801 N GANTENBEIN AVENUE",
+      "city": "PORTLAND",
+      "state": "OR",
+      "zipcode": "97227"
+    },
+    {
+      "id": "380009",
+      "name": "OHSU HOSPITAL AND CLINICS",
+      "address": "3181 SW SAM JACKSON PARK ROAD",
+      "city": "PORTLAND",
+      "state": "OR",
+      "zipcode": "97239"
+    },
+    {
+      "id": "380014",
+      "name": "GOOD SAMARITAN REGIONAL MEDICAL CENTER",
+      "address": "3600 NW SAMARITAN DRIVE",
+      "city": "CORVALLIS",
+      "state": "OR",
+      "zipcode": "97330"
+    },
+    {
+      "id": "380017",
+      "name": "LEGACY GOOD SAMARITAN MEDICAL CENTER",
+      "address": "1015 NW 22ND AVENUE, W121",
+      "city": "PORTLAND",
+      "state": "OR",
+      "zipcode": "97210"
+    },
+    {
+      "id": "380018",
+      "name": "ASANTE ROGUE REGIONAL MEDICAL CENTER",
+      "address": "2825 E BARNETT ROAD",
+      "city": "MEDFORD",
+      "state": "OR",
+      "zipcode": "97504"
+    },
+    {
+      "id": "380020",
+      "name": "MCKENZIE-WILLAMETTE MEDICAL CENTER",
+      "address": "1460 G STREET",
+      "city": "SPRINGFIELD",
+      "state": "OR",
+      "zipcode": "97477"
+    },
+    {
+      "id": "380021",
+      "name": "HILLSBORO MEDICAL CENTER",
+      "address": "335 SE 8TH AVENUE",
+      "city": "HILLSBORO",
+      "state": "OR",
+      "zipcode": "97123"
+    },
+    {
+      "id": "380022",
+      "name": "SAMARITAN ALBANY GENERAL HOSPITAL",
+      "address": "1046 6TH AVENUE SW",
+      "city": "ALBANY",
+      "state": "OR",
+      "zipcode": "97321"
+    },
+    {
+      "id": "380025",
+      "name": "LEGACY MOUNT HOOD MEDICAL CENTER",
+      "address": "24800 SE STARK STREET",
+      "city": "GRESHAM",
+      "state": "OR",
+      "zipcode": "97030"
+    },
+    {
+      "id": "380027",
+      "name": "MERCY MEDICAL CENTER",
+      "address": "2700 NW STEWART PARKWAY",
+      "city": "ROSEBURG",
+      "state": "OR",
+      "zipcode": "97471"
+    },
+    {
+      "id": "380029",
+      "name": "LEGACY SILVERTON MEDICAL CENTER",
+      "address": "342 FAIRVIEW STREET",
+      "city": "SILVERTON",
+      "state": "OR",
+      "zipcode": "97381"
+    },
+    {
+      "id": "380033",
+      "name": "SACRED HEART UNIVERSITY DISTRICT",
+      "address": "1255 HILYARD STREET",
+      "city": "EUGENE",
+      "state": "OR",
+      "zipcode": "97401"
+    },
+    {
+      "id": "380037",
+      "name": "PROVIDENCE NEWBERG MEDICAL CENTER",
+      "address": "1001 PROVIDENCE DRIVE",
+      "city": "NEWBERG",
+      "state": "OR",
+      "zipcode": "97132"
+    },
+    {
+      "id": "380038",
+      "name": "PROVIDENCE WILLAMETTE FALLS MEDICAL CENTER",
+      "address": "1500 DIVISION STREET",
+      "city": "OREGON CITY",
+      "state": "OR",
+      "zipcode": "97045"
+    },
+    {
+      "id": "380047",
+      "name": "ST CHARLES BEND CAMPUS",
+      "address": "2500 NE NEFF ROAD",
+      "city": "BEND",
+      "state": "OR",
+      "zipcode": "97701"
+    },
+    {
+      "id": "380050",
+      "name": "SKY LAKES MEDICAL CENTER",
+      "address": "2865 DAGGETT AVENUE",
+      "city": "KLAMATH FALLS",
+      "state": "OR",
+      "zipcode": "97601"
+    },
+    {
+      "id": "380051",
+      "name": "SALEM HOSPITAL",
+      "address": "890 OAK STREET, SE",
+      "city": "SALEM",
+      "state": "OR",
+      "zipcode": "97301"
+    },
+    {
+      "id": "380052",
+      "name": "SAINT ALPHONSUS MEDICAL CENTER - ONTARIO, INC",
+      "address": "351 SW 9TH STREET",
+      "city": "ONTARIO",
+      "state": "OR",
+      "zipcode": "97914"
+    },
+    {
+      "id": "380056",
+      "name": "SANTIAM HOSPITAL",
+      "address": "1401 N 10TH AVENUE",
+      "city": "STAYTON",
+      "state": "OR",
+      "zipcode": "97383"
+    },
+    {
+      "id": "380060",
+      "name": "ADVENTIST HEALTH PORTLAND",
+      "address": "10123 SE MARKET STREET",
+      "city": "PORTLAND",
+      "state": "OR",
+      "zipcode": "97216"
+    },
+    {
+      "id": "380061",
+      "name": "PROVIDENCE PORTLAND MEDICAL CENTER",
+      "address": "4805 NE GLISAN STREET",
+      "city": "PORTLAND",
+      "state": "OR",
+      "zipcode": "97213"
+    },
+    {
+      "id": "380071",
+      "name": "WILLAMETTE VALLEY MEDICAL CENTER",
+      "address": "2700 SE STRATUS AVE.",
+      "city": "MCMINNVILLE",
+      "state": "OR",
+      "zipcode": "97128"
+    },
+    {
+      "id": "380075",
+      "name": "PROVIDENCE MEDFORD MEDICAL CENTER",
+      "address": "1111 CRATER LAKE AVENUE",
+      "city": "MEDFORD",
+      "state": "OR",
+      "zipcode": "97504"
+    },
+    {
+      "id": "380082",
+      "name": "PROVIDENCE MILWAUKIE HOSPITAL",
+      "address": "10150 SE 32ND AVENUE",
+      "city": "MILWAUKIE",
+      "state": "OR",
+      "zipcode": "97222"
+    },
+    {
+      "id": "380089",
+      "name": "LEGACY MERIDIAN PARK MEDICAL CENTER",
+      "address": "19300 SW 65TH AVENUE",
+      "city": "TUALATIN",
+      "state": "OR",
+      "zipcode": "97062"
+    },
+    {
+      "id": "380090",
+      "name": "BAY AREA HOSPITAL",
+      "address": "1775 THOMPSON ROAD",
+      "city": "COOS BAY",
+      "state": "OR",
+      "zipcode": "97420"
+    },
+    {
+      "id": "380091",
+      "name": "KAISER SUNNYSIDE MEDICAL CENTER",
+      "address": "10180 SE SUNNYSIDE ROAD",
+      "city": "CLACKAMAS",
+      "state": "OR",
+      "zipcode": "97015"
+    },
+    {
+      "id": "380102",
+      "name": "SACRED HEART MEDICAL CENTER - RIVERBEND",
+      "address": "3333 RIVERBEND DRIVE",
+      "city": "SPRINGFIELD",
+      "state": "OR",
+      "zipcode": "97477"
+    },
+    {
+      "id": "380103",
+      "name": "KAISER FOUNDATION HOSPITAL WESTSIDE",
+      "address": "2875 NW STUCKI AVE",
+      "city": "HILLSBORO",
+      "state": "OR",
+      "zipcode": "97124"
+    },
+    {
+      "id": "381301",
+      "name": "PEACEHEALTH COTTAGE GROVE COMMUNITY MEDICAL CENTER",
+      "address": "1515 VILLAGE DRIVE",
+      "city": "COTTAGE GROVE",
+      "state": "OR",
+      "zipcode": "97424"
+    },
+    {
+      "id": "381302",
+      "name": "SAMARITAN NORTH LINCOLN HOSPITAL",
+      "address": "3043 NE 28TH STREET",
+      "city": "LINCOLN CITY",
+      "state": "OR",
+      "zipcode": "97367"
+    },
+    {
+      "id": "381303",
+      "name": "PROVIDENCE SEASIDE HOSPITAL",
+      "address": "725 S WAHANNA ROAD",
+      "city": "SEASIDE",
+      "state": "OR",
+      "zipcode": "97138"
+    },
+    {
+      "id": "381304",
+      "name": "SOUTHERN COOS HOSPITAL & HEALTH CENTER",
+      "address": "900 11TH STREET SE",
+      "city": "BANDON",
+      "state": "OR",
+      "zipcode": "97411"
+    },
+    {
+      "id": "381305",
+      "name": "BLUE MOUNTAIN HOSPITAL",
+      "address": "170 FORD ROAD",
+      "city": "JOHN DAY",
+      "state": "OR",
+      "zipcode": "97845"
+    },
+    {
+      "id": "381306",
+      "name": "WALLOWA MEMORIAL HOSPITAL",
+      "address": "601 MEDICAL PARKWAY",
+      "city": "ENTERPRISE",
+      "state": "OR",
+      "zipcode": "97828"
+    },
+    {
+      "id": "381307",
+      "name": "HARNEY DISTRICT HOSPITAL",
+      "address": "557 W WASHINGTON STREET",
+      "city": "BURNS",
+      "state": "OR",
+      "zipcode": "97720"
+    },
+    {
+      "id": "381308",
+      "name": "SALEM HEALTH WEST VALLEY",
+      "address": "525 SE WASHINGTON STREET",
+      "city": "DALLAS",
+      "state": "OR",
+      "zipcode": "97338"
+    },
+    {
+      "id": "381309",
+      "name": "LAKE DISTRICT HOSPITAL",
+      "address": "700 SOUTH J STREET",
+      "city": "LAKEVIEW",
+      "state": "OR",
+      "zipcode": "97630"
+    },
+    {
+      "id": "381310",
+      "name": "PIONEER MEMORIAL HOSPITAL",
+      "address": "564 E PIONEER DRIVE",
+      "city": "HEPPNER",
+      "state": "OR",
+      "zipcode": "97836"
+    },
+    {
+      "id": "381311",
+      "name": "LOWER UMPQUA HOSPITAL DISTRICT",
+      "address": "600 RANCH ROAD",
+      "city": "REEDSPORT",
+      "state": "OR",
+      "zipcode": "97467"
+    },
+    {
+      "id": "381312",
+      "name": "COQUILLE VALLEY HOSPITAL",
+      "address": "940 EAST 5TH STREET",
+      "city": "COQUILLE",
+      "state": "OR",
+      "zipcode": "97423"
+    },
+    {
+      "id": "381313",
+      "name": "ST CHARLES MEDICAL CENTER PRINEVILLE",
+      "address": "384 SE COMBS FLAT ROAD",
+      "city": "PRINEVILLE",
+      "state": "OR",
+      "zipcode": "97754"
+    },
+    {
+      "id": "381314",
+      "name": "SAMARITAN PACIFIC COMMUNITY HOSPITAL",
+      "address": "930 SW ABBEY STREET",
+      "city": "NEWPORT",
+      "state": "OR",
+      "zipcode": "97365"
+    },
+    {
+      "id": "381315",
+      "name": "SAINT ALPHONSUS MEDICAL CENTER - BAKER CITY, INC",
+      "address": "3325 POCAHONTAS ROAD",
+      "city": "BAKER CITY",
+      "state": "OR",
+      "zipcode": "97814"
+    },
+    {
+      "id": "381316",
+      "name": "PEACE HARBOR MEDICAL CENTER",
+      "address": "400 9TH STREET",
+      "city": "FLORENCE",
+      "state": "OR",
+      "zipcode": "97439"
+    },
+    {
+      "id": "381317",
+      "name": "ADVENTIST HEALTH TILLAMOOK",
+      "address": "1000 THIRD STREET",
+      "city": "TILLAMOOK",
+      "state": "OR",
+      "zipcode": "97141"
+    },
+    {
+      "id": "381318",
+      "name": "PROVIDENCE HOOD RIVER MEMORIAL HOSPITAL",
+      "address": "810 12TH STREET",
+      "city": "HOOD RIVER",
+      "state": "OR",
+      "zipcode": "97031"
+    },
+    {
+      "id": "381319",
+      "name": "ST ANTHONY HOSPITAL",
+      "address": "2801 ST ANTHONY WAY",
+      "city": "PENDLETON",
+      "state": "OR",
+      "zipcode": "97801"
+    },
+    {
+      "id": "381320",
+      "name": "COLUMBIA MEMORIAL HOSPITAL",
+      "address": "2111 EXCHANGE STREET",
+      "city": "ASTORIA",
+      "state": "OR",
+      "zipcode": "97103"
+    },
+    {
+      "id": "381321",
+      "name": "GRANDE RONDE HOSPITAL",
+      "address": "900 SUNSET DRIVE",
+      "city": "LA GRANDE",
+      "state": "OR",
+      "zipcode": "97850"
+    },
+    {
+      "id": "381322",
+      "name": "CURRY GENERAL HOSPITAL",
+      "address": "94220 FOURTH STREET",
+      "city": "GOLD BEACH",
+      "state": "OR",
+      "zipcode": "97444"
+    },
+    {
+      "id": "381323",
+      "name": "SAMARITAN LEBANON COMMUNITY HOSPITAL",
+      "address": "525 N SANTIAM HIGHWAY",
+      "city": "LEBANON",
+      "state": "OR",
+      "zipcode": "97355"
+    },
+    {
+      "id": "381324",
+      "name": "ST CHARLES MADRAS",
+      "address": "470 NE A STREET",
+      "city": "MADRAS",
+      "state": "OR",
+      "zipcode": "97741"
+    },
+    {
+      "id": "381325",
+      "name": "GOOD SHEPHERD MEDICAL CENTER",
+      "address": "610 NW 11TH STREET",
+      "city": "HERMISTON",
+      "state": "OR",
+      "zipcode": "97838"
+    }
+  ]
+}

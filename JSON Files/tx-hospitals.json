@@ -1,0 +1,3052 @@
+{
+  "hospitals": [
+    {
+      "id": "450002",
+      "name": "THE HOSPITALS OF PROVIDENCE MEMORIAL CAMPUS",
+      "address": "2001 N OREGON ST",
+      "city": "EL PASO",
+      "state": "TX",
+      "zipcode": "79902"
+    },
+    {
+      "id": "450007",
+      "name": "PETERSON REGIONAL MEDICAL CENTER",
+      "address": "551 HILL COUNTRY DRIVE",
+      "city": "KERRVILLE",
+      "state": "TX",
+      "zipcode": "78028"
+    },
+    {
+      "id": "450010",
+      "name": "UNITED REGIONAL HEALTH CARE SYSTEM",
+      "address": "1600 11TH STREET",
+      "city": "WICHITA FALLS",
+      "state": "TX",
+      "zipcode": "76301"
+    },
+    {
+      "id": "450011",
+      "name": "CHI ST JOSEPH HEALTH REGIONAL HOSPITAL",
+      "address": "2801 FRANCISCAN DR",
+      "city": "BRYAN",
+      "state": "TX",
+      "zipcode": "77802"
+    },
+    {
+      "id": "450015",
+      "name": "PARKLAND HEALTH AND HOSPITAL SYSTEM",
+      "address": "5200 HARRY HINES BLVD",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75235"
+    },
+    {
+      "id": "450018",
+      "name": "UNIVERSITY OF TEXAS MEDICAL BRANCH",
+      "address": "301 UNIVERSITY BOULEVARD",
+      "city": "GALVESTON",
+      "state": "TX",
+      "zipcode": "77555"
+    },
+    {
+      "id": "450021",
+      "name": "BAYLOR UNIVERSITY MEDICAL CENTER",
+      "address": "3500 GASTON AVE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75246"
+    },
+    {
+      "id": "450023",
+      "name": "CITIZENS MEDICAL CENTER",
+      "address": "2701 HOSPITAL DRIVE",
+      "city": "VICTORIA",
+      "state": "TX",
+      "zipcode": "77901"
+    },
+    {
+      "id": "450024",
+      "name": "UNIVERSITY MEDICAL CENTER OF EL PASO",
+      "address": "4815 ALAMEDA AVE",
+      "city": "EL PASO",
+      "state": "TX",
+      "zipcode": "79905"
+    },
+    {
+      "id": "450028",
+      "name": "VALLEY BAPTIST MEDICAL CENTER- BROWNSVILLE",
+      "address": "1040 W JEFFERSON ST",
+      "city": "BROWNSVILLE",
+      "state": "TX",
+      "zipcode": "78520"
+    },
+    {
+      "id": "450029",
+      "name": "LAREDO MEDICAL CENTER",
+      "address": "1700 EAST SAUNDERS",
+      "city": "LAREDO",
+      "state": "TX",
+      "zipcode": "78044"
+    },
+    {
+      "id": "450032",
+      "name": "CHRISTUS GOOD SHEPHERD MEDICAL CENTER",
+      "address": "700 E MARSHALL AVE",
+      "city": "LONGVIEW",
+      "state": "TX",
+      "zipcode": "75601"
+    },
+    {
+      "id": "450033",
+      "name": "VHS HARLINGEN HOSPITAL COMPANY LLC",
+      "address": "2101 PEASE ST",
+      "city": "HARLINGEN",
+      "state": "TX",
+      "zipcode": "78550"
+    },
+    {
+      "id": "450034",
+      "name": "CHRISTUS SOUTHEAST TEXAS- ST ELIZABETH",
+      "address": "2830 CALDER AVENUE",
+      "city": "BEAUMONT",
+      "state": "TX",
+      "zipcode": "77702"
+    },
+    {
+      "id": "450035",
+      "name": "ST JOSEPH MEDICAL CENTER",
+      "address": "1401 ST. JOSEPH PARKWAY",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77002"
+    },
+    {
+      "id": "450039",
+      "name": "JPS HEALTH NETWORK",
+      "address": "1500 S MAIN ST",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76104"
+    },
+    {
+      "id": "450040",
+      "name": "COVENANT MEDICAL CENTER",
+      "address": "3615 19TH STREET",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "zipcode": "79410"
+    },
+    {
+      "id": "450042",
+      "name": "ASCENSION PROVIDENCE DEPAUL",
+      "address": "6901 MEDICAL PARKWAY",
+      "city": "WACO",
+      "state": "TX",
+      "zipcode": "76712"
+    },
+    {
+      "id": "450044",
+      "name": "UT SOUTHWESTERN UNIVERSITY HOSPITAL",
+      "address": "6201 HARRY HINES BLVD",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75390"
+    },
+    {
+      "id": "450046",
+      "name": "CHRISTUS SPOHN HOSPITAL CORPUS CHRISTI",
+      "address": "600 ELIZABETH STREET",
+      "city": "CORPUS CHRISTI",
+      "state": "TX",
+      "zipcode": "78404"
+    },
+    {
+      "id": "450051",
+      "name": "METHODIST DALLAS MEDICAL CENTER",
+      "address": "1441 NORTH BECKLEY AVENUE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75203"
+    },
+    {
+      "id": "450054",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL  CENTER - TEMPLE",
+      "address": "2401 S  31ST ST",
+      "city": "TEMPLE",
+      "state": "TX",
+      "zipcode": "76508"
+    },
+    {
+      "id": "450055",
+      "name": "ROLLING PLAINS MEMORIAL HOSPITAL",
+      "address": "200 E ARIZONA",
+      "city": "SWEETWATER",
+      "state": "TX",
+      "zipcode": "79556"
+    },
+    {
+      "id": "450056",
+      "name": "ASCENSION SETON MEDICAL CENTER AUSTIN",
+      "address": "1201 W 38TH ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78705"
+    },
+    {
+      "id": "450058",
+      "name": "BAPTIST MEDICAL CENTER",
+      "address": "111 DALLAS STREET",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78205"
+    },
+    {
+      "id": "450064",
+      "name": "TEXAS HEALTH ARLINGTON MEMORIAL HOSPITAL",
+      "address": "800 W RANDOL MILL RD",
+      "city": "ARLINGTON",
+      "state": "TX",
+      "zipcode": "76012"
+    },
+    {
+      "id": "450068",
+      "name": "MEMORIAL HERMANN TEXAS MEDICAL CENTER",
+      "address": "6411 FANNIN",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77030"
+    },
+    {
+      "id": "450072",
+      "name": "CHI ST LUKE'S HEALTH BRAZOSPORT",
+      "address": "100 MEDICAL DRIVE",
+      "city": "LAKE JACKSON",
+      "state": "TX",
+      "zipcode": "77566"
+    },
+    {
+      "id": "450076",
+      "name": "UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER",
+      "address": "1515 HOLCOMBE BLVD",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77030"
+    },
+    {
+      "id": "450079",
+      "name": "BAYLOR SCOTT AND WHITE MEDICAL CENTER  IRVING",
+      "address": "1901 N MACARTHUR BLVD",
+      "city": "IRVING",
+      "state": "TX",
+      "zipcode": "75061"
+    },
+    {
+      "id": "450080",
+      "name": "TITUS REGIONAL MEDICAL CENTER",
+      "address": "2001 N JEFFERSON",
+      "city": "MOUNT PLEASANT",
+      "state": "TX",
+      "zipcode": "75455"
+    },
+    {
+      "id": "450082",
+      "name": "CHRISTUS SPOHN HOSPITAL BEEVILLE",
+      "address": "1500 E HOUSTON HWY",
+      "city": "BEEVILLE",
+      "state": "TX",
+      "zipcode": "78102"
+    },
+    {
+      "id": "450083",
+      "name": "UT HEALTH EAST TEXAS TYLER REGIONAL HOSPITAL",
+      "address": "1000 SOUTH BECKHAM AVE",
+      "city": "TYLER",
+      "state": "TX",
+      "zipcode": "75701"
+    },
+    {
+      "id": "450087",
+      "name": "MEDICAL CITY NORTH HILLS",
+      "address": "4401 BOOTH CALLOWAY ROAD",
+      "city": "NORTH RICHLAND HILLS",
+      "state": "TX",
+      "zipcode": "76180"
+    },
+    {
+      "id": "450090",
+      "name": "NORTH TEXAS MEDICAL CENTER",
+      "address": "1900 HOSPITAL BLVD",
+      "city": "GAINESVILLE",
+      "state": "TX",
+      "zipcode": "76240"
+    },
+    {
+      "id": "450092",
+      "name": "FORT DUNCAN MEDICAL CENTER",
+      "address": "3333 N FOSTER MALDONADO BLVD",
+      "city": "EAGLE PASS",
+      "state": "TX",
+      "zipcode": "78852"
+    },
+    {
+      "id": "450097",
+      "name": "HCA HOUSTON HEALTHCARE SOUTHEAST",
+      "address": "4000 SPENCER HWY",
+      "city": "PASADENA",
+      "state": "TX",
+      "zipcode": "77504"
+    },
+    {
+      "id": "450101",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - HILLCREST",
+      "address": "100 HILLCREST MEDICAL BLVD",
+      "city": "WACO",
+      "state": "TX",
+      "zipcode": "76712"
+    },
+    {
+      "id": "450102",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL",
+      "address": "800 EAST DAWSON",
+      "city": "TYLER",
+      "state": "TX",
+      "zipcode": "75701"
+    },
+    {
+      "id": "450104",
+      "name": "GUADALUPE REGIONAL MEDICAL CENTER",
+      "address": "1215 E COURT ST",
+      "city": "SEGUIN",
+      "state": "TX",
+      "zipcode": "78155"
+    },
+    {
+      "id": "450107",
+      "name": "LAS PALMAS MEDICAL CENTER A CAMPUS OF LPDS HEALTHC",
+      "address": "1801 NORTH OREGON STREET",
+      "city": "EL PASO",
+      "state": "TX",
+      "zipcode": "79902"
+    },
+    {
+      "id": "450108",
+      "name": "CONNALLY MEMORIAL MEDICAL CENTER",
+      "address": "499 10TH STREET",
+      "city": "FLORESVILLE",
+      "state": "TX",
+      "zipcode": "78114"
+    },
+    {
+      "id": "450119",
+      "name": "SOUTH TEXAS HEALTH SYSTEM BEHAVIORAL",
+      "address": "1102 W TRENTON ROAD",
+      "city": "EDINBURG",
+      "state": "TX",
+      "zipcode": "78539"
+    },
+    {
+      "id": "450124",
+      "name": "DELL SETON  MED CENTER AT THE UNIVERSITY OF TX",
+      "address": "601 E 15TH STREET",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78701"
+    },
+    {
+      "id": "450128",
+      "name": "KNAPP MEDICAL CENTER",
+      "address": "1401 EAST EIGHT STREET",
+      "city": "WESLACO",
+      "state": "TX",
+      "zipcode": "78596"
+    },
+    {
+      "id": "450132",
+      "name": "MEDICAL CENTER HOSPITAL",
+      "address": "500 W 4TH STREET",
+      "city": "ODESSA",
+      "state": "TX",
+      "zipcode": "79761"
+    },
+    {
+      "id": "450133",
+      "name": "MIDLAND MEMORIAL HOSPITAL",
+      "address": "400 ROSALIND REDFERN GROVER PARKWAY",
+      "city": "MIDLAND",
+      "state": "TX",
+      "zipcode": "79701"
+    },
+    {
+      "id": "450135",
+      "name": "TEXAS HEALTH HARRIS METHODIST FORT WORTH",
+      "address": "1301 PENNSYLVANIA AVENUE",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76104"
+    },
+    {
+      "id": "450137",
+      "name": "BAYLOR SCOTT AND WHITE ALL SAINTS MEDICAL CENTER",
+      "address": "1400 EIGHTH AVE",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76104"
+    },
+    {
+      "id": "450143",
+      "name": "SETON SMITHVILLE REGIONAL HOSPITAL",
+      "address": "1201 HILL RD ATTN: FIN DIR",
+      "city": "SMITHVILLE",
+      "state": "TX",
+      "zipcode": "78957"
+    },
+    {
+      "id": "450144",
+      "name": "PERMIAN REGIONAL MEDICAL CENTER ANDREWS COUNTY HO",
+      "address": "720 HOSPITAL DRIVE",
+      "city": "ANDREWS",
+      "state": "TX",
+      "zipcode": "79714"
+    },
+    {
+      "id": "450147",
+      "name": "DETAR HEALTHCARE SYSTEM",
+      "address": "506 E SAN ANTONIO ST",
+      "city": "VICTORIA",
+      "state": "TX",
+      "zipcode": "77901"
+    },
+    {
+      "id": "450148",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL CLEBURNE",
+      "address": "201 WALLS DRIVE",
+      "city": "CLEBURNE",
+      "state": "TX",
+      "zipcode": "76033"
+    },
+    {
+      "id": "450152",
+      "name": "ADVENTHEALTH CENTRAL TEXAS",
+      "address": "2201 S CLEAR CREEK ROAD",
+      "city": "KILLEEN",
+      "state": "TX",
+      "zipcode": "76542"
+    },
+    {
+      "id": "450154",
+      "name": "VAL VERDE REGIONAL MEDICAL CENTER",
+      "address": "801 BEDELL AVE",
+      "city": "DEL RIO",
+      "state": "TX",
+      "zipcode": "78840"
+    },
+    {
+      "id": "450155",
+      "name": "HEREFORD REGIONAL MEDICAL CENTER",
+      "address": "801 EAST THIRD",
+      "city": "HEREFORD",
+      "state": "TX",
+      "zipcode": "79045"
+    },
+    {
+      "id": "450162",
+      "name": "GRACE SURGICAL HOSPITAL",
+      "address": "2412 50TH ST",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "zipcode": "79412"
+    },
+    {
+      "id": "450163",
+      "name": "CHRISTUS SPOHN HOSPITAL KLEBERG",
+      "address": "1311 GENERAL CAVAZOS BLVD",
+      "city": "KINGSVILLE",
+      "state": "TX",
+      "zipcode": "78363"
+    },
+    {
+      "id": "450165",
+      "name": "METHODIST HOSPITAL | ATASCOSA",
+      "address": "1905 HWY 97 EAST",
+      "city": "JOURDANTON",
+      "state": "TX",
+      "zipcode": "78026"
+    },
+    {
+      "id": "450176",
+      "name": "MISSION REGIONAL MEDICAL CENTER",
+      "address": "900 SOUTH BRYAN ROAD",
+      "city": "MISSION",
+      "state": "TX",
+      "zipcode": "78572"
+    },
+    {
+      "id": "450184",
+      "name": "MEMORIAL HERMANN HOSPITAL SYSTEM",
+      "address": "1635  NORTH LOOP WEST",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77008"
+    },
+    {
+      "id": "450193",
+      "name": "CHI ST LUKE'S HEALTH BAYLOR COLLEGE OF MEDICINE ME",
+      "address": "6720 BERTNER AVE, STE MC1-266",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77030"
+    },
+    {
+      "id": "450194",
+      "name": "UT HEALTH EAST TEXAS JACKSONVILLE HOSPITAL",
+      "address": "501 S RAGSDALE",
+      "city": "JACKSONVILLE",
+      "state": "TX",
+      "zipcode": "75766"
+    },
+    {
+      "id": "450196",
+      "name": "PARIS REGIONAL HEALTH",
+      "address": "865 DESHONG DR",
+      "city": "PARIS",
+      "state": "TX",
+      "zipcode": "75460"
+    },
+    {
+      "id": "450200",
+      "name": "WADLEY REGIONAL MEDICAL CENTER",
+      "address": "1000 PINE STREET",
+      "city": "TEXARKANA",
+      "state": "TX",
+      "zipcode": "75501"
+    },
+    {
+      "id": "450203",
+      "name": "MEDICAL CITY WEATHERFORD",
+      "address": "713 E ANDERSON ST",
+      "city": "WEATHERFORD",
+      "state": "TX",
+      "zipcode": "76086"
+    },
+    {
+      "id": "450209",
+      "name": "NORTHWEST TEXAS HOSPITAL",
+      "address": "1501 S  COULTER ST",
+      "city": "AMARILLO",
+      "state": "TX",
+      "zipcode": "79106"
+    },
+    {
+      "id": "450210",
+      "name": "UT HEALTH EAST TEXAS CARTHAGE HOSPITAL",
+      "address": "409 COTTAGE RD",
+      "city": "CARTHAGE",
+      "state": "TX",
+      "zipcode": "75633"
+    },
+    {
+      "id": "450211",
+      "name": "CHI ST LUKES HEALTH MEMORIAL LUFKIN",
+      "address": "1201 WEST FRANK STREET",
+      "city": "LUFKIN",
+      "state": "TX",
+      "zipcode": "75901"
+    },
+    {
+      "id": "450213",
+      "name": "UNIVERSITY HEALTH SYSTEM",
+      "address": "4502 MEDICAL DR",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78229"
+    },
+    {
+      "id": "450222",
+      "name": "HCA HOUSTON HEALTHCARE CONROE",
+      "address": "504 MEDICAL CENTER BLVD",
+      "city": "CONROE",
+      "state": "TX",
+      "zipcode": "77304"
+    },
+    {
+      "id": "450229",
+      "name": "HENDRICK MEDICAL CENTER",
+      "address": "1900 PINE",
+      "city": "ABILENE",
+      "state": "TX",
+      "zipcode": "79601"
+    },
+    {
+      "id": "450231",
+      "name": "BSA HOSPITAL",
+      "address": "1600 WALLACE BLVD",
+      "city": "AMARILLO",
+      "state": "TX",
+      "zipcode": "79106"
+    },
+    {
+      "id": "450235",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "1110 NORTH SARAH DEWITT DRIVE",
+      "city": "GONZALES",
+      "state": "TX",
+      "zipcode": "78629"
+    },
+    {
+      "id": "450236",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL SULPHUR SPRINGS",
+      "address": "115 AIRPORT RD",
+      "city": "SULPHUR SPRINGS",
+      "state": "TX",
+      "zipcode": "75482"
+    },
+    {
+      "id": "450237",
+      "name": "CHRISTUS SANTA ROSA MEDICAL CENTER",
+      "address": "2827 BABCOCK ROAD",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78229"
+    },
+    {
+      "id": "450241",
+      "name": "FAITH COMMUNITY HOSPITAL",
+      "address": "215 CHISHOLM TRAIL",
+      "city": "JACKSBORO",
+      "state": "TX",
+      "zipcode": "76458"
+    },
+    {
+      "id": "450253",
+      "name": "BELLVILLE MEDICAL CENTER",
+      "address": "44 N CUMMINGS ST",
+      "city": "BELLVILLE",
+      "state": "TX",
+      "zipcode": "77418"
+    },
+    {
+      "id": "450271",
+      "name": "MEDICAL CITY DECATUR",
+      "address": "609 MEDICAL CENTER DRIVE",
+      "city": "DECATUR",
+      "state": "TX",
+      "zipcode": "76234"
+    },
+    {
+      "id": "450272",
+      "name": "CHRISTUS SANTA ROSA HOSPITAL-SAN MARCOS",
+      "address": "1301 WONDER WORLD DRIVE",
+      "city": "SAN MARCOS",
+      "state": "TX",
+      "zipcode": "78666"
+    },
+    {
+      "id": "450289",
+      "name": "HARRIS HEALTH",
+      "address": "2525 HOLLY HALL",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77054"
+    },
+    {
+      "id": "450292",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL KAUFMAN",
+      "address": "850 ED HALL",
+      "city": "KAUFMAN",
+      "state": "TX",
+      "zipcode": "75142"
+    },
+    {
+      "id": "450324",
+      "name": "TEXOMA MEDICAL CENTER",
+      "address": "5016 S US HIGHWAY 75",
+      "city": "DENISON",
+      "state": "TX",
+      "zipcode": "75020"
+    },
+    {
+      "id": "450330",
+      "name": "OAKBEND MEDICAL CENTER",
+      "address": "1705 JACKSON ST",
+      "city": "RICHMOND",
+      "state": "TX",
+      "zipcode": "77469"
+    },
+    {
+      "id": "450346",
+      "name": "BAPTIST BEAUMONT HOSPITAL",
+      "address": "3080 COLLEGE STREET",
+      "city": "BEAUMONT",
+      "state": "TX",
+      "zipcode": "77701"
+    },
+    {
+      "id": "450347",
+      "name": "HUNTSVILLE MEMORIAL HOSPITAL",
+      "address": "110 MEMORIAL HOSPITAL DRIVE",
+      "city": "HUNTSVILLE",
+      "state": "TX",
+      "zipcode": "77340"
+    },
+    {
+      "id": "450351",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL STEPHENVILL",
+      "address": "411 N BELKNAP ST",
+      "city": "STEPHENVILLE",
+      "state": "TX",
+      "zipcode": "76401"
+    },
+    {
+      "id": "450352",
+      "name": "HUNT REGIONAL HEALTHCARE",
+      "address": "4215 JOE RAMSEY BLVD E",
+      "city": "GREENVILLE",
+      "state": "TX",
+      "zipcode": "75401"
+    },
+    {
+      "id": "450358",
+      "name": "HOUSTON METHODIST HOSPITAL",
+      "address": "6565 FANNIN",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77030"
+    },
+    {
+      "id": "450369",
+      "name": "CHILDRESS REGIONAL MEDICAL CENTER",
+      "address": "HWY 83 NORTH",
+      "city": "CHILDRESS",
+      "state": "TX",
+      "zipcode": "79201"
+    },
+    {
+      "id": "450370",
+      "name": "COLUMBUS COMMUNITY HOSPITAL",
+      "address": "110 SHULT DR",
+      "city": "COLUMBUS",
+      "state": "TX",
+      "zipcode": "78934"
+    },
+    {
+      "id": "450372",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- WAXAHACHIE",
+      "address": "2400 N INTERSTATE HIGHWAY 35E",
+      "city": "WAXAHACHIE",
+      "state": "TX",
+      "zipcode": "75165"
+    },
+    {
+      "id": "450379",
+      "name": "DALLAS MEDICAL CENTER",
+      "address": "7 MEDICAL PARKWAY",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75234"
+    },
+    {
+      "id": "450388",
+      "name": "METHODIST HOSPITAL",
+      "address": "7700 FLOYD CURL DR",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78229"
+    },
+    {
+      "id": "450389",
+      "name": "UT HEALTH EAST TEXAS ATHENS HOSPITAL",
+      "address": "2000 SOUTH PALESTINE ST",
+      "city": "ATHENS",
+      "state": "TX",
+      "zipcode": "75751"
+    },
+    {
+      "id": "450395",
+      "name": "CHI ST LUKES HEALTH MEMORIAL LIVINGSTON",
+      "address": "1717 HWY 59 BYPASS",
+      "city": "LIVINGSTON",
+      "state": "TX",
+      "zipcode": "77351"
+    },
+    {
+      "id": "450399",
+      "name": "BROWNFIELD REGIONAL MEDICAL CENTER",
+      "address": "705 EAST FELT STREET",
+      "city": "BROWNFIELD",
+      "state": "TX",
+      "zipcode": "79316"
+    },
+    {
+      "id": "450400",
+      "name": "PARKVIEW REGIONAL HOSPITAL",
+      "address": "600 SOUTH BONHAM STREET",
+      "city": "MEXIA",
+      "state": "TX",
+      "zipcode": "76667"
+    },
+    {
+      "id": "450403",
+      "name": "MEDICAL CITY MCKINNEY",
+      "address": "4500 MEDICAL CENTER DRIVE",
+      "city": "MCKINNEY",
+      "state": "TX",
+      "zipcode": "75069"
+    },
+    {
+      "id": "450411",
+      "name": "EASTLAND MEMORIAL HOSPITAL",
+      "address": "304 S DAUGHERTY STREET",
+      "city": "EASTLAND",
+      "state": "TX",
+      "zipcode": "76448"
+    },
+    {
+      "id": "450419",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL AZLE",
+      "address": "108 DENVER TRAIL",
+      "city": "AZLE",
+      "state": "TX",
+      "zipcode": "76020"
+    },
+    {
+      "id": "450422",
+      "name": "BAYLOR SCOTT AND WHITE MEDICAL CENTER UPTOWN",
+      "address": "2727 EAST LEMMON AVENUE BUILDING I",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75204"
+    },
+    {
+      "id": "450424",
+      "name": "HOUSTON METHODIST BAYTOWN HOSPITAL",
+      "address": "4401 GARTH ROAD",
+      "city": "BAYTOWN",
+      "state": "TX",
+      "zipcode": "77521"
+    },
+    {
+      "id": "450431",
+      "name": "ST DAVID'S MEDICAL CENTER",
+      "address": "919 E 32ND ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78705"
+    },
+    {
+      "id": "450447",
+      "name": "NAVARRO REGIONAL HOSPITAL",
+      "address": "3201 WEST HIGHWAY 22",
+      "city": "CORSICANA",
+      "state": "TX",
+      "zipcode": "75110"
+    },
+    {
+      "id": "450451",
+      "name": "GLEN ROSE MEDICAL CENTER",
+      "address": "1021 HOLDEN STREET",
+      "city": "GLEN ROSE",
+      "state": "TX",
+      "zipcode": "76043"
+    },
+    {
+      "id": "450460",
+      "name": "TYLER COUNTY HOSPITAL",
+      "address": "1100 WEST BLUFF",
+      "city": "WOODVILLE",
+      "state": "TX",
+      "zipcode": "75979"
+    },
+    {
+      "id": "450462",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL  DALLAS",
+      "address": "8200 WALNUT HILL LANE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75231"
+    },
+    {
+      "id": "450465",
+      "name": "MATAGORDA REGIONAL MEDICAL CENTER",
+      "address": "104 7TH STREET",
+      "city": "BAY CITY",
+      "state": "TX",
+      "zipcode": "77414"
+    },
+    {
+      "id": "450469",
+      "name": "WILSON N JONES REGIONAL MEDICAL CENTER",
+      "address": "500 N HIGHLAND AVENUE",
+      "city": "SHERMAN",
+      "state": "TX",
+      "zipcode": "75091"
+    },
+    {
+      "id": "450475",
+      "name": "UT HEALTH EAST TEXAS HENDERSON HOSPITAL",
+      "address": "300 WILSON STREET",
+      "city": "HENDERSON",
+      "state": "TX",
+      "zipcode": "75652"
+    },
+    {
+      "id": "450484",
+      "name": "WOODLAND HEIGHTS MEDICAL CENTER",
+      "address": "505 SOUTH JOHN REDDITT DRIVE",
+      "city": "LUFKIN",
+      "state": "TX",
+      "zipcode": "75904"
+    },
+    {
+      "id": "450489",
+      "name": "MEDICAL ARTS HOSPITAL",
+      "address": "2200 N BRYAN AVE",
+      "city": "LAMESA",
+      "state": "TX",
+      "zipcode": "79331"
+    },
+    {
+      "id": "450498",
+      "name": "STEPHENS MEMORIAL HOSPITAL",
+      "address": "200 SOUTH GENEVA STREET",
+      "city": "BRECKENRIDGE",
+      "state": "TX",
+      "zipcode": "76424"
+    },
+    {
+      "id": "450508",
+      "name": "NACOGDOCHES MEMORIAL HOSPITAL",
+      "address": "1204 MOUND ST",
+      "city": "NACOGDOCHES",
+      "state": "TX",
+      "zipcode": "75961"
+    },
+    {
+      "id": "450518",
+      "name": "THE MEDICAL CENTER OF SOUTHEAST TEXAS",
+      "address": "2555 JIMMY JOHNSON BLVD",
+      "city": "PORT ARTHUR",
+      "state": "TX",
+      "zipcode": "77640"
+    },
+    {
+      "id": "450537",
+      "name": "METHODIST RICHARDSON MEDICAL CENTER",
+      "address": "2831 E PRESIDENT GEORGE BUSH HIGHWAY",
+      "city": "RICHARDSON",
+      "state": "TX",
+      "zipcode": "75082"
+    },
+    {
+      "id": "450539",
+      "name": "COVENANT HOSPITAL PLAINVIEW",
+      "address": "2601 DIMMITT RD",
+      "city": "PLAINVIEW",
+      "state": "TX",
+      "zipcode": "79072"
+    },
+    {
+      "id": "450563",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER  GRAPEVINE",
+      "address": "1650 W COLLEGE ST",
+      "city": "GRAPEVINE",
+      "state": "TX",
+      "zipcode": "76051"
+    },
+    {
+      "id": "450565",
+      "name": "PALO PINTO GENERAL HOSPITAL",
+      "address": "400 SOUTHWEST 25 AVE",
+      "city": "MINERAL WELLS",
+      "state": "TX",
+      "zipcode": "76067"
+    },
+    {
+      "id": "450571",
+      "name": "SHANNON MEDICAL CENTER",
+      "address": "120 E HARRIS AVE.",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "zipcode": "76903"
+    },
+    {
+      "id": "450573",
+      "name": "CHRISTUS JASPER MEMORIAL HOSPITAL",
+      "address": "1275 MARVIN HANCOCK DRIVE",
+      "city": "JASPER",
+      "state": "TX",
+      "zipcode": "75951"
+    },
+    {
+      "id": "450584",
+      "name": "WILBARGER GENERAL HOSPITAL",
+      "address": "920 HILLCREST DR",
+      "city": "VERNON",
+      "state": "TX",
+      "zipcode": "76384"
+    },
+    {
+      "id": "450587",
+      "name": "HENDRICK MEDICAL CENTER BROWNWOOD",
+      "address": "1501 BURNET DR",
+      "city": "BROWNWOOD",
+      "state": "TX",
+      "zipcode": "76801"
+    },
+    {
+      "id": "450596",
+      "name": "LAKE GRANBURY MEDICAL CENTER",
+      "address": "1310 PALUXY RD",
+      "city": "GRANBURY",
+      "state": "TX",
+      "zipcode": "76048"
+    },
+    {
+      "id": "450597",
+      "name": "CUERO REGIONAL HOSPITAL",
+      "address": "2550 N ESPLANADE",
+      "city": "CUERO",
+      "state": "TX",
+      "zipcode": "77954"
+    },
+    {
+      "id": "450604",
+      "name": "HILL COUNTRY MEMORIAL HOSPITAL",
+      "address": "1020 SOUTH STATE HIGHWAY 16",
+      "city": "FREDERICKSBURG",
+      "state": "TX",
+      "zipcode": "78624"
+    },
+    {
+      "id": "450610",
+      "name": "MEMORIAL HERMANN MEMORIAL CITY MEDICAL CENTER",
+      "address": "921 GESSNER",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77024"
+    },
+    {
+      "id": "450617",
+      "name": "HCA HOUSTON HEALTHCARE CLEAR LAKE",
+      "address": "500 W MEDICAL CENTER BLVD",
+      "city": "WEBSTER",
+      "state": "TX",
+      "zipcode": "77598"
+    },
+    {
+      "id": "450634",
+      "name": "MEDICAL CITY DENTON",
+      "address": "3535 SOUTH I35 EAST",
+      "city": "DENTON",
+      "state": "TX",
+      "zipcode": "76210"
+    },
+    {
+      "id": "450638",
+      "name": "HCA HOUSTON HEALTHCARE NORTHWEST",
+      "address": "710 CYPRESS CREEK PARKWAY",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77090"
+    },
+    {
+      "id": "450639",
+      "name": "TEXAS HEALTH HEB",
+      "address": "1600 HOSPITAL PARKWAY",
+      "city": "BEDFORD",
+      "state": "TX",
+      "zipcode": "76022"
+    },
+    {
+      "id": "450641",
+      "name": "NOCONA GENERAL HOSPITAL",
+      "address": "100 PARK ROAD",
+      "city": "NOCONA",
+      "state": "TX",
+      "zipcode": "76255"
+    },
+    {
+      "id": "450643",
+      "name": "DOCTORS HOSPITAL OF LAREDO",
+      "address": "10700 MCPHERSON ROAD",
+      "city": "LAREDO",
+      "state": "TX",
+      "zipcode": "78041"
+    },
+    {
+      "id": "450644",
+      "name": "HCA HOUSTON HEALTHCARE WEST",
+      "address": "12141 RICHMOND AVE",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77082"
+    },
+    {
+      "id": "450647",
+      "name": "MEDICAL CITY DALLAS",
+      "address": "7777 FOREST LANE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75230"
+    },
+    {
+      "id": "450651",
+      "name": "MEDICAL CITY PLANO",
+      "address": "3901 W 15TH ST",
+      "city": "PLANO",
+      "state": "TX",
+      "zipcode": "75075"
+    },
+    {
+      "id": "450653",
+      "name": "SCENIC MOUNTAIN MEDICAL CENTER, A STEWARD FAMILY H",
+      "address": "1601 W 11TH PLACE",
+      "city": "BIG SPRING",
+      "state": "TX",
+      "zipcode": "79720"
+    },
+    {
+      "id": "450654",
+      "name": "STARR COUNTY MEMORIAL HOSPITAL",
+      "address": "128  N FM RD 3167",
+      "city": "RIO GRANDE CITY",
+      "state": "TX",
+      "zipcode": "78582"
+    },
+    {
+      "id": "450656",
+      "name": "NACOGDOCHES MEDICAL CENTER",
+      "address": "4920 NE STALLINGS DRIVE",
+      "city": "NACOGDOCHES",
+      "state": "TX",
+      "zipcode": "75965"
+    },
+    {
+      "id": "450658",
+      "name": "FREESTONE MEDICAL CENTER",
+      "address": "125 NEWMAN ST",
+      "city": "FAIRFIELD",
+      "state": "TX",
+      "zipcode": "75840"
+    },
+    {
+      "id": "450659",
+      "name": "HCA HOUSTON HEALTHCARE MEDICAL CENTER",
+      "address": "1313 HERMANN DR",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77004"
+    },
+    {
+      "id": "450661",
+      "name": "ODESSA REGIONAL MEDICAL CENTER",
+      "address": "520 E 6TH STREET",
+      "city": "ODESSA",
+      "state": "TX",
+      "zipcode": "79761"
+    },
+    {
+      "id": "450662",
+      "name": "VALLEY REGIONAL MEDICAL CENTER",
+      "address": "100 A ALTON GLOOR",
+      "city": "BROWNSVILLE",
+      "state": "TX",
+      "zipcode": "78526"
+    },
+    {
+      "id": "450668",
+      "name": "SIERRA MEDICAL CENTER",
+      "address": "1625 MEDICAL CENTER DR",
+      "city": "EL PASO",
+      "state": "TX",
+      "zipcode": "79902"
+    },
+    {
+      "id": "450669",
+      "name": "MEDICAL CITY LEWISVILLE",
+      "address": "500 WEST MAIN STREET",
+      "city": "LEWISVILLE",
+      "state": "TX",
+      "zipcode": "75057"
+    },
+    {
+      "id": "450670",
+      "name": "HCA HOUSTON HEALTHCARE TOMBALL",
+      "address": "605 HOLDERRIETH",
+      "city": "TOMBALL",
+      "state": "TX",
+      "zipcode": "77375"
+    },
+    {
+      "id": "450672",
+      "name": "MEDICAL CITY FORT WORTH",
+      "address": "900 EIGHTH AVENUE",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76104"
+    },
+    {
+      "id": "450674",
+      "name": "WOMANS HOSPITAL OF TEXAS,THE",
+      "address": "7600 FANNIN",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77054"
+    },
+    {
+      "id": "450675",
+      "name": "MEDICAL CITY ARLINGTON",
+      "address": "3301 MATLOCK ROAD",
+      "city": "ARLINGTON",
+      "state": "TX",
+      "zipcode": "76015"
+    },
+    {
+      "id": "450677",
+      "name": "TEXAS HEALTH HUGULEY HOSPITAL FORT WORTH SOUTH",
+      "address": "11801 SOUTH FREEWAY",
+      "city": "BURLESON",
+      "state": "TX",
+      "zipcode": "76028"
+    },
+    {
+      "id": "450678",
+      "name": "WHITE ROCK MEDICAL CENTER",
+      "address": "9440 POPPY DRIVE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75218"
+    },
+    {
+      "id": "450684",
+      "name": "MEMORIAL HERMANN NORTHEAST HOSPITAL",
+      "address": "18951 MEMORIAL NORTH",
+      "city": "HUMBLE",
+      "state": "TX",
+      "zipcode": "77338"
+    },
+    {
+      "id": "450686",
+      "name": "UNIVERSITY MEDICAL CENTER",
+      "address": "602 INDIANA AVENUE",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "zipcode": "79415"
+    },
+    {
+      "id": "450688",
+      "name": "DALLAS REGIONAL MEDICAL CENTER",
+      "address": "1011 NORTH GALLOWAY AVENUE",
+      "city": "MESQUITE",
+      "state": "TX",
+      "zipcode": "75149"
+    },
+    {
+      "id": "450690",
+      "name": "UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT TYLER",
+      "address": "11937 US HIGHWAY 271",
+      "city": "TYLER",
+      "state": "TX",
+      "zipcode": "75708"
+    },
+    {
+      "id": "450694",
+      "name": "EL CAMPO MEMORIAL HOSPITAL",
+      "address": "303 SANDY CORNER RD",
+      "city": "EL CAMPO",
+      "state": "TX",
+      "zipcode": "77437"
+    },
+    {
+      "id": "450698",
+      "name": "LAMB HEALTHCARE CENTER",
+      "address": "1500 S SUNSET",
+      "city": "LITTLEFIELD",
+      "state": "TX",
+      "zipcode": "79339"
+    },
+    {
+      "id": "450702",
+      "name": "LONGVIEW REGIONAL MEDICAL CENTER",
+      "address": "2901 N FOURTH ST",
+      "city": "LONGVIEW",
+      "state": "TX",
+      "zipcode": "75605"
+    },
+    {
+      "id": "450709",
+      "name": "HOUSTON METHODIST CLEAR LAKE HOSPITAL",
+      "address": "18300 HOUSTON METHODIST DR",
+      "city": "NASSAU BAY",
+      "state": "TX",
+      "zipcode": "77058"
+    },
+    {
+      "id": "450711",
+      "name": "RIO GRANDE REGIONAL HOSPITAL",
+      "address": "101 E RIDGE RD",
+      "city": "MCALLEN",
+      "state": "TX",
+      "zipcode": "78503"
+    },
+    {
+      "id": "450713",
+      "name": "ST DAVID'S SOUTH AUSTIN MEDICAL CENTER",
+      "address": "901 WEST BEN WHITE BLVD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78704"
+    },
+    {
+      "id": "450718",
+      "name": "ROUND ROCK MEDICAL CENTER",
+      "address": "2400 ROUND ROCK AVE",
+      "city": "ROUND ROCK",
+      "state": "TX",
+      "zipcode": "78681"
+    },
+    {
+      "id": "450723",
+      "name": "METHODIST CHARLTON MEDICAL CENTER",
+      "address": "3500 W WHEATLAND ROAD",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75237"
+    },
+    {
+      "id": "450730",
+      "name": "CARROLLTON REGIONAL MEDICAL CENTER",
+      "address": "4343 NORTH JOSEY LANE",
+      "city": "CARROLLTON",
+      "state": "TX",
+      "zipcode": "75010"
+    },
+    {
+      "id": "450742",
+      "name": "BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE",
+      "address": "6800 SCENIC DR",
+      "city": "ROWLETT",
+      "state": "TX",
+      "zipcode": "75088"
+    },
+    {
+      "id": "450743",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL DENTON",
+      "address": "3000 N I-35",
+      "city": "DENTON",
+      "state": "TX",
+      "zipcode": "76201"
+    },
+    {
+      "id": "450747",
+      "name": "PALESTINE REGIONAL MEDICAL CENTER",
+      "address": "2900 S LOOP 256",
+      "city": "PALESTINE",
+      "state": "TX",
+      "zipcode": "75801"
+    },
+    {
+      "id": "450755",
+      "name": "COVENANT HOSPITAL LEVELLAND",
+      "address": "1900 COLLEGE AVE",
+      "city": "LEVELLAND",
+      "state": "TX",
+      "zipcode": "79336"
+    },
+    {
+      "id": "450771",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL PLANO",
+      "address": "6200 W PARKER RD",
+      "city": "PLANO",
+      "state": "TX",
+      "zipcode": "75093"
+    },
+    {
+      "id": "450774",
+      "name": "TOPS SURGICAL SPECIALTY HOSPITAL",
+      "address": "17080 RED OAK DRIVE",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77090"
+    },
+    {
+      "id": "450775",
+      "name": "HCA HOUSTON HEALTHCARE KINGWOOD",
+      "address": "22999 US HWY 59",
+      "city": "KINGWOOD",
+      "state": "TX",
+      "zipcode": "77325"
+    },
+    {
+      "id": "450779",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL SOUTHWEST F",
+      "address": "6100 HARRIS PKWY",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76132"
+    },
+    {
+      "id": "450788",
+      "name": "CORPUS CHRISTI MEDICAL CENTER,THE",
+      "address": "6629 WOODRIDGE ROAD",
+      "city": "CORPUS CHRISTI",
+      "state": "TX",
+      "zipcode": "78414"
+    },
+    {
+      "id": "450801",
+      "name": "CHRISTUS ST MICHAEL HEALTH SYSTEM",
+      "address": "2600 ST MICHAEL DR",
+      "city": "TEXARKANA",
+      "state": "TX",
+      "zipcode": "75503"
+    },
+    {
+      "id": "450804",
+      "name": "TEXAS ORTHOPEDIC HOSPITAL",
+      "address": "7401 SOUTH MAIN STREET",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77030"
+    },
+    {
+      "id": "450808",
+      "name": "NORTHWEST HILLS SURGICAL HOSPITAL",
+      "address": "6818 AUSTIN CTR BLVD SUITE 100",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78731"
+    },
+    {
+      "id": "450809",
+      "name": "NORTH AUSTIN MEDICAL CENTER",
+      "address": "12221 MOPAC EXPRESSWAY NORTH",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78758"
+    },
+    {
+      "id": "450820",
+      "name": "HOUSTON METHODIST SUGARLAND HOSPITAL",
+      "address": "16655 SOUTHWEST FREEWAY",
+      "city": "SUGAR LAND",
+      "state": "TX",
+      "zipcode": "77479"
+    },
+    {
+      "id": "450822",
+      "name": "MEDICAL CITY LAS COLINAS",
+      "address": "6800 N MACARTHUR BLVD",
+      "city": "IRVING",
+      "state": "TX",
+      "zipcode": "75039"
+    },
+    {
+      "id": "450825",
+      "name": "CORNERSTONE REGIONAL HOSPITAL",
+      "address": "2302 CORNERSTONE BOULEVARD",
+      "city": "EDINBURG",
+      "state": "TX",
+      "zipcode": "78539"
+    },
+    {
+      "id": "450827",
+      "name": "KELL WEST REGIONAL HOSPITAL",
+      "address": "5420 KELL WEST BOULEVARD",
+      "city": "WICHITA FALLS",
+      "state": "TX",
+      "zipcode": "76310"
+    },
+    {
+      "id": "450828",
+      "name": "CHRISTUS SPOHN HOSPITAL ALICE",
+      "address": "2500 E MAIN STREET",
+      "city": "ALICE",
+      "state": "TX",
+      "zipcode": "78332"
+    },
+    {
+      "id": "450831",
+      "name": "SURGERY SPECIALTY HOSPITALS OF AMERICA SE HOUSTON",
+      "address": "4301 B VISTA",
+      "city": "PASADENA",
+      "state": "TX",
+      "zipcode": "77504"
+    },
+    {
+      "id": "450833",
+      "name": "ENNIS REGIONAL MEDICAL CENTER",
+      "address": "2201 WEST LAMPASAS STREET",
+      "city": "ENNIS",
+      "state": "TX",
+      "zipcode": "75119"
+    },
+    {
+      "id": "450834",
+      "name": "PHYSICIANS CENTRE,THE",
+      "address": "3131 UNIVERSITY DRIVE EAST",
+      "city": "BRYAN",
+      "state": "TX",
+      "zipcode": "77802"
+    },
+    {
+      "id": "450840",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL ALLEN",
+      "address": "1105 CENTRAL EXPRESSWAY NORTH",
+      "city": "ALLEN",
+      "state": "TX",
+      "zipcode": "75013"
+    },
+    {
+      "id": "450844",
+      "name": "HOUSTON METHODIST WILLOWBROOK HOSPITAL",
+      "address": "18220 STATE HIGHWAY 249",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77070"
+    },
+    {
+      "id": "450847",
+      "name": "MEMORIAL HERMANN KATY HOSPITAL",
+      "address": "23900 KATY FREEWAY",
+      "city": "KATY",
+      "state": "TX",
+      "zipcode": "77494"
+    },
+    {
+      "id": "450848",
+      "name": "MEMORIAL HERMANN SUGAR LAND HOSPITAL",
+      "address": "17500 W GRAND PARKWAY SOUTH",
+      "city": "SUGAR LAND",
+      "state": "TX",
+      "zipcode": "77479"
+    },
+    {
+      "id": "450851",
+      "name": "BAYLOR SCOTT AND WHITE HEART AND VASCULAR HOSPITAL",
+      "address": "621 NORTH HALL STREET",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75226"
+    },
+    {
+      "id": "450853",
+      "name": "BAYLOR MEDICAL CENTER AT FRISCO",
+      "address": "5601 WARREN PARKWAY",
+      "city": "FRISCO",
+      "state": "TX",
+      "zipcode": "75034"
+    },
+    {
+      "id": "450855",
+      "name": "HARLINGEN MEDICAL CENTER",
+      "address": "5501 SOUTH EXPRESSWAY 77",
+      "city": "HARLINGEN",
+      "state": "TX",
+      "zipcode": "78550"
+    },
+    {
+      "id": "450856",
+      "name": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
+      "address": "18600 NORTH HARDY OAK BLVD",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78258"
+    },
+    {
+      "id": "450860",
+      "name": "SUGAR LAND SURGICAL HOSPITAL LLP",
+      "address": "16906 SOUTHWEST FREEWAY",
+      "city": "SUGAR LAND",
+      "state": "TX",
+      "zipcode": "77479"
+    },
+    {
+      "id": "450862",
+      "name": "ST LUKE'S THE WOODLANDS HOSPITAL",
+      "address": "17200 ST LUKE'S WAY",
+      "city": "THE WOODLANDS",
+      "state": "TX",
+      "zipcode": "77384"
+    },
+    {
+      "id": "450864",
+      "name": "BAYLOR SCOTT & WHITE TEXAS SPINE & JOINT HOSPITAL",
+      "address": "1814 ROSELAND BOULEVARD",
+      "city": "TYLER",
+      "state": "TX",
+      "zipcode": "75701"
+    },
+    {
+      "id": "450865",
+      "name": "ASCENSION SETON  SOUTHWEST",
+      "address": "7900 FM 1826",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78737"
+    },
+    {
+      "id": "450867",
+      "name": "ASCENSION SETON NORTHWEST",
+      "address": "11113 RESEARCH BOULEVARD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78759"
+    },
+    {
+      "id": "450869",
+      "name": "DOCTORS HOSPTAL AT RENAISSANCE",
+      "address": "5501 SOUTH MCCOLL",
+      "city": "EDINBURG",
+      "state": "TX",
+      "zipcode": "78539"
+    },
+    {
+      "id": "450871",
+      "name": "ARISE AUSTIN MEDICAL CENTER",
+      "address": "3003 BEE CAVES ROAD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78746"
+    },
+    {
+      "id": "450872",
+      "name": "USMD HOSPITAL AT ARLINGTON L P",
+      "address": "801 W INTERSTATE 20",
+      "city": "ARLINGTON",
+      "state": "TX",
+      "zipcode": "76017"
+    },
+    {
+      "id": "450874",
+      "name": "BAYLOR SCOTT AND WHITE SURGICAL HOSPITAL LAS COLIN",
+      "address": "400 WEST LYNDON B JOHNSON SUITE 101B",
+      "city": "IRVING",
+      "state": "TX",
+      "zipcode": "75063"
+    },
+    {
+      "id": "450875",
+      "name": "QUAIL CREEK SURGICAL HOSPITAL",
+      "address": "6819 PLUM CREEK",
+      "city": "AMARILLO",
+      "state": "TX",
+      "zipcode": "79124"
+    },
+    {
+      "id": "450876",
+      "name": "LUBBOCK HEART HOSPITAL LP",
+      "address": "4810 NORTH LOOP 289",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "zipcode": "79416"
+    },
+    {
+      "id": "450880",
+      "name": "BAYLOR SCOTT AND WHITE SURGICAL HOSPITAL FORTWORTH",
+      "address": "1800 PARK PLACE AVENUE",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76110"
+    },
+    {
+      "id": "450883",
+      "name": "BAYLOR MEDICAL CENTER AT TROPHY CLUB",
+      "address": "2850  E STATE HIGHWAY 114",
+      "city": "TROPHY CLUB",
+      "state": "TX",
+      "zipcode": "76262"
+    },
+    {
+      "id": "450885",
+      "name": "BAYLOR SCOTT &  WHITE MEDICAL CENTER - CENTENNIAL",
+      "address": "12505 LEBANON ROAD",
+      "city": "FRISCO",
+      "state": "TX",
+      "zipcode": "75035"
+    },
+    {
+      "id": "450888",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL SOUTHLAKE",
+      "address": "1545 E SOUTHLAKE BLVD",
+      "city": "SOUTHLAKE",
+      "state": "TX",
+      "zipcode": "76092"
+    },
+    {
+      "id": "450889",
+      "name": "TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT",
+      "address": "7115 GREENVILLE AVENUE SUITE 100",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75231"
+    },
+    {
+      "id": "450890",
+      "name": "BAYLOR REGIONAL MEDICAL CENTER AT PLANO",
+      "address": "4700 ALLIANCE BOULEVARD",
+      "city": "PLANO",
+      "state": "TX",
+      "zipcode": "75093"
+    },
+    {
+      "id": "450891",
+      "name": "TEXAS HEALTH CENTER FOR DIAGNOSTICS & SURGERY PLAN",
+      "address": "6020 W PARKER ROAD",
+      "city": "PLANO",
+      "state": "TX",
+      "zipcode": "75093"
+    },
+    {
+      "id": "450893",
+      "name": "THE HEART HOSPITAL BAYLOR DENTON",
+      "address": "2801 SOUTH MAYHILL ROAD",
+      "city": "DENTON",
+      "state": "TX",
+      "zipcode": "76208"
+    },
+    {
+      "id": "451300",
+      "name": "PARMER COUNTY COMMUNITY HOSPITAL",
+      "address": "1307 CLEVELAND STREET",
+      "city": "FRIONA",
+      "state": "TX",
+      "zipcode": "79035"
+    },
+    {
+      "id": "451301",
+      "name": "REAGAN MEMORIAL HOSPITAL",
+      "address": "1300 N MAIN AVENUE",
+      "city": "BIG LAKE",
+      "state": "TX",
+      "zipcode": "76932"
+    },
+    {
+      "id": "451303",
+      "name": "LIMESTONE MEDICAL CENTER",
+      "address": "701 MCCLINTIC DRIVE",
+      "city": "GROESBECK",
+      "state": "TX",
+      "zipcode": "76642"
+    },
+    {
+      "id": "451304",
+      "name": "SCHLEICHER COUNTY MEDICAL CENTER",
+      "address": "102 NORTH US HIGHWAY 277",
+      "city": "ELDORADO",
+      "state": "TX",
+      "zipcode": "76936"
+    },
+    {
+      "id": "451305",
+      "name": "BURLESON ST JOSEPH HEALTH CENTER",
+      "address": "1101 WOODSON DRIVE",
+      "city": "CALDWELL",
+      "state": "TX",
+      "zipcode": "77836"
+    },
+    {
+      "id": "451306",
+      "name": "KIMBLE HOSPITAL",
+      "address": "349 REID ROAD",
+      "city": "JUNCTION",
+      "state": "TX",
+      "zipcode": "76849"
+    },
+    {
+      "id": "451307",
+      "name": "IRAAN GENERAL HOSPITAL",
+      "address": "600 HIGHWAY 349 NORTH",
+      "city": "IRAAN",
+      "state": "TX",
+      "zipcode": "79744"
+    },
+    {
+      "id": "451308",
+      "name": "YOAKUM COUNTY HOSPITAL",
+      "address": "412 MUSTANG AVENUE",
+      "city": "DENVER CITY",
+      "state": "TX",
+      "zipcode": "79323"
+    },
+    {
+      "id": "451309",
+      "name": "MCCAMEY HOSPITAL",
+      "address": "2500 HWY 305 SOUTH",
+      "city": "MCCAMEY",
+      "state": "TX",
+      "zipcode": "79752"
+    },
+    {
+      "id": "451310",
+      "name": "BALLINGER MEMORIAL HOSPITAL",
+      "address": "608 AVENUE B",
+      "city": "BALLINGER",
+      "state": "TX",
+      "zipcode": "76821"
+    },
+    {
+      "id": "451311",
+      "name": "SWEENY COMMUNITY HOSPITAL",
+      "address": "305 NORTH MCKINNEY",
+      "city": "SWEENY",
+      "state": "TX",
+      "zipcode": "77480"
+    },
+    {
+      "id": "451312",
+      "name": "RICE MEDICAL CENTER",
+      "address": "600 SOUTH AUSTIN ROAD",
+      "city": "EAGLE LAKE",
+      "state": "TX",
+      "zipcode": "77434"
+    },
+    {
+      "id": "451313",
+      "name": "FISHER COUNTY HOSPITAL DISTRICT",
+      "address": "774 STATE HIGHWAY 70 N",
+      "city": "ROTAN",
+      "state": "TX",
+      "zipcode": "79546"
+    },
+    {
+      "id": "451314",
+      "name": "WINKLER COUNTY MEMORIAL HOSPITAL",
+      "address": "821 JEFFEE DRIVE",
+      "city": "KERMIT",
+      "state": "TX",
+      "zipcode": "79745"
+    },
+    {
+      "id": "451315",
+      "name": "NORTH RUNNELS HOSPITAL",
+      "address": "7821 STATE HIGHWAY 153",
+      "city": "WINTERS",
+      "state": "TX",
+      "zipcode": "79567"
+    },
+    {
+      "id": "451316",
+      "name": "MADISON ST JOSEPH HEALTH CENTER",
+      "address": "100 WEST CROSS STREET",
+      "city": "MADISONVILLE",
+      "state": "TX",
+      "zipcode": "77864"
+    },
+    {
+      "id": "451317",
+      "name": "REFUGIO COUNTY MEMORIAL HOSPITAL",
+      "address": "107 SWIFT STREET",
+      "city": "REFUGIO",
+      "state": "TX",
+      "zipcode": "78377"
+    },
+    {
+      "id": "451318",
+      "name": "STONEWALL MEMORIAL HOSPITAL DISTRICT",
+      "address": "821 NORTH BROADWAY",
+      "city": "ASPERMONT",
+      "state": "TX",
+      "zipcode": "79502"
+    },
+    {
+      "id": "451319",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL- JACKSONVILLE",
+      "address": "2026 S JACKSON STREET",
+      "city": "JACKSONVILLE",
+      "state": "TX",
+      "zipcode": "75766"
+    },
+    {
+      "id": "451320",
+      "name": "BAYSIDE COMMUNITY HOSPITAL",
+      "address": "200 HOSPITAL DRIVE",
+      "city": "ANAHUAC",
+      "state": "TX",
+      "zipcode": "77514"
+    },
+    {
+      "id": "451322",
+      "name": "GRIMES ST JOSEPH HEALTH CENTER",
+      "address": "210 JUDSON ST",
+      "city": "NAVASOTA",
+      "state": "TX",
+      "zipcode": "77868"
+    },
+    {
+      "id": "451323",
+      "name": "ADVENTHEALTH ROLLINS BROOK",
+      "address": "608 NORTH KEY AVENUE",
+      "city": "LAMPASAS",
+      "state": "TX",
+      "zipcode": "76550"
+    },
+    {
+      "id": "451324",
+      "name": "LILLIAN M HUDSPETH MEMORIAL HOSPITAL",
+      "address": "308 HUDSPETH",
+      "city": "SONORA",
+      "state": "TX",
+      "zipcode": "76950"
+    },
+    {
+      "id": "451325",
+      "name": "CONCHO COUNTY HOSPITAL",
+      "address": "614 EAKER STREET",
+      "city": "EDEN",
+      "state": "TX",
+      "zipcode": "76837"
+    },
+    {
+      "id": "451328",
+      "name": "RICELAND MEDICAL CENTER",
+      "address": "538 BROADWAY",
+      "city": "WINNIE",
+      "state": "TX",
+      "zipcode": "77665"
+    },
+    {
+      "id": "451329",
+      "name": "RANKIN HOSPITAL MEDICAL CLINIC",
+      "address": "1611 SPUR 576",
+      "city": "RANKIN",
+      "state": "TX",
+      "zipcode": "79778"
+    },
+    {
+      "id": "451330",
+      "name": "MEDINA REGIONAL HOSPITAL",
+      "address": "3100 AVENUE E",
+      "city": "HONDO",
+      "state": "TX",
+      "zipcode": "78861"
+    },
+    {
+      "id": "451331",
+      "name": "COON MEMORIAL HOSPITAL",
+      "address": "1411 DENVER AVENUE",
+      "city": "DALHART",
+      "state": "TX",
+      "zipcode": "79022"
+    },
+    {
+      "id": "451332",
+      "name": "PALACIOS COMMUNITY MEDICAL CENTER",
+      "address": "311 GREEN AVENUE",
+      "city": "PALACIOS",
+      "state": "TX",
+      "zipcode": "77465"
+    },
+    {
+      "id": "451333",
+      "name": "MARTIN COUNTY HOSPITAL DISTRICT",
+      "address": "600 E INTERSTATE 20     PO BOX 640",
+      "city": "STANTON",
+      "state": "TX",
+      "zipcode": "79782"
+    },
+    {
+      "id": "451334",
+      "name": "PARKVIEW HOSPITAL",
+      "address": "901 S. SWEETWATER",
+      "city": "WHEELER",
+      "state": "TX",
+      "zipcode": "79096"
+    },
+    {
+      "id": "451335",
+      "name": "MUENSTER MEMORIAL HOSPITAL",
+      "address": "605 N MAPLE STREET",
+      "city": "MUENSTER",
+      "state": "TX",
+      "zipcode": "76252"
+    },
+    {
+      "id": "451337",
+      "name": "W J MANGOLD MEMORIAL HOSPITAL",
+      "address": "320 NORTH MAIN",
+      "city": "LOCKNEY",
+      "state": "TX",
+      "zipcode": "79241"
+    },
+    {
+      "id": "451338",
+      "name": "CULBERSON HOSPITAL",
+      "address": "EISENHOWER ROAD AND FM 2185",
+      "city": "VAN HORN",
+      "state": "TX",
+      "zipcode": "79855"
+    },
+    {
+      "id": "451339",
+      "name": "THROCKMORTON COUNTY MEMORIAL HOSPITAL",
+      "address": "802 N MINTER AVENUE",
+      "city": "THROCKMORTON",
+      "state": "TX",
+      "zipcode": "76483"
+    },
+    {
+      "id": "451340",
+      "name": "SHAMROCK GENERAL HOSPITAL",
+      "address": "1000 SOUTH MAIN STREET",
+      "city": "SHAMROCK",
+      "state": "TX",
+      "zipcode": "79079"
+    },
+    {
+      "id": "451341",
+      "name": "HASKELL MEMORIAL HOSPITAL",
+      "address": "1 NORTH AVENUE N  PO BOX 1117",
+      "city": "HASKELL",
+      "state": "TX",
+      "zipcode": "79521"
+    },
+    {
+      "id": "451342",
+      "name": "MITCHELL COUNTY HOSPITAL DISTRICT",
+      "address": "997 WEST I-20",
+      "city": "COLORADO CITY",
+      "state": "TX",
+      "zipcode": "79512"
+    },
+    {
+      "id": "451343",
+      "name": "ELECTRA MEMORIAL HOSPITAL",
+      "address": "1207 S BAILEY STREET",
+      "city": "ELECTRA",
+      "state": "TX",
+      "zipcode": "76360"
+    },
+    {
+      "id": "451344",
+      "name": "HANSFORD COUNTY HOSPITAL",
+      "address": "707 ROLAND ST",
+      "city": "SPEARMAN",
+      "state": "TX",
+      "zipcode": "79081"
+    },
+    {
+      "id": "451346",
+      "name": "YOAKUM COMMUNITY HOSPITAL",
+      "address": "1200 CARL RAMERT DRIVE",
+      "city": "YOAKUM",
+      "state": "TX",
+      "zipcode": "77995"
+    },
+    {
+      "id": "451347",
+      "name": "COLEMAN COUNTY MEDICAL CENTER COMPANY",
+      "address": "310 SOUTH PECOS STREET",
+      "city": "COLEMAN",
+      "state": "TX",
+      "zipcode": "76834"
+    },
+    {
+      "id": "451348",
+      "name": "HEART OF TEXAS MEMORIAL HOSPITAL",
+      "address": "2008 NINE ROAD",
+      "city": "BRADY",
+      "state": "TX",
+      "zipcode": "76825"
+    },
+    {
+      "id": "451349",
+      "name": "SWISHER MEMORIAL HOSPITAL",
+      "address": "539 SOUTHEAST 2ND",
+      "city": "TULIA",
+      "state": "TX",
+      "zipcode": "79088"
+    },
+    {
+      "id": "451350",
+      "name": "PLAINS MEMORIAL HOSPITAL",
+      "address": "310 WEST HALSELL STREET",
+      "city": "DIMMITT",
+      "state": "TX",
+      "zipcode": "79027"
+    },
+    {
+      "id": "451351",
+      "name": "LYNN COUNTY HOSPITAL DISTRICT",
+      "address": "2600 LOCKWOOD STREET",
+      "city": "TAHOKA",
+      "state": "TX",
+      "zipcode": "79373"
+    },
+    {
+      "id": "451352",
+      "name": "HARDEMAN COUNTY MEMORIAL HOSPITAL",
+      "address": "402 MERCER ST",
+      "city": "QUANAH",
+      "state": "TX",
+      "zipcode": "79252"
+    },
+    {
+      "id": "451353",
+      "name": "CRANE COUNTY HOSPITAL DISTRICT",
+      "address": "1310 S ALFORD ST",
+      "city": "CRANE",
+      "state": "TX",
+      "zipcode": "79731"
+    },
+    {
+      "id": "451354",
+      "name": "HAMILTON HOSPITAL",
+      "address": "901 WEST HAMILTON",
+      "city": "OLNEY",
+      "state": "TX",
+      "zipcode": "76374"
+    },
+    {
+      "id": "451355",
+      "name": "COLLINGSWORTH GENERAL HOSPITAL",
+      "address": "1013 15TH ST",
+      "city": "WELLINGTON",
+      "state": "TX",
+      "zipcode": "79095"
+    },
+    {
+      "id": "451356",
+      "name": "MEMORIAL MEDICAL CENTER",
+      "address": "701 N VIRGINIA ST",
+      "city": "PORT LAVACA",
+      "state": "TX",
+      "zipcode": "77979"
+    },
+    {
+      "id": "451358",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "209 NORTHWEST 8TH STREET",
+      "city": "SEMINOLE",
+      "state": "TX",
+      "zipcode": "79360"
+    },
+    {
+      "id": "451359",
+      "name": "OCHILTREE GENERAL HOSPITAL",
+      "address": "3101 GARRETT DRIVE",
+      "city": "PERRYTON",
+      "state": "TX",
+      "zipcode": "79070"
+    },
+    {
+      "id": "451361",
+      "name": "SABINE COUNTY HOSPITAL",
+      "address": "PO BOX 750, 2301 HWY 83 W",
+      "city": "HEMPHILL",
+      "state": "TX",
+      "zipcode": "75948"
+    },
+    {
+      "id": "451362",
+      "name": "CLAY COUNTY MEMORIAL HOSPITAL",
+      "address": "310 W SOUTH STREET",
+      "city": "HENRIETTA",
+      "state": "TX",
+      "zipcode": "76365"
+    },
+    {
+      "id": "451363",
+      "name": "JACKSON HEALTHCARE CENTER",
+      "address": "1013 S WELLS",
+      "city": "EDNA",
+      "state": "TX",
+      "zipcode": "77957"
+    },
+    {
+      "id": "451364",
+      "name": "OTTO KAISER MEMORIAL HOSPITAL",
+      "address": "3349 S HIGHWAY 181",
+      "city": "KENEDY",
+      "state": "TX",
+      "zipcode": "78119"
+    },
+    {
+      "id": "451365",
+      "name": "ASCENSION SETON HIGHLAND LAKES",
+      "address": "3201 S WATER ST",
+      "city": "BURNET",
+      "state": "TX",
+      "zipcode": "78611"
+    },
+    {
+      "id": "451366",
+      "name": "COCHRAN MEMORIAL HOSPITAL",
+      "address": "205 E GRANT STREET",
+      "city": "MORTON",
+      "state": "TX",
+      "zipcode": "79346"
+    },
+    {
+      "id": "451367",
+      "name": "UT HEALTH EAST TEXAS PITTSBURG HOSPITAL",
+      "address": "2701 US HWY 271 N",
+      "city": "PITTSBURG",
+      "state": "TX",
+      "zipcode": "75686"
+    },
+    {
+      "id": "451369",
+      "name": "GOLDEN PLAINS COMMUNITY HOSPITAL",
+      "address": "100 MEDICAL DRIVE",
+      "city": "BORGER",
+      "state": "TX",
+      "zipcode": "79007"
+    },
+    {
+      "id": "451370",
+      "name": "TMC- BONHAM HOSPITAL",
+      "address": "504 LIPSCOMB STREET",
+      "city": "BONHAM",
+      "state": "TX",
+      "zipcode": "75418"
+    },
+    {
+      "id": "451371",
+      "name": "ASCENSION SETON EDGAR B DAVIS",
+      "address": "130 HAYS STREET",
+      "city": "LULING",
+      "state": "TX",
+      "zipcode": "78648"
+    },
+    {
+      "id": "451372",
+      "name": "MULESHOE AREA MEDICAL CENTER",
+      "address": "708 S 1ST ST",
+      "city": "MULESHOE",
+      "state": "TX",
+      "zipcode": "79347"
+    },
+    {
+      "id": "451373",
+      "name": "WARD MEMORIAL HOSPITAL",
+      "address": "406 SOUTH GARY ST",
+      "city": "MONAHANS",
+      "state": "TX",
+      "zipcode": "79756"
+    },
+    {
+      "id": "451374",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER -TAYLOR",
+      "address": "305 MALLARD",
+      "city": "TAYLOR",
+      "state": "TX",
+      "zipcode": "76574"
+    },
+    {
+      "id": "451375",
+      "name": "LIBERTY DAYTON REGIONAL MEDICAL CENTER",
+      "address": "1353 N TRAVIS ST",
+      "city": "LIBERTY",
+      "state": "TX",
+      "zipcode": "77575"
+    },
+    {
+      "id": "451376",
+      "name": "LAVACA MEDICAL CENTER",
+      "address": "1400 NORTH TEXANA STREET",
+      "city": "HALLETTSVILLE",
+      "state": "TX",
+      "zipcode": "77964"
+    },
+    {
+      "id": "451377",
+      "name": "REEVES COUNTY HOSPITAL DISTRICT",
+      "address": "2349 MEDICAL DRIVE",
+      "city": "PECOS",
+      "state": "TX",
+      "zipcode": "79772"
+    },
+    {
+      "id": "451378",
+      "name": "BIG BEND REGIONAL MEDICAL CENTER",
+      "address": "2600 HIGHWAY 118 NORTH",
+      "city": "ALPINE",
+      "state": "TX",
+      "zipcode": "79830"
+    },
+    {
+      "id": "451379",
+      "name": "CORYELL MEMORIAL HOSPITAL",
+      "address": "1507 W MAIN STREET",
+      "city": "GATESVILLE",
+      "state": "TX",
+      "zipcode": "76528"
+    },
+    {
+      "id": "451380",
+      "name": "UT HEALTH EAST TEXAS QUITMAN HOSPITAL",
+      "address": "117 WINNSBORO STREET",
+      "city": "QUITMAN",
+      "state": "TX",
+      "zipcode": "75783"
+    },
+    {
+      "id": "451381",
+      "name": "CHRISTUS MOTHER FRANCES HOSPITAL- WINNSBORO",
+      "address": "719 WEST COKE ROAD",
+      "city": "WINNSBORO",
+      "state": "TX",
+      "zipcode": "75494"
+    },
+    {
+      "id": "451382",
+      "name": "COMANCHE COUNTY MEDICAL CENTER",
+      "address": "10201 HWY 16",
+      "city": "COMANCHE",
+      "state": "TX",
+      "zipcode": "76442"
+    },
+    {
+      "id": "451384",
+      "name": "COGDELL MEMORIAL HOSPITAL",
+      "address": "1700 COGDELL BLVD",
+      "city": "SNYDER",
+      "state": "TX",
+      "zipcode": "79549"
+    },
+    {
+      "id": "451385",
+      "name": "GOODALL WITCHER HOSPITAL",
+      "address": "101 POSEY AVENUE",
+      "city": "CLIFTON",
+      "state": "TX",
+      "zipcode": "76634"
+    },
+    {
+      "id": "451386",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "224 E SECOND STREET",
+      "city": "DUMAS",
+      "state": "TX",
+      "zipcode": "79029"
+    },
+    {
+      "id": "451387",
+      "name": "UVALDE MEMORIAL HOSPITAL",
+      "address": "1025 GARNER FIELD ROAD",
+      "city": "UVALDE",
+      "state": "TX",
+      "zipcode": "78801"
+    },
+    {
+      "id": "451389",
+      "name": "PECOS COUNTY MEMORIAL HOSPITAL",
+      "address": "387 WEST I 10",
+      "city": "FORT STOCKTON",
+      "state": "TX",
+      "zipcode": "79735"
+    },
+    {
+      "id": "451390",
+      "name": "DIMMIT REGIONAL HOSPITAL",
+      "address": "704 HOSPITAL DRIVE",
+      "city": "CARRIZO SPRINGS",
+      "state": "TX",
+      "zipcode": "78834"
+    },
+    {
+      "id": "451391",
+      "name": "FRIO REGIONAL HOSPITAL",
+      "address": "200 S IH 35",
+      "city": "PEARSALL",
+      "state": "TX",
+      "zipcode": "78061"
+    },
+    {
+      "id": "451392",
+      "name": "HAMILTON GENERAL HOSPITAL",
+      "address": "400 N BROWN, BUILDING 1",
+      "city": "HAMILTON",
+      "state": "TX",
+      "zipcode": "76531"
+    },
+    {
+      "id": "451393",
+      "name": "CROCKETT MEDICAL CENTER",
+      "address": "1100 E LOOP 304",
+      "city": "CROCKETT",
+      "state": "TX",
+      "zipcode": "75835"
+    },
+    {
+      "id": "451394",
+      "name": "KNOX COUNTY HOSPITAL",
+      "address": "701 SOUTHEAST  5TH STREET",
+      "city": "KNOX CITY",
+      "state": "TX",
+      "zipcode": "79529"
+    },
+    {
+      "id": "451395",
+      "name": "HILL REGIONAL HOSPITAL",
+      "address": "101 CIRCLE DRIVE",
+      "city": "HILLSBORO",
+      "state": "TX",
+      "zipcode": "76645"
+    },
+    {
+      "id": "451396",
+      "name": "MID COAST MEDICAL CENTER - CENTRAL",
+      "address": "200 W OLLIE",
+      "city": "LLANO",
+      "state": "TX",
+      "zipcode": "78643"
+    },
+    {
+      "id": "451397",
+      "name": "BAYLOR SCOTT & WHITE HOSPITAL BRENHAM",
+      "address": "700 MEDICAL PARKWAY",
+      "city": "BRENHAM",
+      "state": "TX",
+      "zipcode": "77833"
+    },
+    {
+      "id": "451398",
+      "name": "PAMPA REGIONAL MEDICAL CENTER",
+      "address": "1 MEDICAL PLAZA",
+      "city": "PAMPA",
+      "state": "TX",
+      "zipcode": "79065"
+    },
+    {
+      "id": "451399",
+      "name": "SEYMOUR HOSPITAL",
+      "address": "200 STADIUM DRIVE",
+      "city": "SEYMOUR",
+      "state": "TX",
+      "zipcode": "76380"
+    },
+    {
+      "id": "670005",
+      "name": "MEMORIAL HERMANN SURGICAL HOSPITAL KINGWOOD",
+      "address": "300 KINGWOOD MEDICAL DRIVE",
+      "city": "KINGWOOD",
+      "state": "TX",
+      "zipcode": "77339"
+    },
+    {
+      "id": "670006",
+      "name": "THE HOSPITAL AT WESTLAKE MEDICAL CENTER",
+      "address": "5656 BEE CAVES ROAD, SUITE M-302",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78746"
+    },
+    {
+      "id": "670008",
+      "name": "HOUSTON PHYSICIANS' HOSPITAL",
+      "address": "333 N TEXAS AVENUE",
+      "city": "WEBSTER",
+      "state": "TX",
+      "zipcode": "77598"
+    },
+    {
+      "id": "670010",
+      "name": "MAYHILL HOSPITAL",
+      "address": "2809 SOUTH MAYHILL ROAD",
+      "city": "DENTON",
+      "state": "TX",
+      "zipcode": "76208"
+    },
+    {
+      "id": "670023",
+      "name": "METHODIST MANSFIELD MEDICAL CENTER",
+      "address": "2700 E BROAD STREET",
+      "city": "MANSFIELD",
+      "state": "TX",
+      "zipcode": "76063"
+    },
+    {
+      "id": "670025",
+      "name": "BAYLOR SOTT & WHITE THE HEART HOSPITAL PLANO",
+      "address": "1100 ALLIED DRIVE",
+      "city": "PLANO",
+      "state": "TX",
+      "zipcode": "75093"
+    },
+    {
+      "id": "670031",
+      "name": "ST LUKE'S PATIENTS MEDICAL CENTER",
+      "address": "4600 EAST SAM HOUSTON PARKWAY SOUTH",
+      "city": "PASADENA",
+      "state": "TX",
+      "zipcode": "77505"
+    },
+    {
+      "id": "670034",
+      "name": "SCOTT & WHITE HOSPITAL-ROUND ROCK",
+      "address": "300 UNIVERSITY BLVD",
+      "city": "ROUND ROCK",
+      "state": "TX",
+      "zipcode": "78664"
+    },
+    {
+      "id": "670041",
+      "name": "ASCENSION SETON WILLIAMSON",
+      "address": "201 SETON PARKWAY",
+      "city": "ROUND ROCK",
+      "state": "TX",
+      "zipcode": "78664"
+    },
+    {
+      "id": "670043",
+      "name": "CEDAR PARK REGIONAL MEDICAL CENTER",
+      "address": "1401 MEDICAL PARKWAY",
+      "city": "CEDAR PARK",
+      "state": "TX",
+      "zipcode": "78613"
+    },
+    {
+      "id": "670044",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL ROCKWALL",
+      "address": "3150 HORIZON ROAD",
+      "city": "ROCKWALL",
+      "state": "TX",
+      "zipcode": "75032"
+    },
+    {
+      "id": "670047",
+      "name": "THE HOSPITALS OF PROVIDENCE EAST CAMPUS",
+      "address": "3280 JOE BATTLE BLVD",
+      "city": "EL PASO",
+      "state": "TX",
+      "zipcode": "79938"
+    },
+    {
+      "id": "670049",
+      "name": "NORTH CENTRAL SURGICAL CENTER LLP",
+      "address": "9301 NORTH CENTRAL EXPRESSWAY SUITE 100",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75231"
+    },
+    {
+      "id": "670053",
+      "name": "ST LUKE'S SUGAR LAND HOSPITAL",
+      "address": "1317 LAKE POINTE PARKWAY",
+      "city": "SUGAR LAND",
+      "state": "TX",
+      "zipcode": "77478"
+    },
+    {
+      "id": "670054",
+      "name": "FOUNDATION SURGICAL HOSPITAL OF SAN ANTONIO",
+      "address": "9522 HUEBNER ROAD",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78240"
+    },
+    {
+      "id": "670055",
+      "name": "METHODIST HOSPITAL  STONE OAK",
+      "address": "1139 E SONTERRA BLVD,",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78258"
+    },
+    {
+      "id": "670056",
+      "name": "ASCENSION  SETON HAYS",
+      "address": "6001 KYLE PKWY",
+      "city": "KYLE",
+      "state": "TX",
+      "zipcode": "78640"
+    },
+    {
+      "id": "670059",
+      "name": "ST LUKES LAKESIDE HOSPITAL",
+      "address": "17400 ST LUKES WAY",
+      "city": "THE WOODLANDS",
+      "state": "TX",
+      "zipcode": "77384"
+    },
+    {
+      "id": "670060",
+      "name": "BAYLOR SCOTT AND WHITE MEDICAL CENTER SUNNYVALE",
+      "address": "231 SOUTH COLLINS ROAD",
+      "city": "SUNNYVALE",
+      "state": "TX",
+      "zipcode": "75182"
+    },
+    {
+      "id": "670062",
+      "name": "BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL",
+      "address": "26791 HIGHWAY 380",
+      "city": "AUBREY",
+      "state": "TX",
+      "zipcode": "76227"
+    },
+    {
+      "id": "670067",
+      "name": "BAYLOR SCOTT AND WHITE ORTHOPEDIC AND SPINE HOSPI",
+      "address": "707 HIGHLANDER BLVD",
+      "city": "ARLINGTON",
+      "state": "TX",
+      "zipcode": "76015"
+    },
+    {
+      "id": "670068",
+      "name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL FLOWER MOUND",
+      "address": "4400 LONG PRAIRIE ROAD",
+      "city": "FLOWER MOUND",
+      "state": "TX",
+      "zipcode": "75028"
+    },
+    {
+      "id": "670069",
+      "name": "METHODIST MCKINNEY HOSPITAL",
+      "address": "8000 W ELDORADO PKWY BLDG C SUITE C",
+      "city": "MCKINNEY",
+      "state": "TX",
+      "zipcode": "75070"
+    },
+    {
+      "id": "670071",
+      "name": "TEXAS HEALTH HEART & VASCULAR HOSPITAL ARLINGTON",
+      "address": "811 WRIGHT STREET",
+      "city": "ARLINGTON",
+      "state": "TX",
+      "zipcode": "76012"
+    },
+    {
+      "id": "670073",
+      "name": "METHODIST HOSPITAL FOR SURGERY",
+      "address": "17101 DALLAS PARKWAY",
+      "city": "ADDISON",
+      "state": "TX",
+      "zipcode": "75001"
+    },
+    {
+      "id": "670075",
+      "name": "ST LUKE'S HOSPITAL AT THE VINTAGE",
+      "address": "20171 CHASEWOOD PARK DRIVE",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77070"
+    },
+    {
+      "id": "670076",
+      "name": "BAYLOR SCOTT AND WHITE SURGICAL HOSPITAL AT SHERMA",
+      "address": "3601 CALAIS DRIVE",
+      "city": "SHERMAN",
+      "state": "TX",
+      "zipcode": "75090"
+    },
+    {
+      "id": "670077",
+      "name": "HOUSTON METHODIST WEST HOSPITAL",
+      "address": "18500 KATY FREEWAY",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77094"
+    },
+    {
+      "id": "670078",
+      "name": "BAPTIST NEIGHBORHOOD HOSPITAL THOUSAND OAKS",
+      "address": "16088 SAN PEDRO",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78232"
+    },
+    {
+      "id": "670080",
+      "name": "SETON MEDICAL CENTER HARKER HEIGHTS",
+      "address": "850 W CENTRAL TEXAS EXPRESSWAY",
+      "city": "HARKER HEIGHTS",
+      "state": "TX",
+      "zipcode": "76548"
+    },
+    {
+      "id": "670082",
+      "name": "BAYLOR SCOTT AND WHITE  MEDICAL CENTER  MCKINNEY",
+      "address": "5252 WEST UNIVERSITY DRIVE",
+      "city": "MC KINNEY",
+      "state": "TX",
+      "zipcode": "75071"
+    },
+    {
+      "id": "670085",
+      "name": "TEXAS HEALTH HARRIS METHODIST HOSPITAL ALLIANCE",
+      "address": "10864 TEXAS HEALTH TRAIL",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76244"
+    },
+    {
+      "id": "670088",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- COLLEGE STATI",
+      "address": "700 SCOTT & WHITE DRIVE",
+      "city": "COLLEGE STATION",
+      "state": "TX",
+      "zipcode": "77845"
+    },
+    {
+      "id": "670090",
+      "name": "CRESCENT MEDICAL CENTER LANCASTER",
+      "address": "2600 WEST PLEASANT RUN ROAD",
+      "city": "LANCASTER",
+      "state": "TX",
+      "zipcode": "75146"
+    },
+    {
+      "id": "670093",
+      "name": "ASPIRE HOSPITAL",
+      "address": "2006 SOUTH LOOP 336 WEST, SUITE 500",
+      "city": "CONROE",
+      "state": "TX",
+      "zipcode": "77304"
+    },
+    {
+      "id": "670098",
+      "name": "RESOLUTE HEALTH HOSPITAL",
+      "address": "555 CREEKSIDE XING,",
+      "city": "NEW BRAUNFELS",
+      "state": "TX",
+      "zipcode": "78130"
+    },
+    {
+      "id": "670102",
+      "name": "AD HOSPITAL EAST, LLC",
+      "address": "12950 EAST FREEWAY, SUITE 100",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77015"
+    },
+    {
+      "id": "670103",
+      "name": "MEDICAL CITY ALLIANCE",
+      "address": "3101 NORTH TARRANT PARKWAY",
+      "city": "FORT WORTH",
+      "state": "TX",
+      "zipcode": "76177"
+    },
+    {
+      "id": "670106",
+      "name": "HCA HOUSTON HEALTHCARE PEARLAND",
+      "address": "11100 SHADOW CREEK PARKWAY",
+      "city": "PEARLAND",
+      "state": "TX",
+      "zipcode": "77584"
+    },
+    {
+      "id": "670107",
+      "name": "BAYLOR SCOTT AND WHITE EMERGENCY HOSPITAL",
+      "address": "12500 SOUTH FREEWAY SUITE 100",
+      "city": "BURLESON",
+      "state": "TX",
+      "zipcode": "76028"
+    },
+    {
+      "id": "670108",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - MARBLE FALLS",
+      "address": "810 W HIGHWAY 71",
+      "city": "MARBLE FALLS",
+      "state": "TX",
+      "zipcode": "78654"
+    },
+    {
+      "id": "670109",
+      "name": "ALTUS BAYTOWN HOSPITAL",
+      "address": "1626 W BAKER ROAD",
+      "city": "BAYTOWN",
+      "state": "TX",
+      "zipcode": "77521"
+    },
+    {
+      "id": "670112",
+      "name": "LEGENT ORTHOPEDIC + SPINE",
+      "address": "5330 NORTH LOOP 1604 WEST",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78249"
+    },
+    {
+      "id": "670115",
+      "name": "CLEVELAND EMERGENCY HOSPITAL",
+      "address": "8901 FM 1960 BYPASS RD W, SUITE 105",
+      "city": "HUMBLE",
+      "state": "TX",
+      "zipcode": "77338"
+    },
+    {
+      "id": "670120",
+      "name": "THE HOSPITALS OF PROVIDENCE TRANSMOUNTAIN CAMPUS",
+      "address": "2000 TRANSMOUNTAIN RD",
+      "city": "EL PASO",
+      "state": "TX",
+      "zipcode": "79911"
+    },
+    {
+      "id": "670121",
+      "name": "SAINT CAMILLUS MEDICAL CENTER",
+      "address": "1612 HURST TOWN CENTER DRIVE",
+      "city": "HURST",
+      "state": "TX",
+      "zipcode": "76054"
+    },
+    {
+      "id": "670122",
+      "name": "HOUSTON METHODIST THE WOODLANDS HOSPITAL",
+      "address": "17201 INTERSTATE 45 SOUTH",
+      "city": "THE WOODLANDS",
+      "state": "TX",
+      "zipcode": "77385"
+    },
+    {
+      "id": "670124",
+      "name": "THE HOSPITALS OF PROVIDENCE HORIZON CITY CAMPUS",
+      "address": "13600 HORIZON STREET, SUITE 100",
+      "city": "HORIZON CITY",
+      "state": "TX",
+      "zipcode": "79928"
+    },
+    {
+      "id": "670125",
+      "name": "TEXAS CENTER FOR INFECTIOUS DISEASE",
+      "address": "2303 SE MILITARY DR P O BOX 23340",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "zipcode": "78223"
+    },
+    {
+      "id": "670128",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - PFLUGERVILLE",
+      "address": "2600 EAST  PFLUGERVILLE  PARKWAY",
+      "city": "PFLUGERVILLE",
+      "state": "TX",
+      "zipcode": "78660"
+    },
+    {
+      "id": "670131",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - BUDA",
+      "address": "5330 OVERPASS ROAD SUITE 110",
+      "city": "BUDA",
+      "state": "TX",
+      "zipcode": "78610"
+    },
+    {
+      "id": "670132",
+      "name": "METHODIST SOUTHLAKE MEDICAL CENTER",
+      "address": "421 E STATE HIGHWAY 114",
+      "city": "SOUTHLAKE",
+      "state": "TX",
+      "zipcode": "76092"
+    },
+    {
+      "id": "670133",
+      "name": "ER TX  MEDICAL CENTER MANSFIELD",
+      "address": "1710 US 287 FRONTAGE ROAD",
+      "city": "MANSFIELD",
+      "state": "TX",
+      "zipcode": "76063"
+    },
+    {
+      "id": "670134",
+      "name": "ALTUS LUMBERTON HOSPITAL",
+      "address": "220 BLANCO ST",
+      "city": "LUMBERTON",
+      "state": "TX",
+      "zipcode": "77657"
+    },
+    {
+      "id": "670135",
+      "name": "ALTUS HOUSTON HOSPITAL, LP",
+      "address": "6011 W SAM HOUSTON PKWY SOUTH",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77072"
+    },
+    {
+      "id": "670136",
+      "name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- AUSTIN",
+      "address": "5245 W US 290",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zipcode": "78735"
+    },
+    {
+      "id": "670143",
+      "name": "ASCENSION SETON BASTROP",
+      "address": "630 HIGWAY 71 W,",
+      "city": "BASTROP",
+      "state": "TX",
+      "zipcode": "78602"
+    },
+    {
+      "id": "670259",
+      "name": "CAPROCK HOSPITAL",
+      "address": "3134 BRIARCRESRT DR",
+      "city": "BRYAN",
+      "state": "TX",
+      "zipcode": "77802"
+    },
+    {
+      "id": "670260",
+      "name": "TEXAS HEALTH HOSPITAL FRISCO",
+      "address": "12400 N DALLAS PARKWAY",
+      "city": "FRISCO",
+      "state": "TX",
+      "zipcode": "75033"
+    },
+    {
+      "id": "670265",
+      "name": "LEGENT ORTHOPEDIC HOSPITAL",
+      "address": "1401 E TRINITY MILLS ROAD",
+      "city": "CARROLLTON",
+      "state": "TX",
+      "zipcode": "75006"
+    },
+    {
+      "id": "670266",
+      "name": "TOWNSEN MEMORIAL HOSPITAL",
+      "address": "1475 FM 1960 BYPASS E",
+      "city": "HUMBLE",
+      "state": "TX",
+      "zipcode": "77338"
+    },
+    {
+      "id": "670267",
+      "name": "THE WOODLANDS SPECIALTY HOSPITAL",
+      "address": "25440 INTERSTATE 45 NORTH",
+      "city": "SPRING",
+      "state": "TX",
+      "zipcode": "77386"
+    },
+    {
+      "id": "670280",
+      "name": "NORTH HOUSTON SURGICAL HOSPITAL LLC",
+      "address": "20635 KUYKENDAHL RD",
+      "city": "SPRING",
+      "state": "TX",
+      "zipcode": "77379"
+    },
+    {
+      "id": "670285",
+      "name": "ELITE HOSPITAL KINGWOOD",
+      "address": "23330 HIGHWAY 59 N",
+      "city": "KINGWOOD",
+      "state": "TX",
+      "zipcode": "77339"
+    },
+    {
+      "id": "670300",
+      "name": "METHODIST MIDLOTHIAN MEDICAL CENTER",
+      "address": "1201 E HIGHWAY 287",
+      "city": "MIDLOTHIAN",
+      "state": "TX",
+      "zipcode": "76065"
+    },
+    {
+      "id": "670309",
+      "name": "TEXAS HEALTH HOSPITAL MANSFIELD",
+      "address": "2300 LONE STAR ROAD",
+      "city": "MANSFIELD",
+      "state": "TX",
+      "zipcode": "76063"
+    },
+    {
+      "id": "670310",
+      "name": "SE TEXAS ER & HOSPITAL",
+      "address": "19211 MCKAY BLVD",
+      "city": "HUMBLE",
+      "state": "TX",
+      "zipcode": "77338"
+    },
+    {
+      "id": "670314",
+      "name": "ST MICHAELS MEDICAL HOSPITAL LLC",
+      "address": "16000 SOUTHWEST FREEWAY, SUITE 100",
+      "city": "SUGAR LAND",
+      "state": "TX",
+      "zipcode": "77479"
+    },
+    {
+      "id": "670319",
+      "name": "TRINITY REGIONAL HOSPITAL SACHSE",
+      "address": "4750 PRESIDENT GEORGE BUSH HIGHWAY",
+      "city": "SACHSE",
+      "state": "TX",
+      "zipcode": "75048"
+    },
+    {
+      "id": "670320",
+      "name": "EAST HOUSTON MEDICAL CENTER",
+      "address": "15149 WALLISVILLE ROAD",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zipcode": "77049"
+    },
+    {
+      "id": "670321",
+      "name": "ADVANCED DALLAS HOSPITALS AND CLINICS",
+      "address": "7502 GREENVILLE AVENUE",
+      "city": "DALLAS",
+      "state": "TX",
+      "zipcode": "75231"
+    },
+    {
+      "id": "670322",
+      "name": "LEGENT SURGICAL HOSPITAL PLANO",
+      "address": "4100 MAPLESHADE LANE",
+      "city": "PLANO",
+      "state": "TX",
+      "zipcode": "75075"
+    },
+    {
+      "id": "670326",
+      "name": "BRUSHY CREEK FAMILY HOSPITAL LLC",
+      "address": "230 DEER RIDGE DR",
+      "city": "ROUND ROCK",
+      "state": "TX",
+      "zipcode": "78681"
+    },
+    {
+      "id": "670779",
+      "name": "CROSBYTON CLINIC HOSPITAL",
+      "address": "710 WEST MAIN STREET",
+      "city": "CROSBYTON",
+      "state": "TX",
+      "zipcode": "79322"
+    },
+    {
+      "id": "670780",
+      "name": "FALLS COMMUNITY HOSPITAL AND CLINIC",
+      "address": "322 COLEMAN STREET",
+      "city": "MARLIN",
+      "state": "TX",
+      "zipcode": "76661"
+    },
+    {
+      "id": "670781",
+      "name": "ANSON GENERAL HOSPITAL",
+      "address": "101 AVENUE J",
+      "city": "ANSON",
+      "state": "TX",
+      "zipcode": "79501"
+    },
+    {
+      "id": "670783",
+      "name": "CHI ST LUKES HEALTH MEMORIAL SAN AUGUSTINE",
+      "address": "511 HOSPITAL ST",
+      "city": "SAN AUGUSTINE",
+      "state": "TX",
+      "zipcode": "75972"
+    },
+    {
+      "id": "671300",
+      "name": "GRAHAM REGIONAL MEDICAL CENTER",
+      "address": "1301 MONTGOMERY ROAD",
+      "city": "GRAHAM",
+      "state": "TX",
+      "zipcode": "76450"
+    },
+    {
+      "id": "671301",
+      "name": "HEMPHILL COUNTY HOSPITAL",
+      "address": "1020 S 4TH ST",
+      "city": "CANADIAN",
+      "state": "TX",
+      "zipcode": "79014"
+    }
+  ]
+}

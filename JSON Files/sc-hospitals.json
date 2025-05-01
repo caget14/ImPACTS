@@ -1,0 +1,436 @@
+{
+  "hospitals": [
+    {
+      "id": "420002",
+      "name": "PIEDMONT MEDICAL CENTER",
+      "address": "1731 FRANK GASTON BLVD",
+      "city": "ROCK HILL",
+      "state": "SC",
+      "zipcode": "29732"
+    },
+    {
+      "id": "420004",
+      "name": "MUSC MEDICAL CENTER",
+      "address": "169 ASHLEY AVE",
+      "city": "CHARLESTON",
+      "state": "SC",
+      "zipcode": "29425"
+    },
+    {
+      "id": "420005",
+      "name": "MCLEOD MEDICAL CENTER - DILLON",
+      "address": "301 E JACKSON STREET PO BOX 1327",
+      "city": "DILLON",
+      "state": "SC",
+      "zipcode": "29536"
+    },
+    {
+      "id": "420007",
+      "name": "SPARTANBURG MEDICAL CENTER",
+      "address": "101 E WOOD ST",
+      "city": "SPARTANBURG",
+      "state": "SC",
+      "zipcode": "29303"
+    },
+    {
+      "id": "420009",
+      "name": "PRISMA HEALTH OCONEE MEMORIAL HOSPITAL",
+      "address": "298 MEMORIAL DR",
+      "city": "SENECA",
+      "state": "SC",
+      "zipcode": "29672"
+    },
+    {
+      "id": "420010",
+      "name": "CAROLINA PINES REGIONAL MEDICAL CENTER",
+      "address": "1304 W BOBO NEWSOM HWY",
+      "city": "HARTSVILLE",
+      "state": "SC",
+      "zipcode": "29550"
+    },
+    {
+      "id": "420011",
+      "name": "CANNON MEMORIAL HOSPITAL",
+      "address": "123 W G ACKER DRIVE",
+      "city": "PICKENS",
+      "state": "SC",
+      "zipcode": "29671"
+    },
+    {
+      "id": "420015",
+      "name": "PRISMA HEALTH BAPTIST EASLEY HOSPITAL",
+      "address": "200 FLEETWOOD DRIVE",
+      "city": "EASLEY",
+      "state": "SC",
+      "zipcode": "29640"
+    },
+    {
+      "id": "420018",
+      "name": "PRISMA HEALTH RICHLAND HOSPITAL",
+      "address": "5 MEDICAL PARK",
+      "city": "COLUMBIA",
+      "state": "SC",
+      "zipcode": "29203"
+    },
+    {
+      "id": "420019",
+      "name": "MUSC HEALTH CHESTER MEDICAL CENTER",
+      "address": "1 MEDICAL PARK DRIVE",
+      "city": "CHESTER",
+      "state": "SC",
+      "zipcode": "29706"
+    },
+    {
+      "id": "420020",
+      "name": "TIDELANDS HEALTH",
+      "address": "606 BLACK RIVER RD DRAWER 1718",
+      "city": "GEORGETOWN",
+      "state": "SC",
+      "zipcode": "29440"
+    },
+    {
+      "id": "420023",
+      "name": "ST FRANCIS-DOWNTOWN",
+      "address": "ONE ST FRANCIS DR",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "zipcode": "29601"
+    },
+    {
+      "id": "420026",
+      "name": "MUSC HEALTH COLUMBIA MEDICAL CENTER DOWNTOWN",
+      "address": "2435 FOREST DRIVE",
+      "city": "COLUMBIA",
+      "state": "SC",
+      "zipcode": "29204"
+    },
+    {
+      "id": "420027",
+      "name": "ANMED HEALTH",
+      "address": "800 N FANT ST",
+      "city": "ANDERSON",
+      "state": "SC",
+      "zipcode": "29621"
+    },
+    {
+      "id": "420030",
+      "name": "COLLETON MEDICAL CENTER",
+      "address": "501 ROBERTSON BOULEVARD",
+      "city": "WALTERBORO",
+      "state": "SC",
+      "zipcode": "29488"
+    },
+    {
+      "id": "420033",
+      "name": "PRISMA HEALTH GREER MEMORIAL HOSPITAL",
+      "address": "1413 JOHN B WHITE SR BLVD SUITE D",
+      "city": "SPARTANBURG",
+      "state": "SC",
+      "zipcode": "29306"
+    },
+    {
+      "id": "420036",
+      "name": "MUSC HEALTH LANCASTER MEDICAL CENTER",
+      "address": "800 W MEETING ST",
+      "city": "LANCASTER",
+      "state": "SC",
+      "zipcode": "29720"
+    },
+    {
+      "id": "420037",
+      "name": "PRISMA HEALTH HILLCREST HOSPITAL",
+      "address": "741 SOUTH EAST MAIN STREET",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "zipcode": "29681"
+    },
+    {
+      "id": "420038",
+      "name": "PRISMA HEALTH LAURENS COUNTY HOSPITAL",
+      "address": "22725 HIGHWAY 76 EAST",
+      "city": "CLINTON",
+      "state": "SC",
+      "zipcode": "29325"
+    },
+    {
+      "id": "420043",
+      "name": "CHEROKEE MEDICAL CENTER",
+      "address": "1530 N LIMESTONE ST",
+      "city": "GAFFNEY",
+      "state": "SC",
+      "zipcode": "29340"
+    },
+    {
+      "id": "420048",
+      "name": "KERSHAW MEDICAL CENTER",
+      "address": "1315 ROBERTS STREET",
+      "city": "CAMDEN",
+      "state": "SC",
+      "zipcode": "29020"
+    },
+    {
+      "id": "420049",
+      "name": "CONWAY MEDICAL CENTER",
+      "address": "300 SINGLETON RIDGE ROAD",
+      "city": "CONWAY",
+      "state": "SC",
+      "zipcode": "29526"
+    },
+    {
+      "id": "420051",
+      "name": "MCLEOD REGIONAL MEDICAL CENTER-PEE DEE",
+      "address": "555 E CHEVES ST BOX 8700",
+      "city": "FLORENCE",
+      "state": "SC",
+      "zipcode": "29506"
+    },
+    {
+      "id": "420053",
+      "name": "NEWBERRY COUNTY MEMORIAL HOSPITAL",
+      "address": "2669 KINARD ST PO BOX 497",
+      "city": "NEWBERRY",
+      "state": "SC",
+      "zipcode": "29108"
+    },
+    {
+      "id": "420055",
+      "name": "MUSC HEALTH MARION MEDICAL CENTER",
+      "address": "2829 E HWY 76",
+      "city": "MULLINS",
+      "state": "SC",
+      "zipcode": "29574"
+    },
+    {
+      "id": "420065",
+      "name": "BON SECOURS-ST FRANCIS XAVIER HOSPITAL",
+      "address": "2095 HENRY TECKLENBURG DRIVE",
+      "city": "CHARLESTON",
+      "state": "SC",
+      "zipcode": "29414"
+    },
+    {
+      "id": "420067",
+      "name": "BEAUFORT COUNTY MEMORIAL HOSPITAL",
+      "address": "955 RIBAUT RD",
+      "city": "BEAUFORT",
+      "state": "SC",
+      "zipcode": "29902"
+    },
+    {
+      "id": "420070",
+      "name": "PRISMA HEALTH TUOMEY HOSPITAL",
+      "address": "129 N WASHINGTON ST",
+      "city": "SUMTER",
+      "state": "SC",
+      "zipcode": "29150"
+    },
+    {
+      "id": "420071",
+      "name": "SELF REGIONAL HEALTHCARE",
+      "address": "1325 SPRING STREET",
+      "city": "GREENWOOD",
+      "state": "SC",
+      "zipcode": "29646"
+    },
+    {
+      "id": "420072",
+      "name": "HAMPTON REGIONAL MEDICAL CENTER",
+      "address": "595 WEST CAROLINA AVENUE",
+      "city": "VARNVILLE",
+      "state": "SC",
+      "zipcode": "29944"
+    },
+    {
+      "id": "420073",
+      "name": "LEXINGTON MEDICAL CENTER",
+      "address": "2720 SUNSET BLVD",
+      "city": "WEST COLUMBIA",
+      "state": "SC",
+      "zipcode": "29169"
+    },
+    {
+      "id": "420078",
+      "name": "PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL",
+      "address": "701 GROVE ROAD",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "zipcode": "29605"
+    },
+    {
+      "id": "420079",
+      "name": "TRIDENT MEDICAL CENTER",
+      "address": "9330 MEDICAL PLAZA DR",
+      "city": "CHARLESTON",
+      "state": "SC",
+      "zipcode": "29406"
+    },
+    {
+      "id": "420080",
+      "name": "HILTON HEAD REGIONAL MEDICAL CENTER",
+      "address": "25 HOSPITAL CENTER BLVD",
+      "city": "HILTON HEAD ISLAND",
+      "state": "SC",
+      "zipcode": "29925"
+    },
+    {
+      "id": "420082",
+      "name": "AIKEN REGIONAL MEDICAL CENTER",
+      "address": "302 UNIVERSITY PARKWAY",
+      "city": "AIKEN",
+      "state": "SC",
+      "zipcode": "29801"
+    },
+    {
+      "id": "420085",
+      "name": "GRAND STRAND REGIONAL MEDICAL CENTER",
+      "address": "809 82ND PARKWAY",
+      "city": "MYRTLE BEACH",
+      "state": "SC",
+      "zipcode": "29572"
+    },
+    {
+      "id": "420086",
+      "name": "PRISMA HEALTH BAPTIST",
+      "address": "1330 TAYLOR AT MARION ST",
+      "city": "COLUMBIA",
+      "state": "SC",
+      "zipcode": "29220"
+    },
+    {
+      "id": "420087",
+      "name": "ROPER HOSPITAL",
+      "address": "316 CALHOUN ST",
+      "city": "CHARLESTON",
+      "state": "SC",
+      "zipcode": "29401"
+    },
+    {
+      "id": "420089",
+      "name": "EAST COOPER MEDICAL CENTER",
+      "address": "2000 HOSPITAL DR",
+      "city": "MOUNT PLEASANT",
+      "state": "SC",
+      "zipcode": "29464"
+    },
+    {
+      "id": "420091",
+      "name": "MUSC HEALTH FLORENCE MEDICAL CENTER",
+      "address": "805 PAMPLICO HWY BOX 100550",
+      "city": "FLORENCE",
+      "state": "SC",
+      "zipcode": "29505"
+    },
+    {
+      "id": "420098",
+      "name": "TIDELANDS WACCAMAW COMMUNITY HOSPITAL",
+      "address": "4070 HWY 17",
+      "city": "MURRELLS INLET",
+      "state": "SC",
+      "zipcode": "29576"
+    },
+    {
+      "id": "420101",
+      "name": "COASTAL CAROLINA HOSPITAL",
+      "address": "1000 MEDICAL CENTER DRIVE",
+      "city": "HARDEEVILLE",
+      "state": "SC",
+      "zipcode": "29927"
+    },
+    {
+      "id": "420102",
+      "name": "PRISMA HEALTH  PATEWOOD HOSPITAL",
+      "address": "175 PATEWOOD DRIVE",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "zipcode": "29615"
+    },
+    {
+      "id": "420103",
+      "name": "PELHAM MEDICAL CENTER",
+      "address": "250 WESTMORELAND ROAD",
+      "city": "GREER",
+      "state": "SC",
+      "zipcode": "29651"
+    },
+    {
+      "id": "420104",
+      "name": "MOUNT PLEASANT HOSPITAL",
+      "address": "3510 HIGHWAY 17 NORTH SUITE 140",
+      "city": "MOUNT PLEASANT",
+      "state": "SC",
+      "zipcode": "29466"
+    },
+    {
+      "id": "420105",
+      "name": "MCLEOD LORIS  HOSPITAL",
+      "address": "3655 MITCHELL STREET",
+      "city": "LORIS",
+      "state": "SC",
+      "zipcode": "29569"
+    },
+    {
+      "id": "420106",
+      "name": "PRISMA HEALTH BAPTIST PARKRIDGE",
+      "address": "400 PALMETTO HEALTH PARKWAY",
+      "city": "COLUMBIA",
+      "state": "SC",
+      "zipcode": "29212"
+    },
+    {
+      "id": "420107",
+      "name": "MCLEOD HEALTH CHERAW",
+      "address": "711 CHESTERFIELD HIGHWAY",
+      "city": "CHERAW",
+      "state": "SC",
+      "zipcode": "29520"
+    },
+    {
+      "id": "420108",
+      "name": "UNION MEDICAL CENTER",
+      "address": "322 WEST SOUTH STREET",
+      "city": "UNION",
+      "state": "SC",
+      "zipcode": "29379"
+    },
+    {
+      "id": "420109",
+      "name": "MCLEOD HEALTH CLARENDON",
+      "address": "10 EAST HOSPITAL STREET",
+      "city": "MANNING",
+      "state": "SC",
+      "zipcode": "29102"
+    },
+    {
+      "id": "420110",
+      "name": "ROPER ST FRANCIS HOSPITAL-BERKELY INC",
+      "address": "300  CALLEN BLVD",
+      "city": "SUMMERVILLE",
+      "state": "SC",
+      "zipcode": "29486"
+    },
+    {
+      "id": "421300",
+      "name": "ALLENDALE COUNTY HOSPITAL",
+      "address": "1787 ALLENDALE FAIRFAX RD",
+      "city": "FAIRFAX",
+      "state": "SC",
+      "zipcode": "29827"
+    },
+    {
+      "id": "421301",
+      "name": "ABBEVILLE AREA MEDICAL CENTER",
+      "address": "420 THOMSON CIRCLE",
+      "city": "ABBEVILLE",
+      "state": "SC",
+      "zipcode": "29620"
+    },
+    {
+      "id": "421304",
+      "name": "EDGEFIELD COUNTY HEALTHCARE AN AFFILIATE OF SELF R",
+      "address": "300 RIDGE MEDICAL PLAZA",
+      "city": "EDGEFIELD",
+      "state": "SC",
+      "zipcode": "29824"
+    }
+  ]
+}

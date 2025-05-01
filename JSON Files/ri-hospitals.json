@@ -1,0 +1,84 @@
+{
+  "hospitals": [
+    {
+      "id": "410004",
+      "name": "ROGER WILLIAMS MEDICAL CENTER",
+      "address": "825 CHALKSTONE AVENUE",
+      "city": "PROVIDENCE",
+      "state": "RI",
+      "zipcode": "02908"
+    },
+    {
+      "id": "410005",
+      "name": "OUR LADY OF FATIMA HOSPITAL",
+      "address": "200 HIGH SERVICE AVENUE",
+      "city": "NORTH PROVIDENCE",
+      "state": "RI",
+      "zipcode": "02904"
+    },
+    {
+      "id": "410006",
+      "name": "NEWPORT HOSPITAL",
+      "address": "11 FRIENDSHIP STREET",
+      "city": "NEWPORT",
+      "state": "RI",
+      "zipcode": "02840"
+    },
+    {
+      "id": "410007",
+      "name": "RHODE ISLAND HOSPITAL",
+      "address": "593 EDDY STREET",
+      "city": "PROVIDENCE",
+      "state": "RI",
+      "zipcode": "02903"
+    },
+    {
+      "id": "410008",
+      "name": "SOUTH COUNTY HOSPITAL INC",
+      "address": "100 KENYON AVE",
+      "city": "WAKEFIELD",
+      "state": "RI",
+      "zipcode": "02879"
+    },
+    {
+      "id": "410009",
+      "name": "KENT COUNTY MEMORIAL HOSPITAL",
+      "address": "455 TOLL GATE RD",
+      "city": "WARWICK",
+      "state": "RI",
+      "zipcode": "02886"
+    },
+    {
+      "id": "410010",
+      "name": "WOMEN & INFANTS HOSPITAL OF RHODE ISLAND",
+      "address": "101 DUDLEY STREET",
+      "city": "PROVIDENCE",
+      "state": "RI",
+      "zipcode": "02905"
+    },
+    {
+      "id": "410011",
+      "name": "LANDMARK MEDICAL CENTER",
+      "address": "115 CASS AVENUE",
+      "city": "WOONSOCKET",
+      "state": "RI",
+      "zipcode": "02895"
+    },
+    {
+      "id": "410012",
+      "name": "THE MIRIAM HOSPITAL",
+      "address": "164 SUMMIT AVENUE",
+      "city": "PROVIDENCE",
+      "state": "RI",
+      "zipcode": "02906"
+    },
+    {
+      "id": "410013",
+      "name": "WESTERLY HOSPITAL",
+      "address": "25 WELLS STREET",
+      "city": "WESTERLY",
+      "state": "RI",
+      "zipcode": "02891"
+    }
+  ]
+}

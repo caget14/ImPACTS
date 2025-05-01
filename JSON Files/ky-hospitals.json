@@ -1,0 +1,732 @@
+{
+  "hospitals": [
+    {
+      "id": "180001",
+      "name": "ST ELIZABETH FT THOMAS",
+      "address": "85 NORTH GRAND AVENUE",
+      "city": "FORT THOMAS",
+      "state": "KY",
+      "zipcode": "41075"
+    },
+    {
+      "id": "180002",
+      "name": "WHITESBURG ARH HOSPITAL",
+      "address": "240 HOSPITAL ROAD",
+      "city": "WHITESBURG",
+      "state": "KY",
+      "zipcode": "41858"
+    },
+    {
+      "id": "180004",
+      "name": "OWENSBORO HEALTH MUHLENBERG COMMUNITY HOSPITAL",
+      "address": "440 HOPKINSVILLE STREET",
+      "city": "GREENVILLE",
+      "state": "KY",
+      "zipcode": "42345"
+    },
+    {
+      "id": "180005",
+      "name": "HIGHLANDS ARH REGIONAL MEDICAL CENTER",
+      "address": "5000 KENTUCKY ROUTE 321",
+      "city": "PRESTONSBURG",
+      "state": "KY",
+      "zipcode": "41653"
+    },
+    {
+      "id": "180009",
+      "name": "KING'S DAUGHTERS' MEDICAL CENTER",
+      "address": "2201 LEXINGTON AVENUE",
+      "city": "ASHLAND",
+      "state": "KY",
+      "zipcode": "41101"
+    },
+    {
+      "id": "180010",
+      "name": "SAINT JOSEPH HOSPITAL",
+      "address": "ONE SAINT JOSEPH DRIVE",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "zipcode": "40504"
+    },
+    {
+      "id": "180011",
+      "name": "CHI SAINT JOSEPH LONDON",
+      "address": "1001 SAINT JOSEPH LANE",
+      "city": "LONDON",
+      "state": "KY",
+      "zipcode": "40741"
+    },
+    {
+      "id": "180012",
+      "name": "BAPTIST HEALTH HARDIN",
+      "address": "913 NORTH DIXIE AVENUE",
+      "city": "ELIZABETHTOWN",
+      "state": "KY",
+      "zipcode": "42701"
+    },
+    {
+      "id": "180013",
+      "name": "THE MEDICAL CENTER AT BOWLING GREEN",
+      "address": "250 PARK STREET",
+      "city": "BOWLING GREEN",
+      "state": "KY",
+      "zipcode": "42101"
+    },
+    {
+      "id": "180016",
+      "name": "UOFL HEALTH - SHELBYVILLE HOSPITAL",
+      "address": "727 HOSPITAL DRIVE",
+      "city": "SHELBYVILLE",
+      "state": "KY",
+      "zipcode": "40065"
+    },
+    {
+      "id": "180017",
+      "name": "T J SAMSON COMMUNITY HOSPITAL",
+      "address": "1301 NORTH RACE STREET",
+      "city": "GLASGOW",
+      "state": "KY",
+      "zipcode": "42141"
+    },
+    {
+      "id": "180018",
+      "name": "ST CLAIRE REGIONAL MEDICAL CENTER",
+      "address": "222 MEDICAL CIRCLE",
+      "city": "MOREHEAD",
+      "state": "KY",
+      "zipcode": "40351"
+    },
+    {
+      "id": "180019",
+      "name": "MEADOWVIEW REGIONAL MEDICAL CENTER",
+      "address": "989 MEDICAL PARK DRIVE",
+      "city": "MAYSVILLE",
+      "state": "KY",
+      "zipcode": "41056"
+    },
+    {
+      "id": "180020",
+      "name": "MIDDLESBORO APPALACHIAN REGIONAL HEALTHCARE HOSPIT",
+      "address": "3600 WEST CUMBERLAND AVENUE",
+      "city": "MIDDLESBORO",
+      "state": "KY",
+      "zipcode": "40965"
+    },
+    {
+      "id": "180024",
+      "name": "SPRING VIEW HOSPITAL",
+      "address": "320 LORETTO ROAD",
+      "city": "LEBANON",
+      "state": "KY",
+      "zipcode": "40033"
+    },
+    {
+      "id": "180025",
+      "name": "FLAGET MEMORIAL HOSPITAL",
+      "address": "4305 NEW SHEPHERDSVILLE ROAD",
+      "city": "BARDSTOWN",
+      "state": "KY",
+      "zipcode": "40004"
+    },
+    {
+      "id": "180027",
+      "name": "MURRAY-CALLOWAY COUNTY HOSPITAL",
+      "address": "803 POPLAR STREET",
+      "city": "MURRAY",
+      "state": "KY",
+      "zipcode": "42071"
+    },
+    {
+      "id": "180029",
+      "name": "HAZARD ARH REGIONAL MEDICAL CENTER",
+      "address": "100 MEDICAL CENTER DRIVE",
+      "city": "HAZARD",
+      "state": "KY",
+      "zipcode": "41701"
+    },
+    {
+      "id": "180035",
+      "name": "ST ELIZABETH MEDICAL CENTER NORTH",
+      "address": "1 MEDICAL VILLAGE DRIVE",
+      "city": "EDGEWOOD",
+      "state": "KY",
+      "zipcode": "41017"
+    },
+    {
+      "id": "180038",
+      "name": "OWENSBORO HEALTH REGIONAL HOSPITAL",
+      "address": "1201 PLEASANT VALLEY ROAD",
+      "city": "OWENSBORO",
+      "state": "KY",
+      "zipcode": "42303"
+    },
+    {
+      "id": "180040",
+      "name": "UOFL HEALTH - JEWISH HOSPITAL",
+      "address": "200 ABRAHAM FLEXNER WAY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "zipcode": "40202"
+    },
+    {
+      "id": "180043",
+      "name": "ADVENTHEALTH MANCHESTER",
+      "address": "210 MARIE LANGDON DRIVE",
+      "city": "MANCHESTER",
+      "state": "KY",
+      "zipcode": "40962"
+    },
+    {
+      "id": "180044",
+      "name": "PIKEVILLE MEDICAL CENTER",
+      "address": "911 BYPASS ROAD",
+      "city": "PIKEVILLE",
+      "state": "KY",
+      "zipcode": "41501"
+    },
+    {
+      "id": "180045",
+      "name": "ST ELIZABETH FLORENCE",
+      "address": "4900 HOUSTON ROAD",
+      "city": "FLORENCE",
+      "state": "KY",
+      "zipcode": "41042"
+    },
+    {
+      "id": "180046",
+      "name": "BOURBON COMMUNITY HOSPITAL",
+      "address": "9 LINVILLE DRIVE",
+      "city": "PARIS",
+      "state": "KY",
+      "zipcode": "40361"
+    },
+    {
+      "id": "180048",
+      "name": "EPHRAIM MCDOWELL REGIONAL MEDICAL CENTER",
+      "address": "217 SOUTH THIRD STREET",
+      "city": "DANVILLE",
+      "state": "KY",
+      "zipcode": "40422"
+    },
+    {
+      "id": "180049",
+      "name": "BAPTIST HEALTH RICHMOND",
+      "address": "801 EASTERN BYPASS",
+      "city": "RICHMOND",
+      "state": "KY",
+      "zipcode": "40475"
+    },
+    {
+      "id": "180050",
+      "name": "HARLAN ARH HOSPITAL",
+      "address": "81 BALL PARK ROAD",
+      "city": "HARLAN",
+      "state": "KY",
+      "zipcode": "40831"
+    },
+    {
+      "id": "180051",
+      "name": "JENNIE STUART MEDICAL CENTER",
+      "address": "320 WEST 18TH STREET",
+      "city": "HOPKINSVILLE",
+      "state": "KY",
+      "zipcode": "42240"
+    },
+    {
+      "id": "180056",
+      "name": "DEACONESS HENDERSON HOSPITAL",
+      "address": "1305 N ELM ST",
+      "city": "HENDERSON",
+      "state": "KY",
+      "zipcode": "42420"
+    },
+    {
+      "id": "180064",
+      "name": "CHI SAINT JOSEPH MOUNT STERLING",
+      "address": "225 FALCON DRIVE",
+      "city": "MOUNT STERLING",
+      "state": "KY",
+      "zipcode": "40353"
+    },
+    {
+      "id": "180066",
+      "name": "THE MEDICAL CENTER AT RUSSELLVILLE",
+      "address": "1625 NASHVILLE STREET",
+      "city": "RUSSELLVILLE",
+      "state": "KY",
+      "zipcode": "42276"
+    },
+    {
+      "id": "180067",
+      "name": "UNIVERSITY OF KENTUCKY HOSPITAL",
+      "address": "800 ROSE STREET",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "zipcode": "40536"
+    },
+    {
+      "id": "180069",
+      "name": "TUG VALLEY ARH REGIONAL MEDICAL CENTER",
+      "address": "260 HOSPITAL DRIVE",
+      "city": "SOUTH WILLIAMSON",
+      "state": "KY",
+      "zipcode": "41503"
+    },
+    {
+      "id": "180070",
+      "name": "OWENSBORO HEALTH TWIN LAKES MEDICAL CENTER",
+      "address": "910 WALLACE AVENUE",
+      "city": "LEITCHFIELD",
+      "state": "KY",
+      "zipcode": "42754"
+    },
+    {
+      "id": "180078",
+      "name": "PAINTSVILLE ARH HOSPITAL",
+      "address": "625 JAMES S TRIMBLE BOULEVARD",
+      "city": "PAINTSVILLE",
+      "state": "KY",
+      "zipcode": "41240"
+    },
+    {
+      "id": "180079",
+      "name": "HARRISON MEMORIAL HOSPITAL",
+      "address": "1210 KY HWY 36 E",
+      "city": "CYNTHIANA",
+      "state": "KY",
+      "zipcode": "41031"
+    },
+    {
+      "id": "180080",
+      "name": "BAPTIST HEALTH CORBIN",
+      "address": "ONE TRILLIUM WAY",
+      "city": "CORBIN",
+      "state": "KY",
+      "zipcode": "40701"
+    },
+    {
+      "id": "180087",
+      "name": "TAYLOR REGIONAL HOSPITAL",
+      "address": "1700 OLD LEBANON ROAD",
+      "city": "CAMPBELLSVILLE",
+      "state": "KY",
+      "zipcode": "42718"
+    },
+    {
+      "id": "180088",
+      "name": "NORTON HOSPITAL / NORTON HEALTHCARE PAVILION / NOR",
+      "address": "200 EAST CHESTNUT STREET",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "zipcode": "40202"
+    },
+    {
+      "id": "180092",
+      "name": "CLARK REGIONAL MEDICAL CENTER",
+      "address": "175 HOSPITAL DRIVE",
+      "city": "WINCHESTER",
+      "state": "KY",
+      "zipcode": "40391"
+    },
+    {
+      "id": "180093",
+      "name": "BAPTIST HEALTH DEACONESS MADISONVILLE",
+      "address": "900 HOSPITAL DRIVE",
+      "city": "MADISONVILLE",
+      "state": "KY",
+      "zipcode": "42431"
+    },
+    {
+      "id": "180095",
+      "name": "CRITTENDEN COMMUNITY HOSPITAL",
+      "address": "520 WEST GUM STREET",
+      "city": "MARION",
+      "state": "KY",
+      "zipcode": "42064"
+    },
+    {
+      "id": "180101",
+      "name": "GEORGETOWN COMMUNITY HOSPITAL",
+      "address": "1140 LEXINGTON ROAD",
+      "city": "GEORGETOWN",
+      "state": "KY",
+      "zipcode": "40324"
+    },
+    {
+      "id": "180102",
+      "name": "MERCY HEALTH LOURDES HOSPITAL",
+      "address": "1530 LONE OAK ROAD",
+      "city": "PADUCAH",
+      "state": "KY",
+      "zipcode": "42003"
+    },
+    {
+      "id": "180103",
+      "name": "BAPTIST HEALTH LEXINGTON",
+      "address": "1740 NICHOLASVILLE ROAD",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "zipcode": "40503"
+    },
+    {
+      "id": "180104",
+      "name": "BAPTIST HEALTH PADUCAH",
+      "address": "2501 KENTUCKY AVENUE",
+      "city": "PADUCAH",
+      "state": "KY",
+      "zipcode": "42003"
+    },
+    {
+      "id": "180105",
+      "name": "MONROE COUNTY MEDICAL CENTER",
+      "address": "529 CAPP HARLAN ROAD",
+      "city": "TOMPKINSVILLE",
+      "state": "KY",
+      "zipcode": "42167"
+    },
+    {
+      "id": "180115",
+      "name": "ROCKCASTLE REGIONAL HOSPITAL & RESPIRATORY CARE CT",
+      "address": "145 NEWCOMB AVENUE",
+      "city": "MOUNT VERNON",
+      "state": "KY",
+      "zipcode": "40456"
+    },
+    {
+      "id": "180116",
+      "name": "JACKSON PURCHASE MEDICAL CENTER",
+      "address": "1099 MEDICAL CENTER CIRCLE",
+      "city": "MAYFIELD",
+      "state": "KY",
+      "zipcode": "42066"
+    },
+    {
+      "id": "180124",
+      "name": "TRISTAR GREENVIEW REGIONAL HOSPITAL",
+      "address": "1801 ASHLEY CIRCLE",
+      "city": "BOWLING GREEN",
+      "state": "KY",
+      "zipcode": "42104"
+    },
+    {
+      "id": "180127",
+      "name": "FRANKFORT REGIONAL MEDICAL CENTER",
+      "address": "299 KINGS DAUGHTERS DRIVE",
+      "city": "FRANKFORT",
+      "state": "KY",
+      "zipcode": "40601"
+    },
+    {
+      "id": "180128",
+      "name": "THREE RIVERS MEDICAL CENTER",
+      "address": "2485 HIGHWAY 644",
+      "city": "LOUISA",
+      "state": "KY",
+      "zipcode": "41230"
+    },
+    {
+      "id": "180130",
+      "name": "BAPTIST HEALTH LOUISVILLE",
+      "address": "4000 KRESGE WAY",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "zipcode": "40207"
+    },
+    {
+      "id": "180132",
+      "name": "LAKE CUMBERLAND REGIONAL HOSPITAL",
+      "address": "305 LANGDON STREET",
+      "city": "SOMERSET",
+      "state": "KY",
+      "zipcode": "42503"
+    },
+    {
+      "id": "180138",
+      "name": "BAPTIST HEALTH LA GRANGE",
+      "address": "1025 NEW MOODY LANE",
+      "city": "LA GRANGE",
+      "state": "KY",
+      "zipcode": "40031"
+    },
+    {
+      "id": "180139",
+      "name": "KENTUCKY RIVER MEDICAL CENTER",
+      "address": "540 JETT DRIVE",
+      "city": "JACKSON",
+      "state": "KY",
+      "zipcode": "41339"
+    },
+    {
+      "id": "180141",
+      "name": "UNIVERSITY OF LOUISVILLE HOSPITAL",
+      "address": "530 SOUTH JACKSON STREET",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "zipcode": "40202"
+    },
+    {
+      "id": "180143",
+      "name": "CHI SAINT JOSEPH EAST",
+      "address": "150 NORTH EAGLE CREEK DRIVE",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "zipcode": "40509"
+    },
+    {
+      "id": "180149",
+      "name": "T J HEALTH COLUMBIA",
+      "address": "901 WESTLAKE DRIVE",
+      "city": "COLUMBIA",
+      "state": "KY",
+      "zipcode": "42728"
+    },
+    {
+      "id": "180154",
+      "name": "PINEVILLE COMMUNITY HEALTH CENTER, INC",
+      "address": "850 RIVERVIEW AVENUE",
+      "city": "PINEVILLE",
+      "state": "KY",
+      "zipcode": "40977"
+    },
+    {
+      "id": "180156",
+      "name": "ARH ADVANCED CARE - KY RIVER",
+      "address": "102 MEDICAL CENTER DRIVE, SUITE B",
+      "city": "HAZARD",
+      "state": "KY",
+      "zipcode": "41701"
+    },
+    {
+      "id": "181301",
+      "name": "MARCUM & WALLACE MEMORIAL HOSPITAL",
+      "address": "60 MERCY COURT",
+      "city": "IRVINE",
+      "state": "KY",
+      "zipcode": "40336"
+    },
+    {
+      "id": "181302",
+      "name": "THE JAMES B HAGGIN MEMORIAL HOSPITAL",
+      "address": "464 LINDEN AVENUE",
+      "city": "HARRODSBURG",
+      "state": "KY",
+      "zipcode": "40330"
+    },
+    {
+      "id": "181304",
+      "name": "TRIGG COUNTY HOSPITAL",
+      "address": "254 MAIN STREET",
+      "city": "CADIZ",
+      "state": "KY",
+      "zipcode": "42211"
+    },
+    {
+      "id": "181305",
+      "name": "ARH OUR LADY OF THE WAY",
+      "address": "11203 MAIN STREET",
+      "city": "MARTIN",
+      "state": "KY",
+      "zipcode": "41649"
+    },
+    {
+      "id": "181306",
+      "name": "DEACONESS UNION COUNTY HOSPITAL",
+      "address": "4604 US HIGHWAY 60 WEST",
+      "city": "MORGANFIELD",
+      "state": "KY",
+      "zipcode": "42437"
+    },
+    {
+      "id": "181307",
+      "name": "MORGAN COUNTY ARH HOSPITAL",
+      "address": "476 LIBERTY ROAD",
+      "city": "WEST LIBERTY",
+      "state": "KY",
+      "zipcode": "41472"
+    },
+    {
+      "id": "181308",
+      "name": "BLUEGRASS COMMUNITY HOSPITAL",
+      "address": "360 AMSDEN AVENUE",
+      "city": "VERSAILLES",
+      "state": "KY",
+      "zipcode": "40383"
+    },
+    {
+      "id": "181309",
+      "name": "CASEY COUNTY HOSPITAL",
+      "address": "187 WOLFORD AVENUE",
+      "city": "LIBERTY",
+      "state": "KY",
+      "zipcode": "42539"
+    },
+    {
+      "id": "181310",
+      "name": "CARROLL COUNTY MEMORIAL HOSPITAL",
+      "address": "309 ELEVENTH STREET",
+      "city": "CARROLLTON",
+      "state": "KY",
+      "zipcode": "41008"
+    },
+    {
+      "id": "181311",
+      "name": "ST ELIZABETH GRANT",
+      "address": "238 BARNES ROAD",
+      "city": "WILLIAMSTOWN",
+      "state": "KY",
+      "zipcode": "41097"
+    },
+    {
+      "id": "181314",
+      "name": "THE MEDICAL CENTER AT CAVERNA",
+      "address": "1501 SOUTH DIXIE STREET",
+      "city": "HORSE CAVE",
+      "state": "KY",
+      "zipcode": "42749"
+    },
+    {
+      "id": "181315",
+      "name": "EPHRAIM MCDOWELL FORT LOGAN HOSPITAL",
+      "address": "110 METKER TRAIL",
+      "city": "STANFORD",
+      "state": "KY",
+      "zipcode": "40484"
+    },
+    {
+      "id": "181316",
+      "name": "MARY BRECKINRIDGE ARH HOSPITAL",
+      "address": "130 KATE IRELAND DRIVE",
+      "city": "HYDEN",
+      "state": "KY",
+      "zipcode": "41749"
+    },
+    {
+      "id": "181317",
+      "name": "CUMBERLAND COUNTY HOSPITAL",
+      "address": "299 GLASGOW ROAD",
+      "city": "BURKESVILLE",
+      "state": "KY",
+      "zipcode": "42717"
+    },
+    {
+      "id": "181318",
+      "name": "THE MEDICAL CENTER AT FRANKLIN",
+      "address": "1100 BROOKHAVEN ROAD",
+      "city": "FRANKLIN",
+      "state": "KY",
+      "zipcode": "42135"
+    },
+    {
+      "id": "181319",
+      "name": "BRECKINRIDGE MEMORIAL HOSPITAL",
+      "address": "1011 OLD HIGHWAY 60",
+      "city": "HARDINSBURG",
+      "state": "KY",
+      "zipcode": "40143"
+    },
+    {
+      "id": "181320",
+      "name": "LIVINGSTON HOSPITAL AND HEALTHCARE SERVICES, INC",
+      "address": "131 HOSPITAL DRIVE",
+      "city": "SALEM",
+      "state": "KY",
+      "zipcode": "42078"
+    },
+    {
+      "id": "181321",
+      "name": "WAYNE COUNTY HOSPITAL",
+      "address": "166 HOSPITAL STREET",
+      "city": "MONTICELLO",
+      "state": "KY",
+      "zipcode": "42633"
+    },
+    {
+      "id": "181322",
+      "name": "CALDWELL MEDICAL CENTER",
+      "address": "100 MEDICAL CENTER DRIVE",
+      "city": "PRINCETON",
+      "state": "KY",
+      "zipcode": "42445"
+    },
+    {
+      "id": "181323",
+      "name": "OHIO COUNTY HOSPITAL",
+      "address": "1211 OLD MAIN STREET",
+      "city": "HARTFORD",
+      "state": "KY",
+      "zipcode": "42347"
+    },
+    {
+      "id": "181324",
+      "name": "THE MEDICAL CENTER AT SCOTTSVILLE",
+      "address": "456 BURNLEY ROAD",
+      "city": "SCOTTSVILLE",
+      "state": "KY",
+      "zipcode": "42164"
+    },
+    {
+      "id": "181325",
+      "name": "JANE TODD CRAWFORD HOSPITAL",
+      "address": "290 INDUSTRIAL PARK ROAD",
+      "city": "GREENSBURG",
+      "state": "KY",
+      "zipcode": "42743"
+    },
+    {
+      "id": "181327",
+      "name": "MARSHALL COUNTY HOSPITAL",
+      "address": "615 OLD SYMSONIA ROAD",
+      "city": "BENTON",
+      "state": "KY",
+      "zipcode": "42025"
+    },
+    {
+      "id": "181328",
+      "name": "BARBOURVILLE ARH HOSPITAL",
+      "address": "80 HOSPITAL DRIVE",
+      "city": "BARBOURVILLE",
+      "state": "KY",
+      "zipcode": "40906"
+    },
+    {
+      "id": "181329",
+      "name": "CHI SAINT JOSEPH BEREA NF",
+      "address": "305 ESTILL STREET",
+      "city": "BEREA",
+      "state": "KY",
+      "zipcode": "40403"
+    },
+    {
+      "id": "181330",
+      "name": "RUSSELL COUNTY HOSPITAL",
+      "address": "153 DOWELL ROAD",
+      "city": "RUSSELL SPRINGS",
+      "state": "KY",
+      "zipcode": "42642"
+    },
+    {
+      "id": "181331",
+      "name": "MCDOWELL ARH HOSPITAL",
+      "address": "9879 KENTUCKY ROUTE 122",
+      "city": "MC DOWELL",
+      "state": "KY",
+      "zipcode": "41647"
+    },
+    {
+      "id": "181332",
+      "name": "FLEMING COUNTY HOSPITAL",
+      "address": "55 FOUNDATION DRIVE",
+      "city": "FLEMINGSBURG",
+      "state": "KY",
+      "zipcode": "41041"
+    },
+    {
+      "id": "181333",
+      "name": "THE MEDICAL CENTER AT ALBANY",
+      "address": "723 BURKESVILLE ROAD",
+      "city": "ALBANY",
+      "state": "KY",
+      "zipcode": "42602"
+    }
+  ]
+}

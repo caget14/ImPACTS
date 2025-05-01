@@ -1,0 +1,1028 @@
+{
+  "hospitals": [
+    {
+      "id": "110001",
+      "name": "HAMILTON MEDICAL CENTER",
+      "address": "1200 MEMORIAL DRIVE",
+      "city": "DALTON",
+      "state": "GA",
+      "zipcode": "30720"
+    },
+    {
+      "id": "110002",
+      "name": "UPSON REGIONAL MEDICAL CENTER",
+      "address": "801 W GORDON STREET",
+      "city": "THOMASTON",
+      "state": "GA",
+      "zipcode": "30286"
+    },
+    {
+      "id": "110003",
+      "name": "MEMORIAL SATILLA HEALTH",
+      "address": "1900 TEBEAU STREET",
+      "city": "WAYCROSS",
+      "state": "GA",
+      "zipcode": "31501"
+    },
+    {
+      "id": "110005",
+      "name": "NORTHSIDE HOSPITAL FORSYTH",
+      "address": "1200 NORTHSIDE FORSYTH DRIVE",
+      "city": "CUMMING",
+      "state": "GA",
+      "zipcode": "30041"
+    },
+    {
+      "id": "110006",
+      "name": "ST MARY'S HOSPITAL",
+      "address": "1230 BAXTER STREET",
+      "city": "ATHENS",
+      "state": "GA",
+      "zipcode": "30606"
+    },
+    {
+      "id": "110007",
+      "name": "PHOEBE PUTNEY MEMORIAL HOSPITAL",
+      "address": "417 THIRD AVENUE",
+      "city": "ALBANY",
+      "state": "GA",
+      "zipcode": "31703"
+    },
+    {
+      "id": "110008",
+      "name": "NORTHSIDE HOSPITAL CHEROKEE",
+      "address": "450 NORTHSIDE CHEROKEE BOULEVARD",
+      "city": "CANTON",
+      "state": "GA",
+      "zipcode": "30115"
+    },
+    {
+      "id": "110010",
+      "name": "EMORY UNIVERSITY HOSPITAL",
+      "address": "1364 CLIFTON ROAD, NE",
+      "city": "ATLANTA",
+      "state": "GA",
+      "zipcode": "30322"
+    },
+    {
+      "id": "110011",
+      "name": "TANNER MEDICAL CENTER - CARROLLTON",
+      "address": "705 DIXIE STREET",
+      "city": "CARROLLTON",
+      "state": "GA",
+      "zipcode": "30117"
+    },
+    {
+      "id": "110015",
+      "name": "TANNER MEDICAL CENTER VILLA RICA",
+      "address": "601 DALLAS HIGHWAY",
+      "city": "VILLA RICA",
+      "state": "GA",
+      "zipcode": "30180"
+    },
+    {
+      "id": "110016",
+      "name": "WELLSTAR WEST GEORGIA MEDICAL CENTER",
+      "address": "1514 VERNON ROAD",
+      "city": "LAGRANGE",
+      "state": "GA",
+      "zipcode": "30240"
+    },
+    {
+      "id": "110018",
+      "name": "PIEDMONT NEWTON HOSPITAL",
+      "address": "5126 HOSPITAL DRIVE NE",
+      "city": "COVINGTON",
+      "state": "GA",
+      "zipcode": "30014"
+    },
+    {
+      "id": "110023",
+      "name": "ADVENTHEALTH GORDON",
+      "address": "1035 RED BUD ROAD",
+      "city": "CALHOUN",
+      "state": "GA",
+      "zipcode": "30701"
+    },
+    {
+      "id": "110024",
+      "name": "CANDLER HOSPITAL",
+      "address": "5353 REYNOLDS STREET",
+      "city": "SAVANNAH",
+      "state": "GA",
+      "zipcode": "31412"
+    },
+    {
+      "id": "110025",
+      "name": "SOUTHEAST GEORGIA HEALTH SYSTEM- BRUNSWICK CAMPUS",
+      "address": "2415 PARKWOOD DRIVE",
+      "city": "BRUNSWICK",
+      "state": "GA",
+      "zipcode": "31520"
+    },
+    {
+      "id": "110027",
+      "name": "ST MARY'S SACRED HEART HOSPITAL, INC",
+      "address": "367 CLEAR CREEK PARKWAY",
+      "city": "LAVONIA",
+      "state": "GA",
+      "zipcode": "30553"
+    },
+    {
+      "id": "110028",
+      "name": "PIEDMONT AUGUSTA HOSPITAL",
+      "address": "1350 WALTON WAY",
+      "city": "AUGUSTA",
+      "state": "GA",
+      "zipcode": "30901"
+    },
+    {
+      "id": "110029",
+      "name": "NORTHEAST GEORGIA MEDICAL CENTER, INC",
+      "address": "743 SPRING STREET",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "zipcode": "30501"
+    },
+    {
+      "id": "110030",
+      "name": "PIEDMONT CARTERSVILLE MEDICAL CENTER",
+      "address": "960 JOE FRANK HARRIS PARKWAY",
+      "city": "CARTERSVILLE",
+      "state": "GA",
+      "zipcode": "30120"
+    },
+    {
+      "id": "110031",
+      "name": "WELLSTAR SPALDING MEDICAL CENTER",
+      "address": "601 SOUTH 8TH STREET",
+      "city": "GRIFFIN",
+      "state": "GA",
+      "zipcode": "30224"
+    },
+    {
+      "id": "110032",
+      "name": "STEPHENS COUNTY HOSPITAL",
+      "address": "163 HOSPITAL DRIVE",
+      "city": "TOCCOA",
+      "state": "GA",
+      "zipcode": "30577"
+    },
+    {
+      "id": "110034",
+      "name": "WELLSTAR MCG HEALTH, AFFILIATED WITH MED COL",
+      "address": "1120 15TH STREET",
+      "city": "AUGUSTA",
+      "state": "GA",
+      "zipcode": "30912"
+    },
+    {
+      "id": "110035",
+      "name": "WELLSTAR KENNESTONE REGIONAL MEDICAL CENTER",
+      "address": "677 CHURCH STREET",
+      "city": "MARIETTA",
+      "state": "GA",
+      "zipcode": "30060"
+    },
+    {
+      "id": "110036",
+      "name": "MEMORIAL HEALTH UNIVERSITY MEDICAL CENTER",
+      "address": "4700 WATERS AVENUE",
+      "city": "SAVANNAH",
+      "state": "GA",
+      "zipcode": "31404"
+    },
+    {
+      "id": "110038",
+      "name": "ARCHBOLD MEMORIAL",
+      "address": "915 GORDON AVENUE & MIMOSA DRIVE",
+      "city": "THOMASVILLE",
+      "state": "GA",
+      "zipcode": "31792"
+    },
+    {
+      "id": "110041",
+      "name": "NORTHEAST GEORGIA MEDICAL CENTER HABERSHAM",
+      "address": "541 HISTORIC HIGHWAY 441-NORTH",
+      "city": "DEMOREST",
+      "state": "GA",
+      "zipcode": "30535"
+    },
+    {
+      "id": "110042",
+      "name": "WELLSTAR PAULDING MEDICAL CENTER",
+      "address": "2518 JIMMY LEE SMITH PARKWAY",
+      "city": "HIRAM",
+      "state": "GA",
+      "zipcode": "30141"
+    },
+    {
+      "id": "110043",
+      "name": "ST JOSEPH'S HOSPITAL - SAVANNAH",
+      "address": "11705 MERCY BOULEVARD",
+      "city": "SAVANNAH",
+      "state": "GA",
+      "zipcode": "31419"
+    },
+    {
+      "id": "110044",
+      "name": "PHOEBE SUMTER MEDICAL CENTER",
+      "address": "126 HIGHWAY 280 W",
+      "city": "AMERICUS",
+      "state": "GA",
+      "zipcode": "31719"
+    },
+    {
+      "id": "110045",
+      "name": "NORTHEAST GEORGIA MEDICAL CENTER BARROW",
+      "address": "316 NORTH BROAD STREET",
+      "city": "WINDER",
+      "state": "GA",
+      "zipcode": "30680"
+    },
+    {
+      "id": "110046",
+      "name": "PIEDMONT WALTON HOSPITAL, INC",
+      "address": "2151 W SPRING STREET",
+      "city": "MONROE",
+      "state": "GA",
+      "zipcode": "30655"
+    },
+    {
+      "id": "110050",
+      "name": "ADVENTHEALTH MURRAY",
+      "address": "707 OLD DALTON ELLIJAY ROAD, PO BOX 1406",
+      "city": "CHATSWORTH",
+      "state": "GA",
+      "zipcode": "30705"
+    },
+    {
+      "id": "110051",
+      "name": "UNION GENERAL HOSPITAL",
+      "address": "35 HOSPITAL ROAD",
+      "city": "BLAIRSVILLE",
+      "state": "GA",
+      "zipcode": "30512"
+    },
+    {
+      "id": "110054",
+      "name": "ATRIUM HEALTH FLOYD MEDICAL CENTER",
+      "address": "304 TURNER MCCALL BOULEVARD",
+      "city": "ROME",
+      "state": "GA",
+      "zipcode": "30162"
+    },
+    {
+      "id": "110064",
+      "name": "PIEDMONT COLUMBUS REGIONAL MIDTOWN",
+      "address": "710 CENTER STREET",
+      "city": "COLUMBUS",
+      "state": "GA",
+      "zipcode": "31901"
+    },
+    {
+      "id": "110069",
+      "name": "HOUSTON HEALTHCARE",
+      "address": "1601 WATSON BOULEVARD",
+      "city": "WARNER ROBINS",
+      "state": "GA",
+      "zipcode": "31093"
+    },
+    {
+      "id": "110071",
+      "name": "APPLING HEALTHCARE",
+      "address": "163 E TOLLISON STREET",
+      "city": "BAXLEY",
+      "state": "GA",
+      "zipcode": "31513"
+    },
+    {
+      "id": "110073",
+      "name": "DORMINY MEDICAL CENTER",
+      "address": "200 PERRY HOUSE ROAD, BOX 1447",
+      "city": "FITZGERALD",
+      "state": "GA",
+      "zipcode": "31750"
+    },
+    {
+      "id": "110074",
+      "name": "PIEDMONT ATHENS REGIONAL MEDICAL CENTER",
+      "address": "1199 PRINCE AVENUE",
+      "city": "ATHENS",
+      "state": "GA",
+      "zipcode": "30606"
+    },
+    {
+      "id": "110075",
+      "name": "EAST GEORGIA REGIONAL MEDICAL CENTER",
+      "address": "1499 FAIR ROAD",
+      "city": "STATESBORO",
+      "state": "GA",
+      "zipcode": "30458"
+    },
+    {
+      "id": "110076",
+      "name": "EMORY DECATUR HOSPITAL",
+      "address": "2701 N DECATUR ROAD",
+      "city": "DECATUR",
+      "state": "GA",
+      "zipcode": "30033"
+    },
+    {
+      "id": "110078",
+      "name": "EMORY UNIVERSITY HOSPITAL MIDTOWN",
+      "address": "550 PEACHTREE STREET,  NE",
+      "city": "ATLANTA",
+      "state": "GA",
+      "zipcode": "30308"
+    },
+    {
+      "id": "110079",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "address": "80 JESSE HILL, JR DRIVE SE",
+      "city": "ATLANTA",
+      "state": "GA",
+      "zipcode": "30303"
+    },
+    {
+      "id": "110082",
+      "name": "SAINT JOSEPH'S HOSPITAL OF ATLANTA, INC",
+      "address": "5665 PEACHTREE DUNWOODY ROAD",
+      "city": "ATLANTA",
+      "state": "GA",
+      "zipcode": "30342"
+    },
+    {
+      "id": "110083",
+      "name": "PIEDMONT HOSPITAL",
+      "address": "1968 PEACHTREE RD NW",
+      "city": "ATLANTA",
+      "state": "GA",
+      "zipcode": "30309"
+    },
+    {
+      "id": "110086",
+      "name": "WASHINGTON COUNTY REGIONAL MEDICAL CENTER",
+      "address": "610 SPARTA ROAD",
+      "city": "SANDERSVILLE",
+      "state": "GA",
+      "zipcode": "31082"
+    },
+    {
+      "id": "110087",
+      "name": "NORTHSIDE HOSPITAL GWINNETT",
+      "address": "1000 MEDICAL CENTER BOULEVARD",
+      "city": "LAWRENCEVILLE",
+      "state": "GA",
+      "zipcode": "30046"
+    },
+    {
+      "id": "110089",
+      "name": "COFFEE REGIONAL MEDICAL CENTER, INC",
+      "address": "1101 OCILLA ROAD",
+      "city": "DOUGLAS",
+      "state": "GA",
+      "zipcode": "31533"
+    },
+    {
+      "id": "110091",
+      "name": "PIEDMONT ROCKDALE HOSPITAL",
+      "address": "1412 MILSTEAD AVENUE, NE",
+      "city": "CONYERS",
+      "state": "GA",
+      "zipcode": "30012"
+    },
+    {
+      "id": "110092",
+      "name": "DODGE COUNTY HOSPITAL",
+      "address": "901 GRIFFIN AVE",
+      "city": "EASTMAN",
+      "state": "GA",
+      "zipcode": "31023"
+    },
+    {
+      "id": "110095",
+      "name": "TIFT REGIONAL MEDICAL CENTER",
+      "address": "901 E 18TH STREET",
+      "city": "TIFTON",
+      "state": "GA",
+      "zipcode": "31793"
+    },
+    {
+      "id": "110100",
+      "name": "JEFFERSON HOSPITAL",
+      "address": "1067 PEACHTREE ST",
+      "city": "LOUISVILLE",
+      "state": "GA",
+      "zipcode": "30434"
+    },
+    {
+      "id": "110101",
+      "name": "SOUTHWELL MEDICAL, A CAMPUS OF TRMC",
+      "address": "260 MJ TAYLOR ROAD",
+      "city": "ADEL",
+      "state": "GA",
+      "zipcode": "31620"
+    },
+    {
+      "id": "110104",
+      "name": "CRISP REGIONAL HOSPITAL",
+      "address": "902 7TH STREET NORTH",
+      "city": "CORDELE",
+      "state": "GA",
+      "zipcode": "31015"
+    },
+    {
+      "id": "110105",
+      "name": "COLQUITT REGIONAL MEDICAL CENTER",
+      "address": "3131 SOUTH MAIN STREET",
+      "city": "MOULTRIE",
+      "state": "GA",
+      "zipcode": "31768"
+    },
+    {
+      "id": "110107",
+      "name": "ATRIUM HEALTH NAVICENT THE MEDICAL CENTER",
+      "address": "777 HEMLOCK STREET",
+      "city": "MACON",
+      "state": "GA",
+      "zipcode": "31201"
+    },
+    {
+      "id": "110109",
+      "name": "EMANUEL MEDICAL CENTER",
+      "address": "117 KITE ROAD",
+      "city": "SWAINSBORO",
+      "state": "GA",
+      "zipcode": "30401"
+    },
+    {
+      "id": "110111",
+      "name": "PIEDMONT MCDUFFIE HOSPITAL",
+      "address": "2460 WASHINGTON ROAD",
+      "city": "THOMSON",
+      "state": "GA",
+      "zipcode": "30824"
+    },
+    {
+      "id": "110113",
+      "name": "BURKE MEDICAL CENTER",
+      "address": "351 SOUTH LIBERTY STREET",
+      "city": "WAYNESBORO",
+      "state": "GA",
+      "zipcode": "30830"
+    },
+    {
+      "id": "110121",
+      "name": "ARCHBOLD GRADY",
+      "address": "1155 5TH STREET, SE",
+      "city": "CAIRO",
+      "state": "GA",
+      "zipcode": "39828"
+    },
+    {
+      "id": "110122",
+      "name": "SGMC HEALTH",
+      "address": "2501 NORTH PATTERSON STREET, PO BOX 1727",
+      "city": "VALDOSTA",
+      "state": "GA",
+      "zipcode": "31602"
+    },
+    {
+      "id": "110124",
+      "name": "WAYNE MEMORIAL HOSPITAL",
+      "address": "865 SOUTH FIRST STREET",
+      "city": "JESUP",
+      "state": "GA",
+      "zipcode": "31545"
+    },
+    {
+      "id": "110125",
+      "name": "FAIRVIEW PARK HOSPITAL",
+      "address": "200 INDUSTRIAL BOULEVARD",
+      "city": "DUBLIN",
+      "state": "GA",
+      "zipcode": "31021"
+    },
+    {
+      "id": "110128",
+      "name": "MEMORIAL HEALTH MEADOWS HOSPITAL",
+      "address": "ONE MEADOWS PARKWAY",
+      "city": "VIDALIA",
+      "state": "GA",
+      "zipcode": "30474"
+    },
+    {
+      "id": "110129",
+      "name": "ST FRANCIS HOSPITAL- EMORY HEALTHCARE",
+      "address": "2122 MANCHESTER EXPRESSWAY",
+      "city": "COLUMBUS",
+      "state": "GA",
+      "zipcode": "31995"
+    },
+    {
+      "id": "110132",
+      "name": "MEMORIAL HOSPITAL AND MANOR",
+      "address": "1500 E SHOTWELL STREET",
+      "city": "BAINBRIDGE",
+      "state": "GA",
+      "zipcode": "39819"
+    },
+    {
+      "id": "110135",
+      "name": "TAYLOR REGIONAL HOSPITAL",
+      "address": "222 PERRY HWY",
+      "city": "HAWKINSVILLE",
+      "state": "GA",
+      "zipcode": "31036"
+    },
+    {
+      "id": "110142",
+      "name": "EVANS MEMORIAL HOSPITAL",
+      "address": "200 N RIVER STREET",
+      "city": "CLAXTON",
+      "state": "GA",
+      "zipcode": "30417"
+    },
+    {
+      "id": "110143",
+      "name": "WELLSTAR COBB MEDICAL CENTER",
+      "address": "3950 AUSTELL RD",
+      "city": "AUSTELL",
+      "state": "GA",
+      "zipcode": "30106"
+    },
+    {
+      "id": "110146",
+      "name": "SOUTHEAST GEORGIA HEALTH SYSTEM- CAMDEN CAMPUS",
+      "address": "2000 DAN PROCTOR DRIVE",
+      "city": "SAINT MARYS",
+      "state": "GA",
+      "zipcode": "31558"
+    },
+    {
+      "id": "110150",
+      "name": "NAVICENT HEALTH BALDWIN",
+      "address": "821 NORTH COBB STREET",
+      "city": "MILLEDGEVILLE",
+      "state": "GA",
+      "zipcode": "31061"
+    },
+    {
+      "id": "110153",
+      "name": "HOUSTON HEALTHCARE",
+      "address": "1120 MORNINGSIDE DR",
+      "city": "PERRY",
+      "state": "GA",
+      "zipcode": "31069"
+    },
+    {
+      "id": "110161",
+      "name": "NORTHSIDE HOSPITAL",
+      "address": "1000 JOHNSON FERRY ROAD, NE",
+      "city": "ATLANTA",
+      "state": "GA",
+      "zipcode": "30342"
+    },
+    {
+      "id": "110164",
+      "name": "PIEDMONT MACON MEDICAL CENTER",
+      "address": "350 HOSPITAL DRIVE",
+      "city": "MACON",
+      "state": "GA",
+      "zipcode": "31217"
+    },
+    {
+      "id": "110165",
+      "name": "SOUTHERN REGIONAL MEDICAL CENTER",
+      "address": "11 UPPER RIVERDALE ROAD, SW",
+      "city": "RIVERDALE",
+      "state": "GA",
+      "zipcode": "30274"
+    },
+    {
+      "id": "110168",
+      "name": "ADVENTHEALTH REDMOND",
+      "address": "501 REDMOND ROAD NW",
+      "city": "ROME",
+      "state": "GA",
+      "zipcode": "30165"
+    },
+    {
+      "id": "110177",
+      "name": "DOCTORS HOSPITAL",
+      "address": "3651 WHEELER ROAD",
+      "city": "AUGUSTA",
+      "state": "GA",
+      "zipcode": "30909"
+    },
+    {
+      "id": "110184",
+      "name": "WELLSTAR DOUGLAS MEDICAL CENTER",
+      "address": "8954 HOSPITAL DRIVE",
+      "city": "DOUGLASVILLE",
+      "state": "GA",
+      "zipcode": "30134"
+    },
+    {
+      "id": "110190",
+      "name": "FLINT RIVER COMMUNITY HOSPITAL",
+      "address": "509 SUMTER STREET, BOX 770",
+      "city": "MONTEZUMA",
+      "state": "GA",
+      "zipcode": "31063"
+    },
+    {
+      "id": "110191",
+      "name": "PIEDMONT HENRY HOSPITAL",
+      "address": "1133 EAGLE'S LANDING PARKWAY",
+      "city": "STOCKBRIDGE",
+      "state": "GA",
+      "zipcode": "30281"
+    },
+    {
+      "id": "110192",
+      "name": "PIEDMONT EASTSIDE MEDICAL CENTER",
+      "address": "1700 MEDICAL WAY",
+      "city": "SNELLVILLE",
+      "state": "GA",
+      "zipcode": "30078"
+    },
+    {
+      "id": "110194",
+      "name": "DONALSONVILLE HOSPITAL INC",
+      "address": "102 HOSPITAL CIR",
+      "city": "DONALSONVILLE",
+      "state": "GA",
+      "zipcode": "39845"
+    },
+    {
+      "id": "110198",
+      "name": "WELLSTAR NORTH FULTON MEDICAL CENTER",
+      "address": "3000 HOSPITAL BOULEVARD",
+      "city": "ROSWELL",
+      "state": "GA",
+      "zipcode": "30076"
+    },
+    {
+      "id": "110200",
+      "name": "PIEDMONT COLUMBUS REGIONAL NORTHSIDE",
+      "address": "100 FRIST COURT",
+      "city": "COLUMBUS",
+      "state": "GA",
+      "zipcode": "31909"
+    },
+    {
+      "id": "110201",
+      "name": "PIEDMONT MACON NORTH HOSPITAL",
+      "address": "400 CHARTER BOULEVARD",
+      "city": "MACON",
+      "state": "GA",
+      "zipcode": "31210"
+    },
+    {
+      "id": "110209",
+      "name": "TURNING POINT HOSPITAL",
+      "address": "3015 VETERANS PARKWAY",
+      "city": "MOULTRIE",
+      "state": "GA",
+      "zipcode": "31788"
+    },
+    {
+      "id": "110215",
+      "name": "PIEDMONT FAYETTE HOSPITAL",
+      "address": "1255 HIGHWAY 54 WEST",
+      "city": "FAYETTEVILLE",
+      "state": "GA",
+      "zipcode": "30214"
+    },
+    {
+      "id": "110225",
+      "name": "PIEDMONT MOUNTAINSIDE HOSPITAL INC",
+      "address": "1266 HIGHWAY 515 SOUTH",
+      "city": "JASPER",
+      "state": "GA",
+      "zipcode": "30143"
+    },
+    {
+      "id": "110226",
+      "name": "EMORY HILLANDALE HOSPITAL",
+      "address": "2801 DEKALB MEDICAL PARKWAY",
+      "city": "LITHONIA",
+      "state": "GA",
+      "zipcode": "30058"
+    },
+    {
+      "id": "110229",
+      "name": "PIEDMONT NEWNAN HOSPITAL, INC",
+      "address": "745 POPLAR ROAD",
+      "city": "NEWNAN",
+      "state": "GA",
+      "zipcode": "30265"
+    },
+    {
+      "id": "110230",
+      "name": "EMORY JOHNS CREEK HOSPITAL",
+      "address": "6325 HOSPITAL PARKWAY",
+      "city": "JOHNS CREEK",
+      "state": "GA",
+      "zipcode": "30097"
+    },
+    {
+      "id": "110233",
+      "name": "SOUTHEASTERN REGIONAL MEDICAL CENTER, INC",
+      "address": "600 CELEBRATE LIFE PARKWAY NORTH",
+      "city": "NEWNAN",
+      "state": "GA",
+      "zipcode": "30265"
+    },
+    {
+      "id": "110234",
+      "name": "SGMC BERRIEN CAMPUS",
+      "address": "1221 E MCPHERSON AVENUE",
+      "city": "NASHVILLE",
+      "state": "GA",
+      "zipcode": "31639"
+    },
+    {
+      "id": "110236",
+      "name": "CHI MEMORIAL HOSPITAL- GEORGIA",
+      "address": "100 GROSS CRESCENT CIRCLE",
+      "city": "FORT OGLETHORPE",
+      "state": "GA",
+      "zipcode": "30742"
+    },
+    {
+      "id": "110237",
+      "name": "NORTHEAST GEORGIA MEDICAL CENTER LUMPKIN",
+      "address": "495 HIGHWAY 400 NORTH",
+      "city": "DAHLONEGA",
+      "state": "GA",
+      "zipcode": "30533"
+    },
+    {
+      "id": "110252",
+      "name": "NORTHSIDE HOSPITAL DULUTH",
+      "address": "3620 HOWELL FERRY ROAD",
+      "city": "DULUTH",
+      "state": "GA",
+      "zipcode": "30096"
+    },
+    {
+      "id": "110779",
+      "name": "IRWIN COUNTY HOSPITAL",
+      "address": "710 N IRWIN AVENUE",
+      "city": "OCILLA",
+      "state": "GA",
+      "zipcode": "31774"
+    },
+    {
+      "id": "110780",
+      "name": "BLUE RIDGE MEDICAL CENTER",
+      "address": "2855 OLD HIGHWAY 5 NORTH",
+      "city": "BLUE RIDGE",
+      "state": "GA",
+      "zipcode": "30513"
+    },
+    {
+      "id": "111302",
+      "name": "BLECKLEY MEMORIAL HOSPITAL",
+      "address": "145 PEACOCK STREET",
+      "city": "COCHRAN",
+      "state": "GA",
+      "zipcode": "31014"
+    },
+    {
+      "id": "111303",
+      "name": "JASPER MEMORIAL HOSPITAL",
+      "address": "898 COLLEGE STREET",
+      "city": "MONTICELLO",
+      "state": "GA",
+      "zipcode": "31064"
+    },
+    {
+      "id": "111304",
+      "name": "MORGAN MEDICAL CENTER",
+      "address": "1740 LIONS CLUB ROAD",
+      "city": "MADISON",
+      "state": "GA",
+      "zipcode": "30650"
+    },
+    {
+      "id": "111305",
+      "name": "MILLER COUNTY HOSPITAL",
+      "address": "209 N CUTHBERT STREET",
+      "city": "COLQUITT",
+      "state": "GA",
+      "zipcode": "39837"
+    },
+    {
+      "id": "111306",
+      "name": "EFFINGHAM HEALTH SYSTEM",
+      "address": "459 GA HIGHWAY 119 SOUTH",
+      "city": "SPRINGFIELD",
+      "state": "GA",
+      "zipcode": "31329"
+    },
+    {
+      "id": "111308",
+      "name": "CLINCH MEMORIAL HOSPITAL",
+      "address": "1050 VALDOSTA HIGHWAY",
+      "city": "HOMERVILLE",
+      "state": "GA",
+      "zipcode": "31634"
+    },
+    {
+      "id": "111310",
+      "name": "ATRIUM HEALTH NAVICENT PEACH",
+      "address": "1960 HIGHWAY 247 CONNECTOR",
+      "city": "BYRON",
+      "state": "GA",
+      "zipcode": "31008"
+    },
+    {
+      "id": "111311",
+      "name": "JENKINS COUNTY MEDICAL CENTER",
+      "address": "931 EAST WINTHROPE AVENUE",
+      "city": "MILLEN",
+      "state": "GA",
+      "zipcode": "30442"
+    },
+    {
+      "id": "111312",
+      "name": "OPTIM MEDICAL CENTER - SCREVEN",
+      "address": "215 MIMS ROAD",
+      "city": "SYLVANIA",
+      "state": "GA",
+      "zipcode": "30467"
+    },
+    {
+      "id": "111313",
+      "name": "PUTNAM GENERAL HOSPITAL",
+      "address": "101 LAKE OCONEE PARKWAY",
+      "city": "EATONTON",
+      "state": "GA",
+      "zipcode": "31024"
+    },
+    {
+      "id": "111314",
+      "name": "LIFEBRITE COMMUNITY HOSPITAL OF EARLY",
+      "address": "11740 COLUMBIA STREET",
+      "city": "BLAKELY",
+      "state": "GA",
+      "zipcode": "39823"
+    },
+    {
+      "id": "111316",
+      "name": "WARM SPRINGS MEDICAL CENTER",
+      "address": "5995 SPRING STREET",
+      "city": "WARM SPRINGS",
+      "state": "GA",
+      "zipcode": "31830"
+    },
+    {
+      "id": "111318",
+      "name": "MONROE COUNTY HOSPITAL",
+      "address": "88 MARTIN LUTHER KING JR DRIVE",
+      "city": "FORSYTH",
+      "state": "GA",
+      "zipcode": "31029"
+    },
+    {
+      "id": "111319",
+      "name": "WELLSTAR SYLVAN GROVE MEDICAL CENTER",
+      "address": "1050 MCDONOUGH ROAD",
+      "city": "JACKSON",
+      "state": "GA",
+      "zipcode": "30233"
+    },
+    {
+      "id": "111320",
+      "name": "HIGGINS GENERAL HOSPITAL",
+      "address": "200 ALLEN MEMORIAL DRIVE",
+      "city": "BREMEN",
+      "state": "GA",
+      "zipcode": "30110"
+    },
+    {
+      "id": "111323",
+      "name": "OPTIM MEDICAL CENTER - TATTNALL",
+      "address": "247 S MAIN STREET",
+      "city": "REIDSVILLE",
+      "state": "GA",
+      "zipcode": "30453"
+    },
+    {
+      "id": "111324",
+      "name": "CHATUGE REGIONAL HOSPITAL",
+      "address": "110 S MAIN STREET",
+      "city": "HIAWASSEE",
+      "state": "GA",
+      "zipcode": "30546"
+    },
+    {
+      "id": "111325",
+      "name": "WILLS MEMORIAL HOSPITAL",
+      "address": "120 GORDON STREET",
+      "city": "WASHINGTON",
+      "state": "GA",
+      "zipcode": "30673"
+    },
+    {
+      "id": "111326",
+      "name": "SGMC HEALTH LANIER",
+      "address": "116 WEST THIGPEN AVENUE",
+      "city": "LAKELAND",
+      "state": "GA",
+      "zipcode": "31635"
+    },
+    {
+      "id": "111327",
+      "name": "BACON COUNTY HOSPITAL",
+      "address": "302 SOUTH WAYNE STREET",
+      "city": "ALMA",
+      "state": "GA",
+      "zipcode": "31510"
+    },
+    {
+      "id": "111328",
+      "name": "PHOEBE WORTH MEDICAL CENTER",
+      "address": "807 SOUTH ISABELLA STREET",
+      "city": "SYLVESTER",
+      "state": "GA",
+      "zipcode": "31791"
+    },
+    {
+      "id": "111329",
+      "name": "ST MARY'S GOOD SAMARITAN HOSPITAL",
+      "address": "5401 LAKE OCONEE PARKWAY",
+      "city": "GREENSBORO",
+      "state": "GA",
+      "zipcode": "30642"
+    },
+    {
+      "id": "111330",
+      "name": "ATRIUM HEALTH FLOYD POLK MEDICAL CENTER",
+      "address": "2360 ROCKMART HIGHWAY",
+      "city": "CEDARTOWN",
+      "state": "GA",
+      "zipcode": "30125"
+    },
+    {
+      "id": "111331",
+      "name": "ARCHBOLD MITCHELL",
+      "address": "90  E STEPHENS STREET",
+      "city": "CAMILLA",
+      "state": "GA",
+      "zipcode": "31730"
+    },
+    {
+      "id": "111332",
+      "name": "ARCHBOLD BROOKS",
+      "address": "903 N COURT STREET",
+      "city": "QUITMAN",
+      "state": "GA",
+      "zipcode": "31643"
+    },
+    {
+      "id": "111333",
+      "name": "JEFF DAVIS HOSPITAL",
+      "address": "163 SOUTH TALLAHASSEE STREET",
+      "city": "HAZLEHURST",
+      "state": "GA",
+      "zipcode": "31539"
+    },
+    {
+      "id": "111334",
+      "name": "CANDLER COUNTY HOSPITAL",
+      "address": "400 CEDAR STREET",
+      "city": "METTER",
+      "state": "GA",
+      "zipcode": "30439"
+    },
+    {
+      "id": "111335",
+      "name": "LIBERTY REGIONAL MEDICAL CENTER",
+      "address": "462 E G MILES PARKWAY",
+      "city": "HINESVILLE",
+      "state": "GA",
+      "zipcode": "31310"
+    },
+    {
+      "id": "111336",
+      "name": "MOUNTAIN LAKES MEDICAL CENTER",
+      "address": "162 LEGACY POINT",
+      "city": "CLAYTON",
+      "state": "GA",
+      "zipcode": "30525"
+    },
+    {
+      "id": "111337",
+      "name": "ELBERT MEMORIAL HOSPITAL",
+      "address": "4 MEDICAL DRIVE",
+      "city": "ELBERTON",
+      "state": "GA",
+      "zipcode": "30635"
+    }
+  ]
+}

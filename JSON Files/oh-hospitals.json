@@ -1,0 +1,1212 @@
+{
+  "hospitals": [
+    {
+      "id": "360001",
+      "name": "MERCY HEALTH-ANDERSON HOSPITAL",
+      "address": "7500 STATE ROAD",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45255"
+    },
+    {
+      "id": "360002",
+      "name": "UNIVERSITY HOSPITALS SAMARITAN MEDICAL CENTER",
+      "address": "1025 CENTER ST",
+      "city": "ASHLAND",
+      "state": "OH",
+      "zipcode": "44805"
+    },
+    {
+      "id": "360003",
+      "name": "UNIVERSITY OF CINCINNATI MEDICAL CENTER, LLC",
+      "address": "3188 BELLEVUE AVENUE",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45219"
+    },
+    {
+      "id": "360006",
+      "name": "RIVERSIDE METHODIST HOSPITAL",
+      "address": "3535 OLENTANGY RIVER RD",
+      "city": "COLUMBUS",
+      "state": "OH",
+      "zipcode": "43214"
+    },
+    {
+      "id": "360008",
+      "name": "SOUTHERN OHIO MEDICAL CENTER",
+      "address": "1805 27TH STREET",
+      "city": "PORTSMOUTH",
+      "state": "OH",
+      "zipcode": "45662"
+    },
+    {
+      "id": "360009",
+      "name": "LIMA MEMORIAL HEALTH SYSTEM",
+      "address": "1001 BELLEFONTAINE AVENUE",
+      "city": "LIMA",
+      "state": "OH",
+      "zipcode": "45804"
+    },
+    {
+      "id": "360010",
+      "name": "UNION HOSPITAL",
+      "address": "659 BOULEVARD",
+      "city": "DOVER",
+      "state": "OH",
+      "zipcode": "44622"
+    },
+    {
+      "id": "360011",
+      "name": "MARION GENERAL HOSPITAL",
+      "address": "1000 MCKINLEY PARK DRIVE",
+      "city": "MARION",
+      "state": "OH",
+      "zipcode": "43302"
+    },
+    {
+      "id": "360012",
+      "name": "MOUNT CARMEL ST ANN'S",
+      "address": "500 SOUTH CLEVELAND AVENUE",
+      "city": "WESTERVILLE",
+      "state": "OH",
+      "zipcode": "43081"
+    },
+    {
+      "id": "360013",
+      "name": "WILSON MEMORIAL HOSPITAL",
+      "address": "915 WEST MICHIGAN STREET",
+      "city": "SIDNEY",
+      "state": "OH",
+      "zipcode": "45365"
+    },
+    {
+      "id": "360014",
+      "name": "OHIOHEALTH O'BLENESS HOSPITAL",
+      "address": "55 HOSPITAL DRIVE",
+      "city": "ATHENS",
+      "state": "OH",
+      "zipcode": "45701"
+    },
+    {
+      "id": "360016",
+      "name": "THE JEWISH HOSPITAL-MERCY HEALTH",
+      "address": "4777 EAST GALBRAITH ROAD",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45236"
+    },
+    {
+      "id": "360017",
+      "name": "GRANT MEDICAL CENTER",
+      "address": "111 SOUTH GRANT AVENUE",
+      "city": "COLUMBUS",
+      "state": "OH",
+      "zipcode": "43215"
+    },
+    {
+      "id": "360020",
+      "name": "SUMMA HEALTH SYSTEM",
+      "address": "525 EAST MARKET STREET",
+      "city": "AKRON",
+      "state": "OH",
+      "zipcode": "44309"
+    },
+    {
+      "id": "360025",
+      "name": "FIRELANDS REGIONAL MEDICAL CENTER",
+      "address": "1111 HAYES AVENUE",
+      "city": "SANDUSKY",
+      "state": "OH",
+      "zipcode": "44870"
+    },
+    {
+      "id": "360026",
+      "name": "KETTERING HEALTH GREENE MEMORIAL",
+      "address": "1141 NORTH MONROE DRIVE",
+      "city": "XENIA",
+      "state": "OH",
+      "zipcode": "45385"
+    },
+    {
+      "id": "360027",
+      "name": "AKRON GENERAL MEDICAL CENTER",
+      "address": "1 AKRON GENERAL AVENUE",
+      "city": "AKRON",
+      "state": "OH",
+      "zipcode": "44307"
+    },
+    {
+      "id": "360029",
+      "name": "WOOD COUNTY HOSPITAL",
+      "address": "950 WEST WOOSTER STREET",
+      "city": "BOWLING GREEN",
+      "state": "OH",
+      "zipcode": "43402"
+    },
+    {
+      "id": "360032",
+      "name": "GRAND LAKE HEALTH SYSTEM",
+      "address": "200 SAINT CLAIR STREET",
+      "city": "SAINT MARYS",
+      "state": "OH",
+      "zipcode": "45885"
+    },
+    {
+      "id": "360035",
+      "name": "MOUNT CARMEL EAST",
+      "address": "6001 EAST BROAD STREET",
+      "city": "COLUMBUS",
+      "state": "OH",
+      "zipcode": "43213"
+    },
+    {
+      "id": "360036",
+      "name": "WOOSTER COMMUNITY HOSPITAL",
+      "address": "1761 BEALL AVENUE",
+      "city": "WOOSTER",
+      "state": "OH",
+      "zipcode": "44691"
+    },
+    {
+      "id": "360039",
+      "name": "GENESIS HOSPITAL",
+      "address": "2951 MAPLE AVENUE",
+      "city": "ZANESVILLE",
+      "state": "OH",
+      "zipcode": "43701"
+    },
+    {
+      "id": "360040",
+      "name": "KNOX COMMUNITY HOSPITAL",
+      "address": "1330 COSHOCTON ROAD",
+      "city": "MOUNT VERNON",
+      "state": "OH",
+      "zipcode": "43050"
+    },
+    {
+      "id": "360041",
+      "name": "PARMA COMMUNITY GENERAL HOSPITAL",
+      "address": "7007 POWERS BOULEVARD",
+      "city": "PARMA",
+      "state": "OH",
+      "zipcode": "44129"
+    },
+    {
+      "id": "360044",
+      "name": "WAYNE HOSPITAL",
+      "address": "835 SWEITZER STREET",
+      "city": "GREENVILLE",
+      "state": "OH",
+      "zipcode": "45331"
+    },
+    {
+      "id": "360046",
+      "name": "MCCULLOUGH-HYDE MEMORIAL HOSPITAL",
+      "address": "110 NORTH POPLAR STREET",
+      "city": "OXFORD",
+      "state": "OH",
+      "zipcode": "45056"
+    },
+    {
+      "id": "360048",
+      "name": "UNIVERSITY OF TOLEDO MEDICAL CENTER",
+      "address": "3000 ARLINGTON AVENUE",
+      "city": "TOLEDO",
+      "state": "OH",
+      "zipcode": "43699"
+    },
+    {
+      "id": "360051",
+      "name": "MIAMI VALLEY HOSPITAL",
+      "address": "ONE WYOMING STREET",
+      "city": "DAYTON",
+      "state": "OH",
+      "zipcode": "45409"
+    },
+    {
+      "id": "360054",
+      "name": "HOLZER MEDICAL CENTER",
+      "address": "100 JACKSON PIKE",
+      "city": "GALLIPOLIS",
+      "state": "OH",
+      "zipcode": "45631"
+    },
+    {
+      "id": "360055",
+      "name": "TRUMBULL REGIONAL MEDICAL CENTER",
+      "address": "1350 EAST MARKET STREET",
+      "city": "WARREN",
+      "state": "OH",
+      "zipcode": "44482"
+    },
+    {
+      "id": "360056",
+      "name": "MERCY HEALTH - FAIRFIELD HOSPITAL",
+      "address": "3000 MACK ROAD",
+      "city": "FAIRFIELD",
+      "state": "OH",
+      "zipcode": "45014"
+    },
+    {
+      "id": "360058",
+      "name": "MERCER COUNTY JOINT TOWNSHIP COMMUNITY HOSPITAL",
+      "address": "800 WEST MAIN STREET",
+      "city": "COLDWATER",
+      "state": "OH",
+      "zipcode": "45828"
+    },
+    {
+      "id": "360059",
+      "name": "METROHEALTH SYSTEM",
+      "address": "2500 METROHEALTH DRIVE",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "zipcode": "44109"
+    },
+    {
+      "id": "360064",
+      "name": "MH ST ELIZABETH YOUNGSTOWN HOSPITAL",
+      "address": "1044 BELMONT AVENUE",
+      "city": "YOUNGSTOWN",
+      "state": "OH",
+      "zipcode": "44501"
+    },
+    {
+      "id": "360065",
+      "name": "FISHER-TITUS HOSPITAL",
+      "address": "272 BENEDICT AVENUE",
+      "city": "NORWALK",
+      "state": "OH",
+      "zipcode": "44857"
+    },
+    {
+      "id": "360066",
+      "name": "MERCY HEALTH-ST RITA'S MEDICAL CENTER",
+      "address": "730 WEST MARKET STREET",
+      "city": "LIMA",
+      "state": "OH",
+      "zipcode": "45801"
+    },
+    {
+      "id": "360068",
+      "name": "TOLEDO HOSPITAL THE",
+      "address": "2142 NORTH COVE BOULEVARD",
+      "city": "TOLEDO",
+      "state": "OH",
+      "zipcode": "43606"
+    },
+    {
+      "id": "360070",
+      "name": "MERCY MEDICAL CENTER",
+      "address": "1320 MERCY DRIVE NW",
+      "city": "CANTON",
+      "state": "OH",
+      "zipcode": "44708"
+    },
+    {
+      "id": "360071",
+      "name": "VAN WERT COUNTY HOSPITAL",
+      "address": "1250 S WASHINGTON STREET",
+      "city": "VAN WERT",
+      "state": "OH",
+      "zipcode": "45891"
+    },
+    {
+      "id": "360072",
+      "name": "FAIRFIELD MEDICAL CENTER",
+      "address": "401 NORTH EWING STREET",
+      "city": "LANCASTER",
+      "state": "OH",
+      "zipcode": "43130"
+    },
+    {
+      "id": "360075",
+      "name": "UH REGIONAL HOSPITALS",
+      "address": "13207 RAVENNA ROAD",
+      "city": "CHARDON",
+      "state": "OH",
+      "zipcode": "44024"
+    },
+    {
+      "id": "360076",
+      "name": "ATRIUM MEDICAL CENTER",
+      "address": "ONE MEDICAL CENTER DRIVE",
+      "city": "FRANKLIN",
+      "state": "OH",
+      "zipcode": "45005"
+    },
+    {
+      "id": "360077",
+      "name": "FAIRVIEW HOSPITAL",
+      "address": "18101 LORAIN AVENUE",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "zipcode": "44111"
+    },
+    {
+      "id": "360078",
+      "name": "UNIVERSITY HOSPITALS PORTAGE MEDICAL CENTER",
+      "address": "6847 N CHESTNUT",
+      "city": "RAVENNA",
+      "state": "OH",
+      "zipcode": "44266"
+    },
+    {
+      "id": "360079",
+      "name": "KETTERING HEALTH MAIN CAMPUS",
+      "address": "3535 SOUTHERN BOULEVARD",
+      "city": "KETTERING",
+      "state": "OH",
+      "zipcode": "45429"
+    },
+    {
+      "id": "360080",
+      "name": "EAST OHIO REGIONAL HOSPITAL",
+      "address": "90 NORTH FOURTH STREET",
+      "city": "MARTINS FERRY",
+      "state": "OH",
+      "zipcode": "43935"
+    },
+    {
+      "id": "360082",
+      "name": "EUCLID HOSPITAL",
+      "address": "18901 LAKE SHORE BOULEVARD",
+      "city": "EUCLID",
+      "state": "OH",
+      "zipcode": "44119"
+    },
+    {
+      "id": "360084",
+      "name": "AULTMAN HOSPITAL",
+      "address": "2600 SIXTH STREET SW",
+      "city": "CANTON",
+      "state": "OH",
+      "zipcode": "44710"
+    },
+    {
+      "id": "360085",
+      "name": "OHIO STATE UNIVERSITY HOSPITALS",
+      "address": "410 WEST 10TH AVENUE",
+      "city": "COLUMBUS",
+      "state": "OH",
+      "zipcode": "43210"
+    },
+    {
+      "id": "360086",
+      "name": "MERCY HEALTH - SPRINGFIELD REGIONAL MEDICAL CENTER",
+      "address": "100 MEDICAL CENTER DRIVE",
+      "city": "SPRINGFIELD",
+      "state": "OH",
+      "zipcode": "45504"
+    },
+    {
+      "id": "360087",
+      "name": "LUTHERAN HOSPITAL",
+      "address": "1730 WEST 25TH STREET",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "zipcode": "44113"
+    },
+    {
+      "id": "360089",
+      "name": "MERCY HEALTH - TIFFIN HOSPITAL",
+      "address": "45 ST LAWRENCE DRIVE",
+      "city": "TIFFIN",
+      "state": "OH",
+      "zipcode": "44883"
+    },
+    {
+      "id": "360091",
+      "name": "MEDINA HOSPITAL",
+      "address": "1000 EAST WASHINGTON STREET",
+      "city": "MEDINA",
+      "state": "OH",
+      "zipcode": "44256"
+    },
+    {
+      "id": "360092",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "500 LONDON AVENUE",
+      "city": "MARYSVILLE",
+      "state": "OH",
+      "zipcode": "43040"
+    },
+    {
+      "id": "360095",
+      "name": "BLANCHARD VALLEY HOSPITAL",
+      "address": "1900 SOUTH MAIN STREET",
+      "city": "FINDLAY",
+      "state": "OH",
+      "zipcode": "45840"
+    },
+    {
+      "id": "360096",
+      "name": "EAST LIVERPOOL CITY HOSPITAL",
+      "address": "425 WEST 5TH STREET",
+      "city": "EAST LIVERPOOL",
+      "state": "OH",
+      "zipcode": "43920"
+    },
+    {
+      "id": "360098",
+      "name": "LAKE HEALTH",
+      "address": "7590 AUBURN ROAD",
+      "city": "CONCORD",
+      "state": "OH",
+      "zipcode": "44077"
+    },
+    {
+      "id": "360107",
+      "name": "BELLEVUE HOSPITAL",
+      "address": "1400 WEST MAIN STREET",
+      "city": "BELLEVUE",
+      "state": "OH",
+      "zipcode": "44811"
+    },
+    {
+      "id": "360109",
+      "name": "COSHOCTON REGIONAL MEDICAL CENTER",
+      "address": "1460 ORANGE STREET",
+      "city": "COSHOCTON",
+      "state": "OH",
+      "zipcode": "43812"
+    },
+    {
+      "id": "360112",
+      "name": "MERCY HEALTH ST VINCENT MEDICAL CENTER",
+      "address": "2213 CHERRY STREET",
+      "city": "TOLEDO",
+      "state": "OH",
+      "zipcode": "43608"
+    },
+    {
+      "id": "360118",
+      "name": "OHIOHEALTH MANSFIELD HOSPITAL",
+      "address": "335 GLESSNER AVENUE",
+      "city": "MANSFIELD",
+      "state": "OH",
+      "zipcode": "44903"
+    },
+    {
+      "id": "360121",
+      "name": "COMMUNITY HOSPITALS AND WELLNESS CENTERS",
+      "address": "433 WEST HIGH STREET",
+      "city": "BRYAN",
+      "state": "OH",
+      "zipcode": "43506"
+    },
+    {
+      "id": "360123",
+      "name": "UH ST JOHN MEDICAL CENTER",
+      "address": "29000 CENTER RIDGE ROAD",
+      "city": "WESTLAKE",
+      "state": "OH",
+      "zipcode": "44145"
+    },
+    {
+      "id": "360125",
+      "name": "ASHTABULA COUNTY MEDICAL CENTER",
+      "address": "2420 LAKE AVENUE",
+      "city": "ASHTABULA",
+      "state": "OH",
+      "zipcode": "44004"
+    },
+    {
+      "id": "360131",
+      "name": "ALLIANCE COMMUNITY HOSPITAL",
+      "address": "200 EAST STATE STREET",
+      "city": "ALLIANCE",
+      "state": "OH",
+      "zipcode": "44601"
+    },
+    {
+      "id": "360132",
+      "name": "FORT HAMILTON HUGHES MEMORIAL HOSPITAL",
+      "address": "630 EATON AVENUE",
+      "city": "HAMILTON",
+      "state": "OH",
+      "zipcode": "45013"
+    },
+    {
+      "id": "360133",
+      "name": "KETTERING HEALTH DAYTON",
+      "address": "405 GRAND AVENUE",
+      "city": "DAYTON",
+      "state": "OH",
+      "zipcode": "45405"
+    },
+    {
+      "id": "360134",
+      "name": "GOOD SAMARITAN HOSPITAL",
+      "address": "375 DIXMYTH AVENUE",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45220"
+    },
+    {
+      "id": "360137",
+      "name": "UH CLEVELAND MEDICAL CENTER",
+      "address": "11100 EUCLID AVENUE",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "zipcode": "44106"
+    },
+    {
+      "id": "360143",
+      "name": "MARYMOUNT HOSPITAL",
+      "address": "12300 MCCRACKEN ROAD",
+      "city": "GARFIELD HEIGHTS",
+      "state": "OH",
+      "zipcode": "44125"
+    },
+    {
+      "id": "360144",
+      "name": "SOUTH POINTE HOSPITAL",
+      "address": "20000 HARVARD ROAD",
+      "city": "WARRENSVILLE HEIGHTS",
+      "state": "OH",
+      "zipcode": "44122"
+    },
+    {
+      "id": "360145",
+      "name": "UNIVERSITY HOSPITALS - ELYRIA MEDICAL CENTER",
+      "address": "630 EAST RIVER STREET",
+      "city": "ELYRIA",
+      "state": "OH",
+      "zipcode": "44035"
+    },
+    {
+      "id": "360147",
+      "name": "MARIETTA MEMORIAL HOSPITAL",
+      "address": "401 MATTHEW STREET",
+      "city": "MARIETTA",
+      "state": "OH",
+      "zipcode": "45750"
+    },
+    {
+      "id": "360148",
+      "name": "POMERENE HOSPITAL",
+      "address": "981 WOOSTER ROAD",
+      "city": "MILLERSBURG",
+      "state": "OH",
+      "zipcode": "44654"
+    },
+    {
+      "id": "360150",
+      "name": "SUMMA WESTERN RESERVE HOSPITAL",
+      "address": "1900 23RD STREET",
+      "city": "CUYAHOGA FALLS",
+      "state": "OH",
+      "zipcode": "44223"
+    },
+    {
+      "id": "360152",
+      "name": "DOCTORS HOSPITAL",
+      "address": "5100 WEST  BROAD STREET",
+      "city": "COLUMBUS",
+      "state": "OH",
+      "zipcode": "43228"
+    },
+    {
+      "id": "360155",
+      "name": "SOUTHWEST GENERAL HEALTH CENTER",
+      "address": "18697 BAGLEY ROAD",
+      "city": "MIDDLEBURG HEIGHTS",
+      "state": "OH",
+      "zipcode": "44130"
+    },
+    {
+      "id": "360156",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "715 SOUTH TAFT AVENUE",
+      "city": "FREMONT",
+      "state": "OH",
+      "zipcode": "43420"
+    },
+    {
+      "id": "360159",
+      "name": "ADENA REGIONAL MEDICAL CENTER",
+      "address": "272 HOSPITAL ROAD",
+      "city": "CHILLICOTHE",
+      "state": "OH",
+      "zipcode": "45601"
+    },
+    {
+      "id": "360161",
+      "name": "MH ST JOSEPH WARREN HOSPITAL",
+      "address": "667 EASTLAND AVE SE",
+      "city": "WARREN",
+      "state": "OH",
+      "zipcode": "44484"
+    },
+    {
+      "id": "360163",
+      "name": "CHRIST HOSPITAL",
+      "address": "2139 AUBURN AVENUE",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45219"
+    },
+    {
+      "id": "360170",
+      "name": "BERGER HOSPITAL",
+      "address": "600 NORTH PICKAWAY STREET",
+      "city": "CIRCLEVILLE",
+      "state": "OH",
+      "zipcode": "43113"
+    },
+    {
+      "id": "360172",
+      "name": "MERCY HEALTH-LORAIN HOSPITAL",
+      "address": "3700 KOLBE ROAD",
+      "city": "LORAIN",
+      "state": "OH",
+      "zipcode": "44053"
+    },
+    {
+      "id": "360174",
+      "name": "UPPER VALLEY MEDICAL CENTER",
+      "address": "3130 NORTH COUNTY ROAD 25A",
+      "city": "TROY",
+      "state": "OH",
+      "zipcode": "45373"
+    },
+    {
+      "id": "360175",
+      "name": "CLINTON MEMORIAL HOSPITAL",
+      "address": "610 WEST MAIN STREET",
+      "city": "WILMINGTON",
+      "state": "OH",
+      "zipcode": "45177"
+    },
+    {
+      "id": "360179",
+      "name": "BETHESDA NORTH",
+      "address": "10500 MONTGOMERY ROAD",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45242"
+    },
+    {
+      "id": "360180",
+      "name": "CLEVELAND CLINIC",
+      "address": "9500 EUCLID AVENUE",
+      "city": "CLEVELAND",
+      "state": "OH",
+      "zipcode": "44195"
+    },
+    {
+      "id": "360185",
+      "name": "SALEM REGIONAL MEDICAL CENTER",
+      "address": "1995 EAST STATE STREET",
+      "city": "SALEM",
+      "state": "OH",
+      "zipcode": "44460"
+    },
+    {
+      "id": "360189",
+      "name": "MADISON HEALTH",
+      "address": "210 NORTH MAIN STREET",
+      "city": "LONDON",
+      "state": "OH",
+      "zipcode": "43140"
+    },
+    {
+      "id": "360197",
+      "name": "MARY RUTAN HOSPITAL",
+      "address": "205 PALMER AVENUE",
+      "city": "BELLEFONTAINE",
+      "state": "OH",
+      "zipcode": "43311"
+    },
+    {
+      "id": "360203",
+      "name": "SOUTHEASTERN OHIO REGIONAL MEDICAL CENTER",
+      "address": "1341 NORTH CLARK STREET",
+      "city": "CAMBRIDGE",
+      "state": "OH",
+      "zipcode": "43725"
+    },
+    {
+      "id": "360210",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "address": "561 WEST CENTRAL AVENUE",
+      "city": "DELAWARE",
+      "state": "OH",
+      "zipcode": "43015"
+    },
+    {
+      "id": "360211",
+      "name": "TRINITY MEDICAL CTR EAST &TRINITY MEDICAL CTR WEST",
+      "address": "380 SUMMIT AVENUE",
+      "city": "STEUBENVILLE",
+      "state": "OH",
+      "zipcode": "43952"
+    },
+    {
+      "id": "360218",
+      "name": "LICKING MEMORIAL HOSPITAL",
+      "address": "1320 WEST MAIN STREET",
+      "city": "NEWARK",
+      "state": "OH",
+      "zipcode": "43055"
+    },
+    {
+      "id": "360230",
+      "name": "HILLCREST HOSPITAL",
+      "address": "6780 MAYFIELD ROAD",
+      "city": "MAYFIELD HEIGHTS",
+      "state": "OH",
+      "zipcode": "44124"
+    },
+    {
+      "id": "360234",
+      "name": "MERCY HEALTH - WEST HOSPITAL",
+      "address": "3300 MERCY HEALTH BLVD",
+      "city": "CINCINNATI",
+      "state": "OH",
+      "zipcode": "45211"
+    },
+    {
+      "id": "360236",
+      "name": "MERCY HEALTH - CLERMONT HOSPITAL",
+      "address": "3000 HOSPITAL DRIVE",
+      "city": "BATAVIA",
+      "state": "OH",
+      "zipcode": "45103"
+    },
+    {
+      "id": "360239",
+      "name": "KETTERING HEALTH MIAMISBURG",
+      "address": "4000 MIAMISBURG-CENTERVILLE ROAD",
+      "city": "MIAMISBURG",
+      "state": "OH",
+      "zipcode": "45342"
+    },
+    {
+      "id": "360242",
+      "name": "JAMES CANCER HOSPITAL & SOLOVE RESEARCH INSTITUTE",
+      "address": "460 WEST TENTH AVENUE",
+      "city": "COLUMBUS",
+      "state": "OH",
+      "zipcode": "43210"
+    },
+    {
+      "id": "360245",
+      "name": "GLENBEIGH HEALTH SOURCES",
+      "address": "2863 STATE ROUTE 45",
+      "city": "ROCK CREEK",
+      "state": "OH",
+      "zipcode": "44084"
+    },
+    {
+      "id": "360259",
+      "name": "BAY PARK COMMUNITY HOSPITAL",
+      "address": "2801 BAY PARK DRIVE",
+      "city": "OREGON",
+      "state": "OH",
+      "zipcode": "43616"
+    },
+    {
+      "id": "360263",
+      "name": "INSTITUTE FOR ORTHOPAEDIC SURGERY",
+      "address": "801 MEDICAL DRIVE, SUITE B",
+      "city": "LIMA",
+      "state": "OH",
+      "zipcode": "45804"
+    },
+    {
+      "id": "360266",
+      "name": "MOUNT CARMEL NEW ALBANY SURGICAL HOSPITAL",
+      "address": "7333 SMITH'S MILL ROAD",
+      "city": "NEW ALBANY",
+      "state": "OH",
+      "zipcode": "43054"
+    },
+    {
+      "id": "360270",
+      "name": "MERCY HEALTH - DEFIANCE HOSPITAL",
+      "address": "1404 EAST SECOND STREET",
+      "city": "DEFIANCE",
+      "state": "OH",
+      "zipcode": "43512"
+    },
+    {
+      "id": "360276",
+      "name": "MH ST ELIZABETH BOARDMAN HOSPITAL",
+      "address": "8401 MARKET STREET",
+      "city": "BOARDMAN",
+      "state": "OH",
+      "zipcode": "44512"
+    },
+    {
+      "id": "360348",
+      "name": "DUBLIN METHODIST HOSPITAL",
+      "address": "7500 HOSPITAL AVENUE",
+      "city": "DUBLIN",
+      "state": "OH",
+      "zipcode": "43016"
+    },
+    {
+      "id": "360351",
+      "name": "CRYSTAL CLINIC ORTHOPAEDIC CENTER",
+      "address": "3557 EMBASSY PARKWAY",
+      "city": "AKRON",
+      "state": "OH",
+      "zipcode": "44333"
+    },
+    {
+      "id": "360352",
+      "name": "SURGICAL HOSPITAL AT SOUTHWOODS",
+      "address": "7630 SOUTHERN BLVD",
+      "city": "YOUNGSTOWN",
+      "state": "OH",
+      "zipcode": "44512"
+    },
+    {
+      "id": "360354",
+      "name": "WEST CHESTER HOSPITAL, LLC",
+      "address": "7700 UNIVERSITY DRIVE",
+      "city": "WEST CHESTER",
+      "state": "OH",
+      "zipcode": "45069"
+    },
+    {
+      "id": "360355",
+      "name": "OHIO VALLEY SURGICAL HOSPITAL",
+      "address": "100 WEST MAIN STREET",
+      "city": "SPRINGFIELD",
+      "state": "OH",
+      "zipcode": "45502"
+    },
+    {
+      "id": "360358",
+      "name": "DILEY RIDGE MEDICAL CENTER",
+      "address": "7911 DILEY ROAD",
+      "city": "CANAL WINCHESTER",
+      "state": "OH",
+      "zipcode": "43110"
+    },
+    {
+      "id": "360359",
+      "name": "UNIVERSITY HOSPITALS AHUJA MEDICAL CENTER",
+      "address": "3999 RICHMOND ROAD",
+      "city": "BEACHWOOD",
+      "state": "OH",
+      "zipcode": "44122"
+    },
+    {
+      "id": "360360",
+      "name": "SOIN MEDICAL CENTER",
+      "address": "3535 PENTAGON PARK BLVD",
+      "city": "BEAVER CREEK",
+      "state": "OH",
+      "zipcode": "45431"
+    },
+    {
+      "id": "360361",
+      "name": "KINGS DAUGHTERS MEDICAL CENTER OHIO",
+      "address": "1901 ARGONNE ROAD",
+      "city": "PORTSMOUTH",
+      "state": "OH",
+      "zipcode": "45662"
+    },
+    {
+      "id": "360364",
+      "name": "CLEVELAND CLINIC AVON HOSPITAL",
+      "address": "33300 CLEVELAND CLINIC BLVD",
+      "city": "AVON",
+      "state": "OH",
+      "zipcode": "44011"
+    },
+    {
+      "id": "360365",
+      "name": "AVITA ONTARIO",
+      "address": "715 RICHLAND MALL",
+      "city": "ONTARIO",
+      "state": "OH",
+      "zipcode": "44906"
+    },
+    {
+      "id": "360367",
+      "name": "LAKE HEALTH BEACHWOOD MEDICAL CENTER",
+      "address": "25501 CHAGRIN BLVD",
+      "city": "BEACHWOOD",
+      "state": "OH",
+      "zipcode": "44122"
+    },
+    {
+      "id": "360368",
+      "name": "KETTERING HEALTH TROY",
+      "address": "600 WEST MAIN STREET",
+      "city": "TROY",
+      "state": "OH",
+      "zipcode": "45373"
+    },
+    {
+      "id": "361300",
+      "name": "PAULDING COUNTY HOSPITAL",
+      "address": "1035 WEST WAYNE ST.",
+      "city": "PAULDING",
+      "state": "OH",
+      "zipcode": "45879"
+    },
+    {
+      "id": "361301",
+      "name": "COMMUNITY MEMORIAL HOSPITAL",
+      "address": "208 N COLUMBUS ST",
+      "city": "HICKSVILLE",
+      "state": "OH",
+      "zipcode": "43526"
+    },
+    {
+      "id": "361302",
+      "name": "TWIN CITY MEDICAL CENTER",
+      "address": "819 NORTH FIRST STREET",
+      "city": "DENNISON",
+      "state": "OH",
+      "zipcode": "44621"
+    },
+    {
+      "id": "361303",
+      "name": "LODI COMMUNITY HOSPITAL",
+      "address": "225 ELYRIA STREET",
+      "city": "LODI",
+      "state": "OH",
+      "zipcode": "44254"
+    },
+    {
+      "id": "361304",
+      "name": "GREENFIELD AREA MEDICAL CENTER",
+      "address": "550 MIRABEAU STREET",
+      "city": "GREENFIELD",
+      "state": "OH",
+      "zipcode": "45123"
+    },
+    {
+      "id": "361306",
+      "name": "MERCY HEALTH-ALLEN HOSPITAL",
+      "address": "200 WEST LORAIN STREET",
+      "city": "OBERLIN",
+      "state": "OH",
+      "zipcode": "44074"
+    },
+    {
+      "id": "361307",
+      "name": "UHHS MEMORIAL HOSPITAL OF GENEVA",
+      "address": "870 WEST MAIN STREET",
+      "city": "GENEVA",
+      "state": "OH",
+      "zipcode": "44041"
+    },
+    {
+      "id": "361308",
+      "name": "UNIVERSITY HOSPITALS CONNEAUT MEDICAL CENTER",
+      "address": "158 WEST MAIN ROAD",
+      "city": "CONNEAUT",
+      "state": "OH",
+      "zipcode": "44030"
+    },
+    {
+      "id": "361309",
+      "name": "HENRY COUNTY HOSPITAL, INC",
+      "address": "1600 EAST RIVERVIEW AVENUE",
+      "city": "NAPOLEON",
+      "state": "OH",
+      "zipcode": "43545"
+    },
+    {
+      "id": "361310",
+      "name": "MERCY HEALTH - WILLARD HOSPITAL",
+      "address": "1100 NEAL ZICK ROAD",
+      "city": "WILLARD",
+      "state": "OH",
+      "zipcode": "44890"
+    },
+    {
+      "id": "361311",
+      "name": "HARRISON COMMUNITY HOSPITAL",
+      "address": "951 EAST MARKET STREET",
+      "city": "CADIZ",
+      "state": "OH",
+      "zipcode": "43907"
+    },
+    {
+      "id": "361312",
+      "name": "MERCY HEALTH - URBANA HOSPITAL",
+      "address": "904 SCIOTO STREET",
+      "city": "URBANA",
+      "state": "OH",
+      "zipcode": "43078"
+    },
+    {
+      "id": "361313",
+      "name": "MORROW COUNTY HOSPITAL",
+      "address": "651 WEST MARION ROAD",
+      "city": "MOUNT GILEAD",
+      "state": "OH",
+      "zipcode": "43338"
+    },
+    {
+      "id": "361314",
+      "name": "MAGRUDER HOSPITAL",
+      "address": "615 FULTON ST",
+      "city": "PORT CLINTON",
+      "state": "OH",
+      "zipcode": "43452"
+    },
+    {
+      "id": "361315",
+      "name": "HARDIN MEMORIAL HOSPITAL",
+      "address": "921 EAST FRANKLIN STREET",
+      "city": "KENTON",
+      "state": "OH",
+      "zipcode": "43326"
+    },
+    {
+      "id": "361316",
+      "name": "BUCYRUS COMMUNITY HOSPITAL",
+      "address": "629 NORTH SANDUSKY AVENUE",
+      "city": "BUCYRUS",
+      "state": "OH",
+      "zipcode": "44820"
+    },
+    {
+      "id": "361318",
+      "name": "FOSTORIA COMMUNITY HOSPITAL",
+      "address": "501 VAN BUREN STREET",
+      "city": "FOSTORIA",
+      "state": "OH",
+      "zipcode": "44830"
+    },
+    {
+      "id": "361319",
+      "name": "SELBY GENERAL HOSPITAL",
+      "address": "1106 COLEGATE DRIVE",
+      "city": "MARIETTA",
+      "state": "OH",
+      "zipcode": "45750"
+    },
+    {
+      "id": "361320",
+      "name": "HOLZER MEDICAL CENTER JACKSON",
+      "address": "500 BURLINGTON ROAD",
+      "city": "JACKSON",
+      "state": "OH",
+      "zipcode": "45640"
+    },
+    {
+      "id": "361321",
+      "name": "BARNESVILLE HOSPITAL ASSOCIATION, INC",
+      "address": "639 WEST MAIN STREET",
+      "city": "BARNESVILLE",
+      "state": "OH",
+      "zipcode": "43713"
+    },
+    {
+      "id": "361322",
+      "name": "BLUFFTON HOSPITAL",
+      "address": "139 GARAU STREET",
+      "city": "BLUFFTON",
+      "state": "OH",
+      "zipcode": "45817"
+    },
+    {
+      "id": "361323",
+      "name": "AULTMAN ORRVILLE HOSPITAL",
+      "address": "832 SOUTH MAIN STREET",
+      "city": "ORRVILLE",
+      "state": "OH",
+      "zipcode": "44667"
+    },
+    {
+      "id": "361324",
+      "name": "OHIOHEALTH SHELBY HOSPITAL",
+      "address": "199 WEST MAIN STREET",
+      "city": "SHELBY",
+      "state": "OH",
+      "zipcode": "44875"
+    },
+    {
+      "id": "361325",
+      "name": "GALION COMMUNITY HOSPITAL",
+      "address": "269 PORTLAND WAY SOUTH",
+      "city": "GALION",
+      "state": "OH",
+      "zipcode": "44833"
+    },
+    {
+      "id": "361326",
+      "name": "ADAMS COUNTY REGIONAL MEDICAL CENTER",
+      "address": "230 MEDICAL CENTER DRIVE",
+      "city": "SEAMAN",
+      "state": "OH",
+      "zipcode": "45679"
+    },
+    {
+      "id": "361327",
+      "name": "COMMUNITY HOSPITALS AND WELLNESS CENTERS",
+      "address": "909 EAST SNYDER AVENUE",
+      "city": "MONTPELIER",
+      "state": "OH",
+      "zipcode": "43543"
+    },
+    {
+      "id": "361328",
+      "name": "DEFIANCE REGIONAL MEDICAL CENTER",
+      "address": "1200 RALSTON AVENUE",
+      "city": "DEFIANCE",
+      "state": "OH",
+      "zipcode": "43512"
+    },
+    {
+      "id": "361329",
+      "name": "WYANDOT MEMORIAL HOSPITAL",
+      "address": "885 NORTH SANDUSKY AVENUE",
+      "city": "UPPER SANDUSKY",
+      "state": "OH",
+      "zipcode": "43351"
+    },
+    {
+      "id": "361330",
+      "name": "HOCKING VALLEY COMMUNITY HOSPITAL",
+      "address": "601 STATE ROUTE 664N",
+      "city": "LOGAN",
+      "state": "OH",
+      "zipcode": "43138"
+    },
+    {
+      "id": "361331",
+      "name": "ADENA FAYETTE MEDICAL CENTER",
+      "address": "1430 COLUMBUS AVENUE",
+      "city": "WASHINGTON CH",
+      "state": "OH",
+      "zipcode": "43160"
+    },
+    {
+      "id": "361332",
+      "name": "HIGHLAND DISTRICT HOSPITAL",
+      "address": "1275 NORTH HIGH STREET",
+      "city": "HILLSBORO",
+      "state": "OH",
+      "zipcode": "45133"
+    },
+    {
+      "id": "361333",
+      "name": "FULTON COUNTY HEALTH CENTER",
+      "address": "725 SOUTH SHOOP AVENUE",
+      "city": "WAUSEON",
+      "state": "OH",
+      "zipcode": "43567"
+    },
+    {
+      "id": "361334",
+      "name": "ADENA PIKE MEDICAL CENTER",
+      "address": "100 DAWN LANE",
+      "city": "WAVERLY",
+      "state": "OH",
+      "zipcode": "45690"
+    }
+  ]
+}

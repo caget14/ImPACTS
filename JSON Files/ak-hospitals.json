@@ -1,0 +1,172 @@
+{
+  "hospitals": [
+    {
+      "id": "020001",
+      "name": "PROVIDENCE ALASKA MEDICAL CENTER",
+      "address": "3200 PROVIDENCE DRIVE",
+      "city": "ANCHORAGE",
+      "state": "AK",
+      "zipcode": "99508"
+    },
+    {
+      "id": "020006",
+      "name": "MAT-SU REGIONAL MEDICAL CENTER",
+      "address": "2500 SOUTH WOODWORTH LOOP",
+      "city": "PALMER",
+      "state": "AK",
+      "zipcode": "99645"
+    },
+    {
+      "id": "020008",
+      "name": "BARTLETT REGIONAL HOSPITAL",
+      "address": "3260 HOSPITAL DR",
+      "city": "JUNEAU",
+      "state": "AK",
+      "zipcode": "99801"
+    },
+    {
+      "id": "020012",
+      "name": "FAIRBANKS MEMORIAL HOSPITAL",
+      "address": "1650 COWLES STREET",
+      "city": "FAIRBANKS",
+      "state": "AK",
+      "zipcode": "99701"
+    },
+    {
+      "id": "020017",
+      "name": "ALASKA REGIONAL HOSPITAL",
+      "address": "2801 DEBARR ROAD",
+      "city": "ANCHORAGE",
+      "state": "AK",
+      "zipcode": "99508"
+    },
+    {
+      "id": "020018",
+      "name": "YUKON KUSKOKWIM DELTA REG HOSPITAL",
+      "address": "PO BOX 287",
+      "city": "BETHEL",
+      "state": "AK",
+      "zipcode": "99559"
+    },
+    {
+      "id": "020024",
+      "name": "CENTRAL PENINSULA GENERAL HOSPITAL",
+      "address": "250 HOSPITAL PLACE",
+      "city": "SOLDOTNA",
+      "state": "AK",
+      "zipcode": "99669"
+    },
+    {
+      "id": "020026",
+      "name": "ALASKA NATIVE MEDICAL CENTER",
+      "address": "4315 DIPLOMACY DR",
+      "city": "ANCHORAGE",
+      "state": "AK",
+      "zipcode": "99508"
+    },
+    {
+      "id": "021301",
+      "name": "PROVIDENCE VALDEZ MEDICAL CENTER",
+      "address": "PO BOX 550",
+      "city": "VALDEZ",
+      "state": "AK",
+      "zipcode": "99686"
+    },
+    {
+      "id": "021302",
+      "name": "PROVIDENCE SEWARD MEDICAL CENTER",
+      "address": "417 FIRST AVENUE, PO BOX 365",
+      "city": "SEWARD",
+      "state": "AK",
+      "zipcode": "99664"
+    },
+    {
+      "id": "021304",
+      "name": "PETERSBURG MEDICAL CENTER",
+      "address": "PO BOX 589",
+      "city": "PETERSBURG",
+      "state": "AK",
+      "zipcode": "99833"
+    },
+    {
+      "id": "021305",
+      "name": "SEARHC WRANGELL MEDICAL CENTER-CAH",
+      "address": "232 WOOD STREET",
+      "city": "WRANGELL",
+      "state": "AK",
+      "zipcode": "99929"
+    },
+    {
+      "id": "021306",
+      "name": "PROVIDENCE KODIAK ISLAND MEDICAL CTR",
+      "address": "1915 EAST REZANOF DRIVE",
+      "city": "KODIAK",
+      "state": "AK",
+      "zipcode": "99615"
+    },
+    {
+      "id": "021307",
+      "name": "CORDOVA COMMUNITY MEDICAL CENTER",
+      "address": "PO BOX 160 - 602 CHASE AVENUE",
+      "city": "CORDOVA",
+      "state": "AK",
+      "zipcode": "99574"
+    },
+    {
+      "id": "021308",
+      "name": "NORTON SOUND REGIONAL HOSPITAL",
+      "address": "1000 GREG KRUSCHEK AVENUE (P O BOX 966)",
+      "city": "NOME",
+      "state": "AK",
+      "zipcode": "99762"
+    },
+    {
+      "id": "021309",
+      "name": "KANAKANAK HOSPITAL",
+      "address": "P O BOX 130",
+      "city": "DILLINGHAM",
+      "state": "AK",
+      "zipcode": "99576"
+    },
+    {
+      "id": "021310",
+      "name": "MANIILAQ HEALTH CENTER",
+      "address": "PO BOX 43",
+      "city": "KOTZEBUE",
+      "state": "AK",
+      "zipcode": "99752"
+    },
+    {
+      "id": "021311",
+      "name": "KETCHIKAN MEDICAL CENTER",
+      "address": "3100 TONGASS AVENUE",
+      "city": "KETCHIKAN",
+      "state": "AK",
+      "zipcode": "99901"
+    },
+    {
+      "id": "021312",
+      "name": "SAMUEL SIMMONDS MEMORIAL HOSPITAL",
+      "address": "7000 UULA ST",
+      "city": "BARROW",
+      "state": "AK",
+      "zipcode": "99723"
+    },
+    {
+      "id": "021313",
+      "name": "SOUTH PENINSULA HOSPITAL",
+      "address": "4300 BARTLETT ST",
+      "city": "HOMER",
+      "state": "AK",
+      "zipcode": "99603"
+    },
+    {
+      "id": "021314",
+      "name": "SOUTHEAST ALASKA REGIONAL HEALTH CONSORTIUM",
+      "address": "222 TONGASS DR",
+      "city": "SITKA",
+      "state": "AK",
+      "zipcode": "99835"
+    }
+  ]
+}

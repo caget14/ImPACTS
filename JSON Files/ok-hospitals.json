@@ -1,0 +1,940 @@
+{
+  "hospitals": [
+    {
+      "id": "370001",
+      "name": "HILLCREST MEDICAL CENTER",
+      "address": "1120 SOUTH UTICA AVENUE",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74104"
+    },
+    {
+      "id": "370002",
+      "name": "INTEGRIS HEALTH WOODWARD",
+      "address": "900 17TH STREET",
+      "city": "WOODWARD",
+      "state": "OK",
+      "zipcode": "73801"
+    },
+    {
+      "id": "370004",
+      "name": "INTEGRIS MIAMI HOSPITAL",
+      "address": "200 SECOND AVENUE SOUTHWEST",
+      "city": "MIAMI",
+      "state": "OK",
+      "zipcode": "74355"
+    },
+    {
+      "id": "370006",
+      "name": "INTEGRIS HEALTH PONCA CITY",
+      "address": "1900 NORTH 14TH STREET",
+      "city": "PONCA CITY",
+      "state": "OK",
+      "zipcode": "74601"
+    },
+    {
+      "id": "370008",
+      "name": "NORMAN REGIONAL",
+      "address": "3300 HEALTHPLEX PKWY",
+      "city": "NORMAN",
+      "state": "OK",
+      "zipcode": "73072"
+    },
+    {
+      "id": "370013",
+      "name": "MERCY HOSPITAL OKLAHOMA CITY, INC",
+      "address": "4300 WEST MEMORIAL ROAD",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73120"
+    },
+    {
+      "id": "370014",
+      "name": "ALLIANCEHEALTH DURANT",
+      "address": "1800 UNIVERSITY BOULEVARD",
+      "city": "DURANT",
+      "state": "OK",
+      "zipcode": "74702"
+    },
+    {
+      "id": "370015",
+      "name": "HILLCREST HOSPITAL PRYOR",
+      "address": "111 NORTH BAILEY STREET",
+      "city": "PRYOR",
+      "state": "OK",
+      "zipcode": "74361"
+    },
+    {
+      "id": "370016",
+      "name": "INTEGRIS BASS BAPTIST HEALTH CENTER",
+      "address": "600 SOUTH MONROE",
+      "city": "ENID",
+      "state": "OK",
+      "zipcode": "73701"
+    },
+    {
+      "id": "370018",
+      "name": "ASCENSION ST JOHN JANE PHILLIPS",
+      "address": "3500 EAST FRANK PHILLIPS BOULEVARD",
+      "city": "BARTLESVILLE",
+      "state": "OK",
+      "zipcode": "74006"
+    },
+    {
+      "id": "370019",
+      "name": "GREAT PLAINS REGIONAL MEDICAL CENTER",
+      "address": "1801 WEST 3RD STREET",
+      "city": "ELK CITY",
+      "state": "OK",
+      "zipcode": "73644"
+    },
+    {
+      "id": "370020",
+      "name": "MERCY HOSPITAL ADA",
+      "address": "430 NORTH MONTE VISTA",
+      "city": "ADA",
+      "state": "OK",
+      "zipcode": "74820"
+    },
+    {
+      "id": "370022",
+      "name": "JACKSON COUNTY MEMORIAL HOSPITAL AUTHORITY",
+      "address": "1200 EAST PECAN ST",
+      "city": "ALTUS",
+      "state": "OK",
+      "zipcode": "73521"
+    },
+    {
+      "id": "370023",
+      "name": "DUNCAN REGIONAL HOSPITAL, INC",
+      "address": "2621  WHISENANT DR",
+      "city": "DUNCAN",
+      "state": "OK",
+      "zipcode": "73533"
+    },
+    {
+      "id": "370025",
+      "name": "SAINT FRANCIS HOSPITAL MUSKOGEE",
+      "address": "300 ROCKEFELLER DRIVE",
+      "city": "MUSKOGEE",
+      "state": "OK",
+      "zipcode": "74401"
+    },
+    {
+      "id": "370026",
+      "name": "ST MARY'S REGIONAL MEDICAL CENTER",
+      "address": "305 SOUTH 5TH STREET",
+      "city": "ENID",
+      "state": "OK",
+      "zipcode": "73701"
+    },
+    {
+      "id": "370028",
+      "name": "INTEGRIS BAPTIST MEDICAL CENTER, INC",
+      "address": "3300 NORTHWEST EXPRESSWAY",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73112"
+    },
+    {
+      "id": "370034",
+      "name": "MCALESTER REGIONAL HEALTH CENTER",
+      "address": "1 CLARK BASS BOULEVARD",
+      "city": "MCALESTER",
+      "state": "OK",
+      "zipcode": "74501"
+    },
+    {
+      "id": "370037",
+      "name": "SSM HEALTH ST ANTHONY HOSPITAL - OKLAHOMA CITY",
+      "address": "1000 NORTH LEE AVENUE",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73101"
+    },
+    {
+      "id": "370039",
+      "name": "HILLCREST HOSPITAL CLAREMORE",
+      "address": "1202 N MUSKOGEE PLACE",
+      "city": "CLAREMORE",
+      "state": "OK",
+      "zipcode": "74017"
+    },
+    {
+      "id": "370047",
+      "name": "MERCY HOSPITAL ARDMORE, INC",
+      "address": "1011 14TH AVE NW",
+      "city": "ARDMORE",
+      "state": "OK",
+      "zipcode": "73401"
+    },
+    {
+      "id": "370049",
+      "name": "STILLWATER MEDICAL CENTER",
+      "address": "1323 WEST 6TH STREET",
+      "city": "STILLWATER",
+      "state": "OK",
+      "zipcode": "74076"
+    },
+    {
+      "id": "370054",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "address": "2220 IOWA STREET",
+      "city": "CHICKASHA",
+      "state": "OK",
+      "zipcode": "73018"
+    },
+    {
+      "id": "370056",
+      "name": "COMANCHE COUNTY MEMORIAL HOSPITAL",
+      "address": "3401 WEST GORE BLVD",
+      "city": "LAWTON",
+      "state": "OK",
+      "zipcode": "73505"
+    },
+    {
+      "id": "370057",
+      "name": "MUSCOGEE (CREEK) NATION MEDICAL CENTER",
+      "address": "1401 MORRIS DRIVE",
+      "city": "OKMULGEE",
+      "state": "OK",
+      "zipcode": "74447"
+    },
+    {
+      "id": "370078",
+      "name": "OKLAHOMA STATE UNIVERSITY MEDICAL CENTER",
+      "address": "744 WEST 9TH STREET",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74127"
+    },
+    {
+      "id": "370083",
+      "name": "PUSHMATAHA COUNTY TOWN OF ANTLERS HOSPITAL",
+      "address": "510 EAST MAIN STREET",
+      "city": "ANTLERS",
+      "state": "OK",
+      "zipcode": "74523"
+    },
+    {
+      "id": "370089",
+      "name": "NORTHEASTERN HEALTH SYSTEM",
+      "address": "1400 EAST DOWNING STREET",
+      "city": "TAHLEQUAH",
+      "state": "OK",
+      "zipcode": "74465"
+    },
+    {
+      "id": "370091",
+      "name": "SAINT FRANCIS HOSPITAL, INC",
+      "address": "6161 SOUTH YALE",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74136"
+    },
+    {
+      "id": "370093",
+      "name": "O U HEALTH UNIVERSITY OF OKLAHOMA MEDICAL CENTER",
+      "address": "700 NE 13TH STREET",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73104"
+    },
+    {
+      "id": "370094",
+      "name": "SSM HEALTH ST ANTHONY HOSPITAL - MIDWEST",
+      "address": "2825 PARKLAWN DRIVE",
+      "city": "MIDWEST CITY",
+      "state": "OK",
+      "zipcode": "73110"
+    },
+    {
+      "id": "370097",
+      "name": "SOUTHWESTERN MEDICAL CENTER",
+      "address": "5602 SOUTHWEST LEE BOULEVARD",
+      "city": "LAWTON",
+      "state": "OK",
+      "zipcode": "73505"
+    },
+    {
+      "id": "370099",
+      "name": "HILLCREST HOSPITAL CUSHING",
+      "address": "1027 EAST CHERRY STREET",
+      "city": "CUSHING",
+      "state": "OK",
+      "zipcode": "74023"
+    },
+    {
+      "id": "370100",
+      "name": "CHOCTAW MEMORIAL HOSPITAL",
+      "address": "1405 EAST KIRK ROAD",
+      "city": "HUGO",
+      "state": "OK",
+      "zipcode": "74743"
+    },
+    {
+      "id": "370106",
+      "name": "INTEGRIS SOUTHWEST MEDICAL CENTER",
+      "address": "4401 SOUTH WESTERN AVENUE",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73109"
+    },
+    {
+      "id": "370112",
+      "name": "SEQUOYAH COUNTY-CITY OF SALLISAW HOSPITAL AUTHORIT",
+      "address": "213 EAST REDWOOD",
+      "city": "SALLISAW",
+      "state": "OK",
+      "zipcode": "74955"
+    },
+    {
+      "id": "370113",
+      "name": "INTEGRIS GROVE HOSPITAL",
+      "address": "1001 EAST 18TH STREET",
+      "city": "GROVE",
+      "state": "OK",
+      "zipcode": "74344"
+    },
+    {
+      "id": "370114",
+      "name": "ASCENSION ST JOHN MEDICAL CENTER",
+      "address": "1923 SOUTH UTICA AVENUE",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74104"
+    },
+    {
+      "id": "370149",
+      "name": "SSM HEALTH ST ANTHONY HOSPITAL - SHAWNEE",
+      "address": "1102 W MACARTHUR",
+      "city": "SHAWNEE",
+      "state": "OK",
+      "zipcode": "74804"
+    },
+    {
+      "id": "370153",
+      "name": "ELKVIEW GENERAL HOSPITAL",
+      "address": "429 WEST ELM STREET",
+      "city": "HOBART",
+      "state": "OK",
+      "zipcode": "73651"
+    },
+    {
+      "id": "370158",
+      "name": "PURCELL MUNICIPAL HOSPITAL",
+      "address": "2301 N 9TH AVE",
+      "city": "PURCELL",
+      "state": "OK",
+      "zipcode": "73080"
+    },
+    {
+      "id": "370166",
+      "name": "WAGONER COMMUNITY HOSPITAL",
+      "address": "1200 WEST CHEROKEE STREET",
+      "city": "WAGONER",
+      "state": "OK",
+      "zipcode": "74467"
+    },
+    {
+      "id": "370170",
+      "name": "LAWTON INDIAN HOSPITAL",
+      "address": "1515 LAWRIE TATUM ROAD",
+      "city": "LAWTON",
+      "state": "OK",
+      "zipcode": "73507"
+    },
+    {
+      "id": "370171",
+      "name": "W W HASTINGS INDIAN HOSPITAL",
+      "address": "100 S BLISS AVENUE",
+      "city": "TAHLEQUAH",
+      "state": "OK",
+      "zipcode": "74464"
+    },
+    {
+      "id": "370172",
+      "name": "CHOCTAW NATION HEALTH SERVICES AUTHORITY",
+      "address": "1 CHOCTAW WAY",
+      "city": "TALIHINA",
+      "state": "OK",
+      "zipcode": "74571"
+    },
+    {
+      "id": "370173",
+      "name": "CLAREMORE INDIAN HOSPITAL",
+      "address": "101 SOUTH MOORE AVE",
+      "city": "CLAREMORE",
+      "state": "OK",
+      "zipcode": "74017"
+    },
+    {
+      "id": "370178",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "1401 WEST LOCUST",
+      "city": "STILWELL",
+      "state": "OK",
+      "zipcode": "74960"
+    },
+    {
+      "id": "370180",
+      "name": "CHICKASAW NATION MEDICAL CENTER",
+      "address": "1921 STONECIPHER BLVD",
+      "city": "ADA",
+      "state": "OK",
+      "zipcode": "74820"
+    },
+    {
+      "id": "370183",
+      "name": "HILLCREST HOSPITAL HENRYETTA",
+      "address": "2401 W MAIN",
+      "city": "HENRYETTA",
+      "state": "OK",
+      "zipcode": "74437"
+    },
+    {
+      "id": "370192",
+      "name": "NORTHWEST SURGICAL HOSPITAL",
+      "address": "9204 NORTH MAY AVENUE",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73120"
+    },
+    {
+      "id": "370199",
+      "name": "LAKESIDE WOMEN'S HOSPITAL, A MEMBER OF INTEGRIS HE",
+      "address": "11200 NORTH PORTLAND AVENUE",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73120"
+    },
+    {
+      "id": "370201",
+      "name": "SURGICAL HOSPITAL OF OKLAHOMA",
+      "address": "100 SOUTHEAST 59TH STREET",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73129"
+    },
+    {
+      "id": "370202",
+      "name": "HILLCREST HOSPITAL SOUTH",
+      "address": "8801 SOUTH 101ST EAST AVENUE",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74133"
+    },
+    {
+      "id": "370203",
+      "name": "COMMUNITY HOSPITAL, LLC",
+      "address": "3100 SOUTHWEST 89TH STREET",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73159"
+    },
+    {
+      "id": "370206",
+      "name": "OKLAHOMA SPINE HOSPITAL",
+      "address": "14101 PARKWAY COMMONS DRIVE",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73134"
+    },
+    {
+      "id": "370210",
+      "name": "OKLAHOMA SURGICAL HOSPITAL, LLC",
+      "address": "2408 EAST 81ST STREET, SUITE 300",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74137"
+    },
+    {
+      "id": "370211",
+      "name": "INTEGRIS CANADIAN VALLEY HOSPITAL",
+      "address": "1201 HEALTH CENTER PARKWAY",
+      "city": "YUKON",
+      "state": "OK",
+      "zipcode": "73099"
+    },
+    {
+      "id": "370212",
+      "name": "OKLAHOMA CENTER FOR ORTHOPAEDIC & MULTI-SP",
+      "address": "8100 SOUTH WALKER BLDG C",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73139"
+    },
+    {
+      "id": "370214",
+      "name": "LINDSAY MUNICIPAL HOSPITAL",
+      "address": "1305 W CHEROKEE STREET - HIGHWAY 19 WEST",
+      "city": "LINDSAY",
+      "state": "OK",
+      "zipcode": "73052"
+    },
+    {
+      "id": "370215",
+      "name": "OKLAHOMA HEART HOSPITAL, LLC",
+      "address": "4050 WEST MEMORIAL ROAD",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73120"
+    },
+    {
+      "id": "370216",
+      "name": "TULSA SPINE & SPECIALTY HOSPITAL",
+      "address": "6901 SOUTH OLYMPIA AVENUE",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74132"
+    },
+    {
+      "id": "370218",
+      "name": "SAINT FRANCIS HOSPITAL SOUTH, LLC",
+      "address": "10501 EAST 91ST STREET SOUTH",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74133"
+    },
+    {
+      "id": "370220",
+      "name": "ONECORE HEALTH",
+      "address": "100 NE 85TH STREET",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73114"
+    },
+    {
+      "id": "370222",
+      "name": "MCBRIDE ORTHOPEDIC HOSPITAL",
+      "address": "9600 NORTH BROADWAY EXTENSION",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73114"
+    },
+    {
+      "id": "370225",
+      "name": "SUMMIT MEDICAL CENTER, LLC",
+      "address": "1800 SOUTH RENAISSANCE BOULEVARD",
+      "city": "EDMOND",
+      "state": "OK",
+      "zipcode": "73013"
+    },
+    {
+      "id": "370227",
+      "name": "ASCENSION ST JOHN OWASSO",
+      "address": "12451 EAST 100TH STREET NORTH",
+      "city": "OWASSO",
+      "state": "OK",
+      "zipcode": "74055"
+    },
+    {
+      "id": "370228",
+      "name": "BAILEY MEDICAL CENTER, LLC",
+      "address": "10502 NORTH 110TH EAST AVENUE",
+      "city": "OWASSO",
+      "state": "OK",
+      "zipcode": "74055"
+    },
+    {
+      "id": "370229",
+      "name": "ALLIANCEHEALTH SEMINOLE",
+      "address": "2401 WRANGLER BOULEVARD",
+      "city": "SEMINOLE",
+      "state": "OK",
+      "zipcode": "74868"
+    },
+    {
+      "id": "370234",
+      "name": "OKLAHOMA HEART HOSPITAL SOUTH, LLC",
+      "address": "5200 EAST I-240 SERVICE ROAD",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73135"
+    },
+    {
+      "id": "370235",
+      "name": "ASCENSION ST JOHN BROKEN ARROW",
+      "address": "1000 WEST BOISE CIRCLE",
+      "city": "BROKEN ARROW",
+      "state": "OK",
+      "zipcode": "74012"
+    },
+    {
+      "id": "370236",
+      "name": "INTEGRIS HEALTH EDMOND HOSPITAL",
+      "address": "4801 INTEGRIS PARKWAY",
+      "city": "EDMOND",
+      "state": "OK",
+      "zipcode": "73034"
+    },
+    {
+      "id": "370237",
+      "name": "SAINT FRANCIS HOSPITAL VINITA, INC",
+      "address": "735 NORTH FOREMAN STREET",
+      "city": "VINITA",
+      "state": "OK",
+      "zipcode": "74301"
+    },
+    {
+      "id": "370240",
+      "name": "INTEGRIS COMMUNITY HOSPITAL - COUNCIL CROSSING",
+      "address": "9417 N COUNCIL ROAD",
+      "city": "OKLAHOMA CITY",
+      "state": "OK",
+      "zipcode": "73162"
+    },
+    {
+      "id": "370243",
+      "name": "VALLEY COMMUNITY HOSPITAL",
+      "address": "100 VALLEY DRIVE",
+      "city": "PAULS VALLEY",
+      "state": "OK",
+      "zipcode": "73075"
+    },
+    {
+      "id": "370244",
+      "name": "COUNCIL OAK COMPREHENSIVE HEALTHCARE",
+      "address": "10109 E 79TH ST",
+      "city": "TULSA",
+      "state": "OK",
+      "zipcode": "74133"
+    },
+    {
+      "id": "370779",
+      "name": "STILLWATER MEDICAL - PERRY",
+      "address": "501 N 14TH ST",
+      "city": "PERRY",
+      "state": "OK",
+      "zipcode": "73077"
+    },
+    {
+      "id": "370780",
+      "name": "STILLWATER MEDICAL-BLACKWELL",
+      "address": "710 S 13TH STREET",
+      "city": "BLACKWELL",
+      "state": "OK",
+      "zipcode": "74631"
+    },
+    {
+      "id": "370781",
+      "name": "HARPER COUNTY COMMUNITY HOSPITAL",
+      "address": "1003 US HIGHWAY 64 NORTH",
+      "city": "BUFFALO",
+      "state": "OK",
+      "zipcode": "73834"
+    },
+    {
+      "id": "371300",
+      "name": "ATOKA COUNTY MEDICAL CENTER",
+      "address": "1590 WEST LIBERTY ROAD",
+      "city": "ATOKA",
+      "state": "OK",
+      "zipcode": "74525"
+    },
+    {
+      "id": "371301",
+      "name": "PRAGUE REGIONAL MEMORIAL HOSPITAL",
+      "address": "1322 KLABZUBA AVENUE",
+      "city": "PRAGUE",
+      "state": "OK",
+      "zipcode": "74864"
+    },
+    {
+      "id": "371302",
+      "name": "MERCY HOSPITAL WATONGA, INC",
+      "address": "500 NORTH CLARENCE NASH BOULEVARD",
+      "city": "WATONGA",
+      "state": "OK",
+      "zipcode": "73772"
+    },
+    {
+      "id": "371303",
+      "name": "ROGER MILLS MEMORIAL HOSPITAL",
+      "address": "501 SOUTH L L MALES AVENUE",
+      "city": "CHEYENNE",
+      "state": "OK",
+      "zipcode": "73628"
+    },
+    {
+      "id": "371304",
+      "name": "MERCY HOSPITAL TISHOMINGO",
+      "address": "1000 SOUTH BYRD ST",
+      "city": "TISHOMINGO",
+      "state": "OK",
+      "zipcode": "73460"
+    },
+    {
+      "id": "371305",
+      "name": "ASCENSION ST JOHN NOWATA",
+      "address": "237 SOUTH LOCUST STREET",
+      "city": "NOWATA",
+      "state": "OK",
+      "zipcode": "74048"
+    },
+    {
+      "id": "371306",
+      "name": "MERCY HEALTH LOVE COUNTY",
+      "address": "300 WANDA STREET",
+      "city": "MARIETTA",
+      "state": "OK",
+      "zipcode": "73448"
+    },
+    {
+      "id": "371307",
+      "name": "CIMARRON MEMORIAL HOSPITAL",
+      "address": "100 SOUTH ELLIS",
+      "city": "BOISE CITY",
+      "state": "OK",
+      "zipcode": "73933"
+    },
+    {
+      "id": "371309",
+      "name": "PAWHUSKA HOSPITAL, INC",
+      "address": "1101 EAST 15TH STREET",
+      "city": "PAWHUSKA",
+      "state": "OK",
+      "zipcode": "74056"
+    },
+    {
+      "id": "371310",
+      "name": "MERCY HOSPITAL HEALDTON, INC.",
+      "address": "3462 HOSPITAL RD",
+      "city": "HEALDTON",
+      "state": "OK",
+      "zipcode": "73438"
+    },
+    {
+      "id": "371311",
+      "name": "JEFFERSON COUNTY HOSPITAL",
+      "address": "INTERSECTION HYWS 81 & 70",
+      "city": "WAURIKA",
+      "state": "OK",
+      "zipcode": "73573"
+    },
+    {
+      "id": "371312",
+      "name": "ASCENSION ST JOHN SAPULPA",
+      "address": "1004 EAST BRYAN",
+      "city": "SAPULPA",
+      "state": "OK",
+      "zipcode": "74066"
+    },
+    {
+      "id": "371313",
+      "name": "MERCY HOSPITAL KINGFISHER, INC",
+      "address": "1000 HOSPITAL DRIVE",
+      "city": "KINGFISHER",
+      "state": "OK",
+      "zipcode": "73750"
+    },
+    {
+      "id": "371314",
+      "name": "THE PHYSICIANS' HOSPITAL IN ANADARKO",
+      "address": "1002 E CENTRAL BLVD",
+      "city": "ANADARKO",
+      "state": "OK",
+      "zipcode": "73005"
+    },
+    {
+      "id": "371316",
+      "name": "RURAL WELLNESS STROUD HOSPITAL",
+      "address": "2308 HIGHWAY 66 WEST",
+      "city": "STROUD",
+      "state": "OK",
+      "zipcode": "74079"
+    },
+    {
+      "id": "371317",
+      "name": "MERCY HOSPITAL LOGAN COUNTY, INC",
+      "address": "200 S ACADEMY RD",
+      "city": "GUTHRIE",
+      "state": "OK",
+      "zipcode": "73044"
+    },
+    {
+      "id": "371318",
+      "name": "RURAL WELLNESS FAIRFAX HOSPITAL",
+      "address": "40 HOSPITAL ROAD",
+      "city": "FAIRFAX",
+      "state": "OK",
+      "zipcode": "74637"
+    },
+    {
+      "id": "371319",
+      "name": "COAL COUNTY GENERAL HOSPITAL, INC.",
+      "address": "6 NORTH COVINGTON",
+      "city": "COALGATE",
+      "state": "OK",
+      "zipcode": "74538"
+    },
+    {
+      "id": "371320",
+      "name": "CLEVELAND AREA HOSPITAL",
+      "address": "1401 WEST PAWNEE",
+      "city": "CLEVELAND",
+      "state": "OK",
+      "zipcode": "74020"
+    },
+    {
+      "id": "371321",
+      "name": "HOLDENVILLE GENERAL HOSPITAL",
+      "address": "100 MCDOUGAL DRIVE",
+      "city": "HOLDENVILLE",
+      "state": "OK",
+      "zipcode": "74848"
+    },
+    {
+      "id": "371322",
+      "name": "BEAVER COUNTY MEMORIAL HOSPITAL",
+      "address": "212 EAST 8TH STREET",
+      "city": "BEAVER",
+      "state": "OK",
+      "zipcode": "73932"
+    },
+    {
+      "id": "371323",
+      "name": "WEATHERFORD REGIONAL HOSPITAL, INC OF WEATHERFORD",
+      "address": "3701 E MAIN",
+      "city": "WEATHERFORD",
+      "state": "OK",
+      "zipcode": "73096"
+    },
+    {
+      "id": "371325",
+      "name": "CORDELL MEMORIAL HOSPITAL",
+      "address": "1220 NORTH GLENN ENGLISH STREET",
+      "city": "CORDELL",
+      "state": "OK",
+      "zipcode": "73632"
+    },
+    {
+      "id": "371326",
+      "name": "ALLIANCEHEALTH MADILL",
+      "address": "901 S 5TH AVE",
+      "city": "MADILL",
+      "state": "OK",
+      "zipcode": "73446"
+    },
+    {
+      "id": "371327",
+      "name": "OKEENE MUNICIPAL HOSPITAL",
+      "address": "207 EAST F STREET",
+      "city": "OKEENE",
+      "state": "OK",
+      "zipcode": "73763"
+    },
+    {
+      "id": "371328",
+      "name": "ARBUCKLE MEMORIAL HOSPITAL AUTHORITY",
+      "address": "2011 WEST BROADWAY",
+      "city": "SULPHUR",
+      "state": "OK",
+      "zipcode": "73086"
+    },
+    {
+      "id": "371329",
+      "name": "FAIRVIEW REGIONAL MEDICAL CENTER AUTHORITY",
+      "address": "523 EAST STATE ROAD",
+      "city": "FAIRVIEW",
+      "state": "OK",
+      "zipcode": "73737"
+    },
+    {
+      "id": "371330",
+      "name": "MANGUM REGIONAL MEDICAL CENTER",
+      "address": "1 WICKERSHAM DRIVE",
+      "city": "MANGUM",
+      "state": "OK",
+      "zipcode": "73554"
+    },
+    {
+      "id": "371331",
+      "name": "DRUMRIGHT REGIONAL HOSPITAL",
+      "address": "610 WEST BYPASS",
+      "city": "DRUMRIGHT",
+      "state": "OK",
+      "zipcode": "74030"
+    },
+    {
+      "id": "371332",
+      "name": "SEILING MUNICIPAL HOSPITAL",
+      "address": "809 NE HIGHWAY 60",
+      "city": "SEILING",
+      "state": "OK",
+      "zipcode": "73663"
+    },
+    {
+      "id": "371333",
+      "name": "CREEK NATION COMMUNITY HOSPITAL",
+      "address": "1800 E COPLIN",
+      "city": "OKEMAH",
+      "state": "OK",
+      "zipcode": "74859"
+    },
+    {
+      "id": "371334",
+      "name": "CARNEGIE TRI-COUNTY MUNICIPAL HOSPITAL",
+      "address": "102 NORTH BROADWAY",
+      "city": "CARNEGIE",
+      "state": "OK",
+      "zipcode": "73015"
+    },
+    {
+      "id": "371335",
+      "name": "HASKELL REGIONAL HOSPITAL, INC",
+      "address": "401 NORTHWEST H STREET",
+      "city": "STIGLER",
+      "state": "OK",
+      "zipcode": "74462"
+    },
+    {
+      "id": "371336",
+      "name": "NEWMAN MEMORIAL HOSPITAL",
+      "address": "905 SOUTH MAIN STREET",
+      "city": "SHATTUCK",
+      "state": "OK",
+      "zipcode": "73858"
+    },
+    {
+      "id": "371337",
+      "name": "EASTERN OKLAHOMA MEDICAL CENTER",
+      "address": "105 WALL STREET",
+      "city": "POTEAU",
+      "state": "OK",
+      "zipcode": "74953"
+    },
+    {
+      "id": "371338",
+      "name": "HARMON MEMORIAL HOSPITAL",
+      "address": "400 EAST CHESTNUT STREET",
+      "city": "HOLLIS",
+      "state": "OK",
+      "zipcode": "73550"
+    },
+    {
+      "id": "371340",
+      "name": "MEMORIAL HOSPITAL OF TEXAS COUNTY AUTHORITY",
+      "address": "520 MEDICAL DRIVE",
+      "city": "GUYMON",
+      "state": "OK",
+      "zipcode": "73942"
+    },
+    {
+      "id": "371341",
+      "name": "SHARE MEDICAL CENTER",
+      "address": "800 SHARE DRIVE",
+      "city": "ALVA",
+      "state": "OK",
+      "zipcode": "73717"
+    },
+    {
+      "id": "371342",
+      "name": "MCCURTAIN MEMORIAL HOSPITAL",
+      "address": "1301 LINCOLN ROAD",
+      "city": "IDABEL",
+      "state": "OK",
+      "zipcode": "74745"
+    }
+  ]
+}

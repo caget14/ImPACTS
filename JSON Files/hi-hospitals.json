@@ -1,0 +1,172 @@
+{
+  "hospitals": [
+    {
+      "id": "120001",
+      "name": "THE QUEENS MEDICAL CENTER",
+      "address": "1301 PUNCHBOWL ST",
+      "city": "HONOLULU",
+      "state": "HI",
+      "zipcode": "96813"
+    },
+    {
+      "id": "120002",
+      "name": "MAUI MEMORIAL MEDICAL CENTER",
+      "address": "221 MAHALANI STREET",
+      "city": "WAILUKU",
+      "state": "HI",
+      "zipcode": "96793"
+    },
+    {
+      "id": "120004",
+      "name": "WAHIAWA GENERAL HOSPITAL",
+      "address": "128 LEHUA STREET",
+      "city": "WAHIAWA",
+      "state": "HI",
+      "zipcode": "96786"
+    },
+    {
+      "id": "120005",
+      "name": "HILO BENIOFF MEDICAL CENTER",
+      "address": "1190 WAIANUENUE AVENUE",
+      "city": "HILO",
+      "state": "HI",
+      "zipcode": "96720"
+    },
+    {
+      "id": "120006",
+      "name": "ADVENTIST HEALTH CASTLE",
+      "address": "640 ULUKAHIKI ST",
+      "city": "KAILUA",
+      "state": "HI",
+      "zipcode": "96734"
+    },
+    {
+      "id": "120007",
+      "name": "KUAKINI MEDICAL CENTER",
+      "address": "347 NORTH KUAKINI STREET",
+      "city": "HONOLULU",
+      "state": "HI",
+      "zipcode": "96817"
+    },
+    {
+      "id": "120011",
+      "name": "KAISER FOUNDATION HOSPITAL",
+      "address": "3288 MOANALUA RD",
+      "city": "HONOLULU",
+      "state": "HI",
+      "zipcode": "96819"
+    },
+    {
+      "id": "120014",
+      "name": "WILCOX MEMORIAL HOSPITAL",
+      "address": "3-3420 KUHIO HIGHWAY",
+      "city": "LIHUE",
+      "state": "HI",
+      "zipcode": "96766"
+    },
+    {
+      "id": "120019",
+      "name": "KONA COMMUNITY HOSPITAL",
+      "address": "79-1019 HAUKAPILA STREET",
+      "city": "KEALAKEKUA",
+      "state": "HI",
+      "zipcode": "96750"
+    },
+    {
+      "id": "120022",
+      "name": "STRAUB CLINIC AND HOSPITAL",
+      "address": "888 S KING STREET",
+      "city": "HONOLULU",
+      "state": "HI",
+      "zipcode": "96813"
+    },
+    {
+      "id": "120026",
+      "name": "PALI MOMI MEDICAL CENTER",
+      "address": "98-1079 MOANALUA ROAD",
+      "city": "AIEA",
+      "state": "HI",
+      "zipcode": "96701"
+    },
+    {
+      "id": "120028",
+      "name": "NORTH HAWAII COMMUNITY HOSPITAL, INC",
+      "address": "67 1125 MAMALAHOA HIGHWAY",
+      "city": "KAMUELA",
+      "state": "HI",
+      "zipcode": "96743"
+    },
+    {
+      "id": "121300",
+      "name": "KAUAI VETERANS MEMORIAL HOSPITAL",
+      "address": "4643 WAIMEA CANYON DRIVE",
+      "city": "WAIMEA",
+      "state": "HI",
+      "zipcode": "96796"
+    },
+    {
+      "id": "121301",
+      "name": "KAU HOSPITAL",
+      "address": "1 KAMANI STREET",
+      "city": "PAHALA",
+      "state": "HI",
+      "zipcode": "96777"
+    },
+    {
+      "id": "121302",
+      "name": "KOHALA HOSPITAL",
+      "address": "54-383 HOSPITAL ROAD",
+      "city": "KAPAAU",
+      "state": "HI",
+      "zipcode": "96755"
+    },
+    {
+      "id": "121303",
+      "name": "MOLOKAI GENERAL HOSPITAL",
+      "address": "280 HOME OLU PLACE",
+      "city": "KAUNAKAKAI",
+      "state": "HI",
+      "zipcode": "96748"
+    },
+    {
+      "id": "121304",
+      "name": "KAHUKU MEDICAL CENTER",
+      "address": "56-117 PUALALEA STREET",
+      "city": "KAHUKU",
+      "state": "HI",
+      "zipcode": "96731"
+    },
+    {
+      "id": "121305",
+      "name": "LANAI COMMUNITY HOSPITAL",
+      "address": "628 7TH STREET",
+      "city": "LANAI CITY",
+      "state": "HI",
+      "zipcode": "96763"
+    },
+    {
+      "id": "121306",
+      "name": "SAMUEL MAHELONA MEMORIAL HOSPITAL",
+      "address": "4800 KAWAIHAU ROAD",
+      "city": "KAPAA",
+      "state": "HI",
+      "zipcode": "96746"
+    },
+    {
+      "id": "121307",
+      "name": "HALE HO'OLA HAMAKUA",
+      "address": "45-547 PLUMERIA STREET",
+      "city": "HONOKAA",
+      "state": "HI",
+      "zipcode": "96727"
+    },
+    {
+      "id": "121308",
+      "name": "KULA HOSPITAL",
+      "address": "100 KEOKEA PLACE",
+      "city": "KULA",
+      "state": "HI",
+      "zipcode": "96790"
+    }
+  ]
+}

@@ -1,0 +1,1444 @@
+{
+  "hospitals": [
+    {
+      "id": "100001",
+      "name": "UF HEALTH JACKSONVILLE",
+      "address": "655 W 8TH ST",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "zipcode": "32209"
+    },
+    {
+      "id": "100002",
+      "name": "BETHESDA HOSPITAL EAST",
+      "address": "2815 S SEACREST BLVD",
+      "city": "BOYNTON BEACH",
+      "state": "FL",
+      "zipcode": "33435"
+    },
+    {
+      "id": "100006",
+      "name": "ORLANDO HEALTH ORLANDO REGIONAL MEDICAL CENTER",
+      "address": "52 W UNDERWOOD ST",
+      "city": "ORLANDO",
+      "state": "FL",
+      "zipcode": "32806"
+    },
+    {
+      "id": "100007",
+      "name": "ADVENTHEALTH ORLANDO",
+      "address": "601 E ROLLINS ST",
+      "city": "ORLANDO",
+      "state": "FL",
+      "zipcode": "32803"
+    },
+    {
+      "id": "100008",
+      "name": "BAPTIST HOSPITAL OF MIAMI",
+      "address": "8900 N KENDALL DR",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33176"
+    },
+    {
+      "id": "100012",
+      "name": "LEE MEMORIAL HOSPITAL",
+      "address": "2776 CLEVELAND AVE",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "zipcode": "33901"
+    },
+    {
+      "id": "100014",
+      "name": "ADVENTHEALTH NEW SMYRNA BEACH",
+      "address": "401 PALMETTO ST",
+      "city": "NEW SMYRNA BEACH",
+      "state": "FL",
+      "zipcode": "32170"
+    },
+    {
+      "id": "100017",
+      "name": "HALIFAX HEALTH MEDICAL CENTER",
+      "address": "303 N CLYDE MORRIS BLVD",
+      "city": "DAYTONA BEACH",
+      "state": "FL",
+      "zipcode": "32114"
+    },
+    {
+      "id": "100018",
+      "name": "NAPLES COMMUNITY HOSPITAL",
+      "address": "350 7TH ST N",
+      "city": "NAPLES",
+      "state": "FL",
+      "zipcode": "34102"
+    },
+    {
+      "id": "100019",
+      "name": "HOLMES REGIONAL MEDICAL CENTER",
+      "address": "1350 S HICKORY ST",
+      "city": "MELBOURNE",
+      "state": "FL",
+      "zipcode": "32901"
+    },
+    {
+      "id": "100022",
+      "name": "JACKSON MEMORIAL HOSPITAL",
+      "address": "1611 NW 12TH AVE",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33136"
+    },
+    {
+      "id": "100023",
+      "name": "HCA FLORIDA CITRUS HOSPITAL",
+      "address": "502 W HIGHLAND BLVD",
+      "city": "INVERNESS",
+      "state": "FL",
+      "zipcode": "34452"
+    },
+    {
+      "id": "100025",
+      "name": "ASCENSION SACRED HEART PENSACOLA",
+      "address": "5151 N 9TH AVE",
+      "city": "PENSACOLA",
+      "state": "FL",
+      "zipcode": "32504"
+    },
+    {
+      "id": "100026",
+      "name": "ASCENSION SACRED HEART BAY",
+      "address": "615 N BONITA AVE",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "zipcode": "32401"
+    },
+    {
+      "id": "100028",
+      "name": "PARRISH MEDICAL CENTER",
+      "address": "951 N WASHINGTON AVE",
+      "city": "TITUSVILLE",
+      "state": "FL",
+      "zipcode": "32796"
+    },
+    {
+      "id": "100029",
+      "name": "STEWARD NORTH SHORE MEDICAL CENTER",
+      "address": "1100 NW 95TH ST",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33150"
+    },
+    {
+      "id": "100030",
+      "name": "ORLANDO HEALTH-HEALTH CENTRAL HOSPITAL",
+      "address": "10000 W COLONIAL DR",
+      "city": "OCOEE",
+      "state": "FL",
+      "zipcode": "34761"
+    },
+    {
+      "id": "100032",
+      "name": "ORLANDO HEALTH BAYFRONT HOSPITAL",
+      "address": "701 6TH ST S",
+      "city": "SAINT PETERSBURG",
+      "state": "FL",
+      "zipcode": "33701"
+    },
+    {
+      "id": "100034",
+      "name": "MOUNT SINAI MEDICAL CENTER OF FLORIDA, INC",
+      "address": "4300 ALTON RD",
+      "city": "MIAMI BEACH",
+      "state": "FL",
+      "zipcode": "33140"
+    },
+    {
+      "id": "100035",
+      "name": "MANATEE MEMORIAL HOSPITAL",
+      "address": "206 2ND ST E",
+      "city": "BRADENTON",
+      "state": "FL",
+      "zipcode": "34208"
+    },
+    {
+      "id": "100038",
+      "name": "MEMORIAL REGIONAL HOSPITAL",
+      "address": "3501 JOHNSON ST",
+      "city": "HOLLYWOOD",
+      "state": "FL",
+      "zipcode": "33021"
+    },
+    {
+      "id": "100039",
+      "name": "BROWARD HEALTH MEDICAL CENTER",
+      "address": "1600 S ANDREWS AVE",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "zipcode": "33316"
+    },
+    {
+      "id": "100040",
+      "name": "ASCENSION ST VINCENT'S RIVERSIDE",
+      "address": "1 SHIRCLIFF WAY",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "zipcode": "32204"
+    },
+    {
+      "id": "100043",
+      "name": "MEASE DUNEDIN HOSPITAL",
+      "address": "601 MAIN ST",
+      "city": "DUNEDIN",
+      "state": "FL",
+      "zipcode": "34698"
+    },
+    {
+      "id": "100044",
+      "name": "CLEVELAND CLINIC MARTIN NORTH HOSPITAL",
+      "address": "200 SE HOSPITAL AVE",
+      "city": "STUART",
+      "state": "FL",
+      "zipcode": "34994"
+    },
+    {
+      "id": "100045",
+      "name": "ADVENTHEALTH DELAND",
+      "address": "701 W PLYMOUTH AVE",
+      "city": "DELAND",
+      "state": "FL",
+      "zipcode": "32720"
+    },
+    {
+      "id": "100046",
+      "name": "ADVENTHEALTH ZEPHYRHILLS",
+      "address": "7050 GALL BLVD",
+      "city": "ZEPHYRHILLS",
+      "state": "FL",
+      "zipcode": "33541"
+    },
+    {
+      "id": "100047",
+      "name": "SHOREPOINT HEALTH PUNTA GORDA",
+      "address": "809 E MARION AVE",
+      "city": "PUNTA GORDA",
+      "state": "FL",
+      "zipcode": "33950"
+    },
+    {
+      "id": "100048",
+      "name": "JAY HOSPITAL",
+      "address": "14114 ALABAMA ST",
+      "city": "JAY",
+      "state": "FL",
+      "zipcode": "32565"
+    },
+    {
+      "id": "100049",
+      "name": "HCA FLORIDA HIGHLANDS HOSPITAL",
+      "address": "3600 S HIGHLANDS AVE",
+      "city": "SEBRING",
+      "state": "FL",
+      "zipcode": "33870"
+    },
+    {
+      "id": "100050",
+      "name": "LARKIN COMMUNITY HOSPITAL PALM SPRINGS CAMPUS",
+      "address": "1475 W 49TH ST",
+      "city": "HIALEAH",
+      "state": "FL",
+      "zipcode": "33012"
+    },
+    {
+      "id": "100051",
+      "name": "ORLANDO HEALTH SOUTH LAKE HOSPITAL",
+      "address": "1900 DON WICKHAM DR",
+      "city": "CLERMONT",
+      "state": "FL",
+      "zipcode": "34711"
+    },
+    {
+      "id": "100052",
+      "name": "WINTER HAVEN HOSPITAL",
+      "address": "200 AVE F NE",
+      "city": "WINTER HAVEN",
+      "state": "FL",
+      "zipcode": "33881"
+    },
+    {
+      "id": "100053",
+      "name": "STEWARD HIALEAH HOSPITAL",
+      "address": "651 E 25TH ST",
+      "city": "HIALEAH",
+      "state": "FL",
+      "zipcode": "33013"
+    },
+    {
+      "id": "100054",
+      "name": "HCA FLORIDA TWIN CITIES HOSPITAL",
+      "address": "2190 HWY 85 N",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "zipcode": "32578"
+    },
+    {
+      "id": "100055",
+      "name": "ADVENTHEALTH NORTH PINELLAS",
+      "address": "1395 S PINELLAS AVE",
+      "city": "TARPON SPRINGS",
+      "state": "FL",
+      "zipcode": "34689"
+    },
+    {
+      "id": "100057",
+      "name": "ADVENTHEALTH WATERMAN",
+      "address": "1000 WATERMAN WAY",
+      "city": "TAVARES",
+      "state": "FL",
+      "zipcode": "32778"
+    },
+    {
+      "id": "100062",
+      "name": "ADVENTHEALTH OCALA",
+      "address": "1500 SW 1ST AVE",
+      "city": "OCALA",
+      "state": "FL",
+      "zipcode": "34474"
+    },
+    {
+      "id": "100063",
+      "name": "MORTON PLANT NORTH BAY HOSPITAL",
+      "address": "6600 MADISON ST",
+      "city": "NEW PORT RICHEY",
+      "state": "FL",
+      "zipcode": "34652"
+    },
+    {
+      "id": "100067",
+      "name": "ST ANTHONYS HOSPITAL",
+      "address": "1200 SEVENTH AVE N",
+      "city": "SAINT PETERSBURG",
+      "state": "FL",
+      "zipcode": "33705"
+    },
+    {
+      "id": "100068",
+      "name": "ADVENTHEALTH DAYTONA BEACH",
+      "address": "301 MEMORIAL MEDICAL PARKWAY",
+      "city": "DAYTONA BEACH",
+      "state": "FL",
+      "zipcode": "32117"
+    },
+    {
+      "id": "100069",
+      "name": "ADVENTHEALTH CARROLLWOOD",
+      "address": "7171 N DALE MABRY HWY",
+      "city": "TAMPA",
+      "state": "FL",
+      "zipcode": "33614"
+    },
+    {
+      "id": "100071",
+      "name": "TAMPA GENERAL HOSPITAL BROOKSVILLE",
+      "address": "17240 CORTEZ BLVD",
+      "city": "BROOKSVILLE",
+      "state": "FL",
+      "zipcode": "34601"
+    },
+    {
+      "id": "100072",
+      "name": "ADVENTHEALTH FISH MEMORIAL",
+      "address": "1055 SAXON BLVD",
+      "city": "ORANGE CITY",
+      "state": "FL",
+      "zipcode": "32763"
+    },
+    {
+      "id": "100073",
+      "name": "HOLY CROSS HOSPITAL",
+      "address": "4725 N FEDERAL HWY",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "zipcode": "33308"
+    },
+    {
+      "id": "100075",
+      "name": "ST JOSEPHS HOSPITAL",
+      "address": "3001 W MARTIN LUTHER KING JR BLVD",
+      "city": "TAMPA",
+      "state": "FL",
+      "zipcode": "33677"
+    },
+    {
+      "id": "100077",
+      "name": "SHOREPOINT HEALTH PORT CHARLOTTE",
+      "address": "2500 HARBOR BLVD",
+      "city": "PORT CHARLOTTE",
+      "state": "FL",
+      "zipcode": "33952"
+    },
+    {
+      "id": "100079",
+      "name": "UNIV OF MIAMI HOSPITAL AND CLINICS-SYLVESTER COMPR",
+      "address": "1475 NW 12TH AVE",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33136"
+    },
+    {
+      "id": "100080",
+      "name": "HCA FLORIDA JFK HOSPITAL",
+      "address": "5301 S CONGRESS AVE",
+      "city": "ATLANTIS",
+      "state": "FL",
+      "zipcode": "33462"
+    },
+    {
+      "id": "100084",
+      "name": "UF HEALTH LEESBURG HOSPITAL",
+      "address": "600 E DIXIE AVE",
+      "city": "LEESBURG",
+      "state": "FL",
+      "zipcode": "34748"
+    },
+    {
+      "id": "100086",
+      "name": "BROWARD HEALTH NORTH",
+      "address": "201 E SAMPLE RD",
+      "city": "POMPANO BEACH",
+      "state": "FL",
+      "zipcode": "33064"
+    },
+    {
+      "id": "100087",
+      "name": "SARASOTA MEMORIAL HOSPITAL",
+      "address": "1700 S TAMIAMI TRL",
+      "city": "SARASOTA",
+      "state": "FL",
+      "zipcode": "34239"
+    },
+    {
+      "id": "100088",
+      "name": "BAPTIST MEDICAL CENTER JACKSONVILLE",
+      "address": "800 PRUDENTIAL DR",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "zipcode": "32207"
+    },
+    {
+      "id": "100090",
+      "name": "FLAGLER HOSPITAL",
+      "address": "400 HEALTH PARK BLVD",
+      "city": "SAINT AUGUSTINE",
+      "state": "FL",
+      "zipcode": "32086"
+    },
+    {
+      "id": "100092",
+      "name": "ROCKLEDGE REGIONAL MEDICAL CENTER",
+      "address": "110 LONGWOOD AVE",
+      "city": "ROCKLEDGE",
+      "state": "FL",
+      "zipcode": "32955"
+    },
+    {
+      "id": "100093",
+      "name": "BAPTIST HOSPITAL",
+      "address": "123 BAPTIST WAY",
+      "city": "PENSACOLA",
+      "state": "FL",
+      "zipcode": "32503"
+    },
+    {
+      "id": "100099",
+      "name": "ADVENTHEALTH LAKE WALES",
+      "address": "410 S 11TH ST",
+      "city": "LAKE WALES",
+      "state": "FL",
+      "zipcode": "33853"
+    },
+    {
+      "id": "100105",
+      "name": "CLEVELAND CLINIC INDIAN RIVER HOSPITAL",
+      "address": "1000 36TH ST",
+      "city": "VERO BEACH",
+      "state": "FL",
+      "zipcode": "32960"
+    },
+    {
+      "id": "100107",
+      "name": "LEHIGH REGIONAL MEDICAL CENTER",
+      "address": "1500 LEE BLVD",
+      "city": "LEHIGH ACRES",
+      "state": "FL",
+      "zipcode": "33936"
+    },
+    {
+      "id": "100109",
+      "name": "ADVENTHEALTH SEBRING",
+      "address": "4200 SUN N LAKE BLVD",
+      "city": "SEBRING",
+      "state": "FL",
+      "zipcode": "33872"
+    },
+    {
+      "id": "100110",
+      "name": "HCA FLORIDA OSCEOLA HOSPITAL",
+      "address": "700 WEST OAK STREET",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "zipcode": "34741"
+    },
+    {
+      "id": "100113",
+      "name": "UF HEALTH SHANDS HOSPITAL",
+      "address": "1600 SW ARCHER RD",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "zipcode": "32610"
+    },
+    {
+      "id": "100117",
+      "name": "BAPTIST MEDICAL CENTER - BEACHES",
+      "address": "1350 13TH AVE S",
+      "city": "JACKSONVILLE BEACH",
+      "state": "FL",
+      "zipcode": "32250"
+    },
+    {
+      "id": "100118",
+      "name": "ADVENTHEALTH PALM COAST",
+      "address": "60 MEMORIAL MEDICAL PKWY",
+      "city": "PALM COAST",
+      "state": "FL",
+      "zipcode": "32164"
+    },
+    {
+      "id": "100121",
+      "name": "BARTOW REGIONAL MEDICAL CENTER",
+      "address": "2200 OSPREY BLVD",
+      "city": "BARTOW",
+      "state": "FL",
+      "zipcode": "33831"
+    },
+    {
+      "id": "100122",
+      "name": "NORTH OKALOOSA MEDICAL CENTER",
+      "address": "151 REDSTONE AVE SE",
+      "city": "CRESTVIEW",
+      "state": "FL",
+      "zipcode": "32539"
+    },
+    {
+      "id": "100124",
+      "name": "SANTA ROSA MEDICAL CENTER",
+      "address": "6002 BERRYHILL RD",
+      "city": "MILTON",
+      "state": "FL",
+      "zipcode": "32570"
+    },
+    {
+      "id": "100125",
+      "name": "HOMESTEAD HOSPITAL",
+      "address": "975 BAPTIST WAY",
+      "city": "HOMESTEAD",
+      "state": "FL",
+      "zipcode": "33033"
+    },
+    {
+      "id": "100126",
+      "name": "HCA FLORIDA PASADENA HOSPITAL",
+      "address": "1501 PASADENA AVE S",
+      "city": "SAINT PETERSBURG",
+      "state": "FL",
+      "zipcode": "33707"
+    },
+    {
+      "id": "100127",
+      "name": "MORTON PLANT HOSPITAL",
+      "address": "300 PINELLAS ST",
+      "city": "CLEARWATER",
+      "state": "FL",
+      "zipcode": "33756"
+    },
+    {
+      "id": "100128",
+      "name": "TAMPA GENERAL HOSPITAL",
+      "address": "1 TAMPA GENERAL CIR",
+      "city": "TAMPA",
+      "state": "FL",
+      "zipcode": "33606"
+    },
+    {
+      "id": "100130",
+      "name": "LAKESIDE MEDICAL CENTER",
+      "address": "39200 HOOKER HWY",
+      "city": "BELLE GLADE",
+      "state": "FL",
+      "zipcode": "33430"
+    },
+    {
+      "id": "100131",
+      "name": "HCA FLORIDA AVENTURA HOSPITAL",
+      "address": "20900 BISCAYNE BLVD",
+      "city": "AVENTURA",
+      "state": "FL",
+      "zipcode": "33180"
+    },
+    {
+      "id": "100132",
+      "name": "SOUTH FLORIDA BAPTIST HOSPITAL",
+      "address": "301 N ALEXANDER ST",
+      "city": "PLANT CITY",
+      "state": "FL",
+      "zipcode": "33563"
+    },
+    {
+      "id": "100134",
+      "name": "ED FRASER MEMORIAL HOSPITAL",
+      "address": "159 N 3RD ST",
+      "city": "MACCLENNY",
+      "state": "FL",
+      "zipcode": "32063"
+    },
+    {
+      "id": "100135",
+      "name": "TALLAHASSEE MEMORIAL HOSPITAL",
+      "address": "1300 MICCOSUKEE RD",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "zipcode": "32308"
+    },
+    {
+      "id": "100137",
+      "name": "ADVENTHEALTH HEART OF FLORIDA",
+      "address": "40100 HWY 27",
+      "city": "DAVENPORT",
+      "state": "FL",
+      "zipcode": "33837"
+    },
+    {
+      "id": "100140",
+      "name": "BAPTIST MEDICAL CENTER - NASSAU",
+      "address": "1250 S 18TH ST",
+      "city": "FERNANDINA BEACH",
+      "state": "FL",
+      "zipcode": "32034"
+    },
+    {
+      "id": "100142",
+      "name": "JACKSON HOSPITAL",
+      "address": "4250 HOSPITAL DR",
+      "city": "MARIANNA",
+      "state": "FL",
+      "zipcode": "32446"
+    },
+    {
+      "id": "100150",
+      "name": "LOWER KEYS MEDICAL CENTER",
+      "address": "5900 COLLEGE ROAD",
+      "city": "KEY WEST",
+      "state": "FL",
+      "zipcode": "33040"
+    },
+    {
+      "id": "100151",
+      "name": "MAYO CLINIC",
+      "address": "4500 SAN PABLO RD",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "zipcode": "32224"
+    },
+    {
+      "id": "100154",
+      "name": "SOUTH MIAMI HOSPITAL",
+      "address": "6200 SW 73RD ST",
+      "city": "SOUTH MIAMI",
+      "state": "FL",
+      "zipcode": "33143"
+    },
+    {
+      "id": "100156",
+      "name": "HCA FLORIDA LAKE CITY HOSPITAL",
+      "address": "340 NW COMMERCE DR",
+      "city": "LAKE CITY",
+      "state": "FL",
+      "zipcode": "32055"
+    },
+    {
+      "id": "100157",
+      "name": "LAKELAND REGIONAL MEDICAL CENTER",
+      "address": "1324 LAKELAND HILLS BLVD",
+      "city": "LAKELAND",
+      "state": "FL",
+      "zipcode": "33805"
+    },
+    {
+      "id": "100161",
+      "name": "HCA FLORIDA LAKE MONROE HOSPITAL",
+      "address": "1401 W SEMINOLE BLVD",
+      "city": "SANFORD",
+      "state": "FL",
+      "zipcode": "32771"
+    },
+    {
+      "id": "100166",
+      "name": "HCA FLORIDA SARASOTA DOCTORS HOSPITAL",
+      "address": "5731 BEE RIDGE RD",
+      "city": "SARASOTA",
+      "state": "FL",
+      "zipcode": "34233"
+    },
+    {
+      "id": "100167",
+      "name": "HCA FLORIDA MERCY HOSPITAL",
+      "address": "3663 S MIAMI AVE",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33133"
+    },
+    {
+      "id": "100168",
+      "name": "BOCA RATON REGIONAL HOSPITAL",
+      "address": "800 MEADOWS RD",
+      "city": "BOCA RATON",
+      "state": "FL",
+      "zipcode": "33486"
+    },
+    {
+      "id": "100173",
+      "name": "ADVENTHEALTH TAMPA",
+      "address": "3100 E FLETCHER AVE",
+      "city": "TAMPA",
+      "state": "FL",
+      "zipcode": "33613"
+    },
+    {
+      "id": "100175",
+      "name": "DESOTO MEMORIAL HOSPITAL",
+      "address": "900 N ROBERT AVE",
+      "city": "ARCADIA",
+      "state": "FL",
+      "zipcode": "34266"
+    },
+    {
+      "id": "100176",
+      "name": "PALM BEACH GARDENS MEDICAL CENTER",
+      "address": "3360 BURNS RD",
+      "city": "PALM BEACH GARDENS",
+      "state": "FL",
+      "zipcode": "33410"
+    },
+    {
+      "id": "100177",
+      "name": "CAPE CANAVERAL HOSPITAL",
+      "address": "701 W COCOA BEACH CAUSEWAY",
+      "city": "COCOA BEACH",
+      "state": "FL",
+      "zipcode": "32932"
+    },
+    {
+      "id": "100179",
+      "name": "HCA FLORIDA MEMORIAL HOSPITAL",
+      "address": "3625 UNIVERSITY BLVD S",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "zipcode": "32216"
+    },
+    {
+      "id": "100180",
+      "name": "HCA FLORIDA ST PETERSBURG HOSPITAL",
+      "address": "6500 38TH AVE N",
+      "city": "SAINT PETERSBURG",
+      "state": "FL",
+      "zipcode": "33710"
+    },
+    {
+      "id": "100181",
+      "name": "LARKIN COMMUNITY HOSPITAL",
+      "address": "7031 SW 62ND AVE",
+      "city": "SOUTH MIAMI",
+      "state": "FL",
+      "zipcode": "33143"
+    },
+    {
+      "id": "100183",
+      "name": "STEWARD CORAL GABLES HOSPITAL",
+      "address": "3100 DOUGLAS RD",
+      "city": "CORAL GABLES",
+      "state": "FL",
+      "zipcode": "33134"
+    },
+    {
+      "id": "100187",
+      "name": "STEWARD PALMETTO GENERAL HOSPITAL",
+      "address": "2001 W 68TH ST",
+      "city": "HIALEAH",
+      "state": "FL",
+      "zipcode": "33016"
+    },
+    {
+      "id": "100189",
+      "name": "HCA FLORIDA NORTHWEST HOSPITAL",
+      "address": "2801 N STATE RD 7",
+      "city": "MARGATE",
+      "state": "FL",
+      "zipcode": "33063"
+    },
+    {
+      "id": "100191",
+      "name": "HCA FLORIDA TRINITY HOSPITAL",
+      "address": "9330 SR 54",
+      "city": "TRINITY",
+      "state": "FL",
+      "zipcode": "34655"
+    },
+    {
+      "id": "100200",
+      "name": "BROWARD HEALTH IMPERIAL POINT",
+      "address": "6401 N FEDERAL HWY",
+      "city": "FORT LAUDERDALE",
+      "state": "FL",
+      "zipcode": "33308"
+    },
+    {
+      "id": "100204",
+      "name": "HCA FLORIDA NORTH FLORIDA HOSPITAL",
+      "address": "6500 W NEWBERRY RD",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "zipcode": "32605"
+    },
+    {
+      "id": "100206",
+      "name": "HCA FLORIDA SOUTH TAMPA HOSPITAL",
+      "address": "2901 W SWANN AVE",
+      "city": "TAMPA",
+      "state": "FL",
+      "zipcode": "33609"
+    },
+    {
+      "id": "100209",
+      "name": "HCA FLORIDA KENDALL HOSPITAL",
+      "address": "11750 BIRD RD",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33175"
+    },
+    {
+      "id": "100211",
+      "name": "ADVENTHEALTH DADE CITY",
+      "address": "13100 FT KING RD",
+      "city": "DADE CITY",
+      "state": "FL",
+      "zipcode": "33525"
+    },
+    {
+      "id": "100212",
+      "name": "HCA FLORIDA OCALA HOSPITAL",
+      "address": "1431 SW 1ST AVE",
+      "city": "OCALA",
+      "state": "FL",
+      "zipcode": "34471"
+    },
+    {
+      "id": "100213",
+      "name": "HCA FLORIDA BLAKE HOSPITAL",
+      "address": "2020 59TH ST W",
+      "city": "BRADENTON",
+      "state": "FL",
+      "zipcode": "34209"
+    },
+    {
+      "id": "100217",
+      "name": "SEBASTIAN RIVER MEDICAL CENTER",
+      "address": "13695 US HWY 1",
+      "city": "SEBASTIAN",
+      "state": "FL",
+      "zipcode": "32958"
+    },
+    {
+      "id": "100220",
+      "name": "GULF COAST MEDICAL CENTER LEE MEM HEALTH SYSTEM",
+      "address": "13681 DOCTORS WAY",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "zipcode": "33912"
+    },
+    {
+      "id": "100223",
+      "name": "HCA FLORIDA FORT WALTON-DESTIN HOSPITAL",
+      "address": "1000 MAR-WALT DR",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "zipcode": "32547"
+    },
+    {
+      "id": "100224",
+      "name": "HCA FLORIDA WOODMONT HOSPITAL",
+      "address": "7201 N UNIVERSITY DR",
+      "city": "TAMARAC",
+      "state": "FL",
+      "zipcode": "33321"
+    },
+    {
+      "id": "100226",
+      "name": "HCA FLORIDA ORANGE PARK HOSPITAL",
+      "address": "2001 KINGSLEY AVE",
+      "city": "ORANGE PARK",
+      "state": "FL",
+      "zipcode": "32073"
+    },
+    {
+      "id": "100228",
+      "name": "HCA FLORIDA WESTSIDE HOSPITAL",
+      "address": "8201 W BROWARD BLVD",
+      "city": "PLANTATION",
+      "state": "FL",
+      "zipcode": "33324"
+    },
+    {
+      "id": "100230",
+      "name": "MEMORIAL HOSPITAL PEMBROKE",
+      "address": "7800 SHERIDAN ST",
+      "city": "PEMBROKE PINES",
+      "state": "FL",
+      "zipcode": "33024"
+    },
+    {
+      "id": "100231",
+      "name": "HCA FLORIDA WEST HOSPITAL",
+      "address": "8383 N DAVIS HWY",
+      "city": "PENSACOLA",
+      "state": "FL",
+      "zipcode": "32514"
+    },
+    {
+      "id": "100232",
+      "name": "HCA FLORIDA PUTNAM HOSPITAL",
+      "address": "611 ZEAGLER DR",
+      "city": "PALATKA",
+      "state": "FL",
+      "zipcode": "32177"
+    },
+    {
+      "id": "100236",
+      "name": "HCA FLORIDA FAWCETT HOSPITAL",
+      "address": "21298 OLEAN BLVD",
+      "city": "PORT CHARLOTTE",
+      "state": "FL",
+      "zipcode": "33952"
+    },
+    {
+      "id": "100238",
+      "name": "HCA FLORIDA NORTHSIDE HOSPITAL",
+      "address": "6000 49TH ST N",
+      "city": "SAINT PETERSBURG",
+      "state": "FL",
+      "zipcode": "33709"
+    },
+    {
+      "id": "100242",
+      "name": "HCA FLORIDA GULF COAST HOSPITAL",
+      "address": "449 W 23RD ST",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "zipcode": "32405"
+    },
+    {
+      "id": "100243",
+      "name": "HCA FLORIDA BRANDON HOSPITAL",
+      "address": "119 OAKFIELD DR",
+      "city": "BRANDON",
+      "state": "FL",
+      "zipcode": "33511"
+    },
+    {
+      "id": "100244",
+      "name": "CAPE CORAL HOSPITAL",
+      "address": "636 DEL PRADO BLVD",
+      "city": "CAPE CORAL",
+      "state": "FL",
+      "zipcode": "33990"
+    },
+    {
+      "id": "100246",
+      "name": "HCA FLORIDA LAWNWOOD HOSPITAL",
+      "address": "1700 S 23RD ST",
+      "city": "FORT PIERCE",
+      "state": "FL",
+      "zipcode": "34950"
+    },
+    {
+      "id": "100248",
+      "name": "HCA FLORIDA LARGO HOSPITAL",
+      "address": "201 14TH ST SW",
+      "city": "LARGO",
+      "state": "FL",
+      "zipcode": "33770"
+    },
+    {
+      "id": "100249",
+      "name": "TAMPA GENERAL HOSPITAL CRYSTAL RIVER",
+      "address": "6201 N SUNCOAST BLVD",
+      "city": "CRYSTAL RIVER",
+      "state": "FL",
+      "zipcode": "34428"
+    },
+    {
+      "id": "100252",
+      "name": "HCA FLORIDA RAULERSON HOSPITAL",
+      "address": "1796 HWY 441 NORTH",
+      "city": "OKEECHOBEE",
+      "state": "FL",
+      "zipcode": "34972"
+    },
+    {
+      "id": "100253",
+      "name": "JUPITER MEDICAL CENTER",
+      "address": "1210 S OLD DIXIE HWY",
+      "city": "JUPITER",
+      "state": "FL",
+      "zipcode": "33458"
+    },
+    {
+      "id": "100254",
+      "name": "HCA FLORIDA CAPITAL HOSPITAL",
+      "address": "2626 CAPITAL MEDICAL BLVD",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "zipcode": "32308"
+    },
+    {
+      "id": "100256",
+      "name": "HCA FLORIDA BAYONET POINT HOSPITAL",
+      "address": "14000 FIVAY RD",
+      "city": "HUDSON",
+      "state": "FL",
+      "zipcode": "34667"
+    },
+    {
+      "id": "100258",
+      "name": "DELRAY MEDICAL CENTER",
+      "address": "5352 LINTON BLVD",
+      "city": "DELRAY BEACH",
+      "state": "FL",
+      "zipcode": "33484"
+    },
+    {
+      "id": "100259",
+      "name": "HCA FLORIDA SOUTH SHORE HOSPITAL",
+      "address": "4016 SUN CITY CENTER BLVD",
+      "city": "SUN CITY CENTER",
+      "state": "FL",
+      "zipcode": "33573"
+    },
+    {
+      "id": "100260",
+      "name": "HCA FLORIDA ST LUCIE HOSPITAL",
+      "address": "1800 SE TIFFANY AVE",
+      "city": "PORT SAINT LUCIE",
+      "state": "FL",
+      "zipcode": "34952"
+    },
+    {
+      "id": "100264",
+      "name": "HCA FLORIDA OAK HILL HOSPITAL",
+      "address": "11375 CORTEZ BLVD",
+      "city": "BROOKSVILLE",
+      "state": "FL",
+      "zipcode": "34613"
+    },
+    {
+      "id": "100265",
+      "name": "MEASE COUNTRYSIDE HOSPITAL",
+      "address": "3231 MCMULLEN BOOTH RD",
+      "city": "SAFETY HARBOR",
+      "state": "FL",
+      "zipcode": "34695"
+    },
+    {
+      "id": "100266",
+      "name": "GULF BREEZE HOSPITAL",
+      "address": "1110 GULF BREEZE PKWY",
+      "city": "GULF BREEZE",
+      "state": "FL",
+      "zipcode": "32561"
+    },
+    {
+      "id": "100267",
+      "name": "HCA FLORIDA ENGLEWOOD HOSPITAL",
+      "address": "700 MEDICAL BLVD",
+      "city": "ENGLEWOOD",
+      "state": "FL",
+      "zipcode": "34223"
+    },
+    {
+      "id": "100268",
+      "name": "WEST BOCA MEDICAL CENTER",
+      "address": "21644 STATE RD 7",
+      "city": "BOCA RATON",
+      "state": "FL",
+      "zipcode": "33428"
+    },
+    {
+      "id": "100269",
+      "name": "HCA FLORIDA PALMS WEST HOSPITAL",
+      "address": "13001 SOUTHERN BLVD",
+      "city": "LOXAHATCHEE",
+      "state": "FL",
+      "zipcode": "33470"
+    },
+    {
+      "id": "100271",
+      "name": "H LEE MOFFITT CANCER CENTER & RESEARCH INSTITUTE I",
+      "address": "12902 MAGNOLIA DR",
+      "city": "TAMPA",
+      "state": "FL",
+      "zipcode": "33612"
+    },
+    {
+      "id": "100275",
+      "name": "WELLINGTON REGIONAL MEDICAL CENTER",
+      "address": "10101 FOREST HILL BLVD",
+      "city": "WELLINGTON",
+      "state": "FL",
+      "zipcode": "33414"
+    },
+    {
+      "id": "100276",
+      "name": "BROWARD HEALTH CORAL SPRINGS",
+      "address": "3000 CORAL HILLS DR",
+      "city": "CORAL SPRINGS",
+      "state": "FL",
+      "zipcode": "33065"
+    },
+    {
+      "id": "100277",
+      "name": "DOUGLAS GARDENS HOSPITAL",
+      "address": "5200 NE 2ND AVE",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33137"
+    },
+    {
+      "id": "100281",
+      "name": "MEMORIAL HOSPITAL WEST",
+      "address": "703 N FLAMINGO RD",
+      "city": "PEMBROKE PINES",
+      "state": "FL",
+      "zipcode": "33028"
+    },
+    {
+      "id": "100284",
+      "name": "KERALTY HOSPITAL",
+      "address": "2500 SW 75TH AVE",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33155"
+    },
+    {
+      "id": "100285",
+      "name": "MEMORIAL HOSPITAL MIRAMAR",
+      "address": "1901 SW 172ND AVE",
+      "city": "MIRAMAR",
+      "state": "FL",
+      "zipcode": "33029"
+    },
+    {
+      "id": "100286",
+      "name": "PHYSICIANS REGIONAL MEDICAL CENTER - PINE RIDGE",
+      "address": "6101 PINE RIDGE ROAD",
+      "city": "NAPLES",
+      "state": "FL",
+      "zipcode": "34119"
+    },
+    {
+      "id": "100287",
+      "name": "GOOD SAMARITAN MEDICAL CENTER",
+      "address": "1309 N FLAGLER DR",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "zipcode": "33401"
+    },
+    {
+      "id": "100288",
+      "name": "ST MARY'S MEDICAL CENTER",
+      "address": "901 45TH ST",
+      "city": "WEST PALM BEACH",
+      "state": "FL",
+      "zipcode": "33407"
+    },
+    {
+      "id": "100289",
+      "name": "CLEVELAND CLINIC HOSPITAL",
+      "address": "3100 WESTON RD",
+      "city": "WESTON",
+      "state": "FL",
+      "zipcode": "33331"
+    },
+    {
+      "id": "100290",
+      "name": "UF HEALTH SPANISH PLAINES HOSPITAL",
+      "address": "1451 EL CAMINO REAL",
+      "city": "THE VILLAGES",
+      "state": "FL",
+      "zipcode": "32159"
+    },
+    {
+      "id": "100291",
+      "name": "MELBOURNE REGIONAL MEDICAL CENTER",
+      "address": "250 NORTH WICKHAM ROAD",
+      "city": "MELBOURNE",
+      "state": "FL",
+      "zipcode": "32935"
+    },
+    {
+      "id": "100292",
+      "name": "SACRED HEART HOSPITAL ON THE EMERALD COAST",
+      "address": "7800 US HWY 98 W",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "zipcode": "32550"
+    },
+    {
+      "id": "100296",
+      "name": "DOCTORS HOSPITAL",
+      "address": "5000 UNIVERSITY DR",
+      "city": "CORAL GABLES",
+      "state": "FL",
+      "zipcode": "33146"
+    },
+    {
+      "id": "100299",
+      "name": "LAKEWOOD RANCH MEDICAL CENTER",
+      "address": "8330 LAKEWOOD RANCH BLVD",
+      "city": "BRADENTON",
+      "state": "FL",
+      "zipcode": "34202"
+    },
+    {
+      "id": "100302",
+      "name": "ORLANDO HEALTH ST CLOUD HOSPITAL",
+      "address": "2906 17TH STREET",
+      "city": "SAINT CLOUD",
+      "state": "FL",
+      "zipcode": "34769"
+    },
+    {
+      "id": "100307",
+      "name": "ASCENSION ST VINCENT'S SOUTHSIDE",
+      "address": "4201 BELFORT RD",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "zipcode": "32216"
+    },
+    {
+      "id": "100313",
+      "name": "ASCENSION SACRED HEART GULF",
+      "address": "3801 E HWY 98",
+      "city": "PORT SAINT JOE",
+      "state": "FL",
+      "zipcode": "32456"
+    },
+    {
+      "id": "100314",
+      "name": "WEST KENDALL BAPTIST HOSPITAL",
+      "address": "9555 SW 162 AVE",
+      "city": "MIAMI",
+      "state": "FL",
+      "zipcode": "33196"
+    },
+    {
+      "id": "100315",
+      "name": "VIERA HOSPITAL",
+      "address": "8745 N WICKHAM RD",
+      "city": "MELBOURNE",
+      "state": "FL",
+      "zipcode": "32940"
+    },
+    {
+      "id": "100316",
+      "name": "PALM BAY HOSPITAL",
+      "address": "1425 MALABAR RD, NE",
+      "city": "PALM BAY",
+      "state": "FL",
+      "zipcode": "32907"
+    },
+    {
+      "id": "100319",
+      "name": "ADVENTHEALTH WESLEY CHAPEL",
+      "address": "2600 BRUCE B DOWNS BLVD",
+      "city": "WESLEY CHAPEL",
+      "state": "FL",
+      "zipcode": "33544"
+    },
+    {
+      "id": "100320",
+      "name": "HCA FLORIDA POINCIANA HOSPITAL",
+      "address": "325 CYPRESS PKWY",
+      "city": "KISSIMMEE",
+      "state": "FL",
+      "zipcode": "34758"
+    },
+    {
+      "id": "100321",
+      "name": "ASCENSION ST VINCENT'S CLAY COUNTY",
+      "address": "1670 ST VINCENTS WAY",
+      "city": "MIDDLEBURG",
+      "state": "FL",
+      "zipcode": "32068"
+    },
+    {
+      "id": "100329",
+      "name": "OVIEDO MEDICAL CENTER",
+      "address": "8300 RED BUG LAKE RD",
+      "city": "OVIEDO",
+      "state": "FL",
+      "zipcode": "32765"
+    },
+    {
+      "id": "100330",
+      "name": "HALIFAX HEALTH /UF HEALTH MEDICAL CENTER OF DELTON",
+      "address": "3300 HALIFAX CROSSINGS BLVD",
+      "city": "DELTONA",
+      "state": "FL",
+      "zipcode": "32725"
+    },
+    {
+      "id": "100350",
+      "name": "UCF LAKE NONA HOSPITAL",
+      "address": "6850 LAKE NONA BLVD",
+      "city": "ORLANDO",
+      "state": "FL",
+      "zipcode": "32827"
+    },
+    {
+      "id": "100359",
+      "name": "SARASOTA MEMORIAL HOSPITAL - VENICE",
+      "address": "2600 LAUREL RD E",
+      "city": "NORTH VENICE",
+      "state": "FL",
+      "zipcode": "34275"
+    },
+    {
+      "id": "100360",
+      "name": "HCA FLORIDA UNIVERSITY HOSPITAL",
+      "address": "3476 S UNIVERSITY DR",
+      "city": "DAVIE",
+      "state": "FL",
+      "zipcode": "33328"
+    },
+    {
+      "id": "100361",
+      "name": "ASCENSION ST VINCENT'S ST JOHNS COUNTY",
+      "address": "205 TRINITY WAY",
+      "city": "ST JOHNS",
+      "state": "FL",
+      "zipcode": "32259"
+    },
+    {
+      "id": "100362",
+      "name": "BAYCARE HOSPITAL WESLEY CHAPEL",
+      "address": "4501 BRUCE B. DOWNS BLVD",
+      "city": "WESLEY CHAPEL",
+      "state": "FL",
+      "zipcode": "33544"
+    },
+    {
+      "id": "100363",
+      "name": "ADVENTHEALTH PALM COAST PARKWAY",
+      "address": "1 ADVENTHEALTH WAY",
+      "city": "PALM COAST",
+      "state": "FL",
+      "zipcode": "32137"
+    },
+    {
+      "id": "101300",
+      "name": "ADVENTHEALTH WAUCHULA",
+      "address": "735 S 5TH AVE",
+      "city": "WAUCHULA",
+      "state": "FL",
+      "zipcode": "33873"
+    },
+    {
+      "id": "101303",
+      "name": "LAKE BUTLER HOSPITAL",
+      "address": "850 E MAIN ST",
+      "city": "LAKE BUTLER",
+      "state": "FL",
+      "zipcode": "32054"
+    },
+    {
+      "id": "101304",
+      "name": "CALHOUN-LIBERTY HOSPITAL",
+      "address": "20370 NE BURNS AVE",
+      "city": "BLOUNTSTOWN",
+      "state": "FL",
+      "zipcode": "32424"
+    },
+    {
+      "id": "101305",
+      "name": "GEORGE E WEEMS MEMORIAL HOSPITAL",
+      "address": "135 AVE G",
+      "city": "APALACHICOLA",
+      "state": "FL",
+      "zipcode": "32320"
+    },
+    {
+      "id": "101307",
+      "name": "DOCTORS MEMORIAL HOSPITAL",
+      "address": "2600 HOSPITAL DR",
+      "city": "BONIFAY",
+      "state": "FL",
+      "zipcode": "32425"
+    },
+    {
+      "id": "101308",
+      "name": "NORTHWEST FLORIDA COMMUNITY HOSPITAL",
+      "address": "1360 BRICKYARD RD",
+      "city": "CHIPLEY",
+      "state": "FL",
+      "zipcode": "32428"
+    },
+    {
+      "id": "101309",
+      "name": "HENDRY REGIONAL MEDICAL CENTER",
+      "address": "524 W SAGAMORE AVE",
+      "city": "CLEWISTON",
+      "state": "FL",
+      "zipcode": "33440"
+    },
+    {
+      "id": "101311",
+      "name": "MADISON COUNTY MEMORIAL HOSPITAL",
+      "address": "224 NW CRANE AVE",
+      "city": "MADISON",
+      "state": "FL",
+      "zipcode": "32340"
+    },
+    {
+      "id": "101312",
+      "name": "FISHERMEN'S COMMUNITY HOSPITAL",
+      "address": "3301 OVERSEAS HWY",
+      "city": "MARATHON",
+      "state": "FL",
+      "zipcode": "33050"
+    },
+    {
+      "id": "101313",
+      "name": "MARINERS HOSPITAL",
+      "address": "91500 OVERSEAS HIGHWAY",
+      "city": "TAVERNIER",
+      "state": "FL",
+      "zipcode": "33070"
+    },
+    {
+      "id": "101314",
+      "name": "DOCTORS MEMORIAL HOSPITAL INC",
+      "address": "333 N BYRON BUTLER PKWY",
+      "city": "PERRY",
+      "state": "FL",
+      "zipcode": "32347"
+    }
+  ]
+}

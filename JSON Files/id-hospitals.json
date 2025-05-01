@@ -1,0 +1,348 @@
+{
+  "hospitals": [
+    {
+      "id": "130002",
+      "name": "ST LUKE'S MAGIC VALLEY RMC",
+      "address": "801 POLE LINE ROAD WEST",
+      "city": "TWIN FALLS",
+      "state": "ID",
+      "zipcode": "83301"
+    },
+    {
+      "id": "130003",
+      "name": "ST JOSEPH REGIONAL MEDICAL CENTER",
+      "address": "415 SIXTH STREET",
+      "city": "LEWISTON",
+      "state": "ID",
+      "zipcode": "83501"
+    },
+    {
+      "id": "130006",
+      "name": "ST LUKE'S REGIONAL MEDICAL CENTER",
+      "address": "190 EAST BANNOCK STREET",
+      "city": "BOISE",
+      "state": "ID",
+      "zipcode": "83712"
+    },
+    {
+      "id": "130007",
+      "name": "SAINT ALPHONSUS REGIONAL MEDICAL CENTER",
+      "address": "1055 NORTH CURTIS ROAD",
+      "city": "BOISE",
+      "state": "ID",
+      "zipcode": "83706"
+    },
+    {
+      "id": "130013",
+      "name": "SAINT ALPHONSUS MEDICAL CENTER - NAMPA",
+      "address": "4300 E FLAMINGO AVE",
+      "city": "NAMPA",
+      "state": "ID",
+      "zipcode": "83687"
+    },
+    {
+      "id": "130014",
+      "name": "WEST VALLEY MEDICAL CENTER",
+      "address": "1717 ARLINGTON STREET",
+      "city": "CALDWELL",
+      "state": "ID",
+      "zipcode": "83605"
+    },
+    {
+      "id": "130018",
+      "name": "EASTERN IDAHO REGIONAL MEDICAL CENTER",
+      "address": "3100 CHANNING WAY",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "zipcode": "83404"
+    },
+    {
+      "id": "130025",
+      "name": "MADISON MEMORIAL HOSPITAL",
+      "address": "450 EAST MAIN STREET",
+      "city": "REXBURG",
+      "state": "ID",
+      "zipcode": "83440"
+    },
+    {
+      "id": "130028",
+      "name": "PORTNEUF MEDICAL CENTER",
+      "address": "777 HOSPITAL WAY",
+      "city": "POCATELLO",
+      "state": "ID",
+      "zipcode": "83201"
+    },
+    {
+      "id": "130049",
+      "name": "KOOTENAI HEALTH",
+      "address": "2003 KOOTENAI HEALTH WAY",
+      "city": "COEUR D'ALENE",
+      "state": "ID",
+      "zipcode": "83814"
+    },
+    {
+      "id": "130063",
+      "name": "TREASURE VALLEY HOSPITAL",
+      "address": "8800 WEST EMERALD STREET",
+      "city": "BOISE",
+      "state": "ID",
+      "zipcode": "83704"
+    },
+    {
+      "id": "130065",
+      "name": "MOUNTAIN VIEW HOSPITAL",
+      "address": "2325 CORONADO STREET",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "zipcode": "83404"
+    },
+    {
+      "id": "130066",
+      "name": "NORTHWEST SPECIALTY HOSPITAL",
+      "address": "1593 EAST POLSTON AVENUE",
+      "city": "POST FALLS",
+      "state": "ID",
+      "zipcode": "83854"
+    },
+    {
+      "id": "130071",
+      "name": "ST LUKE'S NAMPA MEDICAL CENTER",
+      "address": "9850 WEST ST LUKES DRIVE",
+      "city": "NAMPA",
+      "state": "ID",
+      "zipcode": "83687"
+    },
+    {
+      "id": "130073",
+      "name": "GROVE CREEK MEDICAL CENTER",
+      "address": "350 NORTH MERIDIAN STREET",
+      "city": "BLACKFOOT",
+      "state": "ID",
+      "zipcode": "83221"
+    },
+    {
+      "id": "130074",
+      "name": "IDAHO FALLS COMMUNITY HOSPITAL, LLC",
+      "address": "2327 CORONADO ST",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "zipcode": "83404"
+    },
+    {
+      "id": "131301",
+      "name": "BOUNDARY COMMUNITY HOSPITAL",
+      "address": "6640 KANIKSU STREET",
+      "city": "BONNERS FERRY",
+      "state": "ID",
+      "zipcode": "83805"
+    },
+    {
+      "id": "131302",
+      "name": "NORTH CANYON MEDICAL CENTER",
+      "address": "267 NORTH CANYON DR",
+      "city": "GOODING",
+      "state": "ID",
+      "zipcode": "83330"
+    },
+    {
+      "id": "131303",
+      "name": "NELL J REDFIELD MEMORIAL HOSPITAL",
+      "address": "150 NORTH 200 WEST",
+      "city": "MALAD",
+      "state": "ID",
+      "zipcode": "83252"
+    },
+    {
+      "id": "131304",
+      "name": "POWER COUNTY HOSPITAL DISTRICT",
+      "address": "510 ROOSEVELT STREET",
+      "city": "AMERICAN FALLS",
+      "state": "ID",
+      "zipcode": "83211"
+    },
+    {
+      "id": "131305",
+      "name": "STEELE MEMORIAL MEDICAL CENTER",
+      "address": "P O BOX 700",
+      "city": "SALMON",
+      "state": "ID",
+      "zipcode": "83467"
+    },
+    {
+      "id": "131307",
+      "name": "WEISER MEMORIAL HOSPITAL",
+      "address": "645 EAST 5TH STREET",
+      "city": "WEISER",
+      "state": "ID",
+      "zipcode": "83672"
+    },
+    {
+      "id": "131308",
+      "name": "CASCADE MEDICAL CENTER",
+      "address": "402 LAKE CASCADE PARKWAY",
+      "city": "CASCADE",
+      "state": "ID",
+      "zipcode": "83611"
+    },
+    {
+      "id": "131309",
+      "name": "CARIBOU MEDICAL CENTER",
+      "address": "300 SOUTH 3RD WEST",
+      "city": "SODA SPRINGS",
+      "state": "ID",
+      "zipcode": "83276"
+    },
+    {
+      "id": "131310",
+      "name": "ST LUKE'S JEROME",
+      "address": "709 NORTH LINCOLN AVENUE",
+      "city": "JEROME",
+      "state": "ID",
+      "zipcode": "83338"
+    },
+    {
+      "id": "131311",
+      "name": "ST LUKE'S ELMORE MEDICAL CENTER",
+      "address": "895 NORTH 6TH EAST",
+      "city": "MOUNTAIN HOME",
+      "state": "ID",
+      "zipcode": "83647"
+    },
+    {
+      "id": "131312",
+      "name": "ST LUKE'S MCCALL",
+      "address": "1000 STATE STREET",
+      "city": "MCCALL",
+      "state": "ID",
+      "zipcode": "83638"
+    },
+    {
+      "id": "131313",
+      "name": "TETON VALLEY HOSPITAL",
+      "address": "120 EAST HOWARD AVE",
+      "city": "DRIGGS",
+      "state": "ID",
+      "zipcode": "83422"
+    },
+    {
+      "id": "131314",
+      "name": "SHOSHONE MEDICAL CENTER",
+      "address": "25 JACOBS GULCH ROAD",
+      "city": "KELLOGG",
+      "state": "ID",
+      "zipcode": "83837"
+    },
+    {
+      "id": "131315",
+      "name": "SYRINGA GENERAL HOSPITAL",
+      "address": "607 W MAIN STREET",
+      "city": "GRANGEVILLE",
+      "state": "ID",
+      "zipcode": "83530"
+    },
+    {
+      "id": "131316",
+      "name": "BEAR LAKE MEMORIAL HOSPITAL",
+      "address": "164 SOUTH FIFTH STREET",
+      "city": "MONTPELIER",
+      "state": "ID",
+      "zipcode": "83254"
+    },
+    {
+      "id": "131317",
+      "name": "BENEWAH COMMUNITY HOSPITAL",
+      "address": "229 SOUTH 7TH STREET",
+      "city": "ST MARIES",
+      "state": "ID",
+      "zipcode": "83861"
+    },
+    {
+      "id": "131318",
+      "name": "VALOR HEALTH",
+      "address": "1202 EAST LOCUST STREET",
+      "city": "EMMETT",
+      "state": "ID",
+      "zipcode": "83617"
+    },
+    {
+      "id": "131319",
+      "name": "MINIDOKA MEMORIAL HOSPITAL",
+      "address": "1224 8TH STREET",
+      "city": "RUPERT",
+      "state": "ID",
+      "zipcode": "83350"
+    },
+    {
+      "id": "131320",
+      "name": "CLEARWATER VALLEY HOSPITAL & CLINICS",
+      "address": "301 CEDAR STREET",
+      "city": "OROFINO",
+      "state": "ID",
+      "zipcode": "83544"
+    },
+    {
+      "id": "131321",
+      "name": "ST MARY'S HOSPITAL",
+      "address": "701 LEWISTON ST",
+      "city": "COTTONWOOD",
+      "state": "ID",
+      "zipcode": "83522"
+    },
+    {
+      "id": "131322",
+      "name": "FRANKLIN COUNTY MEDICAL CENTER",
+      "address": "44 NORTH FIRST EAST",
+      "city": "PRESTON",
+      "state": "ID",
+      "zipcode": "83263"
+    },
+    {
+      "id": "131323",
+      "name": "ST LUKE'S WOOD RIVER MEDICAL CENTER",
+      "address": "100 HOSPITAL DRIVE",
+      "city": "KETCHUM",
+      "state": "ID",
+      "zipcode": "83340"
+    },
+    {
+      "id": "131324",
+      "name": "LOST RIVERS MEDICAL CENTER",
+      "address": "551 HIGHLAND DRIVE",
+      "city": "ARCO",
+      "state": "ID",
+      "zipcode": "83213"
+    },
+    {
+      "id": "131325",
+      "name": "BINGHAM MEMORIAL HOSPITAL",
+      "address": "98 POPLAR STREET",
+      "city": "BLACKFOOT",
+      "state": "ID",
+      "zipcode": "83221"
+    },
+    {
+      "id": "131326",
+      "name": "INTERMOUNTAIN HEALTH CASSIA REGIONAL HOSPITAL",
+      "address": "1501 HILAND AVENUE",
+      "city": "BURLEY",
+      "state": "ID",
+      "zipcode": "83318"
+    },
+    {
+      "id": "131327",
+      "name": "GRITMAN MEDICAL CENTER",
+      "address": "700 SOUTH MAIN STREET",
+      "city": "MOSCOW",
+      "state": "ID",
+      "zipcode": "83843"
+    },
+    {
+      "id": "131328",
+      "name": "BONNER GENERAL HOSPITAL",
+      "address": "520 NORTH THIRD AVENUE",
+      "city": "SANDPOINT",
+      "state": "ID",
+      "zipcode": "83864"
+    }
+  ]
+}

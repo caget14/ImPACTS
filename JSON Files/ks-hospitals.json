@@ -1,0 +1,1028 @@
+{
+  "hospitals": [
+    {
+      "id": "170006",
+      "name": "MERCY HOSPITAL PITTSBURG, INC",
+      "address": "1 MT CARMEL WAY",
+      "city": "PITTSBURG",
+      "state": "KS",
+      "zipcode": "66762"
+    },
+    {
+      "id": "170009",
+      "name": "SAINT JOHN HOSPITAL",
+      "address": "3500 SOUTH 4TH STREET",
+      "city": "LEAVENWORTH",
+      "state": "KS",
+      "zipcode": "66048"
+    },
+    {
+      "id": "170012",
+      "name": "SALINA REGIONAL HEALTH CENTER",
+      "address": "400 SOUTH SANTA FE AVENUE",
+      "city": "SALINA",
+      "state": "KS",
+      "zipcode": "67401"
+    },
+    {
+      "id": "170013",
+      "name": "HAYS MEDICAL CENTER",
+      "address": "2220 CANTERBURY DRIVE",
+      "city": "HAYS",
+      "state": "KS",
+      "zipcode": "67601"
+    },
+    {
+      "id": "170014",
+      "name": "ADVENTHEALTH OTTAWA",
+      "address": "1301 S MAIN STREET",
+      "city": "OTTAWA",
+      "state": "KS",
+      "zipcode": "66067"
+    },
+    {
+      "id": "170016",
+      "name": "UNIVERSITY OF KANSAS HLTH SYSTEM ST FRANCIS CAMPUS",
+      "address": "1700 SW 7TH STREET",
+      "city": "TOPEKA",
+      "state": "KS",
+      "zipcode": "66606"
+    },
+    {
+      "id": "170017",
+      "name": "SUSAN B ALLEN MEMORIAL HOSPITAL",
+      "address": "720 W CENTRAL ST",
+      "city": "EL DORADO",
+      "state": "KS",
+      "zipcode": "67042"
+    },
+    {
+      "id": "170020",
+      "name": "HUTCHINSON REGIONAL MEDICAL CENTER INC",
+      "address": "1701 E 23RD AVENUE",
+      "city": "HUTCHINSON",
+      "state": "KS",
+      "zipcode": "67502"
+    },
+    {
+      "id": "170023",
+      "name": "CENTURA ST. CATHERINE HOSPITAL-GARDEN CITY",
+      "address": "401 EAST SPRUCE",
+      "city": "GARDEN CITY",
+      "state": "KS",
+      "zipcode": "67846"
+    },
+    {
+      "id": "170027",
+      "name": "PRATT REGIONAL MEDICAL CENTER",
+      "address": "200 COMMODORE ST",
+      "city": "PRATT",
+      "state": "KS",
+      "zipcode": "67124"
+    },
+    {
+      "id": "170040",
+      "name": "UNIVERSITY OF KANSAS HOSPITAL",
+      "address": "4000 CAMBRIDGE STREET",
+      "city": "KANSAS CITY",
+      "state": "KS",
+      "zipcode": "66160"
+    },
+    {
+      "id": "170049",
+      "name": "OLATHE MEDICAL CENTER",
+      "address": "20333 WEST 151ST STREET",
+      "city": "OLATHE",
+      "state": "KS",
+      "zipcode": "66061"
+    },
+    {
+      "id": "170068",
+      "name": "SOUTHWEST MEDICAL CENTER",
+      "address": "315 WEST 15TH STREET",
+      "city": "LIBERAL",
+      "state": "KS",
+      "zipcode": "67901"
+    },
+    {
+      "id": "170074",
+      "name": "STORMONT VAIL HEALTH FLINT HILLS, LLC",
+      "address": "1102 ST MARY'S ROAD",
+      "city": "JUNCTION CITY",
+      "state": "KS",
+      "zipcode": "66441"
+    },
+    {
+      "id": "170086",
+      "name": "STORMONT VAIL HOSPITAL",
+      "address": "1500 SW 10TH AVENUE",
+      "city": "TOPEKA",
+      "state": "KS",
+      "zipcode": "66604"
+    },
+    {
+      "id": "170103",
+      "name": "NMC HEALTH",
+      "address": "600 MEDICAL CENTER DRIVE",
+      "city": "NEWTON",
+      "state": "KS",
+      "zipcode": "67114"
+    },
+    {
+      "id": "170104",
+      "name": "ADVENTHEALTH SHAWNEE MISSION",
+      "address": "9100 W 74TH STREET",
+      "city": "SHAWNEE MISSION",
+      "state": "KS",
+      "zipcode": "66204"
+    },
+    {
+      "id": "170105",
+      "name": "MCPHERSON HOSPITAL INC",
+      "address": "1000 HOSPITAL DRIVE",
+      "city": "MCPHERSON",
+      "state": "KS",
+      "zipcode": "67460"
+    },
+    {
+      "id": "170109",
+      "name": "MIAMI COUNTY MEDICAL CENTER",
+      "address": "2100 BAPTISTE DR",
+      "city": "PAOLA",
+      "state": "KS",
+      "zipcode": "66071"
+    },
+    {
+      "id": "170110",
+      "name": "BOB WILSON MEMORIAL GRANT COUNTY HOSPITAL",
+      "address": "415 N MAIN STREET",
+      "city": "ULYSSES",
+      "state": "KS",
+      "zipcode": "67880"
+    },
+    {
+      "id": "170120",
+      "name": "LABETTE HEALTH",
+      "address": "1902 SOUTH US HWY 59",
+      "city": "PARSONS",
+      "state": "KS",
+      "zipcode": "67357"
+    },
+    {
+      "id": "170122",
+      "name": "ASCENSION VIA CHRISTI HOSPITALS WICHITA, INC.",
+      "address": "929 NORTH ST FRANCIS STREET",
+      "city": "WICHITA",
+      "state": "KS",
+      "zipcode": "67214"
+    },
+    {
+      "id": "170123",
+      "name": "WESLEY MEDICAL CENTER",
+      "address": "550 N HILLSIDE STREET",
+      "city": "WICHITA",
+      "state": "KS",
+      "zipcode": "67214"
+    },
+    {
+      "id": "170137",
+      "name": "LMH",
+      "address": "325 MAINE STREET",
+      "city": "LAWRENCE",
+      "state": "KS",
+      "zipcode": "66044"
+    },
+    {
+      "id": "170142",
+      "name": "ASCENSION VIA CHRISTI HOSPITAL MANHATTAN, INC",
+      "address": "1823 COLLEGE AVE",
+      "city": "MANHATTAN",
+      "state": "KS",
+      "zipcode": "66502"
+    },
+    {
+      "id": "170146",
+      "name": "PROVIDENCE MEDICAL CENTER",
+      "address": "8929 PARALLEL PARKWAY",
+      "city": "KANSAS CITY",
+      "state": "KS",
+      "zipcode": "66112"
+    },
+    {
+      "id": "170175",
+      "name": "ST CATHERINE HOSPITAL - DODGE CITY",
+      "address": "3001 AVENUE A",
+      "city": "DODGE CITY",
+      "state": "KS",
+      "zipcode": "67801"
+    },
+    {
+      "id": "170176",
+      "name": "OVERLAND PARK REG MED CTR",
+      "address": "10500 QUIVIRA ROAD",
+      "city": "OVERLAND PARK",
+      "state": "KS",
+      "zipcode": "66215"
+    },
+    {
+      "id": "170182",
+      "name": "MENORAH MEDICAL CENTER",
+      "address": "5721 WEST 119TH STREET",
+      "city": "OVERLAND PARK",
+      "state": "KS",
+      "zipcode": "66209"
+    },
+    {
+      "id": "170183",
+      "name": "KANSAS SURGERY & RECOVERY CENTER",
+      "address": "2770 NORTH WEBB ROAD",
+      "city": "WICHITA",
+      "state": "KS",
+      "zipcode": "67226"
+    },
+    {
+      "id": "170185",
+      "name": "SAINT LUKE'S SOUTH HOSPITAL",
+      "address": "12300 METCALF AVENUE",
+      "city": "OVERLAND PARK",
+      "state": "KS",
+      "zipcode": "66213"
+    },
+    {
+      "id": "170186",
+      "name": "KANSAS HEART HOSPITAL",
+      "address": "3601 NORTH WEBB ROAD",
+      "city": "WICHITA",
+      "state": "KS",
+      "zipcode": "67226"
+    },
+    {
+      "id": "170187",
+      "name": "SALINA SURGICAL HOSPITAL",
+      "address": "401 SOUTH SANTA FE AVENUE",
+      "city": "SALINA",
+      "state": "KS",
+      "zipcode": "67401"
+    },
+    {
+      "id": "170188",
+      "name": "KANSAS CITY ORTHOPAEDIC INSTITUTE",
+      "address": "3651 COLLEGE BLVD",
+      "city": "LEAWOOD",
+      "state": "KS",
+      "zipcode": "66211"
+    },
+    {
+      "id": "170190",
+      "name": "MANHATTAN SURGICAL HOSPITAL LLC",
+      "address": "1829 COLLEGE AVENUE",
+      "city": "MANHATTAN",
+      "state": "KS",
+      "zipcode": "66502"
+    },
+    {
+      "id": "170191",
+      "name": "UNIVERSITY  OF KS HLTH SYSTEM GREAT BEND CAMPUS",
+      "address": "514 CLEVELAND STREET",
+      "city": "GREAT BEND",
+      "state": "KS",
+      "zipcode": "67530"
+    },
+    {
+      "id": "170194",
+      "name": "ASCENTIST HOSPITAL LLC",
+      "address": "4901 COLLEGE BLVD",
+      "city": "LEAWOOD",
+      "state": "KS",
+      "zipcode": "66211"
+    },
+    {
+      "id": "170196",
+      "name": "KANSAS SPINE & SPECIALTY HOSPITAL, LLC",
+      "address": "3333 NORTH WEBB ROAD",
+      "city": "WICHITA",
+      "state": "KS",
+      "zipcode": "67226"
+    },
+    {
+      "id": "170197",
+      "name": "KANSAS MEDICAL CENTER LLC",
+      "address": "1124 WEST 21ST STREET",
+      "city": "ANDOVER",
+      "state": "KS",
+      "zipcode": "67002"
+    },
+    {
+      "id": "170198",
+      "name": "SUMMIT SURGICAL, LLC",
+      "address": "1818 EAST 23RD AVENUE",
+      "city": "HUTCHINSON",
+      "state": "KS",
+      "zipcode": "67502"
+    },
+    {
+      "id": "170199",
+      "name": "MINIMALLY INVASIVE SURGERY HOSPITAL",
+      "address": "10951 LAKEVIEW AVE",
+      "city": "LENEXA",
+      "state": "KS",
+      "zipcode": "66219"
+    },
+    {
+      "id": "170200",
+      "name": "ASCENSION VIA CHRISTI HOSPITAL ST. TERESA, INC.",
+      "address": "14800 WEST ST TERESA",
+      "city": "WICHITA",
+      "state": "KS",
+      "zipcode": "67235"
+    },
+    {
+      "id": "170203",
+      "name": "MERCY SPECIALTY HOSPITAL SOUTHEAST KANSAS",
+      "address": "1619 K 66",
+      "city": "GALENA",
+      "state": "KS",
+      "zipcode": "66739"
+    },
+    {
+      "id": "170204",
+      "name": "ROCK REGIONAL HOSPITAL, LLC",
+      "address": "3251 NORTH ROCK ROAD",
+      "city": "DERBY",
+      "state": "KS",
+      "zipcode": "67037"
+    },
+    {
+      "id": "170205",
+      "name": "MANHATTAN SPECIALISTS CENTER, LLC",
+      "address": "202 RESEARCH DRVIE",
+      "city": "MANHATTAN",
+      "state": "KS",
+      "zipcode": "66503"
+    },
+    {
+      "id": "170779",
+      "name": "SOUTH CENTRAL KANSAS MEDICAL CENTER",
+      "address": "6401 PATTERSON PARKWAY",
+      "city": "ARKANSAS CITY",
+      "state": "KS",
+      "zipcode": "67005"
+    },
+    {
+      "id": "170780",
+      "name": "MERCY HOSPITAL, INC",
+      "address": "218 E PACK STREET",
+      "city": "MOUNDRIDGE",
+      "state": "KS",
+      "zipcode": "67107"
+    },
+    {
+      "id": "171300",
+      "name": "GRISELL MEMORIAL HOSPITAL",
+      "address": "210 SOUTH VERMONT AVENUE",
+      "city": "RANSOM",
+      "state": "KS",
+      "zipcode": "67572"
+    },
+    {
+      "id": "171301",
+      "name": "ELLINWOOD DISTRICT HOSPITAL",
+      "address": "300 N PARK AVE",
+      "city": "ELLINWOOD",
+      "state": "KS",
+      "zipcode": "67526"
+    },
+    {
+      "id": "171303",
+      "name": "LANE COUNTY HOSPITAL",
+      "address": "235 WEST VINE  PO BOX 969",
+      "city": "DIGHTON",
+      "state": "KS",
+      "zipcode": "67839"
+    },
+    {
+      "id": "171304",
+      "name": "ASHLAND HEALTH CENTER",
+      "address": "625 SOUTH KENTUCKY",
+      "city": "ASHLAND",
+      "state": "KS",
+      "zipcode": "67831"
+    },
+    {
+      "id": "171306",
+      "name": "WICHITA COUNTY HEALTH CENTER",
+      "address": "211 E EARL STREET",
+      "city": "LEOTI",
+      "state": "KS",
+      "zipcode": "67861"
+    },
+    {
+      "id": "171307",
+      "name": "RAWLINS COUNTY HEALTH CENTER",
+      "address": "707 GRANT ST",
+      "city": "ATWOOD",
+      "state": "KS",
+      "zipcode": "67730"
+    },
+    {
+      "id": "171308",
+      "name": "MERCY HOSPITAL COLUMBUS",
+      "address": "220 N PENNSYLVANIA AVENUE",
+      "city": "COLUMBUS",
+      "state": "KS",
+      "zipcode": "66725"
+    },
+    {
+      "id": "171309",
+      "name": "JEWELL COUNTY HOSPITAL",
+      "address": "100 CRESTVUE AVE",
+      "city": "MANKATO",
+      "state": "KS",
+      "zipcode": "66956"
+    },
+    {
+      "id": "171310",
+      "name": "CHEYENNE COUNTY HOSPITAL",
+      "address": "210 WEST 1ST STREET",
+      "city": "ST FRANCIS",
+      "state": "KS",
+      "zipcode": "67756"
+    },
+    {
+      "id": "171311",
+      "name": "ROOKS COUNTY HEALTH CENTER",
+      "address": "1210 NORTH WASHINGTON",
+      "city": "PLAINVILLE",
+      "state": "KS",
+      "zipcode": "67663"
+    },
+    {
+      "id": "171312",
+      "name": "COMANCHE COUNTY HOSPITAL",
+      "address": "202 S FRISCO STREET",
+      "city": "COLDWATER",
+      "state": "KS",
+      "zipcode": "67029"
+    },
+    {
+      "id": "171313",
+      "name": "KEARNY COUNTY HOSPITAL",
+      "address": "500 THORPE STREET",
+      "city": "LAKIN",
+      "state": "KS",
+      "zipcode": "67860"
+    },
+    {
+      "id": "171314",
+      "name": "F W HUSTON MEDICAL CENTER",
+      "address": "408 DELAWARE STREET",
+      "city": "WINCHESTER",
+      "state": "KS",
+      "zipcode": "66097"
+    },
+    {
+      "id": "171315",
+      "name": "NEMAHA VALLEY COMMUNITY HOSPITAL",
+      "address": "1600 COMMUNITY DR",
+      "city": "SENECA",
+      "state": "KS",
+      "zipcode": "66538"
+    },
+    {
+      "id": "171316",
+      "name": "ANDERSON COUNTY HOSPITAL",
+      "address": "421 S MAPLE",
+      "city": "GARNETT",
+      "state": "KS",
+      "zipcode": "66032"
+    },
+    {
+      "id": "171317",
+      "name": "EDWARDS COUNTY MEDICAL CENTER",
+      "address": "620 WEST EIGHTH STREET",
+      "city": "KINSLEY",
+      "state": "KS",
+      "zipcode": "67547"
+    },
+    {
+      "id": "171318",
+      "name": "SEDAN CITY HOSPITAL",
+      "address": "300 NORTH STREET",
+      "city": "SEDAN",
+      "state": "KS",
+      "zipcode": "67361"
+    },
+    {
+      "id": "171319",
+      "name": "HOLTON COMMUNITY HOSPITAL",
+      "address": "1110 COLUMBINE DRIVE",
+      "city": "HOLTON",
+      "state": "KS",
+      "zipcode": "66436"
+    },
+    {
+      "id": "171321",
+      "name": "MEADE DISTRICT HOSPITAL",
+      "address": "510 EAST CARTHAGE",
+      "city": "MEADE",
+      "state": "KS",
+      "zipcode": "67864"
+    },
+    {
+      "id": "171322",
+      "name": "HAMILTON COUNTY HOSPITAL",
+      "address": "700 NORTH HUSER",
+      "city": "SYRACUSE",
+      "state": "KS",
+      "zipcode": "67878"
+    },
+    {
+      "id": "171323",
+      "name": "STAFFORD COUNTY HOSPITAL",
+      "address": "502 S BUCKEYE",
+      "city": "STAFFORD",
+      "state": "KS",
+      "zipcode": "67578"
+    },
+    {
+      "id": "171324",
+      "name": "SATANTA DISTRICT HOSPITAL",
+      "address": "401 CHEYENNE",
+      "city": "SATANTA",
+      "state": "KS",
+      "zipcode": "67870"
+    },
+    {
+      "id": "171325",
+      "name": "GRAHAM COUNTY HOSPITAL",
+      "address": "304 WEST PROUT STREET",
+      "city": "HILL CITY",
+      "state": "KS",
+      "zipcode": "67642"
+    },
+    {
+      "id": "171326",
+      "name": "LOGAN COUNTY HOSPITAL",
+      "address": "211 CHERRY AVENUE",
+      "city": "OAKLEY",
+      "state": "KS",
+      "zipcode": "67748"
+    },
+    {
+      "id": "171327",
+      "name": "ELLSWORTH COUNTY MEDICAL CENTER",
+      "address": "1604 AYLWARD AVENUE",
+      "city": "ELLSWORTH",
+      "state": "KS",
+      "zipcode": "67439"
+    },
+    {
+      "id": "171328",
+      "name": "OTTAWA COUNTY HEALTH CENTER",
+      "address": "215 E 8TH STREET",
+      "city": "MINNEAPOLIS",
+      "state": "KS",
+      "zipcode": "67467"
+    },
+    {
+      "id": "171329",
+      "name": "CALDWELL REGIONAL MEDICAL CENTER",
+      "address": "761 W 175TH ST S",
+      "city": "CALDWELL",
+      "state": "KS",
+      "zipcode": "67022"
+    },
+    {
+      "id": "171330",
+      "name": "HOSPITAL DISTRICT #1 OF RICE COUNTY",
+      "address": "619 SOUTH CLARK AVENUE",
+      "city": "LYONS",
+      "state": "KS",
+      "zipcode": "67554"
+    },
+    {
+      "id": "171331",
+      "name": "KIOWA DISTRICT HOSPITAL",
+      "address": "1002 SOUTH 4TH STREET",
+      "city": "KIOWA",
+      "state": "KS",
+      "zipcode": "67070"
+    },
+    {
+      "id": "171332",
+      "name": "KIOWA COUNTY MEMORIAL HOSPITAL",
+      "address": "721 WEST KANSAS",
+      "city": "GREENSBURG",
+      "state": "KS",
+      "zipcode": "67054"
+    },
+    {
+      "id": "171333",
+      "name": "CLARA BARTON HOSPITAL",
+      "address": "250 W 9TH STREET",
+      "city": "HOISINGTON",
+      "state": "KS",
+      "zipcode": "67544"
+    },
+    {
+      "id": "171334",
+      "name": "MEDICINE LODGE MEMORIAL HOSPITAL",
+      "address": "710 N WALNUT STREET",
+      "city": "MEDICINE LODGE",
+      "state": "KS",
+      "zipcode": "67104"
+    },
+    {
+      "id": "171335",
+      "name": "STEVENS COUNTY HOSPITAL",
+      "address": "200 6TH STREET",
+      "city": "HUGOTON",
+      "state": "KS",
+      "zipcode": "67951"
+    },
+    {
+      "id": "171336",
+      "name": "NESS COUNTY HOSPITAL DISTRICT #2",
+      "address": "312 CUSTER STREET",
+      "city": "NESS CITY",
+      "state": "KS",
+      "zipcode": "67560"
+    },
+    {
+      "id": "171337",
+      "name": "WAMEGO HEALTH CENTER",
+      "address": "711 GENN DRIVE",
+      "city": "WAMEGO",
+      "state": "KS",
+      "zipcode": "66547"
+    },
+    {
+      "id": "171338",
+      "name": "SABETHA COMMUNITY HOSPITAL",
+      "address": "603 S 14TH STREET",
+      "city": "SABETHA",
+      "state": "KS",
+      "zipcode": "66534"
+    },
+    {
+      "id": "171339",
+      "name": "GREENWOOD COUNTY HOSPITAL",
+      "address": "100 W 16TH STREET",
+      "city": "EUREKA",
+      "state": "KS",
+      "zipcode": "67045"
+    },
+    {
+      "id": "171341",
+      "name": "AMBERWELL HIAWATHA",
+      "address": "300 UTAH STREET",
+      "city": "HIAWATHA",
+      "state": "KS",
+      "zipcode": "66434"
+    },
+    {
+      "id": "171342",
+      "name": "RUSH COUNTY MEMORIAL HOSPITAL",
+      "address": "801 LOCUST ST",
+      "city": "LA CROSSE",
+      "state": "KS",
+      "zipcode": "67548"
+    },
+    {
+      "id": "171343",
+      "name": "STANTON COUNTY HOSPITAL",
+      "address": "404 N CHESTNUT",
+      "city": "JOHNSON",
+      "state": "KS",
+      "zipcode": "67855"
+    },
+    {
+      "id": "171344",
+      "name": "WILSON MEDICAL CENTER",
+      "address": "2600 OTTAWA ROAD",
+      "city": "NEODESHA",
+      "state": "KS",
+      "zipcode": "66757"
+    },
+    {
+      "id": "171345",
+      "name": "PAWNEE VALLEY COMMUNITY HOSPITAL",
+      "address": "923 CARROLL AVENUE",
+      "city": "LARNED",
+      "state": "KS",
+      "zipcode": "67550"
+    },
+    {
+      "id": "171346",
+      "name": "PATTERSON HEALTH CENTER",
+      "address": "485 N. KS HWY 2",
+      "city": "ANTHONY",
+      "state": "KS",
+      "zipcode": "67003"
+    },
+    {
+      "id": "171347",
+      "name": "SHERIDAN COUNTY HOSPITAL",
+      "address": "826  18TH STREET",
+      "city": "HOXIE",
+      "state": "KS",
+      "zipcode": "67740"
+    },
+    {
+      "id": "171348",
+      "name": "NORTON COUNTY HOSPITAL",
+      "address": "102 E HOLME STREET",
+      "city": "NORTON",
+      "state": "KS",
+      "zipcode": "67654"
+    },
+    {
+      "id": "171349",
+      "name": "NORTH CENTRAL KANSAS MEDICAL CENTER",
+      "address": "155 WEST COLLEGE DRIVE",
+      "city": "CONCORDIA",
+      "state": "KS",
+      "zipcode": "66901"
+    },
+    {
+      "id": "171350",
+      "name": "RUSSELL REGIONAL HOSPITAL",
+      "address": "200 S MAIN STREET",
+      "city": "RUSSELL",
+      "state": "KS",
+      "zipcode": "67665"
+    },
+    {
+      "id": "171351",
+      "name": "WASHINGTON COUNTY HOSPITAL",
+      "address": "304 E 3RD STREET",
+      "city": "WASHINGTON",
+      "state": "KS",
+      "zipcode": "66968"
+    },
+    {
+      "id": "171352",
+      "name": "DECATUR HEALTH",
+      "address": "810 W  COLUMBIA STREET",
+      "city": "OBERLIN",
+      "state": "KS",
+      "zipcode": "67749"
+    },
+    {
+      "id": "171353",
+      "name": "PHILLIPS COUNTY HEALTH SYSTEMS",
+      "address": "1150 STATE STREET",
+      "city": "PHILLIPSBURG",
+      "state": "KS",
+      "zipcode": "67661"
+    },
+    {
+      "id": "171354",
+      "name": "COMMUNITY HOSPITAL, ONAGA AND ST MARYS CAMPUS",
+      "address": "120 WEST 8TH STREET",
+      "city": "ONAGA",
+      "state": "KS",
+      "zipcode": "66521"
+    },
+    {
+      "id": "171355",
+      "name": "TREGO COUNTY LEMKE MEMORIAL HOSPITAL",
+      "address": "320 N THIRTEENTH ST",
+      "city": "WAKEENEY",
+      "state": "KS",
+      "zipcode": "67672"
+    },
+    {
+      "id": "171356",
+      "name": "ST LUKE HOSPITAL & LIVING CENTER",
+      "address": "535 SOUTH FREEBORN",
+      "city": "MARION",
+      "state": "KS",
+      "zipcode": "66861"
+    },
+    {
+      "id": "171357",
+      "name": "HILLSBORO COMMUNITY HOSPITAL",
+      "address": "101 INDUSTRIAL ROAD",
+      "city": "HILLSBORO",
+      "state": "KS",
+      "zipcode": "67063"
+    },
+    {
+      "id": "171358",
+      "name": "LINDSBORG COMMUNITY HOSPITAL",
+      "address": "605 W LINCOLN STREET",
+      "city": "LINDSBORG",
+      "state": "KS",
+      "zipcode": "67456"
+    },
+    {
+      "id": "171359",
+      "name": "GREELEY COUNTY HEALTH SERVICES",
+      "address": "506 3RD STREET",
+      "city": "TRIBUNE",
+      "state": "KS",
+      "zipcode": "67879"
+    },
+    {
+      "id": "171360",
+      "name": "LINCOLN COUNTY HOSPITAL",
+      "address": "624 N SECOND",
+      "city": "LINCOLN",
+      "state": "KS",
+      "zipcode": "67455"
+    },
+    {
+      "id": "171361",
+      "name": "REPUBLIC COUNTY HOSPITAL",
+      "address": "2420 G STREET",
+      "city": "BELLEVILLE",
+      "state": "KS",
+      "zipcode": "66935"
+    },
+    {
+      "id": "171362",
+      "name": "CITIZENS MEDICAL CENTER",
+      "address": "100 E COLLEGE DRIVE",
+      "city": "COLBY",
+      "state": "KS",
+      "zipcode": "67701"
+    },
+    {
+      "id": "171363",
+      "name": "COMMUNITY MEMORIAL HEALTHCARE, INC",
+      "address": "708 N 18TH STREET",
+      "city": "MARYSVILLE",
+      "state": "KS",
+      "zipcode": "66508"
+    },
+    {
+      "id": "171364",
+      "name": "OSBORNE COUNTY MEMORIAL HOSPITAL",
+      "address": "237 W HARRISON STREET SUITE 100",
+      "city": "OSBORNE",
+      "state": "KS",
+      "zipcode": "67473"
+    },
+    {
+      "id": "171365",
+      "name": "HANOVER HOSPITAL",
+      "address": "205 S HANOVER STREET",
+      "city": "HANOVER",
+      "state": "KS",
+      "zipcode": "66945"
+    },
+    {
+      "id": "171367",
+      "name": "GOVE COUNTY MEDICAL CENTER",
+      "address": "520 WEST 5TH STREET",
+      "city": "QUINTER",
+      "state": "KS",
+      "zipcode": "67752"
+    },
+    {
+      "id": "171368",
+      "name": "MINNEOLA DISTRICT HOSPITAL NBR 2",
+      "address": "212 MAIN",
+      "city": "MINNEOLA",
+      "state": "KS",
+      "zipcode": "67865"
+    },
+    {
+      "id": "171369",
+      "name": "HODGEMAN COUNTY HEALTH CENTER",
+      "address": "809 BRAMLEY",
+      "city": "JETMORE",
+      "state": "KS",
+      "zipcode": "67854"
+    },
+    {
+      "id": "171370",
+      "name": "GOODLAND REGIONAL MEDICAL CENTER",
+      "address": "220 WEST SECOND STREET",
+      "city": "GOODLAND",
+      "state": "KS",
+      "zipcode": "67735"
+    },
+    {
+      "id": "171371",
+      "name": "CLAY COUNTY MEDICAL CENTER",
+      "address": "617 LIBERTY",
+      "city": "CLAY CENTER",
+      "state": "KS",
+      "zipcode": "67432"
+    },
+    {
+      "id": "171372",
+      "name": "SCOTT COUNTY HOSPITAL",
+      "address": "201 ALBERT AVENUE",
+      "city": "SCOTT CITY",
+      "state": "KS",
+      "zipcode": "67871"
+    },
+    {
+      "id": "171373",
+      "name": "ALLEN COUNTY REGIONAL HOSPITAL",
+      "address": "3066 NORTH KENTUCKY STREET",
+      "city": "IOLA",
+      "state": "KS",
+      "zipcode": "66749"
+    },
+    {
+      "id": "171374",
+      "name": "FREDONIA REGIONAL HOSPITAL",
+      "address": "1527 MADISON",
+      "city": "FREDONIA",
+      "state": "KS",
+      "zipcode": "66736"
+    },
+    {
+      "id": "171375",
+      "name": "MITCHELL COUNTY HOSPITAL HEALTH SYSTEMS",
+      "address": "400 W 8TH STREET, P O BOX 399",
+      "city": "BELOIT",
+      "state": "KS",
+      "zipcode": "67420"
+    },
+    {
+      "id": "171376",
+      "name": "GIRARD MEDICAL CENTER",
+      "address": "302 NORTH HOSPITAL DRIVE",
+      "city": "GIRARD",
+      "state": "KS",
+      "zipcode": "66743"
+    },
+    {
+      "id": "171377",
+      "name": "SMITH COUNTY MEMORIAL HOSPITAL",
+      "address": "921 E. HIGHWAY 36",
+      "city": "SMITH CENTER",
+      "state": "KS",
+      "zipcode": "66967"
+    },
+    {
+      "id": "171378",
+      "name": "KINGMAN HEALTHCARE  CENTER",
+      "address": "750 W AVE D",
+      "city": "KINGMAN",
+      "state": "KS",
+      "zipcode": "67068"
+    },
+    {
+      "id": "171379",
+      "name": "MORRIS COUNTY HOSPITAL",
+      "address": "600 N WASHINGTON ST",
+      "city": "COUNCIL GROVE",
+      "state": "KS",
+      "zipcode": "66846"
+    },
+    {
+      "id": "171380",
+      "name": "NEOSHO MEMORIAL REGIONAL MEDICAL CENTER",
+      "address": "629 SOUTH PLUMMER",
+      "city": "CHANUTE",
+      "state": "KS",
+      "zipcode": "66720"
+    },
+    {
+      "id": "171381",
+      "name": "MEMORIAL HOSPITAL",
+      "address": "511 NE 10TH ST",
+      "city": "ABILENE",
+      "state": "KS",
+      "zipcode": "67410"
+    },
+    {
+      "id": "171382",
+      "name": "AMBERWELL ATCHISON ASSOCIATION",
+      "address": "800 RAVEN HILL DRIVE",
+      "city": "ATCHISON",
+      "state": "KS",
+      "zipcode": "66002"
+    },
+    {
+      "id": "171383",
+      "name": "WILLIAM NEWTON MEMORIAL HOSPITAL",
+      "address": "1300 EAST FIFTH AVENUE",
+      "city": "WINFIELD",
+      "state": "KS",
+      "zipcode": "67156"
+    },
+    {
+      "id": "171384",
+      "name": "NEWMAN REGIONAL HEALTH",
+      "address": "1201 WEST 12TH AVENUE",
+      "city": "EMPORIA",
+      "state": "KS",
+      "zipcode": "66801"
+    },
+    {
+      "id": "171385",
+      "name": "COFFEY COUNTY HOSPITAL",
+      "address": "801 N FOURTH STREET",
+      "city": "BURLINGTON",
+      "state": "KS",
+      "zipcode": "66839"
+    }
+  ]
+}

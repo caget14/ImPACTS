@@ -1,0 +1,1236 @@
+{
+  "hospitals": [
+    {
+      "id": "330005",
+      "name": "KALEIDA HEALTH",
+      "address": "100 HIGH STREET",
+      "city": "BUFFALO",
+      "state": "NY",
+      "zipcode": "14210"
+    },
+    {
+      "id": "330006",
+      "name": "ST JOSEPH'S MEDICAL CENTER",
+      "address": "127 SOUTH BROADWAY",
+      "city": "YONKERS",
+      "state": "NY",
+      "zipcode": "10701"
+    },
+    {
+      "id": "330008",
+      "name": "WYOMING COUNTY COMMUNITY HOSPITAL",
+      "address": "400 NORTH MAIN STREET",
+      "city": "WARSAW",
+      "state": "NY",
+      "zipcode": "14569"
+    },
+    {
+      "id": "330009",
+      "name": "BRONXCARE HOSPITAL CENTER",
+      "address": "1276 FULTON AVENUE",
+      "city": "BRONX",
+      "state": "NY",
+      "zipcode": "10456"
+    },
+    {
+      "id": "330011",
+      "name": "OUR LADY OF LOURDES MEMORIAL HOSPITAL, INC",
+      "address": "169 RIVERSIDE DRIVE",
+      "city": "BINGHAMTON",
+      "state": "NY",
+      "zipcode": "13905"
+    },
+    {
+      "id": "330013",
+      "name": "ALBANY MEDICAL CENTER HOSPITAL",
+      "address": "43 NEW SCOTLAND AVENUE, MAIL CODE 34",
+      "city": "ALBANY",
+      "state": "NY",
+      "zipcode": "12208"
+    },
+    {
+      "id": "330014",
+      "name": "JAMAICA HOSPITAL MEDICAL CENTER",
+      "address": "89TH AVENUE AND VAN WYCK EXPRESSWAY",
+      "city": "JAMAICA",
+      "state": "NY",
+      "zipcode": "11418"
+    },
+    {
+      "id": "330019",
+      "name": "NEW YORK COMMUNITY HOSPITAL OF BROOKLYN, INC.",
+      "address": "2525 KINGS HIGHWAY",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11229"
+    },
+    {
+      "id": "330023",
+      "name": "VASSAR BROTHERS MEDICAL CENTER",
+      "address": "45 READE PLACE",
+      "city": "POUGHKEEPSIE",
+      "state": "NY",
+      "zipcode": "12601"
+    },
+    {
+      "id": "330024",
+      "name": "MOUNT SINAI HOSPITAL",
+      "address": "ONE GUSTAVE L LEVY PLACE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10029"
+    },
+    {
+      "id": "330027",
+      "name": "NASSAU UNIVERSITY MEDICAL CENTER",
+      "address": "2201 HEMPSTEAD TURNPIKE",
+      "city": "EAST MEADOW",
+      "state": "NY",
+      "zipcode": "11554"
+    },
+    {
+      "id": "330028",
+      "name": "RICHMOND UNIVERSITY MEDICAL CENTER",
+      "address": "355 BARD AVENUE",
+      "city": "STATEN ISLAND",
+      "state": "NY",
+      "zipcode": "10310"
+    },
+    {
+      "id": "330030",
+      "name": "NEWARK-WAYNE COMMUNITY HOSPITAL",
+      "address": "111 DRIVING PARK AVENUE",
+      "city": "NEWARK",
+      "state": "NY",
+      "zipcode": "14513"
+    },
+    {
+      "id": "330033",
+      "name": "CHENANGO MEMORIAL HOSPITAL",
+      "address": "179 NORTH BROAD STREET",
+      "city": "NORWICH",
+      "state": "NY",
+      "zipcode": "13815"
+    },
+    {
+      "id": "330043",
+      "name": "SOUTH SHORE UNIVERSITY  HOSPITAL",
+      "address": "301 EAST MAIN STREET",
+      "city": "BAY SHORE",
+      "state": "NY",
+      "zipcode": "11706"
+    },
+    {
+      "id": "330044",
+      "name": "WYNN HOSPITAL",
+      "address": "111 HOSPITAL DRIVE",
+      "city": "UTICA",
+      "state": "NY",
+      "zipcode": "13502"
+    },
+    {
+      "id": "330045",
+      "name": "HUNTINGTON HOSPITAL",
+      "address": "270 PARK AVENUE",
+      "city": "HUNTINGTON",
+      "state": "NY",
+      "zipcode": "11743"
+    },
+    {
+      "id": "330046",
+      "name": "MOUNT SINAI WEST",
+      "address": "1000 TENTH AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10019"
+    },
+    {
+      "id": "330047",
+      "name": "ST MARY'S HEALTHCARE",
+      "address": "427 GUY PARK AVENUE",
+      "city": "AMSTERDAM",
+      "state": "NY",
+      "zipcode": "12010"
+    },
+    {
+      "id": "330049",
+      "name": "NORTHERN DUTCHESS HOSPITAL",
+      "address": "6511 SPRINGBROOK AVENUE",
+      "city": "RHINEBECK",
+      "state": "NY",
+      "zipcode": "12572"
+    },
+    {
+      "id": "330055",
+      "name": "NEW YORK-PRESBYTERIAN/QUEENS",
+      "address": "56-45 MAIN STREET",
+      "city": "FLUSHING",
+      "state": "NY",
+      "zipcode": "11355"
+    },
+    {
+      "id": "330056",
+      "name": "BROOKLYN HOSPITAL CENTER - DOWNTOWN CAMPUS",
+      "address": "121 DEKALB AVENUE",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11201"
+    },
+    {
+      "id": "330057",
+      "name": "ST PETER'S HOSPITAL",
+      "address": "315 SOUTH MANNING BOULEVARD",
+      "city": "ALBANY",
+      "state": "NY",
+      "zipcode": "12208"
+    },
+    {
+      "id": "330058",
+      "name": "GENEVA GENERAL HOSPITAL",
+      "address": "196 -198 NORTH STREET",
+      "city": "GENEVA",
+      "state": "NY",
+      "zipcode": "14456"
+    },
+    {
+      "id": "330059",
+      "name": "MONTEFIORE MEDICAL CENTER",
+      "address": "111 EAST 210TH STREET",
+      "city": "BRONX",
+      "state": "NY",
+      "zipcode": "10467"
+    },
+    {
+      "id": "330065",
+      "name": "NIAGARA FALLS MEMORIAL MEDICAL CENTER",
+      "address": "621 TENTH STREET",
+      "city": "NIAGARA FALLS",
+      "state": "NY",
+      "zipcode": "14302"
+    },
+    {
+      "id": "330073",
+      "name": "UNITED MEMORIAL MEDICAL CENTER",
+      "address": "127 NORTH STREET",
+      "city": "BATAVIA",
+      "state": "NY",
+      "zipcode": "14020"
+    },
+    {
+      "id": "330074",
+      "name": "F F THOMPSON HOSPITAL",
+      "address": "350 PARRISH STREET",
+      "city": "CANANDAIGUA",
+      "state": "NY",
+      "zipcode": "14424"
+    },
+    {
+      "id": "330078",
+      "name": "SISTERS OF CHARITY HOSPITAL",
+      "address": "2157 MAIN STREET",
+      "city": "BUFFALO",
+      "state": "NY",
+      "zipcode": "14214"
+    },
+    {
+      "id": "330079",
+      "name": "ADIRONDACK MEDICAL CENTER - SARANAC LAKE",
+      "address": "2233 STATE ROUTE 86, PO BOX 471",
+      "city": "SARANAC LAKE",
+      "state": "NY",
+      "zipcode": "12983"
+    },
+    {
+      "id": "330080",
+      "name": "LINCOLN MEDICAL & MENTAL HEALTH CENTER",
+      "address": "234 EAST 149TH STREET",
+      "city": "BRONX",
+      "state": "NY",
+      "zipcode": "10451"
+    },
+    {
+      "id": "330085",
+      "name": "AURELIA OSBORN FOX MEMORIAL HOSPITAL",
+      "address": "ONE NORTON AVENUE",
+      "city": "ONEONTA",
+      "state": "NY",
+      "zipcode": "13820"
+    },
+    {
+      "id": "330086",
+      "name": "MONTEFIORE MOUNT VERNON HOSPITAL",
+      "address": "12 NORTH 7TH AVENUE",
+      "city": "MOUNT VERNON",
+      "state": "NY",
+      "zipcode": "10550"
+    },
+    {
+      "id": "330090",
+      "name": "ARNOT OGDEN MEDICAL CENTER",
+      "address": "600 ROE AVENUE",
+      "city": "ELMIRA",
+      "state": "NY",
+      "zipcode": "14905"
+    },
+    {
+      "id": "330094",
+      "name": "COLUMBIA MEMORIAL HOSPITAL",
+      "address": "71 PROSPECT AVENUE",
+      "city": "HUDSON",
+      "state": "NY",
+      "zipcode": "12534"
+    },
+    {
+      "id": "330096",
+      "name": "JONES MEMORIAL HOSPITAL",
+      "address": "191 NORTH MAIN STREET",
+      "city": "WELLSVILLE",
+      "state": "NY",
+      "zipcode": "14895"
+    },
+    {
+      "id": "330100",
+      "name": "N Y EYE AND EAR INFIRMARY",
+      "address": "230 SECOND AVE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10003"
+    },
+    {
+      "id": "330101",
+      "name": "NEW YORK-PRESBYTERIAN HOSPITAL",
+      "address": "525 EAST 68TH STREET",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10065"
+    },
+    {
+      "id": "330102",
+      "name": "KENMORE MERCY HOSPITAL",
+      "address": "2950 ELMWOOD AVENUE",
+      "city": "KENMORE",
+      "state": "NY",
+      "zipcode": "14217"
+    },
+    {
+      "id": "330103",
+      "name": "OLEAN GENERAL HOSPITAL",
+      "address": "515 MAIN STREET",
+      "city": "OLEAN",
+      "state": "NY",
+      "zipcode": "14760"
+    },
+    {
+      "id": "330104",
+      "name": "NYACK HOSPITAL",
+      "address": "160 NORTH MIDLAND AVENUE",
+      "city": "NYACK",
+      "state": "NY",
+      "zipcode": "10960"
+    },
+    {
+      "id": "330106",
+      "name": "NORTH SHORE UNIVERSITY HOSPITAL",
+      "address": "300 COMMUNITY DRIVE",
+      "city": "MANHASSET",
+      "state": "NY",
+      "zipcode": "11030"
+    },
+    {
+      "id": "330107",
+      "name": "PECONIC BAY MEDICAL CENTER",
+      "address": "1 HEROS WAY",
+      "city": "RIVERHEAD",
+      "state": "NY",
+      "zipcode": "11901"
+    },
+    {
+      "id": "330111",
+      "name": "BERTRAND CHAFFEE HOSPITAL",
+      "address": "224 EAST MAIN STREET",
+      "city": "SPRINGVILLE",
+      "state": "NY",
+      "zipcode": "14141"
+    },
+    {
+      "id": "330115",
+      "name": "ONEIDA HEALTH",
+      "address": "321 GENESEE STREET",
+      "city": "ONEIDA",
+      "state": "NY",
+      "zipcode": "13421"
+    },
+    {
+      "id": "330119",
+      "name": "LENOX HILL HOSPITAL",
+      "address": "100 EAST 77TH STREET",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10021"
+    },
+    {
+      "id": "330125",
+      "name": "ROCHESTER GENERAL HOSPITAL",
+      "address": "1425 PORTLAND AVENUE",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "zipcode": "14621"
+    },
+    {
+      "id": "330126",
+      "name": "GARNET HEALTH MEDICAL CENTER",
+      "address": "707 EAST MAIN STREET",
+      "city": "MIDDLETOWN",
+      "state": "NY",
+      "zipcode": "10940"
+    },
+    {
+      "id": "330127",
+      "name": "JACOBI MEDICAL CENTER",
+      "address": "1400 PELHAM PARKWAY SOUTH",
+      "city": "BRONX",
+      "state": "NY",
+      "zipcode": "10461"
+    },
+    {
+      "id": "330128",
+      "name": "ELMHURST HOSPITAL CENTER",
+      "address": "79-01 BROADWAY",
+      "city": "ELMHURST",
+      "state": "NY",
+      "zipcode": "11373"
+    },
+    {
+      "id": "330135",
+      "name": "BON SECOURS COMMUNITY HOSPITAL",
+      "address": "160 EAST MAIN STREET",
+      "city": "PORT JERVIS",
+      "state": "NY",
+      "zipcode": "12771"
+    },
+    {
+      "id": "330136",
+      "name": "MARY IMOGENE BASSETT HOSPITAL",
+      "address": "ONE ATWELL ROAD",
+      "city": "COOPERSTOWN",
+      "state": "NY",
+      "zipcode": "13326"
+    },
+    {
+      "id": "330140",
+      "name": "ST JOSEPH'S HOSPITAL HEALTH CENTER",
+      "address": "301 PROSPECT AVENUE",
+      "city": "SYRACUSE",
+      "state": "NY",
+      "zipcode": "13203"
+    },
+    {
+      "id": "330141",
+      "name": "LONG ISLAND COMMUNITY HOSPITAL",
+      "address": "101 HOSPITAL ROAD",
+      "city": "PATCHOGUE",
+      "state": "NY",
+      "zipcode": "11772"
+    },
+    {
+      "id": "330144",
+      "name": "IRA DAVENPORT MEMORIAL HOSPITAL",
+      "address": "7571 STATE ROUTE 54",
+      "city": "BATH",
+      "state": "NY",
+      "zipcode": "14810"
+    },
+    {
+      "id": "330151",
+      "name": "ST JAMES HOSPITAL",
+      "address": "7329 SENECA ROAD NORTH",
+      "city": "HORNELL",
+      "state": "NY",
+      "zipcode": "14843"
+    },
+    {
+      "id": "330153",
+      "name": "ELLIS HOSPITAL",
+      "address": "1101 NOTT STREET",
+      "city": "SCHENECTADY",
+      "state": "NY",
+      "zipcode": "12308"
+    },
+    {
+      "id": "330154",
+      "name": "MEMORIAL HOSPITAL FOR CANCER AND ALLIED DISEASES",
+      "address": "1275 YORK AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10065"
+    },
+    {
+      "id": "330157",
+      "name": "SAMARITAN MEDICAL CENTER",
+      "address": "830 WASHINGTON STREET",
+      "city": "WATERTOWN",
+      "state": "NY",
+      "zipcode": "13601"
+    },
+    {
+      "id": "330158",
+      "name": "GOOD SAMARITAN HOSPITAL OF SUFFERN",
+      "address": "255 LAFAYETTE AVENUE",
+      "city": "SUFFERN",
+      "state": "NY",
+      "zipcode": "10901"
+    },
+    {
+      "id": "330160",
+      "name": "STATEN ISLAND UNIVERSITY HOSPITAL",
+      "address": "475 SEAVIEW AVENUE",
+      "city": "STATEN ISLAND",
+      "state": "NY",
+      "zipcode": "10305"
+    },
+    {
+      "id": "330162",
+      "name": "NORTHERN WESTCHESTER HOSPITAL",
+      "address": "400 EAST MAIN STREET",
+      "city": "MOUNT KISCO",
+      "state": "NY",
+      "zipcode": "10549"
+    },
+    {
+      "id": "330164",
+      "name": "HIGHLAND HOSPITAL",
+      "address": "1000 SOUTH AVENUE",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "zipcode": "14617"
+    },
+    {
+      "id": "330166",
+      "name": "WESTFIELD MEMORIAL HOSPITAL, INC",
+      "address": "189 EAST MAIN STREET",
+      "city": "WESTFIELD",
+      "state": "NY",
+      "zipcode": "14787"
+    },
+    {
+      "id": "330169",
+      "name": "MOUNT SINAI BETH ISRAEL",
+      "address": "FIRST AVENUE AT 16TH STREET",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10003"
+    },
+    {
+      "id": "330175",
+      "name": "GUTHRIE CORTLAND REGIONAL MEDICAL CENTER",
+      "address": "134 HOMER AVENUE",
+      "city": "CORTLAND",
+      "state": "NY",
+      "zipcode": "13045"
+    },
+    {
+      "id": "330180",
+      "name": "SAMARITAN HOSPITAL",
+      "address": "2215 BURDETT AVENUE",
+      "city": "TROY",
+      "state": "NY",
+      "zipcode": "12180"
+    },
+    {
+      "id": "330181",
+      "name": "GLEN COVE HOSPITAL",
+      "address": "101 ST ANDREWS LANE",
+      "city": "GLEN COVE",
+      "state": "NY",
+      "zipcode": "11542"
+    },
+    {
+      "id": "330182",
+      "name": "ST FRANCIS HOSPITAL, ROSLYN",
+      "address": "100 PORT WASHINGTON BOULEVARD",
+      "city": "ROSLYN",
+      "state": "NY",
+      "zipcode": "11576"
+    },
+    {
+      "id": "330184",
+      "name": "MONTEFIORE NEW ROCHELLE HOSPITAL",
+      "address": "16 GUION PLACE",
+      "city": "NEW ROCHELLE",
+      "state": "NY",
+      "zipcode": "10802"
+    },
+    {
+      "id": "330185",
+      "name": "JOHN T MATHER MEMORIAL HOSPITAL  OF PORT JEFFERSON",
+      "address": "75 NORTH COUNTRY ROAD",
+      "city": "PORT JEFFERSON",
+      "state": "NY",
+      "zipcode": "11777"
+    },
+    {
+      "id": "330188",
+      "name": "MOUNT ST MARY'S HOSPITAL AND HEALTH CENTER",
+      "address": "5300 MILITARY ROAD",
+      "city": "LEWISTON",
+      "state": "NY",
+      "zipcode": "14092"
+    },
+    {
+      "id": "330191",
+      "name": "GLENS FALLS HOSPITAL",
+      "address": "100 PARK STREET",
+      "city": "GLENS FALLS",
+      "state": "NY",
+      "zipcode": "12801"
+    },
+    {
+      "id": "330193",
+      "name": "FLUSHING HOSPITAL MEDICAL CENTER",
+      "address": "45TH AVENUE AND PARSONS BOULEVARD",
+      "city": "FLUSHING",
+      "state": "NY",
+      "zipcode": "11355"
+    },
+    {
+      "id": "330194",
+      "name": "MAIMONIDES MEDICAL CENTER",
+      "address": "4802 TENTH AVENUE",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11219"
+    },
+    {
+      "id": "330195",
+      "name": "LONG ISLAND JEWISH MEDICAL CENTER",
+      "address": "270 - 05 76TH AVENUE",
+      "city": "NEW HYDE PARK",
+      "state": "NY",
+      "zipcode": "11040"
+    },
+    {
+      "id": "330196",
+      "name": "SOUTH BROOKLYN HEALTH",
+      "address": "2601 OCEAN PARKWAY",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11235"
+    },
+    {
+      "id": "330197",
+      "name": "CANTON-POTSDAM HOSPITAL",
+      "address": "50 LEROY STREET",
+      "city": "POTSDAM",
+      "state": "NY",
+      "zipcode": "13676"
+    },
+    {
+      "id": "330198",
+      "name": "MOUNT SINAI SOUTH NASSAU",
+      "address": "ONE HEALTHY WAY",
+      "city": "OCEANSIDE",
+      "state": "NY",
+      "zipcode": "11572"
+    },
+    {
+      "id": "330199",
+      "name": "METROPOLITAN HOSPITAL CENTER",
+      "address": "1901 FIRST AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10029"
+    },
+    {
+      "id": "330202",
+      "name": "KINGS COUNTY HOSPITAL CENTER",
+      "address": "451 CLARKSON AVENUE",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11203"
+    },
+    {
+      "id": "330203",
+      "name": "CROUSE HOSPITAL",
+      "address": "736 IRVING AVENUE",
+      "city": "SYRACUSE",
+      "state": "NY",
+      "zipcode": "13210"
+    },
+    {
+      "id": "330204",
+      "name": "BELLEVUE HOSPITAL CENTER",
+      "address": "462 FIRST AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10016"
+    },
+    {
+      "id": "330205",
+      "name": "ST ANTHONY COMMUNITY HOSPITAL",
+      "address": "15 MAPLE AVENUE -19",
+      "city": "WARWICK",
+      "state": "NY",
+      "zipcode": "10990"
+    },
+    {
+      "id": "330208",
+      "name": "ST JOHN'S RIVERSIDE HOSPITAL",
+      "address": "976 NORTH BROADWAY",
+      "city": "YONKERS",
+      "state": "NY",
+      "zipcode": "10701"
+    },
+    {
+      "id": "330211",
+      "name": "CLAXTON-HEPBURN MEDICAL CENTER",
+      "address": "214 KING STREET",
+      "city": "OGDENSBURG",
+      "state": "NY",
+      "zipcode": "13669"
+    },
+    {
+      "id": "330214",
+      "name": "NYU LANGONE HOSPITALS",
+      "address": "550 FIRST AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10016"
+    },
+    {
+      "id": "330215",
+      "name": "ROME MEMORIAL HOSPITAL, INC",
+      "address": "1500 NORTH JAMES STREET",
+      "city": "ROME",
+      "state": "NY",
+      "zipcode": "13440"
+    },
+    {
+      "id": "330218",
+      "name": "OSWEGO HOSPITAL",
+      "address": "110 WEST SIXTH STREET",
+      "city": "OSWEGO",
+      "state": "NY",
+      "zipcode": "13126"
+    },
+    {
+      "id": "330219",
+      "name": "ERIE COUNTY MEDICAL CENTER",
+      "address": "462 GRIDER STREET",
+      "city": "BUFFALO",
+      "state": "NY",
+      "zipcode": "14215"
+    },
+    {
+      "id": "330221",
+      "name": "WYCKOFF HEIGHTS MEDICAL CENTER",
+      "address": "374 STOCKHOLM STREET",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11237"
+    },
+    {
+      "id": "330222",
+      "name": "SARATOGA HOSPITAL",
+      "address": "211 CHURCH STREET",
+      "city": "SARATOGA SPRINGS",
+      "state": "NY",
+      "zipcode": "12866"
+    },
+    {
+      "id": "330224",
+      "name": "HEALTHALLIANCE HOSPITAL MARYS AVENUE CAMPUS",
+      "address": "105 MARY'S AVENUE",
+      "city": "KINGSTON",
+      "state": "NY",
+      "zipcode": "12401"
+    },
+    {
+      "id": "330226",
+      "name": "UNITY HOSPITAL OF ROCHESTER",
+      "address": "1555 LONG POND ROAD",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "zipcode": "14626"
+    },
+    {
+      "id": "330229",
+      "name": "BROOKS-TLC HOSPITAL SYSTEM, INC",
+      "address": "529 CENTRAL AVENUE",
+      "city": "DUNKIRK",
+      "state": "NY",
+      "zipcode": "14048"
+    },
+    {
+      "id": "330231",
+      "name": "QUEENS HOSPITAL CENTER",
+      "address": "82-68 164TH STREET",
+      "city": "JAMAICA",
+      "state": "NY",
+      "zipcode": "11432"
+    },
+    {
+      "id": "330233",
+      "name": "BROOKDALE HOSPITAL MEDICAL CENTER",
+      "address": "1 BROOKDALE PLAZA",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11212"
+    },
+    {
+      "id": "330234",
+      "name": "WESTCHESTER MEDICAL CENTER",
+      "address": "100 WOODS RD",
+      "city": "VALHALLA",
+      "state": "NY",
+      "zipcode": "10595"
+    },
+    {
+      "id": "330235",
+      "name": "AUBURN  COMMUNITY  HOSPITAL",
+      "address": "17 LANSING STREET",
+      "city": "AUBURN",
+      "state": "NY",
+      "zipcode": "13021"
+    },
+    {
+      "id": "330238",
+      "name": "NICHOLAS H NOYES MEMORIAL HOSPITAL",
+      "address": "111  CLARA BARTON STREET",
+      "city": "DANSVILLE",
+      "state": "NY",
+      "zipcode": "14437"
+    },
+    {
+      "id": "330239",
+      "name": "UPMC CHAUTAUQUA AT WCA",
+      "address": "207 FOOTE AVENUE",
+      "city": "JAMESTOWN",
+      "state": "NY",
+      "zipcode": "14701"
+    },
+    {
+      "id": "330240",
+      "name": "HARLEM HOSPITAL CENTER",
+      "address": "506 LENOX AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10037"
+    },
+    {
+      "id": "330241",
+      "name": "UNIVERSITY HOSPITAL S U N Y HEALTH SCIENCE CENTER",
+      "address": "750 EAST ADAMS STREET",
+      "city": "SYRACUSE",
+      "state": "NY",
+      "zipcode": "13210"
+    },
+    {
+      "id": "330246",
+      "name": "ST CHARLES HOSPITAL",
+      "address": "200 BELLE TERRE ROAD",
+      "city": "PORT JEFFERSON",
+      "state": "NY",
+      "zipcode": "11777"
+    },
+    {
+      "id": "330250",
+      "name": "THE UNIVERSITY OF VERMONT HEALTH NETWORK  - CHAMPL",
+      "address": "75 BEEKMAN STREET",
+      "city": "PLATTSBURGH",
+      "state": "NY",
+      "zipcode": "12901"
+    },
+    {
+      "id": "330259",
+      "name": "MERCY MEDICAL CENTER",
+      "address": "1000 NORTH VILLAGE AVENUE",
+      "city": "ROCKVILLE CENTRE",
+      "state": "NY",
+      "zipcode": "11570"
+    },
+    {
+      "id": "330261",
+      "name": "PHELPS HOSPITAL",
+      "address": "701 N BROADWAY",
+      "city": "SLEEPY HOLLOW",
+      "state": "NY",
+      "zipcode": "10591"
+    },
+    {
+      "id": "330264",
+      "name": "ST LUKE'S CORNWALL HOSPITAL",
+      "address": "70 DUBOIS STREET",
+      "city": "NEWBURGH",
+      "state": "NY",
+      "zipcode": "12550"
+    },
+    {
+      "id": "330265",
+      "name": "CLIFTON SPRINGS HOSPITAL AND CLINIC",
+      "address": "2 COULTER ROAD",
+      "city": "CLIFTON SPRINGS",
+      "state": "NY",
+      "zipcode": "14432"
+    },
+    {
+      "id": "330267",
+      "name": "HUDSON VALLEY HOSPITAL CENTER",
+      "address": "1980 CROMPOND ROAD",
+      "city": "CORTLANDT MANOR",
+      "state": "NY",
+      "zipcode": "10567"
+    },
+    {
+      "id": "330270",
+      "name": "HOSPITAL FOR SPECIAL SURGERY",
+      "address": "535 EAST 70TH STREET",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10021"
+    },
+    {
+      "id": "330273",
+      "name": "PUTNAM HOSPITAL CENTER",
+      "address": "670 STONELEIGH AVENUE",
+      "city": "CARMEL",
+      "state": "NY",
+      "zipcode": "10512"
+    },
+    {
+      "id": "330276",
+      "name": "NATHAN LITTAUER HOSPITAL",
+      "address": "99 EAST STATE STREET",
+      "city": "GLOVERSVILLE",
+      "state": "NY",
+      "zipcode": "12078"
+    },
+    {
+      "id": "330277",
+      "name": "CORNING HOSPITAL",
+      "address": "1 GUTHRIE DRIVE",
+      "city": "CORNING",
+      "state": "NY",
+      "zipcode": "14830"
+    },
+    {
+      "id": "330279",
+      "name": "MERCY HOSPITAL OF BUFFALO",
+      "address": "565 ABBOTT ROAD",
+      "city": "BUFFALO",
+      "state": "NY",
+      "zipcode": "14220"
+    },
+    {
+      "id": "330285",
+      "name": "STRONG MEMORIAL HOSPITAL",
+      "address": "601 ELMWOOD AVE",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "zipcode": "14642"
+    },
+    {
+      "id": "330286",
+      "name": "GOOD SAMARITAN HOSPITAL MEDICAL CENTER",
+      "address": "1000 MONTAUK HIGHWAY",
+      "city": "WEST ISLIP",
+      "state": "NY",
+      "zipcode": "11795"
+    },
+    {
+      "id": "330304",
+      "name": "WHITE PLAINS HOSPITAL CENTER",
+      "address": "41 EAST POST R0AD",
+      "city": "WHITE PLAINS",
+      "state": "NY",
+      "zipcode": "10601"
+    },
+    {
+      "id": "330307",
+      "name": "CAYUGA MEDICAL CENTER AT ITHACA",
+      "address": "101 DATES DRIVE",
+      "city": "ITHACA",
+      "state": "NY",
+      "zipcode": "14850"
+    },
+    {
+      "id": "330331",
+      "name": "PLAINVIEW HOSPITAL",
+      "address": "888 OLD COUNTRY ROAD",
+      "city": "PLAINVIEW",
+      "state": "NY",
+      "zipcode": "11803"
+    },
+    {
+      "id": "330332",
+      "name": "ST JOSEPH HOSPITAL",
+      "address": "4295 HEMPSTEAD TURNPIKE",
+      "city": "BETHPAGE",
+      "state": "NY",
+      "zipcode": "11714"
+    },
+    {
+      "id": "330350",
+      "name": "SUNY HEALTH SCIENCE CENTER AT BROOKLYN UNIVERSITY",
+      "address": "445 LENOX ROAD",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11203"
+    },
+    {
+      "id": "330354",
+      "name": "ROSWELL PARK CANCER INSTITUTE",
+      "address": "ELM AND CARLTON STREETS",
+      "city": "BUFFALO",
+      "state": "NY",
+      "zipcode": "14203"
+    },
+    {
+      "id": "330386",
+      "name": "GARNET HEALTH  MEDICAL CENTER CATSKILLS",
+      "address": "68 HARRIS BUSHVILLE ROAD, P O BOX 800",
+      "city": "HARRIS",
+      "state": "NY",
+      "zipcode": "12742"
+    },
+    {
+      "id": "330393",
+      "name": "STONY BROOK UNIVERSITY HOSPITAL",
+      "address": "HEALTH SCIENCES CENTER SUNY",
+      "city": "STONY BROOK",
+      "state": "NY",
+      "zipcode": "11794"
+    },
+    {
+      "id": "330394",
+      "name": "UNITED HEALTH SERVICES HOSPITALS, INC",
+      "address": "10-42 MITCHELL AVENUE",
+      "city": "BINGHAMTON",
+      "state": "NY",
+      "zipcode": "13903"
+    },
+    {
+      "id": "330395",
+      "name": "ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE",
+      "address": "327 BEACH 19TH STREET",
+      "city": "FAR ROCKAWAY",
+      "state": "NY",
+      "zipcode": "11691"
+    },
+    {
+      "id": "330396",
+      "name": "WOODHULL MEDICAL & MENTAL HEALTH CENTER",
+      "address": "760 BROADWAY",
+      "city": "BROOKLYN",
+      "state": "NY",
+      "zipcode": "11206"
+    },
+    {
+      "id": "330399",
+      "name": "ST BARNABAS HOSPITAL",
+      "address": "4422 THIRD AVENUE",
+      "city": "BRONX",
+      "state": "NY",
+      "zipcode": "10457"
+    },
+    {
+      "id": "330401",
+      "name": "ST CATHERINE OF SIENA HOSPITAL MEDICAL CENTER",
+      "address": "50 ROUTE 25A",
+      "city": "SMITHTOWN",
+      "state": "NY",
+      "zipcode": "11787"
+    },
+    {
+      "id": "330405",
+      "name": "HELEN HAYES HOSPITAL",
+      "address": "51 NORTH ROUTE 9W",
+      "city": "WEST HAVERSTRAW",
+      "state": "NY",
+      "zipcode": "10993"
+    },
+    {
+      "id": "330406",
+      "name": "SUNNYVIEW HOSPITAL AND REHABILITATION CENTER",
+      "address": "1270 BELMONT AVENUE",
+      "city": "SCHENECTADY",
+      "state": "NY",
+      "zipcode": "12308"
+    },
+    {
+      "id": "330410",
+      "name": "TERENCE CARDINAL COOKE HEALTH CARE CENTER",
+      "address": "1249 FIFTH AVENUE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zipcode": "10029"
+    },
+    {
+      "id": "330411",
+      "name": "UNITY SPECIALTY HOSPITAL",
+      "address": "89 GENESEE STREET",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "zipcode": "14611"
+    },
+    {
+      "id": "331301",
+      "name": "CUBA MEMORIAL HOSPITAL, INC",
+      "address": "140 WEST MAIN STREET",
+      "city": "CUBA",
+      "state": "NY",
+      "zipcode": "14727"
+    },
+    {
+      "id": "331302",
+      "name": "ELIZABETHTOWN COMMUNITY HOSPITAL",
+      "address": "75 PARK STREET",
+      "city": "ELIZABETHTOWN",
+      "state": "NY",
+      "zipcode": "12932"
+    },
+    {
+      "id": "331303",
+      "name": "GARNET HEALTH MEDICAL CENTER-CATSKILLS",
+      "address": "8081 STATE ROUTE 97",
+      "city": "CALLICOON",
+      "state": "NY",
+      "zipcode": "12723"
+    },
+    {
+      "id": "331304",
+      "name": "MARGARETVILLE MEMORIAL HOSPITAL",
+      "address": "42084 STATE HIGHWAY 28",
+      "city": "MARGARETVILLE",
+      "state": "NY",
+      "zipcode": "12455"
+    },
+    {
+      "id": "331305",
+      "name": "O'CONNOR HOSPITAL",
+      "address": "460 ANDES ROAD",
+      "city": "DELHI",
+      "state": "NY",
+      "zipcode": "13753"
+    },
+    {
+      "id": "331307",
+      "name": "CLIFTON FINE HOSPITAL",
+      "address": "1014 OSWEGATCHIE TRAIL",
+      "city": "STAR LAKE",
+      "state": "NY",
+      "zipcode": "13690"
+    },
+    {
+      "id": "331309",
+      "name": "RIVER HOSPITAL CLINICS",
+      "address": "4 FULLER STREET",
+      "city": "ALEXANDRIA BAY",
+      "state": "NY",
+      "zipcode": "13607"
+    },
+    {
+      "id": "331310",
+      "name": "ELLENVILLE REGIONAL HOSPITAL",
+      "address": "10 HEALTHY WAY",
+      "city": "ELLENVILLE",
+      "state": "NY",
+      "zipcode": "12428"
+    },
+    {
+      "id": "331311",
+      "name": "LITTLE FALLS HOSPITAL",
+      "address": "140 BURWELL STREET",
+      "city": "LITTLE FALLS",
+      "state": "NY",
+      "zipcode": "13365"
+    },
+    {
+      "id": "331312",
+      "name": "DELAWARE VALLEY HOSPITAL, INC",
+      "address": "1 TITUS PLACE",
+      "city": "WALTON",
+      "state": "NY",
+      "zipcode": "13856"
+    },
+    {
+      "id": "331313",
+      "name": "SCHUYLER HOSPITAL",
+      "address": "220 STEUBEN STREET",
+      "city": "MONTOUR FALLS",
+      "state": "NY",
+      "zipcode": "14865"
+    },
+    {
+      "id": "331314",
+      "name": "SOLDIERS AND SAILORS MEMORIAL HOSPITAL OF YATES",
+      "address": "418 NORTH MAIN STREET",
+      "city": "PENN YAN",
+      "state": "NY",
+      "zipcode": "14527"
+    },
+    {
+      "id": "331315",
+      "name": "GOUVERNEUR HOSPITAL",
+      "address": "77 WEST BARNEY STREET",
+      "city": "GOUVERNEUR",
+      "state": "NY",
+      "zipcode": "13642"
+    },
+    {
+      "id": "331316",
+      "name": "COMMUNITY MEMORIAL HOSPITAL, INC",
+      "address": "150 BROAD STREET",
+      "city": "HAMILTON",
+      "state": "NY",
+      "zipcode": "13346"
+    },
+    {
+      "id": "331317",
+      "name": "LEWIS COUNTY GENERAL HOSPITAL",
+      "address": "7785 NORTH STATE STREET",
+      "city": "LOWVILLE",
+      "state": "NY",
+      "zipcode": "13367"
+    },
+    {
+      "id": "331318",
+      "name": "CARTHAGE AREA HOSPITAL, INC",
+      "address": "1001 WEST STREET",
+      "city": "CARTHAGE",
+      "state": "NY",
+      "zipcode": "13619"
+    },
+    {
+      "id": "331319",
+      "name": "MEDINA MEMORIAL HOSPITAL",
+      "address": "200 OHIO STREET",
+      "city": "MEDINA",
+      "state": "NY",
+      "zipcode": "14103"
+    },
+    {
+      "id": "331320",
+      "name": "COBLESKILL REGIONAL HOSPITAL",
+      "address": "178 GRANDVIEW DRIVE",
+      "city": "COBLESKILL",
+      "state": "NY",
+      "zipcode": "12043"
+    },
+    {
+      "id": "331321",
+      "name": "THE UNIVERSITY OF VERMONT HEALTH NETWORK-ALICE HY",
+      "address": "133 PARK STREET, PO BOX 729",
+      "city": "MALONE",
+      "state": "NY",
+      "zipcode": "12953"
+    },
+    {
+      "id": "331322",
+      "name": "SLHS MASSENA, INC",
+      "address": "1 HOSPITAL DRIVE",
+      "city": "MASSENA",
+      "state": "NY",
+      "zipcode": "13662"
+    }
+  ]
+}

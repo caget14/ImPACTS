@@ -1,0 +1,1204 @@
+{
+  "hospitals": [
+    {
+      "id": "390001",
+      "name": "GEISINGER COMMUNITY MEDICAL CENTER",
+      "address": "1822 MULBERRY STREET",
+      "city": "SCRANTON",
+      "state": "PA",
+      "zipcode": "18510"
+    },
+    {
+      "id": "390002",
+      "name": "UPMC MCKEESPORT",
+      "address": "1500 FIFTH AVENUE",
+      "city": "MC KEESPORT",
+      "state": "PA",
+      "zipcode": "15132"
+    },
+    {
+      "id": "390003",
+      "name": "GEISINGER-BLOOMSBURG HOSPITAL",
+      "address": "549 EAST FAIR STREET",
+      "city": "BLOOMSBURG",
+      "state": "PA",
+      "zipcode": "17815"
+    },
+    {
+      "id": "390004",
+      "name": "PENN STATE HEALTH HOLY SPIRIT MEDICAL CENTER",
+      "address": "503 NORTH 21ST STREET",
+      "city": "CAMP HILL",
+      "state": "PA",
+      "zipcode": "17011"
+    },
+    {
+      "id": "390006",
+      "name": "GEISINGER MEDICAL CENTER",
+      "address": "100 NORTH ACADEMY AVENUE",
+      "city": "DANVILLE",
+      "state": "PA",
+      "zipcode": "17822"
+    },
+    {
+      "id": "390009",
+      "name": "SAINT VINCENT HOSPITAL",
+      "address": "232 WEST 25TH STREET",
+      "city": "ERIE",
+      "state": "PA",
+      "zipcode": "16544"
+    },
+    {
+      "id": "390012",
+      "name": "LANSDALE HOSPITAL",
+      "address": "100 MEDICAL CAMPUS DRIVE",
+      "city": "LANSDALE",
+      "state": "PA",
+      "zipcode": "19446"
+    },
+    {
+      "id": "390013",
+      "name": "WELLSPAN EVANGELICAL COMMUNITY HOSPITAL",
+      "address": "ONE HOSPITAL DRIVE",
+      "city": "LEWISBURG",
+      "state": "PA",
+      "zipcode": "17837"
+    },
+    {
+      "id": "390016",
+      "name": "UPMC JAMESON",
+      "address": "1211 WILMINGTON AVENUE",
+      "city": "NEW CASTLE",
+      "state": "PA",
+      "zipcode": "16105"
+    },
+    {
+      "id": "390025",
+      "name": "KENSINGTON HOSPITAL",
+      "address": "136 W DIAMOND STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19122"
+    },
+    {
+      "id": "390026",
+      "name": "TEMPLE HEALTH - CHESTNUT HILL HOSPITAL",
+      "address": "8835 GERMANTOWN AVENUE",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19118"
+    },
+    {
+      "id": "390027",
+      "name": "TEMPLE UNIVERSITY HOSPITAL",
+      "address": "3401 NORTH BROAD STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19140"
+    },
+    {
+      "id": "390028",
+      "name": "UPMC MERCY",
+      "address": "1400 LOCUST STREET",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15219"
+    },
+    {
+      "id": "390030",
+      "name": "LEHIGH VALLEY HOSPITAL-SCHUYLKILL",
+      "address": "420 SOUTH JACKSON STREET",
+      "city": "POTTSVILLE",
+      "state": "PA",
+      "zipcode": "17901"
+    },
+    {
+      "id": "390032",
+      "name": "ALLEGHENY VALLEY HOSPITAL",
+      "address": "1301 CARLISLE ST",
+      "city": "NATRONA",
+      "state": "PA",
+      "zipcode": "15065"
+    },
+    {
+      "id": "390035",
+      "name": "ST LUKE'S HOSPITAL - UPPER BUCKS CAMPUS",
+      "address": "3000 ST. LUKE'S DRIVE",
+      "city": "QUAKERTOWN",
+      "state": "PA",
+      "zipcode": "18951"
+    },
+    {
+      "id": "390036",
+      "name": "HERITAGE VALLEY BEAVER",
+      "address": "1000 DUTCH RIDGE ROAD",
+      "city": "BEAVER",
+      "state": "PA",
+      "zipcode": "15009"
+    },
+    {
+      "id": "390037",
+      "name": "HERITAGE VALLEY SEWICKLEY",
+      "address": "720 BLACKBURN ROAD",
+      "city": "SEWICKLEY",
+      "state": "PA",
+      "zipcode": "15143"
+    },
+    {
+      "id": "390039",
+      "name": "UPMC SOMERSET",
+      "address": "225 SOUTH CENTER AVENUE",
+      "city": "SOMERSET",
+      "state": "PA",
+      "zipcode": "15501"
+    },
+    {
+      "id": "390041",
+      "name": "UNIONTOWN HOSPITAL",
+      "address": "500 WEST BERKELEY STREET",
+      "city": "UNIONTOWN",
+      "state": "PA",
+      "zipcode": "15401"
+    },
+    {
+      "id": "390042",
+      "name": "UPMC WASHINGTON",
+      "address": "155 WILSON AVENUE",
+      "city": "WASHINGTON",
+      "state": "PA",
+      "zipcode": "15301"
+    },
+    {
+      "id": "390044",
+      "name": "READING HOSPITAL",
+      "address": "420 S 5TH AVENUE",
+      "city": "WEST READING",
+      "state": "PA",
+      "zipcode": "19611"
+    },
+    {
+      "id": "390045",
+      "name": "UPMC WILLIAMSPORT",
+      "address": "700 HIGH STREET",
+      "city": "WILLIAMSPORT",
+      "state": "PA",
+      "zipcode": "17701"
+    },
+    {
+      "id": "390046",
+      "name": "WELLSPAN YORK HOSPITAL",
+      "address": "1001 SOUTH GEORGE STREET",
+      "city": "YORK",
+      "state": "PA",
+      "zipcode": "17403"
+    },
+    {
+      "id": "390048",
+      "name": "GEISINGER-LEWISTOWN HOSPITAL",
+      "address": "400 HIGHLAND AVENUE",
+      "city": "LEWISTOWN",
+      "state": "PA",
+      "zipcode": "17044"
+    },
+    {
+      "id": "390049",
+      "name": "ST LUKE'S HOSPITAL BETHLEHEM",
+      "address": "801 OSTRUM STREET",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "zipcode": "18015"
+    },
+    {
+      "id": "390050",
+      "name": "ALLEGHENY GENERAL HOSPITAL",
+      "address": "320 EAST NORTH AVENUE",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15212"
+    },
+    {
+      "id": "390056",
+      "name": "PENN HIGHLANDS HUNTINGDON",
+      "address": "1225 WARM SPRINGS AVE",
+      "city": "HUNTINGDON",
+      "state": "PA",
+      "zipcode": "16652"
+    },
+    {
+      "id": "390057",
+      "name": "GRAND VIEW HEALTH",
+      "address": "700 LAWN AVENUE",
+      "city": "SELLERSVILLE",
+      "state": "PA",
+      "zipcode": "18960"
+    },
+    {
+      "id": "390058",
+      "name": "UPMC CARLISLE",
+      "address": "361 ALEXANDER SPRING ROAD",
+      "city": "CARLISLE",
+      "state": "PA",
+      "zipcode": "17015"
+    },
+    {
+      "id": "390062",
+      "name": "CONEMAUGH NASON MEDICAL CENTER",
+      "address": "105 NASON DRIVE",
+      "city": "ROARING SPRING",
+      "state": "PA",
+      "zipcode": "16673"
+    },
+    {
+      "id": "390063",
+      "name": "UPMC HAMOT",
+      "address": "201 STATE STREET",
+      "city": "ERIE",
+      "state": "PA",
+      "zipcode": "16550"
+    },
+    {
+      "id": "390065",
+      "name": "GETTYSBURG HOSPITAL",
+      "address": "147 GETTYS STREET",
+      "city": "GETTYSBURG",
+      "state": "PA",
+      "zipcode": "17325"
+    },
+    {
+      "id": "390066",
+      "name": "WELLSPAN GOOD SAMARITAN HOSPITAL",
+      "address": "252 SOUTH 4TH STREET",
+      "city": "LEBANON",
+      "state": "PA",
+      "zipcode": "17042"
+    },
+    {
+      "id": "390067",
+      "name": "UPMC PINNACLE HOSPITALS",
+      "address": "409 SOUTH SECOND STREET",
+      "city": "HARRISBURG",
+      "state": "PA",
+      "zipcode": "17104"
+    },
+    {
+      "id": "390068",
+      "name": "UPMC LITITZ",
+      "address": "1500 HIGHLANDS DRIVE",
+      "city": "LITITZ",
+      "state": "PA",
+      "zipcode": "17543"
+    },
+    {
+      "id": "390070",
+      "name": "LOWER BUCKS HOSPITAL",
+      "address": "501 BATH ROAD",
+      "city": "BRISTOL",
+      "state": "PA",
+      "zipcode": "19007"
+    },
+    {
+      "id": "390073",
+      "name": "UPMC ALTOONA",
+      "address": "620 HOWARD AVENUE",
+      "city": "ALTOONA",
+      "state": "PA",
+      "zipcode": "16601"
+    },
+    {
+      "id": "390079",
+      "name": "ROBERT PACKER HOSPITAL",
+      "address": "ONE GUTHRIE SQUARE",
+      "city": "SAYRE",
+      "state": "PA",
+      "zipcode": "18840"
+    },
+    {
+      "id": "390086",
+      "name": "PENN HIGHLANDS DUBOIS",
+      "address": "100 HOSPITAL AVENUE",
+      "city": "DUBOIS",
+      "state": "PA",
+      "zipcode": "15801"
+    },
+    {
+      "id": "390090",
+      "name": "WEST PENN HOSPITAL",
+      "address": "4800 FRIENDSHIP AVENUE",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15224"
+    },
+    {
+      "id": "390091",
+      "name": "UPMC NORTHWEST",
+      "address": "100 FAIRFIELD DRIVE",
+      "city": "SENECA",
+      "state": "PA",
+      "zipcode": "16346"
+    },
+    {
+      "id": "390093",
+      "name": "CLARION HOSPITAL",
+      "address": "ONE HOSPITAL DRIVE",
+      "city": "CLARION",
+      "state": "PA",
+      "zipcode": "16214"
+    },
+    {
+      "id": "390096",
+      "name": "PENN STATE HEALTH ST. JOSEPH",
+      "address": "2500 BERNVILLE ROAD",
+      "city": "READING",
+      "state": "PA",
+      "zipcode": "19605"
+    },
+    {
+      "id": "390097",
+      "name": "HOLY REDEEMER HOSPITAL AND MEDICAL CENTER",
+      "address": "1648 HUNTINGDON PIKE",
+      "city": "MEADOWBROOK",
+      "state": "PA",
+      "zipcode": "19046"
+    },
+    {
+      "id": "390100",
+      "name": "LANCASTER GENERAL HOSPITAL",
+      "address": "555 NORTH DUKE STREET",
+      "city": "LANCASTER",
+      "state": "PA",
+      "zipcode": "17602"
+    },
+    {
+      "id": "390101",
+      "name": "UPMC MEMORIAL",
+      "address": "1701 INNOVATION DRIVE",
+      "city": "YORK",
+      "state": "PA",
+      "zipcode": "17408"
+    },
+    {
+      "id": "390102",
+      "name": "UPMC ST MARGARET",
+      "address": "815 FREEPORT ROAD",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15215"
+    },
+    {
+      "id": "390104",
+      "name": "UPMC KANE",
+      "address": "4372 ROUTE 6",
+      "city": "KANE",
+      "state": "PA",
+      "zipcode": "16735"
+    },
+    {
+      "id": "390107",
+      "name": "UPMC PASSAVANT",
+      "address": "9100 BABCOCK BOULEVARD",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15237"
+    },
+    {
+      "id": "390110",
+      "name": "CONEMAUGH MEMORIAL MEDICAL CENTER",
+      "address": "1086 FRANKLIN STREET",
+      "city": "JOHNSTOWN",
+      "state": "PA",
+      "zipcode": "15905"
+    },
+    {
+      "id": "390111",
+      "name": "HOSPITAL OF UNIV OF PENNSYLVANIA",
+      "address": "34TH & SPRUCE STS",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19104"
+    },
+    {
+      "id": "390112",
+      "name": "CHAN SOON- SHIONG MEDICAL CENTER AT WINDBER",
+      "address": "600 SOMERSET AVENUE",
+      "city": "WINDBER",
+      "state": "PA",
+      "zipcode": "15963"
+    },
+    {
+      "id": "390113",
+      "name": "MEADVILLE MEDICAL CENTER",
+      "address": "751 LIBERTY STREET",
+      "city": "MEADVILLE",
+      "state": "PA",
+      "zipcode": "16335"
+    },
+    {
+      "id": "390114",
+      "name": "MAGEE WOMENS HOSPITAL OF UPMC HEALTH SYSTEM",
+      "address": "300 HALKET STREET",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15213"
+    },
+    {
+      "id": "390115",
+      "name": "JEFFERSON HEALTH-NORTHEAST",
+      "address": "10800 KNIGHTS ROAD",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19114"
+    },
+    {
+      "id": "390116",
+      "name": "SUBURBAN COMMUNITY HOSPITAL",
+      "address": "2701 DEKALB PIKE",
+      "city": "NORRISTOWN",
+      "state": "PA",
+      "zipcode": "19401"
+    },
+    {
+      "id": "390117",
+      "name": "UPMC BEDFORD MEMORIAL",
+      "address": "10455 LINCOLN HIGHWAY",
+      "city": "EVERETT",
+      "state": "PA",
+      "zipcode": "15537"
+    },
+    {
+      "id": "390123",
+      "name": "POTTSTOWN HOSPITAL",
+      "address": "1600 EAST HIGH STREET",
+      "city": "POTTSTOWN",
+      "state": "PA",
+      "zipcode": "19464"
+    },
+    {
+      "id": "390125",
+      "name": "WAYNE MEMORIAL HOSPITAL",
+      "address": "601 PARK STREET",
+      "city": "HONESDALE",
+      "state": "PA",
+      "zipcode": "18431"
+    },
+    {
+      "id": "390127",
+      "name": "PHOENIXVILLE HOSPITAL",
+      "address": "140 NUTT ROAD",
+      "city": "PHOENIXVILLE",
+      "state": "PA",
+      "zipcode": "19460"
+    },
+    {
+      "id": "390133",
+      "name": "LEHIGH VALLEY HOSPITAL",
+      "address": "1200 SOUTH CEDAR CREST BOULEVARD",
+      "city": "ALLENTOWN",
+      "state": "PA",
+      "zipcode": "18103"
+    },
+    {
+      "id": "390137",
+      "name": "WILKES-BARRE GENERAL HOSPITAL",
+      "address": "575 NORTH RIVER STREET",
+      "city": "WILKES-BARRE",
+      "state": "PA",
+      "zipcode": "18764"
+    },
+    {
+      "id": "390138",
+      "name": "WELLSPAN WAYNESBORO HOSPITAL",
+      "address": "501 EAST MAIN ST",
+      "city": "WAYNESBORO",
+      "state": "PA",
+      "zipcode": "17268"
+    },
+    {
+      "id": "390139",
+      "name": "BRYN MAWR HOSPITAL, THE",
+      "address": "130 SOUTH BRYN MAWR AVE",
+      "city": "BRYN MAWR",
+      "state": "PA",
+      "zipcode": "19010"
+    },
+    {
+      "id": "390142",
+      "name": "ALBERT EINSTEIN MEDICAL CENTER",
+      "address": "5501 OLD YORK ROAD",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19141"
+    },
+    {
+      "id": "390145",
+      "name": "INDEPENDENCE HEALTH SYSTEM WESTMORELAND HOSPITAL",
+      "address": "532 WEST PITTSBURGH STREET",
+      "city": "GREENSBURG",
+      "state": "PA",
+      "zipcode": "15601"
+    },
+    {
+      "id": "390146",
+      "name": "WARREN GENERAL HOSPITAL",
+      "address": "TWO CRESCENT PARK WEST",
+      "city": "WARREN",
+      "state": "PA",
+      "zipcode": "16365"
+    },
+    {
+      "id": "390147",
+      "name": "PENN HIGHLANDS MON VALLEY",
+      "address": "1163 COUNTRY CLUB ROAD",
+      "city": "MONONGAHELA",
+      "state": "PA",
+      "zipcode": "15063"
+    },
+    {
+      "id": "390150",
+      "name": "UPMC GREENE",
+      "address": "350 BONAR AVENUE",
+      "city": "WAYNESBURG",
+      "state": "PA",
+      "zipcode": "15370"
+    },
+    {
+      "id": "390151",
+      "name": "WELLSPAN CHAMBERSBURG HOSPITAL",
+      "address": "112 NORTH SEVENTH STREET",
+      "city": "CHAMBERSBURG",
+      "state": "PA",
+      "zipcode": "17201"
+    },
+    {
+      "id": "390153",
+      "name": "PAOLI HOSPITAL",
+      "address": "255 WEST LANCASTER AVENUE",
+      "city": "PAOLI",
+      "state": "PA",
+      "zipcode": "19301"
+    },
+    {
+      "id": "390156",
+      "name": "MERCY CATHOLIC MEDICAL CENTER- MERCY FITZGERALD",
+      "address": "1500 LANSDOWNE  AVE",
+      "city": "DARBY",
+      "state": "PA",
+      "zipcode": "19023"
+    },
+    {
+      "id": "390160",
+      "name": "CANONSBURG GENERAL HOSPITAL",
+      "address": "100 MEDICAL BOULEVARD",
+      "city": "CANONSBURG",
+      "state": "PA",
+      "zipcode": "15317"
+    },
+    {
+      "id": "390162",
+      "name": "ST LUKE'S HOSPITAL - EASTON CAMPUS",
+      "address": "250 SOUTH 21ST STREET",
+      "city": "EASTON",
+      "state": "PA",
+      "zipcode": "18042"
+    },
+    {
+      "id": "390163",
+      "name": "ACMH HOSPITAL",
+      "address": "ONE NOLTE DRIVE",
+      "city": "KITTANNING",
+      "state": "PA",
+      "zipcode": "16201"
+    },
+    {
+      "id": "390164",
+      "name": "UPMC PRESBYTERIAN SHADYSIDE",
+      "address": "200 LOTHROP STREET",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15213"
+    },
+    {
+      "id": "390168",
+      "name": "INDEPENDENCE HEALTH SYSTEM BUTLER MEMORIAL HOSPITA",
+      "address": "ONE HOSPITAL WAY",
+      "city": "BUTLER",
+      "state": "PA",
+      "zipcode": "16001"
+    },
+    {
+      "id": "390173",
+      "name": "INDIANA REGIONAL MEDICAL CENTER",
+      "address": "835 HOSPITAL ROAD",
+      "city": "INDIANA",
+      "state": "PA",
+      "zipcode": "15701"
+    },
+    {
+      "id": "390174",
+      "name": "THOMAS JEFFERSON UNIVERSITY HOSPITAL",
+      "address": "111 SOUTH 11TH STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19107"
+    },
+    {
+      "id": "390178",
+      "name": "UPMC HORIZON",
+      "address": "110 NORTH MAIN STREET",
+      "city": "GREENVILLE",
+      "state": "PA",
+      "zipcode": "16125"
+    },
+    {
+      "id": "390179",
+      "name": "CHESTER COUNTY HOSPITAL",
+      "address": "701 EAST MARSHALL STREET",
+      "city": "WEST CHESTER",
+      "state": "PA",
+      "zipcode": "19380"
+    },
+    {
+      "id": "390180",
+      "name": "CROZER CHESTER MEDICAL CENTER",
+      "address": "ONE MEDICAL CENTER BOULEVARD",
+      "city": "UPLAND",
+      "state": "PA",
+      "zipcode": "19013"
+    },
+    {
+      "id": "390183",
+      "name": "ST LUKE'S MINERS MEMORIAL HOSPITAL",
+      "address": "360 W RUDDLE STREET",
+      "city": "COALDALE",
+      "state": "PA",
+      "zipcode": "18218"
+    },
+    {
+      "id": "390184",
+      "name": "PENN HIGHLANDS CONNELLSVILLE",
+      "address": "401 EAST MURPHY AVENUE",
+      "city": "CONNELLSVILLE",
+      "state": "PA",
+      "zipcode": "15425"
+    },
+    {
+      "id": "390185",
+      "name": "LEHIGH VALLEY HOSPITAL - HAZLETON",
+      "address": "700 EAST BROAD STREET",
+      "city": "HAZLETON",
+      "state": "PA",
+      "zipcode": "18201"
+    },
+    {
+      "id": "390195",
+      "name": "LANKENAU MEDICAL CENTER",
+      "address": "100 LANCASTER AVE",
+      "city": "WYNNEWOOD",
+      "state": "PA",
+      "zipcode": "19096"
+    },
+    {
+      "id": "390196",
+      "name": "HOSPITAL OF THE FOX CHASE CANCER CENTER",
+      "address": "333 COTTMAN AVENUE",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19111"
+    },
+    {
+      "id": "390198",
+      "name": "MILLCREEK COMMUNITY HOSPITAL",
+      "address": "5515 PEACH STREET",
+      "city": "ERIE",
+      "state": "PA",
+      "zipcode": "16509"
+    },
+    {
+      "id": "390199",
+      "name": "PUNXSUTAWNEY AREA HOSPITAL",
+      "address": "81 HILLCREST DRIVE",
+      "city": "PUNXSUTAWNEY",
+      "state": "PA",
+      "zipcode": "15767"
+    },
+    {
+      "id": "390201",
+      "name": "LEHIGH VALLEY HOSPITAL - POCONO",
+      "address": "206 EAST BROWN STREET",
+      "city": "EAST STROUDSBURG",
+      "state": "PA",
+      "zipcode": "18301"
+    },
+    {
+      "id": "390203",
+      "name": "DOYLESTOWN HOSPITAL",
+      "address": "595 WEST STATE ST",
+      "city": "DOYLESTOWN",
+      "state": "PA",
+      "zipcode": "18901"
+    },
+    {
+      "id": "390204",
+      "name": "NAZARETH HOSPITAL",
+      "address": "2601 HOLME AVE",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19152"
+    },
+    {
+      "id": "390211",
+      "name": "SHARON REGIONAL HEALTH SYSTEM",
+      "address": "740 EAST STATE STREET",
+      "city": "SHARON",
+      "state": "PA",
+      "zipcode": "16146"
+    },
+    {
+      "id": "390217",
+      "name": "INDEPENDENCE HEALTH SYSTEM FRICK HOSPITAL",
+      "address": "508 SOUTH CHURCH STREET",
+      "city": "MOUNT PLEASANT",
+      "state": "PA",
+      "zipcode": "15666"
+    },
+    {
+      "id": "390219",
+      "name": "INDEPENDENCE HEALTH SYSTEM LATROBE HOSPITAL",
+      "address": "ONE MELLON WAY",
+      "city": "LATROBE",
+      "state": "PA",
+      "zipcode": "15650"
+    },
+    {
+      "id": "390222",
+      "name": "RIDDLE MEMORIAL HOSPITAL",
+      "address": "1068 WEST BALTIMORE PIKE",
+      "city": "MEDIA",
+      "state": "PA",
+      "zipcode": "19063"
+    },
+    {
+      "id": "390223",
+      "name": "PENN PRESBYTERIAN MEDICAL CENTER",
+      "address": "51 NORTH 39TH STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19104"
+    },
+    {
+      "id": "390225",
+      "name": "WELLSPAN EPHRATA COMMUNITY HOSPITAL",
+      "address": "169 MARTIN AVENUE",
+      "city": "EPHRATA",
+      "state": "PA",
+      "zipcode": "17522"
+    },
+    {
+      "id": "390226",
+      "name": "PENNSYLVANIA HOSPITAL",
+      "address": "800 SPRUCE STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19107"
+    },
+    {
+      "id": "390228",
+      "name": "ST CLAIR HOSPITAL",
+      "address": "1000 BOWER HILL ROAD",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zipcode": "15243"
+    },
+    {
+      "id": "390231",
+      "name": "JEFFERSON ABINGTON HOSPITAL",
+      "address": "1200 OLD YORK ROAD",
+      "city": "ABINGTON",
+      "state": "PA",
+      "zipcode": "19001"
+    },
+    {
+      "id": "390233",
+      "name": "UPMC HANOVER",
+      "address": "300 HIGHLAND AVE",
+      "city": "HANOVER",
+      "state": "PA",
+      "zipcode": "17331"
+    },
+    {
+      "id": "390237",
+      "name": "REGIONAL HOSPITAL OF SCRANTON",
+      "address": "746 JEFFERSON AVENUE",
+      "city": "SCRANTON",
+      "state": "PA",
+      "zipcode": "18501"
+    },
+    {
+      "id": "390256",
+      "name": "MILTON S HERSHEY MEDICAL CENTER",
+      "address": "500 UNIVERSITY DRIVE",
+      "city": "HERSHEY",
+      "state": "PA",
+      "zipcode": "17033"
+    },
+    {
+      "id": "390258",
+      "name": "ST MARY MEDICAL CENTER",
+      "address": "LANGHORNE-NEWTOWN RD",
+      "city": "LANGHORNE",
+      "state": "PA",
+      "zipcode": "19047"
+    },
+    {
+      "id": "390265",
+      "name": "JEFFERSON HOSPITAL",
+      "address": "565 COAL VALLEY ROAD",
+      "city": "JEFFERSON HILLS",
+      "state": "PA",
+      "zipcode": "15025"
+    },
+    {
+      "id": "390266",
+      "name": "GROVE CITY HOSPITAL",
+      "address": "631 NORTH BROAD STREET EXT.",
+      "city": "GROVE CITY",
+      "state": "PA",
+      "zipcode": "16127"
+    },
+    {
+      "id": "390267",
+      "name": "FORBES HOSPITAL",
+      "address": "2570 HAYMAKER ROAD",
+      "city": "MONROEVILLE",
+      "state": "PA",
+      "zipcode": "15146"
+    },
+    {
+      "id": "390268",
+      "name": "MOUNT NITTANY MEDICAL CENTER",
+      "address": "1800 EAST PARK AVE",
+      "city": "STATE COLLEGE",
+      "state": "PA",
+      "zipcode": "16803"
+    },
+    {
+      "id": "390270",
+      "name": "GEISINGER WYOMING VALLEY MEDICAL CENTER",
+      "address": "1000 EAST MOUNTAIN BOULEVARD",
+      "city": "WILKES BARRE",
+      "state": "PA",
+      "zipcode": "18711"
+    },
+    {
+      "id": "390272",
+      "name": "VALLEY FORGE MEDICAL CENTER",
+      "address": "1033 WEST GERMANTOWN PIKE",
+      "city": "NORRISTOWN",
+      "state": "PA",
+      "zipcode": "19403"
+    },
+    {
+      "id": "390278",
+      "name": "EAGLEVILLE HOSPITAL",
+      "address": "100 EAGLEVILLE RD",
+      "city": "EAGLEVILLE",
+      "state": "PA",
+      "zipcode": "19408"
+    },
+    {
+      "id": "390304",
+      "name": "ROXBOROUGH MEMORIAL HOSPITAL",
+      "address": "5800 RIDGE AVE",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19128"
+    },
+    {
+      "id": "390307",
+      "name": "EDGEWOOD SURGICAL HOSPITAL",
+      "address": "239 EDGEWOOD DRIVE EXTENSION",
+      "city": "TRANSFER",
+      "state": "PA",
+      "zipcode": "16154"
+    },
+    {
+      "id": "390316",
+      "name": "SURGICAL INSTITUTE OF READING",
+      "address": "2752 CENTURY BOULEVARD",
+      "city": "WYOMISSING",
+      "state": "PA",
+      "zipcode": "19610"
+    },
+    {
+      "id": "390322",
+      "name": "ROTHMAN ORTHOPAEDIC SPECIALTY HOSPITAL LLC",
+      "address": "3300 TILLMAN DRIVE",
+      "city": "BENSALEM",
+      "state": "PA",
+      "zipcode": "19020"
+    },
+    {
+      "id": "390323",
+      "name": "ADVANCED SURGICAL HOSPITAL",
+      "address": "100 TRICH DRIVE",
+      "city": "WASHINGTON",
+      "state": "PA",
+      "zipcode": "15301"
+    },
+    {
+      "id": "390324",
+      "name": "PHYSICIAN'S CARE SURGICAL HOSPITAL",
+      "address": "454 ENTERPRISE DRIVE",
+      "city": "ROYERSFORD",
+      "state": "PA",
+      "zipcode": "19468"
+    },
+    {
+      "id": "390325",
+      "name": "OSS ORTHOPAEDIC HOSPITAL",
+      "address": "1861 POWDER MILL RD",
+      "city": "YORK",
+      "state": "PA",
+      "zipcode": "17402"
+    },
+    {
+      "id": "390326",
+      "name": "ST LUKE'S HOSPITAL - ANDERSON CAMPUS",
+      "address": "1872 ST LUKE'S BLVD",
+      "city": "EASTON",
+      "state": "PA",
+      "zipcode": "18045"
+    },
+    {
+      "id": "390327",
+      "name": "WELLSPAN SURGERY AND REHABILITATION HOSPITAL",
+      "address": "55 MONUMENT ROAD",
+      "city": "YORK",
+      "state": "PA",
+      "zipcode": "17403"
+    },
+    {
+      "id": "390328",
+      "name": "UPMC EAST",
+      "address": "2775 MOSSIDE BOULEVARD",
+      "city": "MONROEVILLE",
+      "state": "PA",
+      "zipcode": "15146"
+    },
+    {
+      "id": "390329",
+      "name": "JEFFERSON EINSTEIN MONTGOMERY HOSPITAL",
+      "address": "559 WEST GERMANTOWN PIKE",
+      "city": "EAST NORRITON",
+      "state": "PA",
+      "zipcode": "19403"
+    },
+    {
+      "id": "390330",
+      "name": "ST LUKE'S HOSPITAL - MONROE CAMPUS",
+      "address": "100 ST LUKE'S LANE",
+      "city": "STROUDSBURG",
+      "state": "PA",
+      "zipcode": "18360"
+    },
+    {
+      "id": "390331",
+      "name": "WILLS EYE HOSPITAL",
+      "address": "840 WALNUT STREET",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zipcode": "19107"
+    },
+    {
+      "id": "390332",
+      "name": "GEISINGER ST. LUKE'S  HOSPITAL",
+      "address": "100 PARAMOUNT BOULEVARD",
+      "city": "ORWIGSBURG",
+      "state": "PA",
+      "zipcode": "17961"
+    },
+    {
+      "id": "390333",
+      "name": "AHN EMERUS WESTMORELAND, LLC",
+      "address": "6321 ROUTE 30",
+      "city": "GREENSBURG",
+      "state": "PA",
+      "zipcode": "15601"
+    },
+    {
+      "id": "390334",
+      "name": "AHN WEXFORD HOSPITAL",
+      "address": "12351 PERRY HIGHWAY",
+      "city": "WEXFORD",
+      "state": "PA",
+      "zipcode": "15090"
+    },
+    {
+      "id": "390335",
+      "name": "ST LUKE'S HOSPITAL - CARBON CAMPUS",
+      "address": "500 ST LUKE'S DRIVE",
+      "city": "LEHIGHTON",
+      "state": "PA",
+      "zipcode": "18235"
+    },
+    {
+      "id": "390336",
+      "name": "PENN STATE HEALTH HAMPDEN MEDICAL CENTER",
+      "address": "2200 GOOD HOPE ROAD",
+      "city": "ENOLA",
+      "state": "PA",
+      "zipcode": "17025"
+    },
+    {
+      "id": "390337",
+      "name": "GEISINGER MEDICAL CENTER MUNCY",
+      "address": "255 ROUTE 220 HIGHWAY",
+      "city": "MUNCY",
+      "state": "PA",
+      "zipcode": "17756"
+    },
+    {
+      "id": "390338",
+      "name": "LEHIGH VALLEY HOSPITAL - DICKSON CITY",
+      "address": "330 MAIN STREET",
+      "city": "DICKSON CITY",
+      "state": "PA",
+      "zipcode": "18519"
+    },
+    {
+      "id": "390339",
+      "name": "PENN STATE HEALTH LANCASTER MEDICAL CENTER",
+      "address": "2160 STATE ROAD",
+      "city": "LANCASTER",
+      "state": "PA",
+      "zipcode": "17601"
+    },
+    {
+      "id": "391300",
+      "name": "GEISINGER JERSEY SHORE HOSPITAL",
+      "address": "1020 THOMPSON STREET",
+      "city": "JERSEY SHORE",
+      "state": "PA",
+      "zipcode": "17740"
+    },
+    {
+      "id": "391301",
+      "name": "UPMC MUNCY",
+      "address": "215 EAST WATER STREET",
+      "city": "MUNCY",
+      "state": "PA",
+      "zipcode": "17756"
+    },
+    {
+      "id": "391302",
+      "name": "CONEMAUGH MEYERSDALE MEDICAL CENTER",
+      "address": "200 HOSPITAL DRIVE",
+      "city": "MEYERSDALE",
+      "state": "PA",
+      "zipcode": "15552"
+    },
+    {
+      "id": "391303",
+      "name": "FULTON COUNTY MEDICAL CENTER",
+      "address": "214 PEACH ORCHARD ROAD",
+      "city": "MCCONNELLSBURG",
+      "state": "PA",
+      "zipcode": "17233"
+    },
+    {
+      "id": "391304",
+      "name": "BUCKTAIL MEDICAL CENTER",
+      "address": "1001 PINE STREET",
+      "city": "RENOVO",
+      "state": "PA",
+      "zipcode": "17764"
+    },
+    {
+      "id": "391305",
+      "name": "TROY COMMUNITY HOSPITAL",
+      "address": "275 GUTHRIE DRIVE",
+      "city": "TROY",
+      "state": "PA",
+      "zipcode": "16947"
+    },
+    {
+      "id": "391306",
+      "name": "ENDLESS MOUNTAINS HEALTH SYSTEMS",
+      "address": "100 HOSPITAL DRIVE",
+      "city": "MONTROSE",
+      "state": "PA",
+      "zipcode": "18801"
+    },
+    {
+      "id": "391307",
+      "name": "PENN HIGHLANDS TYRONE",
+      "address": "187 HOSPITAL DRIVE",
+      "city": "TYRONE",
+      "state": "PA",
+      "zipcode": "16686"
+    },
+    {
+      "id": "391308",
+      "name": "LECOM HEALTH CORRY MEMORIAL HOSPITAL",
+      "address": "965 SHAMROCK LANE",
+      "city": "CORRY",
+      "state": "PA",
+      "zipcode": "16407"
+    },
+    {
+      "id": "391309",
+      "name": "BARNES-KASSON COUNTY HOSPITAL",
+      "address": "2872 TURNPIKE STREET",
+      "city": "SUSQUEHANNA",
+      "state": "PA",
+      "zipcode": "18847"
+    },
+    {
+      "id": "391312",
+      "name": "PENN HIGHLANDS BROOKVILLE",
+      "address": "100 HOSPITAL ROAD",
+      "city": "BROOKVILLE",
+      "state": "PA",
+      "zipcode": "15825"
+    },
+    {
+      "id": "391313",
+      "name": "UPMC COLE",
+      "address": "1001 EAST SECOND STREET",
+      "city": "COUDERSPORT",
+      "state": "PA",
+      "zipcode": "16915"
+    },
+    {
+      "id": "391314",
+      "name": "TITUSVILLE AREA HOSPITAL",
+      "address": "406 WEST OAK STREET",
+      "city": "TITUSVILLE",
+      "state": "PA",
+      "zipcode": "16354"
+    },
+    {
+      "id": "391315",
+      "name": "PENN HIGHLANDS ELK",
+      "address": "763 JOHNSONBURG ROAD",
+      "city": "SAINT MARYS",
+      "state": "PA",
+      "zipcode": "15857"
+    },
+    {
+      "id": "391316",
+      "name": "UPMC WELLSBORO",
+      "address": "32-36 CENTRAL AVENUE",
+      "city": "WELLSBORO",
+      "state": "PA",
+      "zipcode": "16901"
+    },
+    {
+      "id": "391317",
+      "name": "CONEMAUGH MINERS MEDICAL CENTER",
+      "address": "290 HAIDA AVENUE",
+      "city": "HASTINGS",
+      "state": "PA",
+      "zipcode": "16646"
+    }
+  ]
+}

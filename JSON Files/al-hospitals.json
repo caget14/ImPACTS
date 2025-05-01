@@ -1,0 +1,692 @@
+{
+  "hospitals": [
+    {
+      "id": "010001",
+      "name": "SOUTHEAST HEALTH MEDICAL CENTER",
+      "address": "1108 ROSS CLARK CIRCLE",
+      "city": "DOTHAN",
+      "state": "AL",
+      "zipcode": "36301"
+    },
+    {
+      "id": "010005",
+      "name": "MARSHALL MEDICAL CENTERS SOUTH CAMPUS",
+      "address": "2505 U S HIGHWAY 431 NORTH",
+      "city": "BOAZ",
+      "state": "AL",
+      "zipcode": "35957"
+    },
+    {
+      "id": "010006",
+      "name": "NORTH ALABAMA MEDICAL CENTER",
+      "address": "1701 VETERANS DRIVE",
+      "city": "FLORENCE",
+      "state": "AL",
+      "zipcode": "35630"
+    },
+    {
+      "id": "010007",
+      "name": "MIZELL MEMORIAL HOSPITAL",
+      "address": "702 N MAIN ST",
+      "city": "OPP",
+      "state": "AL",
+      "zipcode": "36467"
+    },
+    {
+      "id": "010008",
+      "name": "CRENSHAW COMMUNITY HOSPITAL",
+      "address": "101 HOSPITAL CIRCLE",
+      "city": "LUVERNE",
+      "state": "AL",
+      "zipcode": "36049"
+    },
+    {
+      "id": "010011",
+      "name": "ST VINCENT'S EAST",
+      "address": "50 MEDICAL PARK EAST DRIVE",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zipcode": "35235"
+    },
+    {
+      "id": "010012",
+      "name": "DEKALB REGIONAL MEDICAL CENTER",
+      "address": "200 MED CENTER DRIVE",
+      "city": "FORT PAYNE",
+      "state": "AL",
+      "zipcode": "35968"
+    },
+    {
+      "id": "010016",
+      "name": "SHELBY BAPTIST MEDICAL CENTER",
+      "address": "1000 FIRST STREET NORTH",
+      "city": "ALABASTER",
+      "state": "AL",
+      "zipcode": "35007"
+    },
+    {
+      "id": "010018",
+      "name": "UAB CALLAHAN EYE HOSPITAL AUTHORITY",
+      "address": "1720 UNIVERSITY BLVD STE 305",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zipcode": "35233"
+    },
+    {
+      "id": "010019",
+      "name": "HELEN KELLER MEMORIAL HOSPITAL",
+      "address": "1300 SOUTH MONTGOMERY AVENUE",
+      "city": "SHEFFIELD",
+      "state": "AL",
+      "zipcode": "35660"
+    },
+    {
+      "id": "010021",
+      "name": "DALE MEDICAL CENTER",
+      "address": "126 HOSPITAL AVE",
+      "city": "OZARK",
+      "state": "AL",
+      "zipcode": "36360"
+    },
+    {
+      "id": "010022",
+      "name": "FLOYD CHEROKEE MEDICAL CENTER",
+      "address": "400 NORTHWOOD DR",
+      "city": "CENTRE",
+      "state": "AL",
+      "zipcode": "35960"
+    },
+    {
+      "id": "010023",
+      "name": "BAPTIST MEDICAL CENTER SOUTH",
+      "address": "2105 EAST SOUTH BOULEVARD",
+      "city": "MONTGOMERY",
+      "state": "AL",
+      "zipcode": "36116"
+    },
+    {
+      "id": "010024",
+      "name": "JACKSON HOSPITAL & CLINIC INC",
+      "address": "1725 PINE STREET",
+      "city": "MONTGOMERY",
+      "state": "AL",
+      "zipcode": "36106"
+    },
+    {
+      "id": "010029",
+      "name": "EAST ALABAMA MEDICAL CENTER",
+      "address": "2000 PEPPERELL PARKWAY",
+      "city": "OPELIKA",
+      "state": "AL",
+      "zipcode": "36801"
+    },
+    {
+      "id": "010033",
+      "name": "UNIVERSITY OF ALABAMA HOSPITAL",
+      "address": "619 SOUTH 19TH STREET",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zipcode": "35233"
+    },
+    {
+      "id": "010034",
+      "name": "COMMUNITY HOSPITAL INC",
+      "address": "805 FRIENDSHIP ROAD",
+      "city": "TALLASSEE",
+      "state": "AL",
+      "zipcode": "36078"
+    },
+    {
+      "id": "010035",
+      "name": "CULLMAN REGIONAL MEDICAL CENTER",
+      "address": "1912 ALABAMA HIGHWAY 157",
+      "city": "CULLMAN",
+      "state": "AL",
+      "zipcode": "35058"
+    },
+    {
+      "id": "010036",
+      "name": "ANDALUSIA HEALTH",
+      "address": "849 SOUTH THREE NOTCH STREET",
+      "city": "ANDALUSIA",
+      "state": "AL",
+      "zipcode": "36420"
+    },
+    {
+      "id": "010039",
+      "name": "HUNTSVILLE HOSPITAL",
+      "address": "101 SIVLEY RD",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "zipcode": "35801"
+    },
+    {
+      "id": "010040",
+      "name": "GADSDEN REGIONAL MEDICAL CENTER",
+      "address": "1007 GOODYEAR AVENUE",
+      "city": "GADSDEN",
+      "state": "AL",
+      "zipcode": "35903"
+    },
+    {
+      "id": "010044",
+      "name": "MARION REGIONAL MEDICAL CENTER",
+      "address": "1256 MILITARY STREET SOUTH",
+      "city": "HAMILTON",
+      "state": "AL",
+      "zipcode": "35570"
+    },
+    {
+      "id": "010045",
+      "name": "FAYETTE MEDICAL CENTER",
+      "address": "1653 TEMPLE AVENUE NORTH",
+      "city": "FAYETTE",
+      "state": "AL",
+      "zipcode": "35555"
+    },
+    {
+      "id": "010046",
+      "name": "RIVERVIEW REGIONAL MEDICAL CENTER",
+      "address": "600 SOUTH THIRD STREET",
+      "city": "GADSDEN",
+      "state": "AL",
+      "zipcode": "35901"
+    },
+    {
+      "id": "010049",
+      "name": "MEDICAL CENTER ENTERPRISE",
+      "address": "400 N EDWARDS STREET",
+      "city": "ENTERPRISE",
+      "state": "AL",
+      "zipcode": "36330"
+    },
+    {
+      "id": "010051",
+      "name": "GREENE COUNTY HOSPITAL",
+      "address": "509 WILSON AVENUE",
+      "city": "EUTAW",
+      "state": "AL",
+      "zipcode": "35462"
+    },
+    {
+      "id": "010052",
+      "name": "LAKE MARTIN COMMUNITY HOSPITAL",
+      "address": "201 MARIARDEN ROAD",
+      "city": "DADEVILLE",
+      "state": "AL",
+      "zipcode": "36853"
+    },
+    {
+      "id": "010055",
+      "name": "FLOWERS HOSPITAL",
+      "address": "4370 WEST MAIN STREET",
+      "city": "DOTHAN",
+      "state": "AL",
+      "zipcode": "36305"
+    },
+    {
+      "id": "010056",
+      "name": "ST VINCENT'S BIRMINGHAM",
+      "address": "810 ST VINCENT'S DRIVE",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zipcode": "35205"
+    },
+    {
+      "id": "010058",
+      "name": "BIBB MEDICAL CENTER",
+      "address": "208 PIERSON AVE",
+      "city": "CENTREVILLE",
+      "state": "AL",
+      "zipcode": "35042"
+    },
+    {
+      "id": "010059",
+      "name": "LAWRENCE MEDICAL CENTER",
+      "address": "202 HOSPITAL STREET",
+      "city": "MOULTON",
+      "state": "AL",
+      "zipcode": "35650"
+    },
+    {
+      "id": "010061",
+      "name": "HIGHLANDS MEDICAL CENTER",
+      "address": "380 WOODS COVE ROAD",
+      "city": "SCOTTSBORO",
+      "state": "AL",
+      "zipcode": "35768"
+    },
+    {
+      "id": "010062",
+      "name": "WIREGRASS MEDICAL CENTER",
+      "address": "1200 W MAPLE AVENUE",
+      "city": "GENEVA",
+      "state": "AL",
+      "zipcode": "36340"
+    },
+    {
+      "id": "010065",
+      "name": "RUSSELL MEDICAL CENTER",
+      "address": "3316 HIGHWAY 280",
+      "city": "ALEXANDER CITY",
+      "state": "AL",
+      "zipcode": "35010"
+    },
+    {
+      "id": "010069",
+      "name": "MEDICAL CENTER BARBOUR",
+      "address": "820 W WASHINGTON ST",
+      "city": "EUFAULA",
+      "state": "AL",
+      "zipcode": "36027"
+    },
+    {
+      "id": "010073",
+      "name": "CLAY COUNTY HOSPITAL",
+      "address": "83825 HIGHWAY 9    P O BOX 1270",
+      "city": "ASHLAND",
+      "state": "AL",
+      "zipcode": "36251"
+    },
+    {
+      "id": "010078",
+      "name": "NORTHEAST ALABAMA REGIONAL MEDICAL CENTER",
+      "address": "400 EAST 10TH STREET",
+      "city": "ANNISTON",
+      "state": "AL",
+      "zipcode": "36207"
+    },
+    {
+      "id": "010079",
+      "name": "ATHENS LIMESTONE HOSPITAL",
+      "address": "700 WEST MARKET STREET",
+      "city": "ATHENS",
+      "state": "AL",
+      "zipcode": "35611"
+    },
+    {
+      "id": "010083",
+      "name": "SOUTH BALDWIN REGIONAL MEDICAL CENTER",
+      "address": "1613 NORTH MCKENZIE STREET",
+      "city": "FOLEY",
+      "state": "AL",
+      "zipcode": "36535"
+    },
+    {
+      "id": "010085",
+      "name": "DECATUR MORGAN HOSPITAL-DECATUR CAMPUS",
+      "address": "1201 7TH STREET SE",
+      "city": "DECATUR",
+      "state": "AL",
+      "zipcode": "35601"
+    },
+    {
+      "id": "010086",
+      "name": "NORTHWEST MEDICAL CENTER",
+      "address": "1530 U S HIGHWAY 43",
+      "city": "WINFIELD",
+      "state": "AL",
+      "zipcode": "35594"
+    },
+    {
+      "id": "010087",
+      "name": "USA HEALTH UNIVERSITY HOSPITAL",
+      "address": "2451 FILLINGIM STREET",
+      "city": "MOBILE",
+      "state": "AL",
+      "zipcode": "36617"
+    },
+    {
+      "id": "010089",
+      "name": "WALKER BAPTIST MEDICAL CENTER",
+      "address": "3400 HIGHWAY 78 EAST",
+      "city": "JASPER",
+      "state": "AL",
+      "zipcode": "35502"
+    },
+    {
+      "id": "010090",
+      "name": "PROVIDENCE HOSPITAL",
+      "address": "6801 AIRPORT BOULEVARD",
+      "city": "MOBILE",
+      "state": "AL",
+      "zipcode": "36608"
+    },
+    {
+      "id": "010091",
+      "name": "GROVE HILL MEMORIAL HOSPITAL",
+      "address": "295 JACKSON HWY S",
+      "city": "GROVE HILL",
+      "state": "AL",
+      "zipcode": "36451"
+    },
+    {
+      "id": "010092",
+      "name": "DCH REGIONAL MEDICAL CENTER",
+      "address": "809 UNIVERSITY BOULEVARD EAST",
+      "city": "TUSCALOOSA",
+      "state": "AL",
+      "zipcode": "35401"
+    },
+    {
+      "id": "010095",
+      "name": "HALE COUNTY HOSPITAL",
+      "address": "508 GREEN STREET",
+      "city": "GREENSBORO",
+      "state": "AL",
+      "zipcode": "36744"
+    },
+    {
+      "id": "010097",
+      "name": "ELMORE COMMUNITY HOSPITAL",
+      "address": "500 HOSPITAL DRIVE",
+      "city": "WETUMPKA",
+      "state": "AL",
+      "zipcode": "36092"
+    },
+    {
+      "id": "010099",
+      "name": "D W MCMILLAN MEMORIAL HOSPITAL",
+      "address": "1301 BELLEVILLE AVENUE",
+      "city": "BREWTON",
+      "state": "AL",
+      "zipcode": "36426"
+    },
+    {
+      "id": "010100",
+      "name": "THOMAS HOSPITAL",
+      "address": "750 MORPHY AVENUE",
+      "city": "FAIRHOPE",
+      "state": "AL",
+      "zipcode": "36532"
+    },
+    {
+      "id": "010101",
+      "name": "CITIZENS BAPTIST MEDICAL CENTER",
+      "address": "604 STONE AVENUE",
+      "city": "TALLADEGA",
+      "state": "AL",
+      "zipcode": "35161"
+    },
+    {
+      "id": "010102",
+      "name": "J PAUL JONES HOSPITAL",
+      "address": "317 MCWILLIAMS AVENUE",
+      "city": "CAMDEN",
+      "state": "AL",
+      "zipcode": "36726"
+    },
+    {
+      "id": "010103",
+      "name": "PRINCETON BAPTIST MEDICAL CENTER",
+      "address": "701 PRINCETON AVENUE SOUTHWEST",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zipcode": "35211"
+    },
+    {
+      "id": "010104",
+      "name": "GRANDVIEW MEDICAL CENTER",
+      "address": "3690 GRANDVIEW PARKWAY",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "zipcode": "35243"
+    },
+    {
+      "id": "010108",
+      "name": "PRATTVILLE BAPTIST HOSPITAL",
+      "address": "124 S MEMORIAL DR",
+      "city": "PRATTVILLE",
+      "state": "AL",
+      "zipcode": "36067"
+    },
+    {
+      "id": "010110",
+      "name": "BULLOCK COUNTY HOSPITAL",
+      "address": "102 WEST CONECUH AVENUE",
+      "city": "UNION SPRINGS",
+      "state": "AL",
+      "zipcode": "36089"
+    },
+    {
+      "id": "010112",
+      "name": "WHITFIELD REGIONAL HOSPITAL",
+      "address": "105 HIGHWAY 80 EAST",
+      "city": "DEMOPOLIS",
+      "state": "AL",
+      "zipcode": "36732"
+    },
+    {
+      "id": "010113",
+      "name": "MOBILE INFIRMARY MEDICAL CENTER",
+      "address": "5 MOBILE INFIRMARY CIRCLE",
+      "city": "MOBILE",
+      "state": "AL",
+      "zipcode": "36607"
+    },
+    {
+      "id": "010114",
+      "name": "MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",
+      "address": "5000 MEDICAL WEST WAY",
+      "city": "BESSEMER",
+      "state": "AL",
+      "zipcode": "35022"
+    },
+    {
+      "id": "010118",
+      "name": "VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS",
+      "address": "1015 MEDICAL CENTER PARKWAY",
+      "city": "SELMA",
+      "state": "AL",
+      "zipcode": "36701"
+    },
+    {
+      "id": "010120",
+      "name": "MONROE COUNTY HOSPITAL",
+      "address": "2016 SOUTH ALABAMA AVENUE",
+      "city": "MONROEVILLE",
+      "state": "AL",
+      "zipcode": "36460"
+    },
+    {
+      "id": "010125",
+      "name": "LAKELAND COMMUNITY HOSPITAL",
+      "address": "42024 HIGHWAY 195 E",
+      "city": "HALEYVILLE",
+      "state": "AL",
+      "zipcode": "35565"
+    },
+    {
+      "id": "010126",
+      "name": "TROY REGIONAL MEDICAL CENTER",
+      "address": "1330 HIGHWAY 231 SOUTH",
+      "city": "TROY",
+      "state": "AL",
+      "zipcode": "36081"
+    },
+    {
+      "id": "010128",
+      "name": "JACKSON MEDICAL CENTER",
+      "address": "220 HOSPITAL DRIVE",
+      "city": "JACKSON",
+      "state": "AL",
+      "zipcode": "36545"
+    },
+    {
+      "id": "010129",
+      "name": "NORTH BALDWIN INFIRMARY",
+      "address": "1815 HAND AVENUE",
+      "city": "BAY MINETTE",
+      "state": "AL",
+      "zipcode": "36507"
+    },
+    {
+      "id": "010130",
+      "name": "ST VINCENT'S ST CLAIR",
+      "address": "7063 VETERANS PARKWAY",
+      "city": "PELL CITY",
+      "state": "AL",
+      "zipcode": "35125"
+    },
+    {
+      "id": "010131",
+      "name": "CRESTWOOD MEDICAL CENTER",
+      "address": "ONE HOSPITAL DR SE",
+      "city": "HUNTSVILLE",
+      "state": "AL",
+      "zipcode": "35801"
+    },
+    {
+      "id": "010138",
+      "name": "HILL HOSPITAL OF SUMTER COUNTY",
+      "address": "751 DERBY DRIVE",
+      "city": "YORK",
+      "state": "AL",
+      "zipcode": "36925"
+    },
+    {
+      "id": "010139",
+      "name": "BROOKWOOD BAPTIST MEDICAL CENTER",
+      "address": "1280 COLUMBIANA ROAD STE 102",
+      "city": "VESTAVIA",
+      "state": "AL",
+      "zipcode": "35216"
+    },
+    {
+      "id": "010144",
+      "name": "SPRINGHILL MEMORIAL HOSPITAL",
+      "address": "3719 DAUPHIN STREET",
+      "city": "MOBILE",
+      "state": "AL",
+      "zipcode": "36608"
+    },
+    {
+      "id": "010148",
+      "name": "EVERGREEN MEDICAL CENTER",
+      "address": "101 CRESTVIEW AVENUE",
+      "city": "EVERGREEN",
+      "state": "AL",
+      "zipcode": "36401"
+    },
+    {
+      "id": "010149",
+      "name": "BAPTIST MEDICAL CENTER EAST",
+      "address": "400 TAYLOR ROAD",
+      "city": "MONTGOMERY",
+      "state": "AL",
+      "zipcode": "36117"
+    },
+    {
+      "id": "010150",
+      "name": "REGIONAL MEDICAL CENTER OF CENTRAL ALABAMA",
+      "address": "29 L V STABLER DRIVE",
+      "city": "GREENVILLE",
+      "state": "AL",
+      "zipcode": "36037"
+    },
+    {
+      "id": "010157",
+      "name": "NORTH ALABAMA SHOALS HOSPITAL",
+      "address": "201 WEST AVALON AVENUE",
+      "city": "MUSCLE SHOALS",
+      "state": "AL",
+      "zipcode": "35661"
+    },
+    {
+      "id": "010158",
+      "name": "RUSSELLVILLE HOSPITAL",
+      "address": "15155 HIGHWAY 43",
+      "city": "RUSSELLVILLE",
+      "state": "AL",
+      "zipcode": "35653"
+    },
+    {
+      "id": "010164",
+      "name": "COOSA VALLEY MEDICAL CENTER",
+      "address": "315 W HICKORY ST",
+      "city": "SYLACAUGA",
+      "state": "AL",
+      "zipcode": "35150"
+    },
+    {
+      "id": "010168",
+      "name": "JACK HUGHSTON MEMORIAL HOSPITAL",
+      "address": "4401 RIVER CHASE DRIVE",
+      "city": "PHENIX CITY",
+      "state": "AL",
+      "zipcode": "36867"
+    },
+    {
+      "id": "010169",
+      "name": "ATMORE COMMUNITY HOSPITAL",
+      "address": "401 MEDICAL PARK DRIVE",
+      "city": "ATMORE",
+      "state": "AL",
+      "zipcode": "36502"
+    },
+    {
+      "id": "010173",
+      "name": "ST VINCENT'S CHILTON",
+      "address": "2030 LAY DAM ROAD",
+      "city": "CLANTON",
+      "state": "AL",
+      "zipcode": "35045"
+    },
+    {
+      "id": "010174",
+      "name": "THOMASVILLE REGIONAL MEDICAL CENTER",
+      "address": "300 MED PARK DRIVE",
+      "city": "THOMASVILLE",
+      "state": "AL",
+      "zipcode": "36784"
+    },
+    {
+      "id": "010175",
+      "name": "EAMC - LANIER",
+      "address": "4800 48TH STREET",
+      "city": "VALLEY",
+      "state": "AL",
+      "zipcode": "36854"
+    },
+    {
+      "id": "011300",
+      "name": "WASHINGTON COUNTY HOSPITAL",
+      "address": "14600 ST. STEPHENS AVENUE",
+      "city": "CHATOM",
+      "state": "AL",
+      "zipcode": "36518"
+    },
+    {
+      "id": "011302",
+      "name": "RED BAY HOSPITAL",
+      "address": "211 HOSPITAL ROAD",
+      "city": "RED BAY",
+      "state": "AL",
+      "zipcode": "35582"
+    },
+    {
+      "id": "011304",
+      "name": "OCHSNER CHOCTAW GENERAL",
+      "address": "401 VANITY FAIR LANE, PO BOX 618",
+      "city": "BUTLER",
+      "state": "AL",
+      "zipcode": "36904"
+    },
+    {
+      "id": "011305",
+      "name": "ST VINCENTS BLOUNT",
+      "address": "150 GILBREATH DRIVE",
+      "city": "ONEONTA",
+      "state": "AL",
+      "zipcode": "35121"
+    },
+    {
+      "id": "011306",
+      "name": "TANNER MEDICAL CENTER-EAST ALABAMA",
+      "address": "1032 MAIN STREET SOUTH",
+      "city": "WEDOWEE",
+      "state": "AL",
+      "zipcode": "36278"
+    }
+  ]
+}

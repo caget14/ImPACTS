@@ -1,0 +1,876 @@
+{
+  "hospitals": [
+    {
+      "id": "190002",
+      "name": "OCHSNER LAFAYETTE GENERAL MEDICAL CENTER",
+      "address": "1214 COOLIDGE AVENUE",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "zipcode": "70503"
+    },
+    {
+      "id": "190004",
+      "name": "THIBODAUX REGIONAL MEDICAL CENTER",
+      "address": "602 N ACADIA ROAD",
+      "city": "THIBODAUX",
+      "state": "LA",
+      "zipcode": "70301"
+    },
+    {
+      "id": "190005",
+      "name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS",
+      "address": "2000 CANAL STREET",
+      "city": "NEW ORLEANS",
+      "state": "LA",
+      "zipcode": "70112"
+    },
+    {
+      "id": "190006",
+      "name": "OCHSNER UNIVERSITY HOSPITAL AND CLINICS",
+      "address": "2390 WEST CONGRESS",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "zipcode": "70506"
+    },
+    {
+      "id": "190007",
+      "name": "NATCHITOCHES REGIONAL MEDICAL CENTER",
+      "address": "501 KEYSER AVE",
+      "city": "NATCHITOCHES",
+      "state": "LA",
+      "zipcode": "71457"
+    },
+    {
+      "id": "190008",
+      "name": "TERREBONNE GENERAL HEALTH SYSTEM",
+      "address": "8166 MAIN STREET",
+      "city": "HOUMA",
+      "state": "LA",
+      "zipcode": "70360"
+    },
+    {
+      "id": "190011",
+      "name": "OCHSNER LSU HEALTH MONROE",
+      "address": "4864 JACKSON STREET",
+      "city": "MONROE",
+      "state": "LA",
+      "zipcode": "71202"
+    },
+    {
+      "id": "190013",
+      "name": "WEST CALCASIEU CAMERON HOSPITAL",
+      "address": "701 EAST CYPRESS STREET",
+      "city": "SULPHUR",
+      "state": "LA",
+      "zipcode": "70663"
+    },
+    {
+      "id": "190014",
+      "name": "OCHSNER ST MARY",
+      "address": "1125 MARGUERITE STREET",
+      "city": "MORGAN CITY",
+      "state": "LA",
+      "zipcode": "70380"
+    },
+    {
+      "id": "190015",
+      "name": "NORTH OAKS MEDICAL CENTER, L L C",
+      "address": "15790 PAUL VEGA MD DRIVE",
+      "city": "HAMMOND",
+      "state": "LA",
+      "zipcode": "70403"
+    },
+    {
+      "id": "190017",
+      "name": "OPELOUSAS GENERAL HEALTH SYSTEM",
+      "address": "539 EAST PRUDHOMME STREET",
+      "city": "OPELOUSAS",
+      "state": "LA",
+      "zipcode": "70570"
+    },
+    {
+      "id": "190019",
+      "name": "CHRISTUS ST FRANCES CABRINI HOSPITAL",
+      "address": "3330 MASONIC DRIVE",
+      "city": "ALEXANDRIA",
+      "state": "LA",
+      "zipcode": "71301"
+    },
+    {
+      "id": "190020",
+      "name": "LANE REGIONAL MEDICAL CENTER",
+      "address": "6300 MAIN STREET",
+      "city": "ZACHARY",
+      "state": "LA",
+      "zipcode": "70791"
+    },
+    {
+      "id": "190025",
+      "name": "SAVOY MEDICAL CENTER",
+      "address": "801 POINCIANA AVENUE",
+      "city": "MAMOU",
+      "state": "LA",
+      "zipcode": "70554"
+    },
+    {
+      "id": "190026",
+      "name": "RAPIDES REGIONAL MEDICAL CENTER",
+      "address": "211 4TH STREET",
+      "city": "ALEXANDRIA",
+      "state": "LA",
+      "zipcode": "71301"
+    },
+    {
+      "id": "190027",
+      "name": "CHRISTUS OCHSNER ST PATRICK HOSPITAL",
+      "address": "524 DR MICHAEL DEBAKEY DRIVE",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "zipcode": "70601"
+    },
+    {
+      "id": "190034",
+      "name": "ABBEVILLE GENERAL HOSPITAL",
+      "address": "118 N HOSPITAL DR",
+      "city": "ABBEVILLE",
+      "state": "LA",
+      "zipcode": "70510"
+    },
+    {
+      "id": "190036",
+      "name": "OCHSNER MEDICAL CENTER",
+      "address": "1516 JEFFERSON HWY",
+      "city": "NEW ORLEANS",
+      "state": "LA",
+      "zipcode": "70121"
+    },
+    {
+      "id": "190039",
+      "name": "WEST JEFFERSON MEDICAL CENTER",
+      "address": "1101 MEDICAL CENTER BLVD",
+      "city": "MARRERO",
+      "state": "LA",
+      "zipcode": "70072"
+    },
+    {
+      "id": "190040",
+      "name": "SLIDELL MEMORIAL HOSPITAL",
+      "address": "1001 GAUSE BLVD",
+      "city": "SLIDELL",
+      "state": "LA",
+      "zipcode": "70458"
+    },
+    {
+      "id": "190041",
+      "name": "CHRISTUS SHREVEPORT-BOSSIER HEALTH SYSTEM",
+      "address": "1453 E BERT KOUNS INDUSTRIAL LOOP",
+      "city": "SHREVEPORT",
+      "state": "LA",
+      "zipcode": "71105"
+    },
+    {
+      "id": "190044",
+      "name": "OCHSNER ACADIA GENERAL HOSPITAL",
+      "address": "1305 CROWLEY RAYNE HIGHWAY",
+      "city": "CROWLEY",
+      "state": "LA",
+      "zipcode": "70526"
+    },
+    {
+      "id": "190045",
+      "name": "ST TAMMANY PARISH HOSPITAL",
+      "address": "1202 S TYLER STREET",
+      "city": "COVINGTON",
+      "state": "LA",
+      "zipcode": "70433"
+    },
+    {
+      "id": "190046",
+      "name": "TOURO INFIRMARY",
+      "address": "1401 FOUCHER STREET",
+      "city": "NEW ORLEANS",
+      "state": "LA",
+      "zipcode": "70115"
+    },
+    {
+      "id": "190050",
+      "name": "BEAUREGARD MEMORIAL HOSPITAL",
+      "address": "600 S PINE STREET",
+      "city": "DERIDDER",
+      "state": "LA",
+      "zipcode": "70634"
+    },
+    {
+      "id": "190053",
+      "name": "OCHSNER AMERICAN LEGION HOSPITAL",
+      "address": "1634 ELTON ROAD",
+      "city": "JENNINGS",
+      "state": "LA",
+      "zipcode": "70546"
+    },
+    {
+      "id": "190054",
+      "name": "IBERIA MEDICAL CENTER",
+      "address": "2315 E MAIN STREET",
+      "city": "NEW IBERIA",
+      "state": "LA",
+      "zipcode": "70562"
+    },
+    {
+      "id": "190060",
+      "name": "LAKE CHARLES MEMORIAL HOSPITAL",
+      "address": "1701 OAK PARK BLVD",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "zipcode": "70601"
+    },
+    {
+      "id": "190064",
+      "name": "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER",
+      "address": "5000 HENNESSY BLVD",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70808"
+    },
+    {
+      "id": "190065",
+      "name": "BATON ROUGE GENERAL MEDICAL CENTER",
+      "address": "8585 PICARDY AVE",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70809"
+    },
+    {
+      "id": "190079",
+      "name": "ST CHARLES PARISH HOSPITAL",
+      "address": "1057 PAUL MAILLARD ROAD",
+      "city": "LULING",
+      "state": "LA",
+      "zipcode": "70070"
+    },
+    {
+      "id": "190086",
+      "name": "NORTHERN LOUISIANA MEDICAL CENTER",
+      "address": "401 EAST VAUGHN AVENUE",
+      "city": "RUSTON",
+      "state": "LA",
+      "zipcode": "71270"
+    },
+    {
+      "id": "190088",
+      "name": "SPRINGHILL MEDICAL CENTER",
+      "address": "2001 DOCTORS DRIVE",
+      "city": "SPRINGHILL",
+      "state": "LA",
+      "zipcode": "71075"
+    },
+    {
+      "id": "190090",
+      "name": "WINN PARISH MEDICAL CENTER",
+      "address": "301 W BOUNDARY AVE",
+      "city": "WINNFIELD",
+      "state": "LA",
+      "zipcode": "71483"
+    },
+    {
+      "id": "190098",
+      "name": "OCHSNER LSU HEALTH SHREVEPORT",
+      "address": "1541 KINGS HIGHWAY",
+      "city": "SHREVEPORT",
+      "state": "LA",
+      "zipcode": "71103"
+    },
+    {
+      "id": "190099",
+      "name": "AVOYELLES HOSPITAL",
+      "address": "4231 HIGHWAY 1192",
+      "city": "MARKSVILLE",
+      "state": "LA",
+      "zipcode": "71351"
+    },
+    {
+      "id": "190102",
+      "name": "OUR LADY OF LOURDES REGIONAL MEDICAL CENTER, INC",
+      "address": "4801 AMBASSADOR CAFFERY PARKWAY",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "zipcode": "70508"
+    },
+    {
+      "id": "190106",
+      "name": "OAKDALE COMMUNITY HOSPITAL",
+      "address": "130 N HOSPITAL DR",
+      "city": "OAKDALE",
+      "state": "LA",
+      "zipcode": "71463"
+    },
+    {
+      "id": "190111",
+      "name": "WILLIS KNIGHTON MEDICAL CENTER, INC",
+      "address": "2600 GREENWOOD ROAD",
+      "city": "SHREVEPORT",
+      "state": "LA",
+      "zipcode": "71103"
+    },
+    {
+      "id": "190114",
+      "name": "CLAIBORNE MEMORIAL MEDICAL CENTER",
+      "address": "620 EAST COLLEGE STREET",
+      "city": "HOMER",
+      "state": "LA",
+      "zipcode": "71040"
+    },
+    {
+      "id": "190116",
+      "name": "MOREHOUSE GENERAL HOSPITAL",
+      "address": "323 W WALNUT",
+      "city": "BASTROP",
+      "state": "LA",
+      "zipcode": "71220"
+    },
+    {
+      "id": "190118",
+      "name": "DESOTO REGIONAL HEALTH SYSTEM",
+      "address": "207 JEFFERSON STREET",
+      "city": "MANSFIELD",
+      "state": "LA",
+      "zipcode": "71052"
+    },
+    {
+      "id": "190125",
+      "name": "ST FRANCIS MEDICAL CENTER",
+      "address": "309 JACKSON STREET",
+      "city": "MONROE",
+      "state": "LA",
+      "zipcode": "71201"
+    },
+    {
+      "id": "190128",
+      "name": "WOMANS HOSPITAL",
+      "address": "100 WOMAN'S WAY",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70817"
+    },
+    {
+      "id": "190133",
+      "name": "ALLEN PARISH HOSPITAL",
+      "address": "108 6TH AVENUE",
+      "city": "KINDER",
+      "state": "LA",
+      "zipcode": "70648"
+    },
+    {
+      "id": "190140",
+      "name": "FRANKLIN MEDICAL CENTER",
+      "address": "2106 LOOP ROAD",
+      "city": "WINNSBORO",
+      "state": "LA",
+      "zipcode": "71295"
+    },
+    {
+      "id": "190144",
+      "name": "MINDEN MEDICAL CENTER",
+      "address": "NO 1 MEDICAL PLAZA",
+      "city": "MINDEN",
+      "state": "LA",
+      "zipcode": "71055"
+    },
+    {
+      "id": "190145",
+      "name": "LASALLE GENERAL HOSPITAL",
+      "address": "187 NINTH ST/HWY 84 WEST",
+      "city": "JENA",
+      "state": "LA",
+      "zipcode": "71342"
+    },
+    {
+      "id": "190151",
+      "name": "RICHARDSON MEDICAL CENTER",
+      "address": "254 HIGHWAY 3048",
+      "city": "RAYVILLE",
+      "state": "LA",
+      "zipcode": "71269"
+    },
+    {
+      "id": "190160",
+      "name": "GLENWOOD REGIONAL MEDICAL CENTER",
+      "address": "503 MCMILLAN ROAD",
+      "city": "WEST MONROE",
+      "state": "LA",
+      "zipcode": "71291"
+    },
+    {
+      "id": "190164",
+      "name": "BYRD REGIONAL HOSPITAL",
+      "address": "1020 FERTITTA BLVD",
+      "city": "LEESVILLE",
+      "state": "LA",
+      "zipcode": "71446"
+    },
+    {
+      "id": "190167",
+      "name": "MERCY REGIONAL MEDICAL CENTER",
+      "address": "800 E MAIN",
+      "city": "VILLE PLATTE",
+      "state": "LA",
+      "zipcode": "70586"
+    },
+    {
+      "id": "190176",
+      "name": "EAST JEFFERSON GENERAL HOSPITAL",
+      "address": "4200 HOUMA BLVD",
+      "city": "METAIRIE",
+      "state": "LA",
+      "zipcode": "70006"
+    },
+    {
+      "id": "190183",
+      "name": "LEONARD J CHABERT MEDICAL CENTER",
+      "address": "1978 INDUSTRIAL BLVD",
+      "city": "HOUMA",
+      "state": "LA",
+      "zipcode": "70363"
+    },
+    {
+      "id": "190184",
+      "name": "CITIZENS MEDICAL CENTER",
+      "address": "7939 U S HWY 165 SOUTH",
+      "city": "COLUMBIA",
+      "state": "LA",
+      "zipcode": "71418"
+    },
+    {
+      "id": "190190",
+      "name": "CALDWELL MEMORIAL HOSPITAL, INC",
+      "address": "411 MAIN STREET",
+      "city": "COLUMBIA",
+      "state": "LA",
+      "zipcode": "71418"
+    },
+    {
+      "id": "190201",
+      "name": "CHRISTUS OCHSNER LAKE AREA HOSPITAL",
+      "address": "4200 NELSON ROAD",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "zipcode": "70605"
+    },
+    {
+      "id": "190202",
+      "name": "OCHSNER MEDICAL CENTER - BATON ROUGE",
+      "address": "17000 MEDICAL CENTER DR",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70816"
+    },
+    {
+      "id": "190208",
+      "name": "EAST CARROLL PARISH HOSPITAL",
+      "address": "336 NORTH HOOD STREET",
+      "city": "LAKE PROVIDENCE",
+      "state": "LA",
+      "zipcode": "71254"
+    },
+    {
+      "id": "190218",
+      "name": "SABINE MEDICAL CENTER",
+      "address": "240 HIGHLAND DRIVE",
+      "city": "MANY",
+      "state": "LA",
+      "zipcode": "71449"
+    },
+    {
+      "id": "190241",
+      "name": "PHYSICIANS MEDICAL CENTER",
+      "address": "218 CORPORATE DRIVE",
+      "city": "HOUMA",
+      "state": "LA",
+      "zipcode": "70360"
+    },
+    {
+      "id": "190245",
+      "name": "MONROE SURGICAL HOSPITAL",
+      "address": "2408 BROADMOOR BLVD",
+      "city": "MONROE",
+      "state": "LA",
+      "zipcode": "71201"
+    },
+    {
+      "id": "190251",
+      "name": "SURGICAL SPECIALTY CENTER OF BATON ROUGE",
+      "address": "8080 BLUEBONNET BLVD",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70810"
+    },
+    {
+      "id": "190255",
+      "name": "PARK PLACE SURGICAL HOSPITAL",
+      "address": "4811 AMBASSADOR CAFFERY PARKWAY",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "zipcode": "70508"
+    },
+    {
+      "id": "190256",
+      "name": "STERLING SURGICAL HOSPITAL",
+      "address": "989 ROBERT BLVD",
+      "city": "SLIDELL",
+      "state": "LA",
+      "zipcode": "70458"
+    },
+    {
+      "id": "190259",
+      "name": "LAFAYETTE SURGICAL SPECIALTY HOSPITAL",
+      "address": "1101 KALISTE SALOOM RD",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "zipcode": "70508"
+    },
+    {
+      "id": "190266",
+      "name": "THE SPINE HOSPITAL OF LOUISIANA",
+      "address": "10105 PARK ROW CIRCLE, SUITE 250",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70810"
+    },
+    {
+      "id": "190267",
+      "name": "AVALA",
+      "address": "67252 INDUSTRY LANE",
+      "city": "COVINGTON",
+      "state": "LA",
+      "zipcode": "70433"
+    },
+    {
+      "id": "190270",
+      "name": "OUR LADY OF THE LAKE SURGICAL HOSPITAL",
+      "address": "1700 W LINDBERG DRIVE",
+      "city": "SLIDELL",
+      "state": "LA",
+      "zipcode": "70458"
+    },
+    {
+      "id": "190274",
+      "name": "OCHSNER MEDICAL CENTER-KENNER",
+      "address": "180 WEST ESPLANADE AVENUE",
+      "city": "KENNER",
+      "state": "LA",
+      "zipcode": "70065"
+    },
+    {
+      "id": "190278",
+      "name": "SPECIALISTS HOSPITAL SHREVEPORT",
+      "address": "1500 LINE AVENUE",
+      "city": "SHREVEPORT",
+      "state": "LA",
+      "zipcode": "71101"
+    },
+    {
+      "id": "190298",
+      "name": "CHRISTUS CENTRAL LOUISIANA SURGICAL HOSPITAL",
+      "address": "651 NORTH BOLTON AVE",
+      "city": "ALEXANDRIA",
+      "state": "LA",
+      "zipcode": "71301"
+    },
+    {
+      "id": "190300",
+      "name": "ST CHARLES SURGICAL HOSPITAL, LLC",
+      "address": "1717 ST CHARLES AVE",
+      "city": "NEW ORLEANS",
+      "state": "LA",
+      "zipcode": "70130"
+    },
+    {
+      "id": "190302",
+      "name": "OMEGA HOSPITAL, LLC",
+      "address": "2525 SEVERN AVENUE",
+      "city": "METAIRIE",
+      "state": "LA",
+      "zipcode": "70002"
+    },
+    {
+      "id": "190303",
+      "name": "CYPRESS POINTE SURGICAL HOSPITAL",
+      "address": "42570 SOUTH AIRPORT RD",
+      "city": "HAMMOND",
+      "state": "LA",
+      "zipcode": "70403"
+    },
+    {
+      "id": "190308",
+      "name": "ST BERNARD PARISH HOSPITAL",
+      "address": "8000 WEST JUDGE PEREZ DRIVE",
+      "city": "CHALMETTE",
+      "state": "LA",
+      "zipcode": "70043"
+    },
+    {
+      "id": "190312",
+      "name": "OUR LADY OF THE ANGELS HOSPITAL",
+      "address": "433 PLAZA STREET",
+      "city": "BOGALUSA",
+      "state": "LA",
+      "zipcode": "70427"
+    },
+    {
+      "id": "190313",
+      "name": "NEW ORLEANS EAST HOSPITAL",
+      "address": "5620 READ BLVD",
+      "city": "NEW ORLEANS",
+      "state": "LA",
+      "zipcode": "70127"
+    },
+    {
+      "id": "190316",
+      "name": "THE GENERAL",
+      "address": "3600 FLORIDA BLVD, SUITE 2020",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "zipcode": "70806"
+    },
+    {
+      "id": "190317",
+      "name": "OCHSNER LSU HEALTH SHREVEPORT-ST MARY MEDICAL CENT",
+      "address": "911 MARGARET PLACE",
+      "city": "SHREVEPORT",
+      "state": "LA",
+      "zipcode": "71101"
+    },
+    {
+      "id": "190318",
+      "name": "ACADIAN MEDICAL CENTER",
+      "address": "3501 HIGHWAY 190 EAST",
+      "city": "EUNICE",
+      "state": "LA",
+      "zipcode": "70535"
+    },
+    {
+      "id": "190779",
+      "name": "ASSUMPTION COMMUNITY HOSPITAL",
+      "address": "135 HIGHWAY 402",
+      "city": "NAPOLEONVILLE",
+      "state": "LA",
+      "zipcode": "70390"
+    },
+    {
+      "id": "191300",
+      "name": "ST HELENA PARISH HOSPITAL",
+      "address": "16874 HIGHWAY 43",
+      "city": "GREENSBURG",
+      "state": "LA",
+      "zipcode": "70441"
+    },
+    {
+      "id": "191301",
+      "name": "UNION GENERAL HOSPITAL",
+      "address": "901 JAMES AVE",
+      "city": "FARMERVILLE",
+      "state": "LA",
+      "zipcode": "71241"
+    },
+    {
+      "id": "191302",
+      "name": "OCHSNER ST MARTIN HOSPITAL",
+      "address": "210 CHAMPAGNE BOULEVARD",
+      "city": "BREAUX BRIDGE",
+      "state": "LA",
+      "zipcode": "70517"
+    },
+    {
+      "id": "191304",
+      "name": "NORTH CADDO MEDICAL CENTER",
+      "address": "815 SOUTH PINE STREET",
+      "city": "VIVIAN",
+      "state": "LA",
+      "zipcode": "71082"
+    },
+    {
+      "id": "191305",
+      "name": "ST JAMES PARISH HOSPITAL",
+      "address": "1645 LUTCHER AVENUE",
+      "city": "LUTCHER",
+      "state": "LA",
+      "zipcode": "70071"
+    },
+    {
+      "id": "191306",
+      "name": "WEST FELICIANA PARISH HOSPITAL",
+      "address": "5266 COMMERCE STREET, BUILDING B",
+      "city": "SAINT FRANCISVILLE",
+      "state": "LA",
+      "zipcode": "70775"
+    },
+    {
+      "id": "191307",
+      "name": "DEQUINCY MEMORIAL HOSPITAL",
+      "address": "110 WEST 4TH STREET",
+      "city": "DEQUINCY",
+      "state": "LA",
+      "zipcode": "70633"
+    },
+    {
+      "id": "191308",
+      "name": "PREVOST MEMORIAL HOSPITAL",
+      "address": "301 MEMORIAL DR",
+      "city": "DONALDSONVILLE",
+      "state": "LA",
+      "zipcode": "70346"
+    },
+    {
+      "id": "191309",
+      "name": "HOOD MEMORIAL HOSPITAL",
+      "address": "301 W WALNUT STREET",
+      "city": "AMITE",
+      "state": "LA",
+      "zipcode": "70422"
+    },
+    {
+      "id": "191310",
+      "name": "BAYOU BEND HEALTH SYSTEM",
+      "address": "1097 NORTHWEST BLVD",
+      "city": "FRANKLIN",
+      "state": "LA",
+      "zipcode": "70538"
+    },
+    {
+      "id": "191311",
+      "name": "BUNKIE GENERAL HOSPITAL",
+      "address": "427 EVERGREEN STREET",
+      "city": "BUNKIE",
+      "state": "LA",
+      "zipcode": "71322"
+    },
+    {
+      "id": "191312",
+      "name": "CHRISTUS COUSHATTA HEALTH CARE CENTER",
+      "address": "1635 MARVEL STREET",
+      "city": "COUSHATTA",
+      "state": "LA",
+      "zipcode": "71019"
+    },
+    {
+      "id": "191313",
+      "name": "RIVERSIDE MEDICAL CENTER",
+      "address": "1900 SOUTH MAIN ST",
+      "city": "FRANKLINTON",
+      "state": "LA",
+      "zipcode": "70438"
+    },
+    {
+      "id": "191314",
+      "name": "MADISON PARISH HOSPITAL",
+      "address": "900 JOHNSON STREET",
+      "city": "TALLULAH",
+      "state": "LA",
+      "zipcode": "71282"
+    },
+    {
+      "id": "191315",
+      "name": "HARDTNER MEDICAL CENTER",
+      "address": "1102 N PINE ROAD",
+      "city": "OLLA",
+      "state": "LA",
+      "zipcode": "71465"
+    },
+    {
+      "id": "191316",
+      "name": "POINTE COUPEE GENERAL HOSPITAL",
+      "address": "2202 FALSE RIVER DRIVE",
+      "city": "NEW ROADS",
+      "state": "LA",
+      "zipcode": "70760"
+    },
+    {
+      "id": "191317",
+      "name": "JACKSON PARISH HOSPITAL",
+      "address": "165 BEECH SPRINGS ROAD",
+      "city": "JONESBORO",
+      "state": "LA",
+      "zipcode": "71251"
+    },
+    {
+      "id": "191318",
+      "name": "TRINITY MEDICAL",
+      "address": "6569 HWY 84",
+      "city": "FERRIDAY",
+      "state": "LA",
+      "zipcode": "71334"
+    },
+    {
+      "id": "191319",
+      "name": "ACADIA ST LANDRY",
+      "address": "810 SOUTH BROADWAY STREET",
+      "city": "CHURCH POINT",
+      "state": "LA",
+      "zipcode": "70525"
+    },
+    {
+      "id": "191320",
+      "name": "BIENVILLE MEDICAL CENTER",
+      "address": "1175 PINE STREET",
+      "city": "ARCADIA",
+      "state": "LA",
+      "zipcode": "71001"
+    },
+    {
+      "id": "191321",
+      "name": "LALLIE KEMP MEDICAL CENTER",
+      "address": "52579 HIGHWAY 51 SOUTH",
+      "city": "INDEPENDENCE",
+      "state": "LA",
+      "zipcode": "70443"
+    },
+    {
+      "id": "191322",
+      "name": "OCHSNER ABROM KAPLAN MEMORIAL HOSPITAL",
+      "address": "1310 WEST SEVENTH STREET",
+      "city": "KAPLAN",
+      "state": "LA",
+      "zipcode": "70548"
+    },
+    {
+      "id": "191323",
+      "name": "RICHLAND PARISH HOSPITAL-DELHI",
+      "address": "407 CINCINNATI STREET",
+      "city": "DELHI",
+      "state": "LA",
+      "zipcode": "71232"
+    },
+    {
+      "id": "191324",
+      "name": "OCHSNER ST ANNE GENERAL HOSPITAL",
+      "address": "4608 HIGHWAY 1",
+      "city": "RACELAND",
+      "state": "LA",
+      "zipcode": "70394"
+    },
+    {
+      "id": "191325",
+      "name": "LADY OF THE SEA GENERAL HOSPITAL",
+      "address": "200 WEST 134TH PLACE",
+      "city": "CUT OFF",
+      "state": "LA",
+      "zipcode": "70345"
+    },
+    {
+      "id": "191326",
+      "name": "REEVES MEMORIAL MEDICAL CENTER",
+      "address": "409 FIRST STREET",
+      "city": "BERNICE",
+      "state": "LA",
+      "zipcode": "71222"
+    },
+    {
+      "id": "191327",
+      "name": "WEST CARROLL MEMORIAL HOSPITAL",
+      "address": "706 ROSS STREET",
+      "city": "OAK GROVE",
+      "state": "LA",
+      "zipcode": "71263"
+    }
+  ]
+}

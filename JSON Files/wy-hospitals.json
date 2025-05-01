@@ -1,0 +1,220 @@
+{
+  "hospitals": [
+    {
+      "id": "530002",
+      "name": "CAMPBELL COUNTY MEMORIAL HOSPITAL",
+      "address": "501 SOUTH BURMA AVENUE",
+      "city": "GILLETTE",
+      "state": "WY",
+      "zipcode": "82716"
+    },
+    {
+      "id": "530006",
+      "name": "SHERIDAN MEMORIAL HOSPITAL",
+      "address": "1401 W 5TH ST",
+      "city": "SHERIDAN",
+      "state": "WY",
+      "zipcode": "82801"
+    },
+    {
+      "id": "530008",
+      "name": "SAGEWEST HEALTH CARE",
+      "address": "2100 W SUNSET DR",
+      "city": "RIVERTON",
+      "state": "WY",
+      "zipcode": "82501"
+    },
+    {
+      "id": "530011",
+      "name": "MEMORIAL HOSPITAL SWEETWATER COUNTY",
+      "address": "1200 COLLEGE DRIVE",
+      "city": "ROCK SPRINGS",
+      "state": "WY",
+      "zipcode": "82901"
+    },
+    {
+      "id": "530012",
+      "name": "WYOMING MEDICAL CENTER",
+      "address": "1233 EAST 2ND ST",
+      "city": "CASPER",
+      "state": "WY",
+      "zipcode": "82601"
+    },
+    {
+      "id": "530014",
+      "name": "CHEYENNE REGIONAL MEDICAL CENTER",
+      "address": "214 EAST 23RD STREET",
+      "city": "CHEYENNE",
+      "state": "WY",
+      "zipcode": "82001"
+    },
+    {
+      "id": "530015",
+      "name": "ST JOHNS MEDICAL CENTER",
+      "address": "625 EAST BROADWAY",
+      "city": "JACKSON",
+      "state": "WY",
+      "zipcode": "83001"
+    },
+    {
+      "id": "530025",
+      "name": "IVINSON MEMORIAL HOSPITAL",
+      "address": "255 N 30TH",
+      "city": "LARAMIE",
+      "state": "WY",
+      "zipcode": "82072"
+    },
+    {
+      "id": "530032",
+      "name": "EVANSTON REGIONAL HOSPITAL",
+      "address": "190 ARROWHEAD DR",
+      "city": "EVANSTON",
+      "state": "WY",
+      "zipcode": "82930"
+    },
+    {
+      "id": "530034",
+      "name": "SUMMIT MEDICAL CENTER",
+      "address": "6350 E 2ND STREET",
+      "city": "CASPER",
+      "state": "WY",
+      "zipcode": "82609"
+    },
+    {
+      "id": "530037",
+      "name": "NORTH PLATTE VALLEY MEDICAL CENTER",
+      "address": "1300 WEST BRIDGE AVE",
+      "city": "SARATOGA",
+      "state": "WY",
+      "zipcode": "82331"
+    },
+    {
+      "id": "531301",
+      "name": "SOUTH BIG HORN COUNTY CRITICAL ACCESS HOSPITAL",
+      "address": "388 US HIGHWAY 20 SOUTH",
+      "city": "BASIN",
+      "state": "WY",
+      "zipcode": "82410"
+    },
+    {
+      "id": "531302",
+      "name": "MEMORIAL HOSPITAL OF CONVERSE COUNTY",
+      "address": "111 SOUTH 5TH STREET",
+      "city": "DOUGLAS",
+      "state": "WY",
+      "zipcode": "82633"
+    },
+    {
+      "id": "531303",
+      "name": "WESTON COUNTY HEALTH SERVICES",
+      "address": "1124 WASHINGTON BOULEVARD",
+      "city": "NEWCASTLE",
+      "state": "WY",
+      "zipcode": "82701"
+    },
+    {
+      "id": "531304",
+      "name": "HOT SPRINGS COUNTY MEMORIAL HOSPITAL",
+      "address": "150 EAST ARAPAHOE",
+      "city": "THERMOPOLIS",
+      "state": "WY",
+      "zipcode": "82443"
+    },
+    {
+      "id": "531305",
+      "name": "PLATTE COUNTY MEMORIAL HOSPITAL",
+      "address": "201 14TH STREET",
+      "city": "WHEATLAND",
+      "state": "WY",
+      "zipcode": "82201"
+    },
+    {
+      "id": "531306",
+      "name": "WASHAKIE MEDICAL CENTER",
+      "address": "400 SOUTH 15TH STREET",
+      "city": "WORLAND",
+      "state": "WY",
+      "zipcode": "82401"
+    },
+    {
+      "id": "531307",
+      "name": "COMMUNITY HOSPITAL",
+      "address": "2000 CAMPBELL DRIVE",
+      "city": "TORRINGTON",
+      "state": "WY",
+      "zipcode": "82240"
+    },
+    {
+      "id": "531308",
+      "name": "JOHNSON COUNTY HEALTHCARE CENTER",
+      "address": "497 WEST LOTT",
+      "city": "BUFFALO",
+      "state": "WY",
+      "zipcode": "82834"
+    },
+    {
+      "id": "531309",
+      "name": "NORTH BIG HORN HOSPITAL DISTRICT",
+      "address": "1115 LANE 12",
+      "city": "LOVELL",
+      "state": "WY",
+      "zipcode": "82431"
+    },
+    {
+      "id": "531310",
+      "name": "POWELL VALLEY HOSPITAL",
+      "address": "777 AVENUE H",
+      "city": "POWELL",
+      "state": "WY",
+      "zipcode": "82435"
+    },
+    {
+      "id": "531311",
+      "name": "CROOK COUNTY HOSPITAL",
+      "address": "713 OAK STREET",
+      "city": "SUNDANCE",
+      "state": "WY",
+      "zipcode": "82729"
+    },
+    {
+      "id": "531312",
+      "name": "CODY REGIONAL HEALTH",
+      "address": "707 SHERIDAN AVENUE",
+      "city": "CODY",
+      "state": "WY",
+      "zipcode": "82414"
+    },
+    {
+      "id": "531313",
+      "name": "STAR VALLEY HEALTH",
+      "address": "901 ADAMS STREET",
+      "city": "AFTON",
+      "state": "WY",
+      "zipcode": "83110"
+    },
+    {
+      "id": "531314",
+      "name": "NIOBRARA HEALTH & LIFE CENTER",
+      "address": "921 SOUTH BALLANCEE AVENUE",
+      "city": "LUSK",
+      "state": "WY",
+      "zipcode": "82225"
+    },
+    {
+      "id": "531315",
+      "name": "SOUTH LINCOLN MEDICAL CENTER - CAH",
+      "address": "711 ONYX STREET",
+      "city": "KEMMERER",
+      "state": "WY",
+      "zipcode": "83101"
+    },
+    {
+      "id": "531316",
+      "name": "MEMORIAL HOSPITAL OF CARBON COUNTY",
+      "address": "2221 WEST ELM STREET",
+      "city": "RAWLINS",
+      "state": "WY",
+      "zipcode": "82301"
+    }
+  ]
+}
